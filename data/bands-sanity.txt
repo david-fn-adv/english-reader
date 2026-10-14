@@ -1,0 +1,12 @@
+dropped: {'non-alpha': 568, 'short': 459, 'no vowel': 153, 'not in cmudict': 529, 'proper noun': 809}
+proper-noun drops (first 80): john london america david china michael washington australia europe paul california jesus canada san france russia africa japan smith texas william google robert thomas chicago louis paris chris usa joe los mary israel florida mexico lee harry johnson steve ben boston jersey max asia korea sam bob alex daniel iran jim virginia ohio don kim ryan spain jackson adam andrew clinton kevin pakistan michigan hong carolina edward joseph dan jordan tim stephen bush davis eric toronto sarah simon elizabeth miami
+band  1  n=1000  help ground section association fan than unite man record allow self rest title reason peace full really strong so definitely
+band  2  n=1000  assistance file wine era mayor selection lack determine mountain adult bird seek fund perform crying agency bottle fifth marriage competition
+band  3  n=1000  origin amendment mum deputy ukraine pretend gross currency contemporary laboratory legend automatic plate deck gallery banking tape jane whereas monster
+band  4  n=1000  casual realise adoption guardian maker convert mud bitcoin cheer cape explosion swift activist buck breach heating reliable pit compound treasure
+band  5  n=1000  wick continent distinction criticize rainbow kitty void quebec stark echo caution mandate buzz ignorance nicole referendum congrats musician flame assess
+band  6  n=1000  liable tolerate niche horizontal bra louisville lakers anthem midst comp conscience chrome unconscious seventeen judgement danish glow pointless terrifying pasta
+band  7  n=1000  connor subsidy twitch rom payroll finite cautious sinking swinging logging queue bot screenshot persuade traction frightened grandchildren bomber lowering eligibility
+band  8  n=1000  ashton gin damon psychiatrist reddit approximate statistically peculiar mattress moist creditors infrared indirectly sidewalk val troll gothic rebuilding commercially polymer
+band  9  n=1000  budapest condolences infringement sinister tease emerald ulster amelia judaism forrest gaga meltdown regina gimme tango waterproof youngster diver pam lennon
+band 10  n=1000  yates restrain sutherland elusive puberty byrne hee pilgrim cameroon illuminate goalie pilgrimage tandem perennial slit mitigate brushing breadth benign reconcile

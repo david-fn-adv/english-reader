@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kiểm tra vốn từ</title>
+<style>
+  :root{
+    --ink:#17181C; --ink2:#5E636C; --ink3:#9AA0A8;
+    --field:#ECEDF0; --paper:#FFFFFF; --rule:#DFE1E6;
+    --accent:#1F4E99; --accent-soft:#E7EEF8; --on-accent:#FFFFFF;
+    --no:#5E636C; --no-soft:#EEEFF2;
+    --warn:#9C4A10; --warn-soft:#FBEEDF;
+    --ok:#1E6B45; --bar:#1F4E99; --bar-weak:#A9BCD9; --grid:#E3E5E9;
+    --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,"Helvetica Neue",sans-serif;
+    --serif:"Iowan Old Style","Charter","Georgia","Times New Roman",serif;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ink:#E9E7E3; --ink2:#A4A8AF; --ink3:#73787F;
+      --field:#111214; --paper:#1A1C20; --rule:#2C2F35;
+      --accent:#7FA8EC; --accent-soft:#1A2638; --on-accent:#0E1116;
+      --no:#A4A8AF; --no-soft:#24272C;
+      --warn:#E5A261; --warn-soft:#3A2A19;
+      --ok:#6CC69A; --bar:#7FA8EC; --bar-weak:#3B4F70; --grid:#2C2F35;
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#E9E7E3; --ink2:#A4A8AF; --ink3:#73787F;
+    --field:#111214; --paper:#1A1C20; --rule:#2C2F35;
+    --accent:#7FA8EC; --accent-soft:#1A2638; --on-accent:#0E1116;
+    --no:#A4A8AF; --no-soft:#24272C;
+    --warn:#E5A261; --warn-soft:#3A2A19;
+    --ok:#6CC69A; --bar:#7FA8EC; --bar-weak:#3B4F70; --grid:#2C2F35;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0;height:100%}
+  body{background:var(--field);color:var(--ink);font-family:var(--ui);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  button{font:inherit;color:inherit;touch-action:manipulation;cursor:pointer}
+  .screen{display:none;min-height:100%;max-width:560px;margin:0 auto;padding:0 16px}
+  .screen.on{display:flex;flex-direction:column}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink3)}
+
+  /* intro */
+  #intro{justify-content:center;padding-top:32px;padding-bottom:32px}
+  .card{background:var(--paper);border:1px solid var(--rule);border-radius:14px;padding:24px 20px}
+  h1{font-family:var(--ui);font-size:28px;line-height:1.2;margin:8px 0 14px;font-weight:700;letter-spacing:-.01em}
+  .card p{margin:0 0 12px;color:var(--ink2)}
+  .card p b{color:var(--ink)}
+  .facts{display:flex;gap:0;border-top:1px solid var(--rule);margin-top:18px;padding-top:14px}
+  .facts div{flex:1}
+  .facts b{display:block;font-family:var(--mono);font-size:18px;font-variant-numeric:tabular-nums}
+  .facts i{font-style:normal;font-size:12px;color:var(--ink3)}
+  .btn{display:block;width:100%;border:0;border-radius:12px;padding:15px 16px;font-size:16px;font-weight:600;margin-top:10px}
+  .btn.primary{background:var(--accent);color:var(--on-accent)}
+  .btn.ghost{background:transparent;border:1px solid var(--rule);color:var(--ink2);font-weight:500}
+  .btn:disabled{opacity:.4}
+  .file{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+  .err{color:var(--warn);font-size:14px;margin-top:10px;min-height:1em}
+
+  /* test */
+  #run{padding-top:max(16px,env(safe-area-inset-top));padding-bottom:max(16px,env(safe-area-inset-bottom));height:100%;min-height:100dvh}
+  .top{display:flex;align-items:center;gap:12px}
+  .count{font-family:var(--mono);font-size:13px;color:var(--ink2);font-variant-numeric:tabular-nums;min-width:72px}
+  .prog{flex:1;height:6px;background:var(--grid);border-radius:3px;overflow:hidden}
+  .prog i{display:block;height:100%;width:0;background:var(--accent);transition:width .15s}
+  .undo{border:1px solid var(--rule);background:var(--paper);border-radius:10px;padding:7px 12px;font-size:14px;color:var(--ink2)}
+  .undo:disabled{opacity:.35}
+  .stage{flex:1;display:flex;align-items:center;justify-content:center;padding:24px 0}
+  .word{font-family:var(--serif);font-size:clamp(40px,13vw,68px);font-weight:600;letter-spacing:.01em;text-align:center;word-break:break-word}
+  .answers{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .ans{border:0;border-radius:16px;min-height:84px;font-size:19px;font-weight:700}
+  .ans.no{background:var(--no-soft);color:var(--no)}
+  .ans.yes{background:var(--accent);color:var(--on-accent)}
+  .ans:active{transform:scale(.98)}
+  .keys{text-align:center;font-size:12px;color:var(--ink3);margin-top:10px}
+  @media (hover:none){.keys{display:none}}
+
+  /* result */
+  #result{padding-top:24px;padding-bottom:40px}
+  .big{font-family:var(--ui);font-size:40px;font-weight:700;line-height:1.1;margin:6px 0 4px;font-variant-numeric:tabular-nums}
+  .sub{color:var(--ink2);margin:0}
+  .flag{background:var(--warn-soft);color:var(--warn);border-radius:10px;padding:12px 14px;margin-top:16px;font-weight:600;font-size:15px}
+  .kv{display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin-top:18px;border-top:1px solid var(--rule);padding-top:14px}
+  .kv b{display:block;font-family:var(--mono);font-size:20px;font-variant-numeric:tabular-nums}
+  .kv i{font-style:normal;font-size:12px;color:var(--ink3)}
+  .chart{margin-top:22px}
+  .chart svg{width:100%;height:auto;display:block}
+  .chart text{font-family:var(--mono);font-size:11px;fill:var(--ink3)}
+  .chart .val{fill:var(--ink2)}
+  table{width:100%;border-collapse:collapse;margin-top:18px;font-size:14px;font-variant-numeric:tabular-nums}
+  th,td{text-align:right;padding:6px 4px;border-bottom:1px solid var(--rule)}
+  th:first-child,td:first-child{text-align:left}
+  th{font-weight:600;color:var(--ink3);font-size:12px}
+  .note{font-size:13px;color:var(--ink3);margin-top:14px}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:9px 16px;border-radius:20px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+  .toast.on{opacity:1}
+</style>
+</head>
+<body>
+
+<section class="screen on" id="intro">
+  <div class="card">
+    <div class="eyebrow">English Reader · Bước 1</div>
+    <h1>Kiểm tra vốn từ</h1>
+    <p>Mỗi lần màn hình hiện <b>một từ tiếng Anh</b>. Bấm <b>Biết</b> chỉ khi bạn hiểu từ đó nghĩa là gì — không cần dịch chính xác, nhưng phải biết nghĩa. Nếu chỉ thấy quen mặt thì bấm <b>Không biết</b>.</p>
+    <p>Trong danh sách có <b>một số từ giả</b>, không tồn tại trong tiếng Anh. Bấm Biết với từ giả sẽ bị <b>trừ điểm</b>, nên đừng đoán.</p>
+    <p>Không giới hạn thời gian. Bấm nhầm thì dùng nút Hoàn tác. Đóng trang giữa chừng vẫn làm tiếp được.</p>
+    <div class="facts">
+      <div><b id="nItems">160</b><i>từ</i></div>
+      <div><b>~15</b><i>phút</i></div>
+      <div><b>8</b><i>mức tần suất</i></div>
+    </div>
+    <button class="btn primary" id="startBtn">Bắt đầu</button>
+    <button class="btn ghost" id="resumeBtn" hidden></button>
+    <label class="btn ghost" for="fileIn" style="text-align:center">Mở kết quả cũ (.json)</label>
+    <input type="file" id="fileIn" class="file" accept="application/json,.json">
+    <div class="err" id="err"></div>
+  </div>
+</section>
+
+<section class="screen" id="run">
+  <div class="top">
+    <span class="count" id="count">1 / 160</span>
+    <div class="prog"><i id="bar"></i></div>
+    <button class="undo" id="undoBtn" disabled>↶ Hoàn tác</button>
+  </div>
+  <div class="stage"><div class="word" id="word" aria-live="polite"></div></div>
+  <div class="answers">
+    <button class="ans no" id="noBtn">Không biết</button>
+    <button class="ans yes" id="yesBtn">Biết</button>
+  </div>
+  <div class="keys">Bàn phím: ← Không biết · → Biết · Backspace hoàn tác</div>
+</section>
+
+<section class="screen" id="result">
+  <div class="card">
+    <div class="eyebrow" id="rDate"></div>
+    <div class="big" id="rSize"></div>
+    <p class="sub">ước lượng vốn từ trong 8.000 từ thông dụng nhất</p>
+    <div class="flag" id="rFlag" hidden>Kết quả chưa đáng tin — làm lại sau 1 tuần</div>
+    <div class="kv">
+      <div><b id="rThr"></b><i>mức đã vững</i></div>
+      <div><b id="rFront"></b><i>mức đang học</i></div>
+      <div><b id="rFa"></b><i>bấm nhầm từ giả</i></div>
+    </div>
+    <div class="chart" id="chart"></div>
+    <table id="tbl"></table>
+    <p class="note">Mức 1 = 1.000 từ thông dụng nhất, mức 2 = 1.000 từ kế tiếp, v.v. Điểm mỗi mức = tỉ lệ từ thật bạn biết trừ tỉ lệ bấm Biết với từ giả. "Đã vững" là mức cao nhất mà mọi mức từ 1 đến đó đều đạt ≥ 80%.</p>
+    <div class="row2">
+      <button class="btn primary" id="dlBtn">Tải kết quả (.json)</button>
+      <button class="btn ghost" id="cpBtn">Sao chép JSON</button>
+    </div>
+    <button class="btn ghost" id="againBtn">Làm lại từ đầu</button>
+  </div>
+</section>
+
+<div class="toast" id="toast"></div>
+
+<script id="items" type="application/json">{"version":"v1","items":[{"id":1,"w":"cravotine","band":0,"real":false},{"id":2,"w":"legendary","band":4,"real":true},{"id":3,"w":"cellphone","band":8,"real":true},{"id":4,"w":"square","band":2,"real":true},{"id":5,"w":"thermal","band":5,"real":true},{"id":6,"w":"sustainable","band":4,"real":true},{"id":7,"w":"shade","band":4,"real":true},{"id":8,"w":"glimmock","band":0,"real":false},{"id":9,"w":"thrust","band":6,"real":true},{"id":10,"w":"compensation","band":3,"real":true},{"id":11,"w":"hestle","band":0,"real":false},{"id":12,"w":"effect","band":1,"real":true},{"id":13,"w":"specifically","band":2,"real":true},{"id":14,"w":"sponder","band":0,"real":false},{"id":15,"w":"industrial","band":2,"real":true},{"id":16,"w":"formation","band":3,"real":true},{"id":17,"w":"process","band":1,"real":true},{"id":18,"w":"prosperity","band":6,"real":true},{"id":19,"w":"fendacious","band":0,"real":false},{"id":20,"w":"also","band":1,"real":true},{"id":21,"w":"wonderful","band":2,"real":true},{"id":22,"w":"flinder","band":0,"real":false},{"id":23,"w":"endorsement","band":7,"real":true},{"id":24,"w":"addiction","band":4,"real":true},{"id":25,"w":"ice","band":1,"real":true},{"id":26,"w":"dremble","band":0,"real":false},{"id":27,"w":"dumb","band":3,"real":true},{"id":28,"w":"censorship","band":6,"real":true},{"id":29,"w":"polymer","band":8,"real":true},{"id":30,"w":"deficiency","band":8,"real":true},{"id":31,"w":"policeman","band":7,"real":true},{"id":32,"w":"prospective","band":6,"real":true},{"id":33,"w":"enjoyment","band":7,"real":true},{"id":34,"w":"gently","band":5,"real":true},{"id":35,"w":"liquid","band":3,"real":true},{"id":36,"w":"infectious","band":7,"real":true},{"id":37,"w":"immature","band":8,"real":true},{"id":38,"w":"dump","band":5,"real":true},{"id":39,"w":"residency","band":8,"real":true},{"id":40,"w":"transition","band":3,"real":true},{"id":41,"w":"exclusion","band":8,"real":true},{"id":42,"w":"scandal","band":4,"real":true},{"id":43,"w":"tournament","band":2,"real":true},{"id":44,"w":"penetration","band":8,"real":true},{"id":45,"w":"remarkable","band":4,"real":true},{"id":46,"w":"directive","band":8,"real":true},{"id":47,"w":"lamprish","band":0,"real":false},{"id":48,"w":"punk","band":4,"real":true},{"id":49,"w":"mere","band":4,"real":true},{"id":50,"w":"granite","band":6,"real":true},{"id":51,"w":"pact","band":7,"real":true},{"id":52,"w":"departure","band":4,"real":true},{"id":53,"w":"scrindle","band":0,"real":false},{"id":54,"w":"spare","band":4,"real":true},{"id":55,"w":"incumbent","band":7,"real":true},{"id":56,"w":"taskment","band":0,"real":false},{"id":57,"w":"coordinate","band":7,"real":true},{"id":58,"w":"sage","band":7,"real":true},{"id":59,"w":"prevalent","band":7,"real":true},{"id":60,"w":"automation","band":7,"real":true},{"id":61,"w":"tiger","band":4,"real":true},{"id":62,"w":"charity","band":3,"real":true},{"id":63,"w":"accountable","band":6,"real":true},{"id":64,"w":"wave","band":2,"real":true},{"id":65,"w":"mentory","band":0,"real":false},{"id":66,"w":"semester","band":5,"real":true},{"id":67,"w":"hike","band":6,"real":true},{"id":68,"w":"gloath","band":0,"real":false},{"id":69,"w":"source","band":1,"real":true},{"id":70,"w":"minister","band":1,"real":true},{"id":71,"w":"desktop","band":6,"real":true},{"id":72,"w":"importance","band":2,"real":true},{"id":73,"w":"sometimes","band":1,"real":true},{"id":74,"w":"fragment","band":7,"real":true},{"id":75,"w":"carbule","band":0,"real":false},{"id":76,"w":"stobe","band":0,"real":false},{"id":77,"w":"oxide","band":8,"real":true},{"id":78,"w":"obstrance","band":0,"real":false},{"id":79,"w":"arbitrary","band":6,"real":true},{"id":80,"w":"employment","band":2,"real":true},{"id":81,"w":"coverage","band":2,"real":true},{"id":82,"w":"floral","band":7,"real":true},{"id":83,"w":"drainage","band":7,"real":true},{"id":84,"w":"autism","band":5,"real":true},{"id":85,"w":"fusion","band":5,"real":true},{"id":86,"w":"renovation","band":7,"real":true},{"id":87,"w":"mail","band":2,"real":true},{"id":88,"w":"spotlight","band":6,"real":true},{"id":89,"w":"earthquake","band":4,"real":true},{"id":90,"w":"promise","band":2,"real":true},{"id":91,"w":"describe","band":1,"real":true},{"id":92,"w":"sweat","band":4,"real":true},{"id":93,"w":"bulvent","band":0,"real":false},{"id":94,"w":"water","band":1,"real":true},{"id":95,"w":"momentum","band":5,"real":true},{"id":96,"w":"essence","band":5,"real":true},{"id":97,"w":"ecological","band":7,"real":true},{"id":98,"w":"friendship","band":3,"real":true},{"id":99,"w":"ride","band":2,"real":true},{"id":100,"w":"wheat","band":5,"real":true},{"id":101,"w":"wendle","band":0,"real":false},{"id":102,"w":"rellow","band":0,"real":false},{"id":103,"w":"resistant","band":5,"real":true},{"id":104,"w":"lectory","band":0,"real":false},{"id":105,"w":"pardle","band":0,"real":false},{"id":106,"w":"coat","band":3,"real":true},{"id":107,"w":"simplify","band":8,"real":true},{"id":108,"w":"registration","band":3,"real":true},{"id":109,"w":"amount","band":1,"real":true},{"id":110,"w":"procurement","band":8,"real":true},{"id":111,"w":"harbinous","band":0,"real":false},{"id":112,"w":"percentage","band":3,"real":true},{"id":113,"w":"history","band":1,"real":true},{"id":114,"w":"rational","band":5,"real":true},{"id":115,"w":"adventure","band":3,"real":true},{"id":116,"w":"professor","band":2,"real":true},{"id":117,"w":"ever","band":1,"real":true},{"id":118,"w":"nutrition","band":5,"real":true},{"id":119,"w":"presidential","band":3,"real":true},{"id":120,"w":"implement","band":4,"real":true},{"id":121,"w":"clemp","band":0,"real":false},{"id":122,"w":"alignment","band":7,"real":true},{"id":123,"w":"qualify","band":3,"real":true},{"id":124,"w":"specify","band":5,"real":true},{"id":125,"w":"skelving","band":0,"real":false},{"id":126,"w":"glorious","band":5,"real":true},{"id":127,"w":"mortgage","band":3,"real":true},{"id":128,"w":"pellish","band":0,"real":false},{"id":129,"w":"furnished","band":8,"real":true},{"id":130,"w":"teen","band":3,"real":true},{"id":131,"w":"soundtrack","band":6,"real":true},{"id":132,"w":"preview","band":6,"real":true},{"id":133,"w":"drubbet","band":0,"real":false},{"id":134,"w":"mivotal","band":0,"real":false},{"id":135,"w":"proffle","band":0,"real":false},{"id":136,"w":"consistency","band":5,"real":true},{"id":137,"w":"couple","band":1,"real":true},{"id":138,"w":"microphone","band":8,"real":true},{"id":139,"w":"revenge","band":4,"real":true},{"id":140,"w":"torsity","band":0,"real":false},{"id":141,"w":"pet","band":2,"real":true},{"id":142,"w":"mayor","band":2,"real":true},{"id":143,"w":"plorn","band":0,"real":false},{"id":144,"w":"protest","band":3,"real":true},{"id":145,"w":"hostile","band":5,"real":true},{"id":146,"w":"prove","band":2,"real":true},{"id":147,"w":"sprent","band":0,"real":false},{"id":148,"w":"stir","band":6,"real":true},{"id":149,"w":"human","band":1,"real":true},{"id":150,"w":"cultivation","band":8,"real":true},{"id":151,"w":"activism","band":8,"real":true},{"id":152,"w":"guideline","band":4,"real":true},{"id":153,"w":"whatever","band":1,"real":true},{"id":154,"w":"good","band":1,"real":true},{"id":155,"w":"temptation","band":8,"real":true},{"id":156,"w":"notification","band":6,"real":true},{"id":157,"w":"trambel","band":0,"real":false},{"id":158,"w":"alumni","band":6,"real":true},{"id":159,"w":"vorsten","band":0,"real":false},{"id":160,"w":"advertisement","band":6,"real":true}]}</script>
+<script>
+(function(){
+  "use strict";
+  var DATA = JSON.parse(document.getElementById("items").textContent);
+  var ITEMS = DATA.items, VERSION = DATA.version;
+  var KEY = "enreader:test:" + VERSION;
+  var BANDS = [1,2,3,4,5,6,7,8];
+  var $ = function(id){ return document.getElementById(id); };
+
+  // ── storage: try/catch, in-memory fallback ──
+  var mem = {};
+  function sget(k){ try { var v = localStorage.getItem(k); return v == null ? mem[k] : v; } catch(e){ return mem[k]; } }
+  function sset(k,v){ mem[k] = v; try { localStorage.setItem(k, v); } catch(e){} }
+  function sdel(k){ delete mem[k]; try { localStorage.removeItem(k); } catch(e){} }
+
+  var responses = [];   // {id, known, ms}
+  var shownAt = 0;
+
+  function show(id){
+    ["intro","run","result"].forEach(function(s){ $(s).classList.toggle("on", s === id); });
+    window.scrollTo(0,0);
+  }
+  function toast(msg){
+    var t = $("toast"); t.textContent = msg; t.classList.add("on");
+    clearTimeout(toast._t); toast._t = setTimeout(function(){ t.classList.remove("on"); }, 1600);
+  }
+  function today(){
+    var d = new Date(), p = function(n){ return (n < 10 ? "0" : "") + n; };
+    return d.getFullYear() + "-" + p(d.getMonth()+1) + "-" + p(d.getDate());
+  }
+  function fmtInt(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, "."); }
+  function r2(x){ return Math.round(x * 100) / 100; }
+
+  // ── scoring (spec §2.4) ──
+  function score(resps, date){
+    var byId = {}; ITEMS.forEach(function(it){ byId[it.id] = it; });
+    var hit = {}, n = {}, faN = 0, faK = 0;
+    BANDS.forEach(function(b){ hit[b] = 0; n[b] = 0; });
+    resps.forEach(function(r){
+      var it = byId[r.id]; if (!it) return;
+      if (it.real) { n[it.band]++; if (r.known) hit[it.band]++; }
+      else { faN++; if (r.known) faK++; }
+    });
+    var fa = faN ? faK / faN : 0;
+    var c = {}, bands = {}, size = 0;
+    BANDS.forEach(function(b){
+      var h = n[b] ? hit[b] / n[b] : 0;
+      c[b] = Math.max(0, h - fa);
+      bands[b] = r2(c[b]);
+      size += c[b] * 1000;
+    });
+    var thr = 0;
+    for (var i = 0; i < BANDS.length; i++) { if (c[BANDS[i]] >= 0.8 - 1e-9) thr = BANDS[i]; else break; }
+    return {
+      version: VERSION, date: date || today(), fa_rate: r2(fa), bands: bands,
+      threshold_band: thr, frontier_band: thr + 1, est_size: Math.round(size),
+      reliable: fa <= 0.3,
+      responses: resps.map(function(r){ return { id: r.id, known: !!r.known, ms: Math.round(r.ms) }; })
+    };
+  }
+  window.__score = score;   // exposed for scripted acceptance tests
+  window.__items = ITEMS;
+
+  // ── run ──
+  function save(){ sset(KEY, JSON.stringify({ responses: responses })); }
+  function current(){ return ITEMS[responses.length]; }
+  function paint(){
+    var i = responses.length;
+    if (i >= ITEMS.length) { finish(); return; }
+    $("word").textContent = ITEMS[i].w;
+    $("count").textContent = (i + 1) + " / " + ITEMS.length;
+    $("bar").style.width = (i / ITEMS.length * 100) + "%";
+    $("undoBtn").disabled = i === 0;
+    shownAt = performance.now();
+  }
+  function answer(known){
+    var it = current(); if (!it || !$("run").classList.contains("on")) return;
+    responses.push({ id: it.id, known: known, ms: performance.now() - shownAt });
+    save(); paint();
+  }
+  function undo(){
+    if (!responses.length || !$("run").classList.contains("on")) return;
+    responses.pop(); save(); paint();
+  }
+  function start(fresh){
+    if (fresh) { responses = []; save(); }
+    show("run"); paint();
+  }
+
+  // ── result ──
+  var lastResult = null;
+  function finish(){
+    lastResult = score(responses);
+    sset(KEY + ":result", JSON.stringify(lastResult));
+    renderResult(lastResult);
+  }
+  function renderResult(res){
+    lastResult = res;
+    $("rDate").textContent = "Kết quả · " + res.date + " · bộ " + res.version;
+    $("rSize").textContent = "≈ " + fmtInt(res.est_size) + " từ";
+    $("rFlag").hidden = !!res.reliable;
+    $("rThr").textContent = res.threshold_band;
+    $("rFront").textContent = res.frontier_band;
+    $("rFa").textContent = Math.round(res.fa_rate * 100) + "%";
+    $("chart").innerHTML = chartSvg(res);
+    var byId = {}; ITEMS.forEach(function(it){ byId[it.id] = it; });
+    var hits = {}; BANDS.forEach(function(b){ hits[b] = 0; });
+    (res.responses || []).forEach(function(r){ var it = byId[r.id]; if (it && it.real && r.known) hits[it.band]++; });
+    var h = "<tr><th>Mức</th><th>Biết</th><th>Điểm</th></tr>";
+    BANDS.forEach(function(b){
+      h += "<tr><td>" + b + " · " + fmtInt((b-1)*1000+1) + "–" + fmtInt(b*1000) + "</td><td>" + hits[b] + "/16</td><td>" + Math.round(res.bands[b] * 100) + "%</td></tr>";
+    });
+    $("tbl").innerHTML = h;
+    show("result");
+  }
+  function chartSvg(res){
+    var W = 320, H = 170, L = 30, B = 22, T = 10, bw = (W - L) / 8;
+    var y = function(v){ return T + (H - T - B) * (1 - v); };
+    var s = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Điểm theo từng mức">';
+    [0, .5, 1].forEach(function(v){
+      s += '<line x1="' + L + '" x2="' + W + '" y1="' + y(v) + '" y2="' + y(v) + '" stroke="var(--grid)"/>';
+      s += '<text x="' + (L - 6) + '" y="' + (y(v) + 4) + '" text-anchor="end">' + Math.round(v*100) + '</text>';
+    });
+    s += '<line x1="' + L + '" x2="' + W + '" y1="' + y(.8) + '" y2="' + y(.8) + '" stroke="var(--ok)" stroke-dasharray="4 3"/>';
+    s += '<text x="' + W + '" y="' + (y(.8) - 4) + '" text-anchor="end" style="fill:var(--ok)">80%</text>';
+    BANDS.forEach(function(b, i){
+      var v = res.bands[b] || 0, x = L + i * bw + bw * .18, w = bw * .64;
+      var fill = b <= res.threshold_band ? "var(--bar)" : "var(--bar-weak)";
+      s += '<rect x="' + x + '" y="' + y(v) + '" width="' + w + '" height="' + Math.max(0, y(0) - y(v)) + '" rx="2" fill="' + fill + '"/>';
+      s += '<text x="' + (x + w/2) + '" y="' + (H - 6) + '" text-anchor="middle">' + b + '</text>';
+      if (v > 0) s += '<text class="val" x="' + (x + w/2) + '" y="' + (y(v) - 4) + '" text-anchor="middle">' + Math.round(v*100) + '</text>';
+    });
+    return s + '</svg>';
+  }
+  function resultText(){ return JSON.stringify(lastResult, null, 1); }
+  function download(){
+    var name = "vocab-test-" + lastResult.date + ".json";
+    try {
+      var blob = new Blob([resultText()], { type: "application/json" });
+      var url = URL.createObjectURL(blob), a = document.createElement("a");
+      a.href = url; a.download = name; document.body.appendChild(a); a.click();
+      setTimeout(function(){ URL.revokeObjectURL(url); a.remove(); }, 1000);
+    } catch(e) { copy(); }
+  }
+  function copy(){
+    var txt = resultText();
+    function fallback(){
+      var ta = document.createElement("textarea"); ta.value = txt; ta.setAttribute("readonly", "");
+      ta.style.position = "fixed"; ta.style.opacity = "0"; document.body.appendChild(ta);
+      ta.select(); ta.setSelectionRange(0, txt.length);
+      var ok = false; try { ok = document.execCommand("copy"); } catch(e){}
+      ta.remove(); toast(ok ? "Đã sao chép" : "Không sao chép được");
+    }
+    try {
+      if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(txt).then(function(){ toast("Đã sao chép"); }, fallback);
+      else fallback();
+    } catch(e) { fallback(); }
+  }
+  function loadFile(f){
+    $("err").textContent = "";
+    var rd = new FileReader();
+    rd.onload = function(){
+      try {
+        var res = JSON.parse(rd.result);
+        if (!res || !res.bands || typeof res.threshold_band !== "number") throw new Error("schema");
+        if (res.version !== VERSION) { $("err").textContent = "File thuộc bộ " + res.version + ", trang này là bộ " + VERSION + "."; return; }
+        renderResult(res);
+      } catch(e) { $("err").textContent = "File không đúng định dạng kết quả."; }
+    };
+    rd.readAsText(f);
+  }
+
+  // ── wire up ──
+  $("nItems").textContent = ITEMS.length;
+  var saved = null; try { saved = JSON.parse(sget(KEY) || "null"); } catch(e){}
+  if (saved && saved.responses && saved.responses.length && saved.responses.length < ITEMS.length) {
+    responses = saved.responses;
+    $("resumeBtn").hidden = false;
+    $("resumeBtn").textContent = "Làm tiếp (đã xong " + responses.length + "/" + ITEMS.length + ")";
+    $("startBtn").textContent = "Làm lại từ đầu";
+  }
+  if (!ITEMS.length) { $("startBtn").disabled = true; $("err").textContent = "Chưa có danh sách từ (chạy tools/make_test_items.py)."; }
+  $("startBtn").onclick = function(){ start(true); };
+  $("resumeBtn").onclick = function(){ start(false); };
+  $("yesBtn").onclick = function(){ answer(true); };
+  $("noBtn").onclick = function(){ answer(false); };
+  $("undoBtn").onclick = undo;
+  $("dlBtn").onclick = download;
+  $("cpBtn").onclick = copy;
+  $("againBtn").onclick = function(){
+    if (!confirm("Xoá kết quả hiện tại trên máy và làm lại từ đầu?")) return;
+    sdel(KEY); sdel(KEY + ":result"); responses = []; start(true);
+  };
+  $("fileIn").onchange = function(e){ var f = e.target.files && e.target.files[0]; if (f) loadFile(f); e.target.value = ""; };
+  document.addEventListener("keydown", function(e){
+    if (!$("run").classList.contains("on") || e.metaKey || e.ctrlKey || e.altKey) return;
+    if (e.key === "ArrowRight") { e.preventDefault(); answer(true); }
+    else if (e.key === "ArrowLeft") { e.preventDefault(); answer(false); }
+    else if (e.key === "Backspace") { e.preventDefault(); undo(); }
+  });
+})();
+</script>
+</body>
+</html>

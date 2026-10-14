@@ -1,0 +1,31 @@
+{
+  "_note": "International loanwords and words with an obvious Vietnamese cognate (often via French). Two uses: (1) make_test_items.py excludes them from the band test because knowing them measures nothing; (2) coverage.py (Phase 3) lets them through the out-of-level check. Lemmas, lowercase.",
+  "words": [
+    "hotel", "taxi", "internet", "online", "email", "website", "video", "radio", "television",
+    "tv", "camera", "computer", "laptop", "smartphone", "phone", "telephone", "robot", "app",
+    "coffee", "cafe", "café", "tea", "pizza", "hamburger", "sandwich", "chocolate", "cream",
+    "salad", "soup", "beer", "wine", "cocktail", "steak", "pasta", "sushi", "menu", "buffet",
+    "piano", "guitar", "violin", "jazz", "rock", "pop", "rap", "ballet", "opera", "karaoke",
+    "film", "cinema", "camera", "studio", "show", "game", "video", "album", "concert",
+    "football", "soccer", "tennis", "golf", "volleyball", "basketball", "badminton", "yoga",
+    "gym", "marathon", "olympic", "olympics", "sport",
+    "ok", "okay", "hello", "bye", "sorry", "wow",
+    "bus", "metro", "taxi", "bike", "moto", "motorbike", "scooter", "car", "jeep", "ferry",
+    "airport", "visa", "passport", "tour", "tourist", "resort", "villa", "spa", "sauna",
+    "hostel", "motel", "camping", "selfie", "blog", "blogger", "vlog", "influencer",
+    "fashion", "model", "jean", "jeans", "t-shirt", "shirt", "vest", "jacket", "bikini",
+    "sneaker", "logo", "brand", "boutique", "shop", "mall", "supermarket", "marketing",
+    "startup", "ceo", "manager", "online", "offline", "wifi", "bluetooth", "pin", "usb",
+    "virus", "vaccine", "covid", "pharmacy", "vitamin", "protein", "doctor",
+    "bank", "dollar", "euro", "yen", "bitcoin", "crypto", "credit", "card", "visa",
+    "radar", "laser", "gas", "oxygen", "plastic", "nylon", "cement", "metal", "atom",
+    "kilogram", "kilometer", "kilometre", "meter", "metre", "liter", "litre", "gram",
+    "percent", "million", "billion", "trillion",
+    "democracy", "socialism", "communism", "capitalism", "president", "parliament",
+    "photo", "photograph", "poster", "sticker", "comic", "manga", "anime", "emoji",
+    "party", "club", "bar", "pub", "disco", "festival", "picnic", "barbecue",
+    "chef", "massage", "salon", "makeup", "lipstick", "perfume", "shampoo", "soap",
+    "taxi", "uber", "grab", "zoom", "google", "facebook", "youtube", "tiktok",
+    "garage", "pate", "cacao", "cocoa", "caramel", "toast", "ketchup"
+  ]
+}

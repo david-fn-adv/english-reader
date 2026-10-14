@@ -1,0 +1,663 @@
+{
+ "_note": "Curated multiword expressions matched on spaCy lemma sequences (enlib._tag_phrases). head = dictionary headword; lemmas = what spaCy produces. Phrasal verbs are also caught automatically via the prt dependency.",
+ "phrases": [
+  {
+   "head": "take into account",
+   "lemmas": [
+    "take",
+    "into",
+    "account"
+   ]
+  },
+  {
+   "head": "a lot of",
+   "lemmas": [
+    "a",
+    "lot",
+    "of"
+   ]
+  },
+  {
+   "head": "lots of",
+   "lemmas": [
+    "lots",
+    "of"
+   ]
+  },
+  {
+   "head": "in order to",
+   "lemmas": [
+    "in",
+    "order",
+    "to"
+   ]
+  },
+  {
+   "head": "as well as",
+   "lemmas": [
+    "as",
+    "well",
+    "as"
+   ]
+  },
+  {
+   "head": "because of",
+   "lemmas": [
+    "because",
+    "of"
+   ]
+  },
+  {
+   "head": "such as",
+   "lemmas": [
+    "such",
+    "as"
+   ]
+  },
+  {
+   "head": "instead of",
+   "lemmas": [
+    "instead",
+    "of"
+   ]
+  },
+  {
+   "head": "according to",
+   "lemmas": [
+    "according",
+    "to"
+   ]
+  },
+  {
+   "head": "at least",
+   "lemmas": [
+    "at",
+    "least"
+   ]
+  },
+  {
+   "head": "at last",
+   "lemmas": [
+    "at",
+    "last"
+   ]
+  },
+  {
+   "head": "in fact",
+   "lemmas": [
+    "in",
+    "fact"
+   ]
+  },
+  {
+   "head": "of course",
+   "lemmas": [
+    "of",
+    "course"
+   ]
+  },
+  {
+   "head": "so far",
+   "lemmas": [
+    "so",
+    "far"
+   ]
+  },
+  {
+   "head": "even though",
+   "lemmas": [
+    "even",
+    "though"
+   ]
+  },
+  {
+   "head": "as long as",
+   "lemmas": [
+    "as",
+    "long",
+    "as"
+   ]
+  },
+  {
+   "head": "as soon as",
+   "lemmas": [
+    "as",
+    "soon",
+    "as"
+   ]
+  },
+  {
+   "head": "in addition",
+   "lemmas": [
+    "in",
+    "addition"
+   ]
+  },
+  {
+   "head": "in front of",
+   "lemmas": [
+    "in",
+    "front",
+    "of"
+   ]
+  },
+  {
+   "head": "next to",
+   "lemmas": [
+    "next",
+    "to"
+   ]
+  },
+  {
+   "head": "close to",
+   "lemmas": [
+    "close",
+    "to"
+   ]
+  },
+  {
+   "head": "due to",
+   "lemmas": [
+    "due",
+    "to"
+   ]
+  },
+  {
+   "head": "thanks to",
+   "lemmas": [
+    "thanks",
+    "to"
+   ]
+  },
+  {
+   "head": "rather than",
+   "lemmas": [
+    "rather",
+    "than"
+   ]
+  },
+  {
+   "head": "more and more",
+   "lemmas": [
+    "more",
+    "and",
+    "more"
+   ]
+  },
+  {
+   "head": "at the same time",
+   "lemmas": [
+    "at",
+    "the",
+    "same",
+    "time"
+   ]
+  },
+  {
+   "head": "for example",
+   "lemmas": [
+    "for",
+    "example"
+   ]
+  },
+  {
+   "head": "for instance",
+   "lemmas": [
+    "for",
+    "instance"
+   ]
+  },
+  {
+   "head": "on the other hand",
+   "lemmas": [
+    "on",
+    "the",
+    "other",
+    "hand"
+   ]
+  },
+  {
+   "head": "in other words",
+   "lemmas": [
+    "in",
+    "other",
+    "words"
+   ]
+  },
+  {
+   "head": "in general",
+   "lemmas": [
+    "in",
+    "general"
+   ]
+  },
+  {
+   "head": "in the end",
+   "lemmas": [
+    "in",
+    "the",
+    "end"
+   ]
+  },
+  {
+   "head": "at the moment",
+   "lemmas": [
+    "at",
+    "the",
+    "moment"
+   ]
+  },
+  {
+   "head": "at the end of",
+   "lemmas": [
+    "at",
+    "the",
+    "end",
+    "of"
+   ]
+  },
+  {
+   "head": "by the end of",
+   "lemmas": [
+    "by",
+    "the",
+    "end",
+    "of"
+   ]
+  },
+  {
+   "head": "right now",
+   "lemmas": [
+    "right",
+    "now"
+   ]
+  },
+  {
+   "head": "all over",
+   "lemmas": [
+    "all",
+    "over"
+   ]
+  },
+  {
+   "head": "each other",
+   "lemmas": [
+    "each",
+    "other"
+   ]
+  },
+  {
+   "head": "one another",
+   "lemmas": [
+    "one",
+    "another"
+   ]
+  },
+  {
+   "head": "a bit",
+   "lemmas": [
+    "a",
+    "bit"
+   ]
+  },
+  {
+   "head": "kind of",
+   "lemmas": [
+    "kind",
+    "of"
+   ]
+  },
+  {
+   "head": "sort of",
+   "lemmas": [
+    "sort",
+    "of"
+   ]
+  },
+  {
+   "head": "no longer",
+   "lemmas": [
+    "no",
+    "longer"
+   ]
+  },
+  {
+   "head": "any more",
+   "lemmas": [
+    "any",
+    "more"
+   ]
+  },
+  {
+   "head": "as a result",
+   "lemmas": [
+    "as",
+    "a",
+    "result"
+   ]
+  },
+  {
+   "head": "compared with",
+   "lemmas": [
+    "compare",
+    "with"
+   ]
+  },
+  {
+   "head": "compared to",
+   "lemmas": [
+    "compare",
+    "to"
+   ]
+  },
+  {
+   "head": "so that",
+   "lemmas": [
+    "so",
+    "that"
+   ]
+  },
+  {
+   "head": "even if",
+   "lemmas": [
+    "even",
+    "if"
+   ]
+  },
+  {
+   "head": "as if",
+   "lemmas": [
+    "as",
+    "if"
+   ]
+  },
+  {
+   "head": "in case",
+   "lemmas": [
+    "in",
+    "case"
+   ]
+  },
+  {
+   "head": "on time",
+   "lemmas": [
+    "on",
+    "time"
+   ]
+  },
+  {
+   "head": "in time",
+   "lemmas": [
+    "in",
+    "time"
+   ]
+  },
+  {
+   "head": "on average",
+   "lemmas": [
+    "on",
+    "average"
+   ]
+  },
+  {
+   "head": "year over year",
+   "lemmas": [
+    "year",
+    "over",
+    "year"
+   ]
+  },
+  {
+   "head": "take place",
+   "lemmas": [
+    "take",
+    "place"
+   ]
+  },
+  {
+   "head": "take part in",
+   "lemmas": [
+    "take",
+    "part",
+    "in"
+   ]
+  },
+  {
+   "head": "make sure",
+   "lemmas": [
+    "make",
+    "sure"
+   ]
+  },
+  {
+   "head": "make sense",
+   "lemmas": [
+    "make",
+    "sense"
+   ]
+  },
+  {
+   "head": "pay attention to",
+   "lemmas": [
+    "pay",
+    "attention",
+    "to"
+   ]
+  },
+  {
+   "head": "look forward to",
+   "lemmas": [
+    "look",
+    "forward",
+    "to"
+   ]
+  },
+  {
+   "head": "find out",
+   "lemmas": [
+    "find",
+    "out"
+   ]
+  },
+  {
+   "head": "figure out",
+   "lemmas": [
+    "figure",
+    "out"
+   ]
+  },
+  {
+   "head": "go on",
+   "lemmas": [
+    "go",
+    "on"
+   ]
+  },
+  {
+   "head": "carry on",
+   "lemmas": [
+    "carry",
+    "on"
+   ]
+  },
+  {
+   "head": "deal with",
+   "lemmas": [
+    "deal",
+    "with"
+   ]
+  },
+  {
+   "head": "depend on",
+   "lemmas": [
+    "depend",
+    "on"
+   ]
+  },
+  {
+   "head": "rely on",
+   "lemmas": [
+    "rely",
+    "on"
+   ]
+  },
+  {
+   "head": "focus on",
+   "lemmas": [
+    "focus",
+    "on"
+   ]
+  },
+  {
+   "head": "look for",
+   "lemmas": [
+    "look",
+    "for"
+   ]
+  },
+  {
+   "head": "care about",
+   "lemmas": [
+    "care",
+    "about"
+   ]
+  },
+  {
+   "head": "worry about",
+   "lemmas": [
+    "worry",
+    "about"
+   ]
+  },
+  {
+   "head": "used to",
+   "lemmas": [
+    "use",
+    "to"
+   ]
+  },
+  {
+   "head": "be able to",
+   "lemmas": [
+    "be",
+    "able",
+    "to"
+   ]
+  },
+  {
+   "head": "be about to",
+   "lemmas": [
+    "be",
+    "about",
+    "to"
+   ]
+  },
+  {
+   "head": "come back",
+   "lemmas": [
+    "come",
+    "back"
+   ]
+  },
+  {
+   "head": "go back",
+   "lemmas": [
+    "go",
+    "back"
+   ]
+  },
+  {
+   "head": "set up",
+   "lemmas": [
+    "set",
+    "up"
+   ]
+  },
+  {
+   "head": "give up",
+   "lemmas": [
+    "give",
+    "up"
+   ]
+  },
+  {
+   "head": "turn out",
+   "lemmas": [
+    "turn",
+    "out"
+   ]
+  },
+  {
+   "head": "show up",
+   "lemmas": [
+    "show",
+    "up"
+   ]
+  },
+  {
+   "head": "end up",
+   "lemmas": [
+    "end",
+    "up"
+   ]
+  },
+  {
+   "head": "pick up",
+   "lemmas": [
+    "pick",
+    "up"
+   ]
+  },
+  {
+   "head": "cut back",
+   "lemmas": [
+    "cut",
+    "back"
+   ]
+  },
+  {
+   "head": "slow down",
+   "lemmas": [
+    "slow",
+    "down"
+   ]
+  },
+  {
+   "head": "speed up",
+   "lemmas": [
+    "speed",
+    "up"
+   ]
+  },
+  {
+   "head": "in person",
+   "lemmas": [
+    "in",
+    "person"
+   ]
+  },
+  {
+   "head": "up to",
+   "lemmas": [
+    "up",
+    "to"
+   ]
+  },
+  {
+   "head": "around the world",
+   "lemmas": [
+    "around",
+    "the",
+    "world"
+   ]
+  },
+  {
+   "head": "a number of",
+   "lemmas": [
+    "a",
+    "number",
+    "of"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "_note": "Hand-written nonwords for the vocabulary test. Pronounceable, English-looking, not real words. make_test_items.py verifies none is in wordfreq top 50k or cmudict, and picks 32.",
+  "words": [
+    "plandom", "scrindle", "mentory", "gloath", "brastle", "fendacious", "trambel",
+    "quillage", "sprent", "dorrify", "harbinous", "clemp", "vorsten", "flinder",
+    "mustrate", "pardle", "glimmock", "torsity", "brunkle", "wendle",
+    "crastic", "plorn", "skelving", "dremble", "fourture", "lamprish",
+    "obstrance", "grindle", "contrage", "pellish", "stobe", "frandish",
+    "rellow", "taskment", "bulvent", "proffle", "snarmish", "carbule",
+    "mivotal", "drubbet", "lectory", "sponder", "hestle", "cravotine"
+  ]
+}

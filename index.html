@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>English Reader</title>
+<style>
+  :root{
+    --ink:#17181C; --ink2:#5E636C; --ink3:#9AA0A8;
+    --field:#ECEDF0; --paper:#FFFFFF; --rule:#DFE1E6; --hover:#F6F7F9;
+    --accent:#1F4E99; --accent-soft:#E7EEF8; --on-accent:#FFFFFF;
+    --core:#FBEFD5; --core-ink:#7A4D00; --core-line:#E3B04B;
+    --learn:#E3F1EC; --learn-line:#2E8B6A;
+    --name:#5E636C; --phrase:#8C93A0;
+    --say:#DCE7F7; --word-on:#C9DAF4;
+    --biz:#1F4E99; --biz-soft:#E7EEF8; --trv:#1E6B45; --trv-soft:#E2F1E9; --fsh:#9A2F5B; --fsh-soft:#F7E6ED;
+    --warn:#9C4A10; --ok:#1E6B45; --grid:#E3E5E9; --bar:#1F4E99; --bar-weak:#A9BCD9;
+    --bar-bg:rgba(255,255,255,.94); --scrim:rgba(23,24,28,.32); --sheet-shadow:rgba(23,24,28,.22);
+    --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,"Helvetica Neue",sans-serif;
+    --serif:"Iowan Old Style","Charter","Georgia","Times New Roman",serif;
+    --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+    --tabh:58px;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ink:#E9E7E3; --ink2:#A4A8AF; --ink3:#73787F;
+      --field:#111214; --paper:#1A1C20; --rule:#2C2F35; --hover:#22252A;
+      --accent:#7FA8EC; --accent-soft:#1A2638; --on-accent:#0E1116;
+      --core:#3A2F17; --core-ink:#F0C46A; --core-line:#9C7A2E;
+      --learn:#16302A; --learn-line:#5DC29C;
+      --name:#A4A8AF; --phrase:#6E7684;
+      --say:#22324D; --word-on:#2E4670;
+      --biz:#7FA8EC; --biz-soft:#1A2638; --trv:#6CC69A; --trv-soft:#14291F; --fsh:#E68AB0; --fsh-soft:#341A25;
+      --warn:#E5A261; --ok:#6CC69A; --grid:#2C2F35; --bar:#7FA8EC; --bar-weak:#3B4F70;
+      --bar-bg:rgba(17,18,20,.94); --scrim:rgba(0,0,0,.55); --sheet-shadow:rgba(0,0,0,.6);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#E9E7E3; --ink2:#A4A8AF; --ink3:#73787F;
+    --field:#111214; --paper:#1A1C20; --rule:#2C2F35; --hover:#22252A;
+    --accent:#7FA8EC; --accent-soft:#1A2638; --on-accent:#0E1116;
+    --core:#3A2F17; --core-ink:#F0C46A; --core-line:#9C7A2E;
+    --learn:#16302A; --learn-line:#5DC29C;
+    --name:#A4A8AF; --phrase:#6E7684;
+    --say:#22324D; --word-on:#2E4670;
+    --biz:#7FA8EC; --biz-soft:#1A2638; --trv:#6CC69A; --trv-soft:#14291F; --fsh:#E68AB0; --fsh-soft:#341A25;
+    --warn:#E5A261; --ok:#6CC69A; --grid:#2C2F35; --bar:#7FA8EC; --bar-weak:#3B4F70;
+    --bar-bg:rgba(17,18,20,.94); --scrim:rgba(0,0,0,.55); --sheet-shadow:rgba(0,0,0,.6);
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{background:var(--field);color:var(--ink);font-family:var(--ui);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+  button,select,input{font:inherit;color:inherit}
+  button{cursor:pointer;touch-action:manipulation}
+  .wrap{max-width:720px;margin:0 auto;padding-bottom:calc(var(--tabh) + env(safe-area-inset-bottom) + 24px)}
+  .screen{display:none}
+  .screen.on{display:block}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink3)}
+  .head{background:var(--paper);padding:calc(20px + env(safe-area-inset-top)) 16px 18px;border-bottom:1px solid var(--rule)}
+  .head h1{margin:8px 0 0;font-family:var(--ui);font-size:26px;line-height:1.2;font-weight:700;letter-spacing:-.01em}
+  .head p{margin:6px 0 0;color:var(--ink2);font-size:14px}
+  .stats{display:flex;margin-top:16px;border-top:1px solid var(--rule);padding-top:12px}
+  .stat{flex:1;border-right:1px solid var(--rule);padding-right:8px;min-width:0}
+  .stat + .stat{padding-left:12px}
+  .stat:last-child{border-right:0}
+  .stat b{display:block;font-family:var(--mono);font-size:19px;font-weight:600;font-variant-numeric:tabular-nums}
+  .stat i{font-style:normal;font-size:11.5px;color:var(--ink3)}
+  .empty{padding:40px 16px;text-align:center;color:var(--ink3)}
+
+  /* ── article list ── */
+  .list{padding:12px 16px 0;display:grid;gap:10px}
+  .card{display:block;width:100%;text-align:left;background:var(--paper);border:1px solid var(--rule);border-radius:14px;padding:14px 16px 13px;position:relative}
+  .card:active{background:var(--hover)}
+  .card .row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .card .date{font-family:var(--mono);font-size:12px;color:var(--ink3)}
+  .card h3{margin:7px 0 6px;font-family:var(--serif);font-size:19px;line-height:1.3;font-weight:600}
+  .card .meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--ink2)}
+  .card.read h3{color:var(--ink2)}
+  .unread-dot{width:8px;height:8px;border-radius:50%;background:var(--accent);position:absolute;top:18px;right:16px}
+  .readmark{font-size:12px;color:var(--ok);font-weight:600}
+  .badge{display:inline-block;font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:20px;letter-spacing:.01em}
+  .d-business{background:var(--biz-soft);color:var(--biz)}
+  .d-travel{background:var(--trv-soft);color:var(--trv)}
+  .d-fashion{background:var(--fsh-soft);color:var(--fsh)}
+  .cov{font-family:var(--mono);font-size:12px;background:var(--field);border-radius:6px;padding:2px 7px;color:var(--ink2);white-space:nowrap}
+
+  /* ── reader ── */
+  .rhead{background:var(--paper);padding:calc(10px + env(safe-area-inset-top)) 16px 18px;border-bottom:1px solid var(--rule)}
+  .back{border:0;background:none;color:var(--accent);padding:8px 0;font-size:15px;font-weight:600}
+  .rhead .row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:4px}
+  .rhead h1{margin:10px 0 8px;font-family:var(--serif);font-size:27px;line-height:1.22;font-weight:700}
+  .rhead .src{font-size:13px;color:var(--ink2)}
+  .bar{position:sticky;top:0;z-index:5;background:var(--bar-bg);backdrop-filter:saturate(1.4) blur(8px);-webkit-backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--rule);padding:8px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+  .pill{border:1px solid var(--rule);background:var(--paper);border-radius:20px;padding:6px 12px;font-size:14px;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+  .pill.on{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+  .pill select{border:0;background:transparent;padding:0;font-size:14px;appearance:none;-webkit-appearance:none}
+  .spacer{flex:1}
+  .icon{border:1px solid var(--rule);background:var(--paper);border-radius:20px;width:36px;height:34px;display:inline-flex;align-items:center;justify-content:center;font-size:16px;flex:none}
+  .text{background:var(--paper);padding:18px 16px 8px}
+  .para{position:relative;margin:0 0 18px;display:flex;gap:10px;align-items:flex-start}
+  .para p{margin:0;flex:1;font-family:var(--serif);font-size:19px;line-height:1.72}
+  .pplay{flex:none;width:30px;height:30px;margin-top:3px;border-radius:50%;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);font-size:11px;display:inline-flex;align-items:center;justify-content:center;padding:0}
+  .pplay.on{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+  .no-tts .pplay,.no-tts .tts-only{display:none!important}
+  .s{border-radius:4px;transition:background .15s}
+  .s.on{background:var(--say)}
+  .t{cursor:pointer;border-radius:3px}
+  .t.k-core{background:var(--core);color:var(--core-ink);box-shadow:inset 0 -2px 0 var(--core-line);padding:0 1px}
+  .t.st-learning{background:var(--learn);color:inherit;box-shadow:inset 0 -2px 0 var(--learn-line);padding:0 1px}
+  .t.st-known.k-core{background:none;color:inherit;box-shadow:none;padding:0}
+  .t.k-name{color:var(--name)}
+  .ph{text-decoration:underline;text-decoration-color:var(--phrase);text-decoration-thickness:1.5px;text-underline-offset:4px;cursor:pointer}
+  .t.w-on{background:var(--word-on)!important}
+  .t.sel{outline:2px solid var(--accent);outline-offset:1px}
+  .endbox{background:var(--paper);padding:6px 16px 24px;border-bottom:1px solid var(--rule)}
+  .readbtn{display:block;width:100%;border:1px solid var(--rule);background:var(--paper);border-radius:12px;padding:13px;font-weight:600;font-size:15px;margin-top:4px}
+  .readbtn.done{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+  .source{margin-top:18px;font-size:13px;color:var(--ink2);border-top:1px solid var(--rule);padding-top:14px}
+  .source a{color:var(--accent);word-break:break-all}
+  .source p{margin:0 0 6px}
+  .qs{margin-top:18px}
+  .q{margin:0 0 14px}
+  .q b{display:block;margin-bottom:6px;font-weight:600}
+  .q button{display:block;width:100%;text-align:left;border:1px solid var(--rule);background:var(--paper);border-radius:10px;padding:9px 12px;margin-bottom:6px}
+  .q button.right{border-color:var(--ok);color:var(--ok);font-weight:600}
+  .q button.wrong{border-color:var(--warn);color:var(--warn)}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--ink2);padding:10px 16px;background:var(--paper);border-bottom:1px solid var(--rule)}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .sw{display:inline-block;width:18px;height:12px;border-radius:3px}
+
+  /* ── sheet ── */
+  .scrim{position:fixed;inset:0;background:var(--scrim);opacity:0;pointer-events:none;transition:opacity .18s;z-index:20}
+  .scrim.on{opacity:1;pointer-events:auto}
+  .sheet{position:fixed;left:0;right:0;bottom:0;z-index:21;background:var(--paper);border-radius:18px 18px 0 0;box-shadow:0 -6px 30px var(--sheet-shadow);transform:translateY(105%);transition:transform .22s ease;max-height:82vh;overflow:auto;padding:8px 18px calc(18px + env(safe-area-inset-bottom));max-width:720px;margin:0 auto}
+  .sheet.on{transform:translateY(0)}
+  .handle{width:40px;height:5px;border-radius:3px;background:var(--rule);margin:2px auto 10px}
+  .hw{display:flex;align-items:center;gap:10px}
+  .hw h2{margin:0;font-family:var(--serif);font-size:28px;line-height:1.2;font-weight:700}
+  .say{border:0;background:var(--accent-soft);color:var(--accent);width:38px;height:38px;border-radius:50%;font-size:17px;flex:none}
+  .x{margin-left:auto;border:0;background:none;color:var(--ink3);font-size:22px;padding:4px 6px}
+  .ipa{font-family:var(--serif);color:var(--ink2);font-size:17px;margin-top:2px}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+  .tag{font-size:12px;border:1px solid var(--rule);border-radius:20px;padding:2px 9px;color:var(--ink2)}
+  .veil{margin-top:14px;border:1px dashed var(--rule);border-radius:12px;padding:16px;text-align:center;color:var(--ink3);font-size:14px;cursor:pointer;background:var(--hover)}
+  .mean{margin-top:12px}
+  .vi{font-size:18px;font-weight:600}
+  .en{color:var(--ink2);margin-top:3px;font-family:var(--serif);font-size:16.5px}
+  .ex{margin:14px 0 0;padding:10px 12px;border-left:3px solid var(--rule);background:var(--hover);border-radius:0 8px 8px 0;font-family:var(--serif);font-size:16px;line-height:1.55}
+  .ex mark{background:var(--core);color:inherit;border-radius:3px;padding:0 1px}
+  .states{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:16px}
+  .states button{border:1px solid var(--rule);background:var(--paper);border-radius:12px;padding:12px;font-weight:600;font-size:15px}
+  .states button.on[data-st="known"]{background:var(--ok);border-color:var(--ok);color:var(--on-accent)}
+  .states button.on[data-st="learning"]{background:var(--learn-line);border-color:var(--learn-line);color:var(--on-accent)}
+  .ls{margin-top:14px;font-size:13px;color:var(--ink3)}
+  .ls a{color:var(--accent);text-decoration:none}
+  .set-row{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 0;border-bottom:1px solid var(--rule)}
+  .set-row:last-child{border-bottom:0}
+  .set-row small{display:block;color:var(--ink3);font-size:12.5px}
+  .set-row select{border:1px solid var(--rule);background:var(--paper);border-radius:8px;padding:6px 8px;max-width:55%}
+  .switch{position:relative;width:48px;height:28px;border-radius:14px;border:0;background:var(--rule);flex:none;padding:0}
+  .switch::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:#fff;transition:transform .15s;box-shadow:0 1px 2px rgba(0,0,0,.25)}
+  .switch.on{background:var(--accent)}
+  .switch.on::after{transform:translateX(20px)}
+
+  /* ── vocab ── */
+  .tools{padding:12px 16px 4px;display:grid;gap:10px}
+  .search{width:100%;border:1px solid var(--rule);background:var(--paper);border-radius:12px;padding:11px 14px;font-size:16px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .chip{border:1px solid var(--rule);background:var(--paper);border-radius:20px;padding:5px 11px;font-size:13.5px}
+  .chip.on{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+  .chips select{border:1px solid var(--rule);background:var(--paper);border-radius:20px;padding:5px 10px;font-size:13.5px}
+  .vlist{margin:8px 16px 0;background:var(--paper);border:1px solid var(--rule);border-radius:14px;overflow:hidden}
+  .vrow{display:flex;align-items:center;gap:10px;width:100%;text-align:left;border:0;border-bottom:1px solid var(--rule);background:none;padding:11px 14px}
+  .vrow:last-child{border-bottom:0}
+  .vrow:active{background:var(--hover)}
+  .vrow .w{font-family:var(--serif);font-size:17px;font-weight:600;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .vrow .w small{font-family:var(--ui);font-weight:400;color:var(--ink3);font-size:13px;margin-left:6px}
+  .vrow .n{font-family:var(--mono);font-size:12px;color:var(--ink3);white-space:nowrap}
+  .dot{width:9px;height:9px;border-radius:50%;flex:none;background:var(--rule)}
+  .dot.known{background:var(--ok)}
+  .dot.learning{background:var(--learn-line);box-shadow:0 0 0 3px var(--learn)}
+  .dot.unknown{background:var(--core-line)}
+  .more{display:block;margin:10px auto 0;border:1px solid var(--rule);background:var(--paper);border-radius:20px;padding:7px 16px;font-size:14px;color:var(--ink2)}
+  .actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:14px 16px 0}
+  .btn{border:1px solid var(--rule);background:var(--paper);border-radius:12px;padding:12px;font-weight:600;font-size:14.5px}
+  .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+  .hint{padding:8px 16px 0;font-size:12.5px;color:var(--ink3)}
+
+  /* ── progress ── */
+  .panel{background:var(--paper);border:1px solid var(--rule);border-radius:14px;margin:12px 16px 0;padding:16px}
+  .panel h2{margin:0 0 2px;font-size:15px;font-weight:700}
+  .panel > p{margin:0 0 12px;font-size:13px;color:var(--ink3)}
+  .panel svg{width:100%;height:auto;display:block}
+  .panel svg text{font-family:var(--mono);font-size:10.5px;fill:var(--ink3)}
+  .panel a{color:var(--accent)}
+
+  /* ── tab bar ── */
+  .tabs{position:fixed;left:0;right:0;bottom:0;z-index:10;background:var(--bar-bg);backdrop-filter:saturate(1.4) blur(10px);-webkit-backdrop-filter:saturate(1.4) blur(10px);border-top:1px solid var(--rule);display:flex;padding-bottom:env(safe-area-inset-bottom)}
+  .tab{flex:1;border:0;background:none;height:var(--tabh);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:var(--ink3);font-size:11.5px;font-weight:600}
+  .tab svg{width:22px;height:22px}
+  .tab.on{color:var(--accent)}
+  .toast{position:fixed;left:50%;bottom:calc(var(--tabh) + env(safe-area-inset-bottom) + 14px);transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:9px 16px;border-radius:20px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:30;max-width:90vw;text-align:center}
+  .toast.on{opacity:1}
+</style>
+</head>
+<body>
+<div class="wrap" id="app">
+
+  <section class="screen on" id="scr-list">
+    <div class="head">
+      <div class="eyebrow">English Reader</div>
+      <h1>Bài đọc</h1>
+      <p>Tin kinh doanh, du lịch, thời trang — viết lại theo vốn từ của bạn.</p>
+      <div class="stats">
+        <div class="stat"><b id="stArticles">0</b><i>bài</i></div>
+        <div class="stat"><b id="stUnread">0</b><i>chưa đọc</i></div>
+        <div class="stat"><b id="stFrontier">–</b><i>mức đang học</i></div>
+      </div>
+    </div>
+    <div class="list" id="list"></div>
+  </section>
+
+  <section class="screen" id="scr-reader"></section>
+
+  <section class="screen" id="scr-vocab">
+    <div class="head">
+      <div class="eyebrow">Kho từ</div>
+      <h1>Từ vựng</h1>
+      <div class="stats">
+        <div class="stat"><b id="vTotal">0</b><i>mục</i></div>
+        <div class="stat"><b id="vLearning">0</b><i>đang học</i></div>
+        <div class="stat"><b id="vKnown">0</b><i>đã biết</i></div>
+      </div>
+    </div>
+    <div class="tools">
+      <input class="search" id="vSearch" type="search" placeholder="Tìm từ, nghĩa tiếng Việt…" autocomplete="off" autocapitalize="off" spellcheck="false">
+      <div class="chips" id="vStates">
+        <button class="chip on" data-f="all">Tất cả</button>
+        <button class="chip" data-f="learning">Đang học</button>
+        <button class="chip" data-f="unknown">Chưa biết</button>
+        <button class="chip" data-f="known">Đã biết</button>
+        <select id="vBand" aria-label="Lọc theo mức"></select>
+      </div>
+    </div>
+    <div class="vlist" id="vList"></div>
+    <button class="more" id="vMore" hidden>Xem thêm</button>
+    <div class="actions">
+      <button class="btn primary" id="expKnown">Xuất known.json</button>
+      <button class="btn" id="expAnki">Xuất Anki (.txt)</button>
+    </div>
+    <p class="hint">known.json: tải về rồi commit vào thư mục <code>known/</code> — đó là cách tập từ đã biết lớn dần. Anki: xuất các từ đang học, mỗi dòng một thẻ, phân cách bằng tab.</p>
+  </section>
+
+  <section class="screen" id="scr-progress">
+    <div class="head">
+      <div class="eyebrow">Tiến độ</div>
+      <h1>Khoảng cách đang thu hẹp</h1>
+      <div class="stats">
+        <div class="stat"><b id="pKnown">0</b><i>từ đã biết</i></div>
+        <div class="stat"><b id="pRead">0</b><i>bài đã đọc</i></div>
+        <div class="stat"><b id="pLearning">0</b><i>đang học</i></div>
+      </div>
+    </div>
+    <div class="panel"><h2>Vốn từ theo thời gian</h2><p>Từ bài kiểm tra và các lần xuất known.json, cộng thay đổi trên máy này.</p><div id="chKnown"></div></div>
+    <div class="panel"><h2>Bài đọc mỗi tuần</h2><p>8 tuần gần nhất.</p><div id="chWeeks"></div></div>
+    <div class="panel"><h2>Độ phủ theo mức</h2><p>Mỗi mức là 1.000 từ; cột = phần bạn đã biết.</p><div id="chBands"></div></div>
+    <div class="panel"><h2>Cài đặt</h2><div id="settings"></div></div>
+    <div class="panel"><h2>Bài kiểm tra vốn từ</h2><p style="margin:0">Làm lại khoảng 3 tháng một lần: <a href="test/index.html">mở bài kiểm tra</a>.</p></div>
+  </section>
+</div>
+
+<nav class="tabs" id="tabs">
+  <button class="tab on" data-tab="list"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4H10a2 2 0 0 1 2 2v14a1.5 1.5 0 0 0-1.5-1.5h-5A1.5 1.5 0 0 1 4 17Z"/><path d="M20 5.5A1.5 1.5 0 0 0 18.5 4H14a2 2 0 0 0-2 2v14a1.5 1.5 0 0 1 1.5-1.5h5A1.5 1.5 0 0 0 20 17Z"/></svg>Đọc</button>
+  <button class="tab" data-tab="vocab"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3.5" width="16" height="17" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>Kho từ</button>
+  <button class="tab" data-tab="progress"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>Tiến độ</button>
+</nav>
+
+<div class="scrim" id="scrim"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true"><div class="handle"></div><div id="sheetBody"></div></div>
+<div class="toast" id="toast"></div>
+
+<script id="data" type="application/json">{"meta":{"built":"2026-10-14","known_version":"2026-10-14","frontier_band":4,"band_size":{"1":1000,"2":1000,"3":1000,"4":1000,"5":1000,"6":1000,"7":1000,"8":1000,"9":1000,"10":1000},"band_known":{"1":1000,"2":1000,"3":1000,"4":0,"5":0,"6":0,"7":0,"8":0,"9":0,"10":0}},"dict":{"a":{"ipa":"ə","pos":"det","en":"one; used before a noun we do not know yet","vi":"một","band":1,"ls":["2026-10-14"]},"about":{"ipa":"əˈbaʊt","pos":"prep","en":"on the subject of","vi":"về","band":1,"ls":["2026-10-14"]},"according to":{"ipa":"əˈkɔrdɪŋ tu","pos":"phr","en":"as said or reported by someone","vi":"theo (lời, số liệu của)","ls":["2026-10-14"]},"across":{"ipa":"əˈkrɔs","pos":"prep","en":"from one side to the other side","vi":"băng qua, qua","band":1,"ls":["2026-10-14"]},"adult":{"ipa":"əˈdʌlt","pos":"n","en":"a fully grown person","vi":"người trưởng thành","band":2,"ls":["2026-10-14"]},"after":{"ipa":"ˈæftɚ","pos":"conj","en":"later than something","vi":"sau khi","band":1,"ls":["2026-10-14"]},"again":{"ipa":"əˈɡɛn","pos":"adv","en":"one more time; back as before","vi":"lại, lần nữa","band":1,"ls":["2026-10-14"]},"agency":{"ipa":"ˈeɪdʒənsi","pos":"n","en":"a government office that does a special job","vi":"cơ quan","band":2,"ls":["2026-10-14"]},"ago":{"ipa":"əˈɡoʊ","pos":"adv","en":"in the past, before now","vi":"trước đây, cách đây","band":1,"ls":["2026-10-14"]},"air":{"ipa":"ɛr","pos":"n","en":"travel by plane","vi":"đường hàng không","band":1,"ls":["2026-10-14"]},"airline":{"ipa":"ˈɛrˌlaɪn","pos":"n","en":"a company that flies passengers by plane","vi":"hãng hàng không","band":4,"ls":["2026-10-14"]},"also":{"ipa":"ˈɔlsoʊ","pos":"adv","en":"in addition","vi":"cũng","band":1,"ls":["2026-10-14"]},"american":{"ipa":"əˈmɛrəkən","pos":"adj","en":"from or of the United States","vi":"thuộc về Mỹ","band":1,"ls":["2026-10-14"]},"an":{"ipa":"æn","pos":"det","en":"one; used before a vowel sound","vi":"một (trước nguyên âm)","band":1,"ls":["2026-10-14"]},"and":{"ipa":"ənd","pos":"conj","en":"used to join words or ideas","vi":"và","band":1,"ls":["2026-10-14"]},"any":{"ipa":"ˈɛni","pos":"det","en":"one or some, it does not matter which","vi":"bất kỳ","band":1,"ls":["2026-10-14"]},"appear":{"ipa":"əˈpɪr","pos":"v","en":"to be seen; to show","vi":"xuất hiện","band":2,"ls":["2026-10-14"]},"arrival":{"ipa":"ɚˈaɪvəl","pos":"n","en":"reaching a place; a person who arrives","vi":"sự đến; lượt khách đến","band":3,"ls":["2026-10-14"]},"at":{"ipa":"æt","pos":"prep","en":"used for a point in time or place","vi":"ở, vào lúc","band":1,"ls":["2026-10-14"]},"away":{"ipa":"əˈweɪ","pos":"adv","en":"not here; at a distance","vi":"xa, đi nơi khác","band":1,"ls":["2026-10-14"]},"back":{"ipa":"bæk","pos":"adv","en":"to where something was before","vi":"trở lại","band":1,"ls":["2026-10-14"]},"be":{"ipa":"bi","pos":"aux","en":"used with another verb, or to say what something is","vi":"thì, là, ở; trợ động từ","band":1,"ls":["2026-10-14"]},"below":{"ipa":"bɪˈloʊ","pos":"prep","en":"lower than","vi":"thấp hơn, dưới","band":1,"ls":["2026-10-14"]},"between":{"ipa":"bɪˈtwin","pos":"prep","en":"connecting two people, things or places","vi":"giữa","band":1,"ls":["2026-10-14"]},"book":{"ipa":"bʊk","pos":"v","en":"to pay for a ticket or room before you use it","vi":"đặt (vé, phòng)","band":1,"ls":["2026-10-14"]},"border":{"ipa":"ˈbɔrdɚ","pos":"n","en":"the line between two countries","vi":"biên giới","band":2,"ls":["2026-10-14"]},"both":{"ipa":"boʊθ","pos":"pron","en":"the two together","vi":"cả hai","band":1,"ls":["2026-10-14"]},"business":{"ipa":"ˈbɪznəs","pos":"n","en":"work done to earn money","vi":"kinh doanh; (business travel) đi công tác","band":1,"ls":["2026-10-14"]},"but":{"ipa":"bʌt","pos":"conj","en":"used to add something different or surprising","vi":"nhưng","band":1,"ls":["2026-10-14"]},"by":{"ipa":"baɪ","pos":"prep","en":"using a way of travel","vi":"bằng (phương tiện)","band":1,"ls":["2026-10-14"]},"car":{"ipa":"kɑr","pos":"n","en":"a road vehicle for a few people","vi":"xe hơi, ô tô","band":1,"ls":["2026-10-14"]},"change":{"ipa":"tʃeɪndʒ","pos":"v","en":"to become or make different","vi":"thay đổi","band":1,"ls":["2026-10-14"]},"clearly":{"ipa":"ˈklɪrli","pos":"adv","en":"in a way that is easy to see","vi":"rõ ràng","band":1,"ls":["2026-10-14"]},"come":{"ipa":"kʌm","pos":"v","en":"to move toward here","vi":"đến, tới","band":1,"ls":["2026-10-14"]},"come back":{"ipa":"kʌm bæk","pos":"phr","en":"to return to a place","vi":"quay lại, trở lại","band":1,"ls":["2026-10-14"]},"compared with":{"ipa":"kəmˈpɛrd wɪð","pos":"phr","en":"when you look at how two things are different","vi":"so với","ls":["2026-10-14"]},"consecutive":{"ipa":"kənˈsɛkjətɪv","pos":"adj","en":"following one after another with no break","vi":"liên tiếp","band":4,"ls":["2026-10-14"]},"count":{"ipa":"kaʊnt","pos":"v","en":"to find the number of something; to include it","vi":"đếm, tính","band":2,"ls":["2026-10-14"]},"country":{"ipa":"ˈkʌntri","pos":"n","en":"a nation with its own government","vi":"quốc gia, đất nước","band":1,"ls":["2026-10-14"]},"crossing":{"ipa":"ˈkrɔsɪŋ","pos":"n","en":"going from one side of a border to the other","vi":"lượt qua (biên giới)","band":3,"ls":["2026-10-14"]},"destination":{"ipa":"ˌdɛstəˈneɪʃən","pos":"n","en":"the place where someone is going","vi":"điểm đến","band":4,"ls":["2026-10-14"]},"different":{"ipa":"ˈdɪfɚənt","pos":"adj","en":"not the same","vi":"khác","band":1,"ls":["2026-10-14"]},"direction":{"ipa":"dɚˈɛkʃən","pos":"n","en":"the way something is moving","vi":"hướng","band":1,"ls":["2026-10-14"]},"do":{"ipa":"du","pos":"v","en":"to perform; (do better) to have better results","vi":"làm; (do better) khá hơn","band":1,"ls":["2026-10-14"]},"down":{"ipa":"daʊn","pos":"adv","en":"to a lower level","vi":"xuống, giảm","band":1,"ls":["2026-10-14"]},"each":{"ipa":"itʃ","pos":"det","en":"every one in a group","vi":"mỗi","band":1,"ls":["2026-10-14"]},"early":{"ipa":"ˈɝli","pos":"adv","en":"before the usual time; (earlier) before now","vi":"sớm; (earlier) trước đó","band":1,"ls":["2026-10-14"]},"end":{"ipa":"ɛnd","pos":"v","en":"to stop something","vi":"chấm dứt","band":1,"ls":["2026-10-14"]},"even":{"ipa":"ˈivɪn","pos":"adv","en":"used to show something is surprising","vi":"ngay cả","band":1,"ls":["2026-10-14"]},"even though":{"ipa":"ˈivɪn ðoʊ","pos":"phr","en":"used before something surprising; although","vi":"mặc dù","band":1,"ls":["2026-10-14"]},"far":{"ipa":"fɑr","pos":"adv","en":"a long way from","vi":"xa","band":1,"ls":["2026-10-14"]},"feeling":{"ipa":"ˈfilɪŋ","pos":"n","en":"an emotion, like love or anger","vi":"cảm xúc","band":1,"ls":["2026-10-14"]},"flight":{"ipa":"flaɪt","pos":"n","en":"a trip on a plane","vi":"chuyến bay","band":2,"ls":["2026-10-14"]},"for":{"ipa":"fɔr","pos":"prep","en":"meant to help or be used by","vi":"cho, dành cho","band":1,"ls":["2026-10-14"]},"from":{"ipa":"frʌm","pos":"prep","en":"showing where something starts","vi":"từ","band":1,"ls":["2026-10-14"]},"fully":{"ipa":"ˈfʊli","pos":"adv","en":"completely","vi":"hoàn toàn","band":2,"ls":["2026-10-14"]},"go":{"ipa":"ɡoʊ","pos":"v","en":"to move from one place to another","vi":"đi","band":1,"ls":["2026-10-14"]},"good":{"ipa":"ɡʊd","pos":"adj","en":"of high quality; pleasing","vi":"tốt","band":1,"ls":["2026-10-14"]},"grow":{"ipa":"ɡroʊ","pos":"v","en":"to become bigger","vi":"tăng lên, phát triển","band":2,"ls":["2026-10-14"]},"growth":{"ipa":"ɡroʊθ","pos":"n","en":"the act of getting bigger","vi":"sự tăng trưởng","band":1,"ls":["2026-10-14"]},"have":{"ipa":"hæv","pos":"aux","en":"used with another verb to talk about the past","vi":"đã (trợ động từ)","band":1,"ls":["2026-10-14"]},"high":{"ipa":"haɪ","pos":"adj","en":"large in amount or level","vi":"cao","band":1,"ls":["2026-10-14"]},"home":{"ipa":"hoʊm","pos":"adv","en":"to or at the place where you live","vi":"về nhà","band":1,"ls":["2026-10-14"]},"hotel":{"ipa":"hoʊˈtɛl","pos":"n","en":"a building where people pay to stay","vi":"khách sạn","band":1,"ls":["2026-10-14"]},"how":{"ipa":"haʊ","pos":"adv","en":"in what way; to what degree","vi":"như thế nào, đến mức nào","band":1,"ls":["2026-10-14"]},"in":{"ipa":"ɪn","pos":"prep","en":"inside a place, time or group","vi":"trong, vào","band":1,"ls":["2026-10-14"]},"in other words":{"ipa":"ɪn ˈʌðɚ wɝdz","pos":"phr","en":"used to say the same thing in a simpler way","vi":"nói cách khác","ls":["2026-10-14"]},"interest":{"ipa":"ˈɪntrəst","pos":"n","en":"wanting to know about or do something","vi":"sự quan tâm","band":1,"ls":["2026-10-14"]},"it":{"ipa":"ɪt","pos":"pron","en":"the thing already talked about","vi":"nó","band":1,"ls":["2026-10-14"]},"jump":{"ipa":"dʒʌmp","pos":"v","en":"to go up suddenly by a large amount","vi":"tăng vọt","band":2,"ls":["2026-10-14"]},"last":{"ipa":"læst","pos":"adj","en":"the one before this one","vi":"trước, vừa qua","band":1,"ls":["2026-10-14"]},"less":{"ipa":"lɛs","pos":"adv","en":"not as much","vi":"ít hơn, kém hơn","band":1,"ls":["2026-10-14"]},"level":{"ipa":"ˈlɛvəl","pos":"n","en":"the amount or size of something","vi":"mức","band":1,"ls":["2026-10-14"]},"like":{"ipa":"laɪk","pos":"prep","en":"similar to","vi":"giống như","band":1,"ls":["2026-10-14"]},"likely":{"ipa":"ˈlaɪkli","pos":"adj","en":"probably going to happen","vi":"có khả năng","band":1,"ls":["2026-10-14"]},"long":{"ipa":"lɔŋ","pos":"adj","en":"great in distance or time","vi":"dài","band":1,"ls":["2026-10-14"]},"look":{"ipa":"lʊk","pos":"v","en":"to seem","vi":"trông có vẻ","band":1,"ls":["2026-10-14"]},"low":{"ipa":"loʊ","pos":"adj","en":"small in amount or level","vi":"thấp","band":1,"ls":["2026-10-14"]},"many":{"ipa":"ˈmɛni","pos":"adj","en":"a large number of","vi":"nhiều","band":1,"ls":["2026-10-14"]},"month":{"ipa":"mʌnθ","pos":"n","en":"one of the twelve parts of a year","vi":"tháng","band":1,"ls":["2026-10-14"]},"more":{"ipa":"mɔr","pos":"adj","en":"a larger number or amount","vi":"nhiều hơn","band":1,"ls":["2026-10-14"]},"near":{"ipa":"nɪr","pos":"prep","en":"not far from","vi":"gần","band":1,"ls":["2026-10-14"]},"need":{"ipa":"nid","pos":"v","en":"to have to have something","vi":"cần","band":1,"ls":["2026-10-14"]},"neighbor":{"ipa":"ˈneɪbɚ","pos":"n","en":"a person or country next to you","vi":"hàng xóm, nước láng giềng","band":4,"ls":["2026-10-14"]},"news":{"ipa":"nuz","pos":"n","en":"new information about recent events","vi":"tin tức","band":1,"ls":["2026-10-14"]},"northern":{"ipa":"ˈnɔrðɚn","pos":"adj","en":"in or from the north","vi":"phía bắc","band":2,"ls":["2026-10-14"]},"not":{"ipa":"nɑt","pos":"part","en":"used to make a sentence negative","vi":"không","band":1,"ls":["2026-10-14"]},"number":{"ipa":"ˈnʌmbɚ","pos":"n","en":"a figure such as 1, 2 or 3; an amount","vi":"con số, số liệu","band":1,"ls":["2026-10-14"]},"of":{"ipa":"ʌv","pos":"prep","en":"showing what something belongs to or is part of","vi":"của","band":1,"ls":["2026-10-14"]},"on":{"ipa":"ɑn","pos":"prep","en":"used with days and dates","vi":"vào (ngày)","band":1,"ls":["2026-10-14"]},"online":{"ipa":"ˈɔnˌlaɪn","pos":"adv","en":"on the internet","vi":"trên mạng","band":1,"ls":["2026-10-14"]},"only":{"ipa":"ˈoʊnli","pos":"adv","en":"no more than","vi":"chỉ","band":1,"ls":["2026-10-14"]},"open":{"ipa":"ˈoʊpən","pos":"adj","en":"ready to accept new ideas","vi":"cởi mở, sẵn lòng","band":1,"ls":["2026-10-14"]},"over":{"ipa":"ˈoʊvɚ","pos":"prep","en":"about; because of","vi":"về (việc gì)","band":1,"ls":["2026-10-14"]},"past":{"ipa":"pæst","pos":"adj","en":"gone by; before now","vi":"đã qua, vừa qua","band":1,"ls":["2026-10-14"]},"pattern":{"ipa":"ˈpætɚn","pos":"n","en":"the way something usually happens","vi":"khuôn mẫu, xu hướng chung","band":2,"ls":["2026-10-14"]},"picture":{"ipa":"ˈpɪktʃɚ","pos":"n","en":"an idea of what a situation is like","vi":"bức tranh (toàn cảnh)","band":1,"ls":["2026-10-14"]},"place":{"ipa":"pleɪs","pos":"n","en":"an area, town or building","vi":"nơi, chỗ","band":1,"ls":["2026-10-14"]},"plane":{"ipa":"pleɪn","pos":"n","en":"a vehicle that flies","vi":"máy bay","band":2,"ls":["2026-10-14"]},"point":{"ipa":"pɔɪnt","pos":"n","en":"a moment in time","vi":"thời điểm","band":1,"ls":["2026-10-14"]},"popular":{"ipa":"ˈpɑpjəlɚ","pos":"adj","en":"liked by many people","vi":"được ưa chuộng","band":1,"ls":["2026-10-14"]},"price":{"ipa":"praɪs","pos":"n","en":"the money you pay for something","vi":"giá","band":1,"ls":["2026-10-14"]},"recover":{"ipa":"rɪˈkʌvɚ","pos":"v","en":"to get back to a normal or healthy state","vi":"hồi phục","band":4,"ls":["2026-10-14"]},"recovery":{"ipa":"rɪˈkʌvri","pos":"n","en":"returning to a normal state","vi":"sự phục hồi","band":2,"ls":["2026-10-14"]},"release":{"ipa":"riˈlis","pos":"v","en":"to make news or information public","vi":"công bố, phát hành","band":1,"ls":["2026-10-14"]},"return":{"ipa":"rɪˈtɝn","pos":"n","en":"the act of coming or going back","vi":"sự trở về; (return trip) chuyến về","band":1,"ls":["2026-10-14"]},"rise":{"ipa":"raɪz","pos":"v","en":"to go up; to become higher","vi":"tăng, tăng lên","band":2,"ls":["2026-10-14"]},"road":{"ipa":"roʊd","pos":"n","en":"a way for cars; also: a long process","vi":"con đường","band":1,"ls":["2026-10-14"]},"same":{"ipa":"seɪm","pos":"adj","en":"not different","vi":"giống nhau, cùng","band":1,"ls":["2026-10-14"]},"say":{"ipa":"seɪ","pos":"v","en":"to tell something in words","vi":"nói, cho biết","band":1,"ls":["2026-10-14"]},"search":{"ipa":"sɝtʃ","pos":"n","en":"looking for something, often on the internet","vi":"lượt tìm kiếm","band":1,"ls":["2026-10-14"]},"see":{"ipa":"si","pos":"v","en":"to notice, or to have something happen","vi":"thấy; chứng kiến","band":1,"ls":["2026-10-14"]},"september":{"ipa":"sɛpˈtɛmbɚ","pos":"n","en":"the ninth month of the year","vi":"tháng Chín","band":1,"ls":["2026-10-14"]},"shop":{"ipa":"ʃɑp","pos":"n","en":"a place where you buy things","vi":"cửa hàng","band":2,"ls":["2026-10-14"]},"six":{"ipa":"sɪks","pos":"num","en":"the number 6","vi":"sáu","band":1,"ls":["2026-10-14"]},"sixth":{"ipa":"sɪksθ","pos":"adj","en":"number 6 in a list","vi":"thứ sáu","band":3,"ls":["2026-10-14"]},"slight":{"ipa":"slaɪt","pos":"adj","en":"small; not large or important","vi":"nhẹ, nhỏ, không đáng kể","band":4,"ls":["2026-10-14"]},"slowly":{"ipa":"ˈsloʊli","pos":"adv","en":"not quickly","vi":"một cách chậm rãi","band":2,"ls":["2026-10-14"]},"so":{"ipa":"soʊ","pos":"conj","en":"for that reason","vi":"vì vậy","band":1,"ls":["2026-10-14"]},"so far":{"ipa":"soʊ fɑr","pos":"phr","en":"until now","vi":"cho đến nay","band":1,"ls":["2026-10-14"]},"sound":{"ipa":"saʊnd","pos":"v","en":"to seem, from what you hear or read","vi":"nghe có vẻ","band":1,"ls":["2026-10-14"]},"south":{"ipa":"saʊθ","pos":"adv","en":"toward the south","vi":"về phía nam","band":1,"ls":["2026-10-14"]},"southern":{"ipa":"ˈsʌðɚn","pos":"adj","en":"in or from the south","vi":"phía nam","band":2,"ls":["2026-10-14"]},"start":{"ipa":"stɑrt","pos":"v","en":"to begin","vi":"bắt đầu","band":1,"ls":["2026-10-14"]},"stay":{"ipa":"steɪ","pos":"v","en":"to remain in the same place","vi":"ở lại","band":1,"ls":["2026-10-14"]},"steady":{"ipa":"ˈstɛdi","pos":"adj","en":"changing slowly and regularly, without stopping","vi":"đều đặn, ổn định","band":4,"ls":["2026-10-14"]},"step":{"ipa":"stɛp","pos":"n","en":"one stage in a process","vi":"bước","band":1,"ls":["2026-10-14"]},"still":{"ipa":"stɪl","pos":"adv","en":"continuing until now; also: even so","vi":"vẫn, vẫn còn","band":1,"ls":["2026-10-14"]},"strong":{"ipa":"strɔŋ","pos":"adj","en":"powerful; very great","vi":"mạnh, mạnh mẽ","band":1,"ls":["2026-10-14"]},"survey":{"ipa":"sɚˈveɪ","pos":"n","en":"asking many people the same questions","vi":"cuộc khảo sát","band":2,"ls":["2026-10-14"]},"tension":{"ipa":"ˈtɛnʃən","pos":"n","en":"a bad feeling between people or countries who disagree","vi":"căng thẳng","band":4,"ls":["2026-10-14"]},"than":{"ipa":"ðæn","pos":"prep","en":"used to compare two things","vi":"hơn (so sánh)","band":1,"ls":["2026-10-14"]},"that":{"ipa":"ðæt","pos":"pron","en":"used to point to a thing already talked about","vi":"đó, điều đó; (đại từ quan hệ) mà","band":1,"ls":["2026-10-14"]},"the":{"ipa":"ðə","pos":"det","en":"used before a noun when we know which one","vi":"(mạo từ xác định) cái, con, người… đã biết","band":1,"ls":["2026-10-14"]},"their":{"ipa":"ðɛr","pos":"pron","en":"belonging to them","vi":"của họ","band":1,"ls":["2026-10-14"]},"there":{"ipa":"ðɛr","pos":"pron","en":"used to say that something exists","vi":"(there is) có","band":1,"ls":["2026-10-14"]},"they":{"ipa":"ðeɪ","pos":"pron","en":"those people or things","vi":"họ, chúng","band":1,"ls":["2026-10-14"]},"think":{"ipa":"θɪŋk","pos":"v","en":"to have something in your mind","vi":"nghĩ","band":1,"ls":["2026-10-14"]},"ticket":{"ipa":"ˈtɪkət","pos":"n","en":"a paper or card that lets you travel","vi":"vé","band":2,"ls":["2026-10-14"]},"to":{"ipa":"tu","pos":"prep","en":"in the direction of a place or person","vi":"đến, tới","band":1,"ls":["2026-10-14"]},"too":{"ipa":"tu","pos":"adv","en":"also","vi":"cũng","band":1,"ls":["2026-10-14"]},"tourism":{"ipa":"ˈtʊˌrɪzəm","pos":"n","en":"the business of travel and holidays","vi":"ngành du lịch","band":4,"ls":["2026-10-14"]},"tourist":{"ipa":"ˈtʊrəst","pos":"n","en":"a person who travels to a place for fun","vi":"khách du lịch","band":4,"ls":["2026-10-14"]},"trade":{"ipa":"treɪd","pos":"n","en":"buying and selling goods between countries","vi":"thương mại","band":1,"ls":["2026-10-14"]},"travel":{"ipa":"ˈtrævəl","pos":"v","en":"to go from one place to another, often far","vi":"đi lại, đi du lịch","band":1,"ls":["2026-10-14"]},"trend":{"ipa":"trɛnd","pos":"n","en":"the general direction of change","vi":"xu hướng","band":3,"ls":["2026-10-14"]},"trip":{"ipa":"trɪp","pos":"n","en":"a journey to a place and back","vi":"chuyến đi","band":2,"ls":["2026-10-14"]},"tuesday":{"ipa":"ˈtuzdi","pos":"n","en":"the day after Monday","vi":"thứ Ba","band":2,"ls":["2026-10-14"]},"two":{"ipa":"tu","pos":"num","en":"the number 2","vi":"hai","band":1,"ls":["2026-10-14"]},"unusually":{"ipa":"ənˈjuˌʒuəli","pos":"adv","en":"more than is normal","vi":"bất thường, hơn hẳn mọi khi","band":7,"ls":["2026-10-14"]},"up":{"ipa":"ʌp","pos":"adv","en":"to a higher level","vi":"lên","band":1,"ls":["2026-10-14"]},"used to":{"ipa":"juzd tu","pos":"phr","en":"did something often in the past, but not now","vi":"đã từng (thường làm, nay không còn)","band":1,"ls":["2026-10-14"]},"vacation":{"ipa":"veɪˈkeɪʃən","pos":"n","en":"time away from work for rest or travel","vi":"kỳ nghỉ","band":3,"ls":["2026-10-14"]},"very":{"ipa":"ˈvɛri","pos":"adv","en":"used to make a word stronger","vi":"rất","band":1,"ls":["2026-10-14"]},"visit":{"ipa":"ˈvɪzɪt","pos":"v","en":"to go to see a place or a person","vi":"đến thăm, ghé thăm","band":1,"ls":["2026-10-14"]},"way":{"ipa":"weɪ","pos":"n","en":"a distance; also: a method","vi":"quãng đường; cách","band":1,"ls":["2026-10-14"]},"weak":{"ipa":"wik","pos":"adj","en":"not strong","vi":"yếu","band":2,"ls":["2026-10-14"]},"website":{"ipa":"ˈwɛbˌsaɪt","pos":"n","en":"a place on the internet with pages of information","vi":"trang web","band":1,"ls":["2026-10-14"]},"welcome":{"ipa":"ˈwɛlkəm","pos":"v","en":"to be happy to receive someone","vi":"chào đón","band":1,"ls":["2026-10-14"]},"when":{"ipa":"wɛn","pos":"conj","en":"at the time that","vi":"khi","band":1,"ls":["2026-10-14"]},"who":{"ipa":"hu","pos":"pron","en":"used to say which person or people","vi":"người mà, ai","band":1,"ls":["2026-10-14"]},"winter":{"ipa":"ˈwɪntɚ","pos":"n","en":"the coldest season of the year","vi":"mùa đông","band":2,"ls":["2026-10-14"]},"would":{"ipa":"wʊd","pos":"aux","en":"used to talk about a possible result","vi":"sẽ (giả định)","band":1,"ls":["2026-10-14"]},"year":{"ipa":"jɪr","pos":"n","en":"twelve months","vi":"năm","band":1,"ls":["2026-10-14"]}},"names":{"Canada":{"vi":"Cục Thống kê Canada, cơ quan thống kê của chính phủ Canada","full":"Statistics Canada"},"Canadian":{"vi":"thuộc về Canada; người Canada"},"Canadians":{"vi":"người Canada"},"Centre":{"vi":"công ty du lịch, đặt vé máy bay ở Canada","full":"Flight Centre Canada"},"Corporate":{"vi":"công ty dịch vụ đặt vé công tác cho doanh nghiệp ở Canada","full":"Corporate Traveller Canada"},"County":{"vi":"hạt Whatcom, bang Washington, giáp biên giới Canada","full":"Whatcom County"},"England":{"vi":"vùng New England, đông bắc nước Mỹ (giáp Canada)","full":"New England"},"Flight":{"vi":"công ty du lịch, đặt vé máy bay ở Canada","full":"Flight Centre Canada"},"FlightHub":{"vi":"trang web đặt vé máy bay của Canada"},"Hawaii":{"vi":"bang Hawaii, quần đảo giữa Thái Bình Dương"},"Leger":{"vi":"công ty khảo sát ý kiến của Canada"},"New":{"vi":"vùng New England, đông bắc nước Mỹ (giáp Canada)","full":"New England"},"States":{"vi":"Hoa Kỳ, nước Mỹ","full":"United States"},"Statistics":{"vi":"Cục Thống kê Canada, cơ quan thống kê của chính phủ Canada","full":"Statistics Canada"},"Traveller":{"vi":"công ty dịch vụ đặt vé công tác cho doanh nghiệp ở Canada","full":"Corporate Traveller Canada"},"U.S.":{"vi":"Hoa Kỳ (viết tắt của United States)"},"United":{"vi":"Hoa Kỳ, nước Mỹ","full":"United States"},"Washington":{"vi":"bang Washington, tây bắc nước Mỹ (không phải thủ đô)"},"Whatcom":{"vi":"hạt Whatcom, bang Washington, giáp biên giới Canada","full":"Whatcom County"}},"articles":[{"id":"2026-10-14","seq":1,"domain":"travel","title":"More Canadians Visit the U.S., but Many Still Stay Away","level":{"known_version":"2026-10-14","frontier_band":4},"source":{"url":"https://skift.com/2026/10/13/canadian-trips-to-u-s-rise-for-sixth-straight-month-but-remain-far-below-2024-levels/","outlet":"Skift","author":"Rashaad Jorden","title":"Canadian Trips to U.S. Rise for Sixth Straight Month — but Remain Far Below 2024 Levels","date":"2026-10-13","accessed":"2026-10-14","figures":[{"id":"f1","text":"6.8% rise in September","quote":"rose 6.8% in September"},{"id":"f2","text":"sixth consecutive month","quote":"the sixth consecutive month of year-over-year growth"},{"id":"f3","text":"car 5.6%, air 11.6%","quote":"by 5.6% and 11.6%, respectively"},{"id":"f4","text":"released Tuesday by Statistics Canada","quote":"figures released Tuesday by Statistics Canada"},{"id":"f5","text":"car trips 31.1% lower than in September 2024","quote":"were 31.1% lower than in September 2024"},{"id":"f6","text":"air trips down 18.7%","quote":"return trips by air were down 18.7%"},{"id":"f7","text":"Northern New England up 6%, down 23% from 2024","quote":"Northern New England crossings up 6% year over year but down 23% from 2024"},{"id":"f8","text":"Whatcom County southbound vehicles up 3%, down 27%","quote":"Whatcom County, Washington, southbound vehicles up 3% but down 27%"},{"id":"f9","text":"Hawaii Canadian arrivals up 0.6%, down 4%","quote":"Hawaii's Canadian arrivals up 0.6% but down 4%"},{"id":"f10","text":"Corporate Traveller Canada bookings up 2.2% in September","quote":"Corporate Traveller Canada said cross-border air bookings were up 2.2% in September"},{"id":"f11","text":"3.9% year-to-date against 2024","quote":"and 3.9% year-to-date against 2024"},{"id":"f12","text":"unusually soft 2025","quote":"Climbing out of an unusually soft 2025"},{"id":"f13","text":"FlightHub search demand up 15%","quote":"FlightHub said U.S. search demand rose 15% year over year"},{"id":"f14","text":"17% jump in fares","quote":"despite a 17% jump in fares"},{"id":"f15","text":"Leger survey of 1,538 Canadian adults","quote":"a Leger survey of 1,538 Canadian adults"},{"id":"f16","text":"60% less open to U.S. travel","quote":"60% said they were less open to U.S. travel than at any point in the past year"},{"id":"f17","text":"43% trade tensions would not change likelihood","quote":"43% said resolving Canada-U.S. trade tensions would not change their likelihood of visiting"}]},"coverage":{"strict":0.948,"effective":0.956,"tokens":415,"new_core":8},"vocab":["consecutive","airline","neighbor","destination","slight","tension","tourism","steady","compared with","according to","in other words","used to","come back","so far","even though"],"blocks":[{"type":"h","sents":[[{"w":"More","l":"more","k":"known"},{"w":"Canadians","k":"name"},{"w":"Visit","l":"visit","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"U.S.","nsp":1,"k":"name"},{"w":",","k":"plain"},{"w":"but","l":"but","k":"known"},{"w":"Many","l":"many","k":"known"},{"w":"Still","l":"still","k":"known"},{"w":"Stay","l":"stay","k":"known"},{"w":"Away","l":"away","k":"known"}]]},{"type":"p","sents":[[{"w":"Canadians","k":"name"},{"w":"are","l":"be","k":"known"},{"w":"traveling","l":"travel","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"United","k":"name"},{"w":"States","k":"name"},{"w":"again","nsp":1,"l":"again","k":"known"},{"w":",","k":"plain"},{"w":"but","l":"but","k":"known"},{"w":"slowly","nsp":1,"l":"slowly","k":"known"},{"w":".","k":"plain"}],[{"w":"In","l":"in","k":"known"},{"w":"September","nsp":1,"l":"september","k":"known"},{"w":",","k":"plain"},{"w":"Canadian","k":"name"},{"w":"return","l":"return","k":"known"},{"w":"trips","l":"trip","k":"known"},{"w":"from","l":"from","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"U.S.","k":"name"},{"w":"rose","l":"rise","k":"known"},{"w":"6.8","nsp":1,"k":"plain","fig":"f1"},{"w":"%","k":"plain"},{"w":"compared","l":"compared with","ph":2,"k":"known"},{"w":"with","l":"compared with","ph":2,"k":"known"},{"w":"a","l":"a","k":"known"},{"w":"year","l":"year","k":"known"},{"w":"earlier","nsp":1,"l":"early","k":"known"},{"w":",","k":"plain"},{"w":"according","l":"according to","ph":1,"k":"known"},{"w":"to","l":"according to","ph":1,"k":"known"},{"w":"Statistics","k":"name"},{"w":"Canada","nsp":1,"k":"name"},{"w":".","k":"plain"}],[{"w":"A","l":"a","k":"known"},{"w":"return","l":"return","k":"known"},{"w":"trip","l":"trip","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"counted","l":"count","k":"known"},{"w":"when","l":"when","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"Canadian","k":"name"},{"w":"comes","l":"come","k":"known"},{"w":"home","l":"home","k":"known"},{"w":"after","l":"after","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"visit","l":"visit","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"United","k":"name"},{"w":"States","nsp":1,"k":"name"},{"w":".","k":"plain"}],[{"w":"September","l":"september","k":"known"},{"w":"was","l":"be","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"sixth","l":"sixth","k":"known"},{"w":"consecutive","l":"consecutive","k":"core"},{"w":"month","l":"month","k":"known"},{"w":"of","l":"of","k":"known"},{"w":"growth","nsp":1,"l":"growth","k":"known"},{"w":".","k":"plain"}],[{"w":"The","l":"the","k":"known"},{"w":"agency","l":"agency","k":"known"},{"w":"released","l":"release","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"numbers","l":"number","k":"known"},{"w":"on","l":"on","k":"known"},{"w":"Tuesday","nsp":1,"l":"tuesday","k":"known"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"Trips","l":"trip","k":"known"},{"w":"by","l":"by","k":"known"},{"w":"car","l":"car","k":"known"},{"w":"went","l":"go","k":"known"},{"w":"up","l":"up","k":"known"},{"w":"5.6","nsp":1,"k":"plain","fig":"f3"},{"w":"%","nsp":1,"k":"plain"},{"w":",","k":"plain"},{"w":"and","l":"and","k":"known"},{"w":"trips","l":"trip","k":"known"},{"w":"by","l":"by","k":"known"},{"w":"plane","l":"plane","k":"known"},{"w":"went","l":"go","k":"known"},{"w":"up","l":"up","k":"known"},{"w":"11.6","nsp":1,"k":"plain","fig":"f3"},{"w":"%","nsp":1,"k":"plain"},{"w":".","k":"plain"}],[{"w":"That","l":"that","k":"known"},{"w":"sounds","l":"sound","k":"known"},{"w":"like","l":"like","k":"known"},{"w":"good","l":"good","k":"known"},{"w":"news","l":"news","k":"known"},{"w":"for","l":"for","k":"known"},{"w":"American","l":"american","k":"known"},{"w":"hotels","nsp":1,"l":"hotel","k":"known"},{"w":",","k":"plain"},{"w":"shops","l":"shop","k":"known"},{"w":"and","l":"and","k":"known"},{"w":"airlines","l":"airline","k":"core"},{"w":"that","l":"that","k":"known"},{"w":"welcome","l":"welcome","k":"known"},{"w":"Canadian","k":"name"},{"w":"tourists","nsp":1,"l":"tourist","k":"known"},{"w":".","k":"plain"}],[{"w":"But","l":"but","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"growth","l":"growth","k":"known"},{"w":"starts","l":"start","k":"known"},{"w":"from","l":"from","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"very","l":"very","k":"known"},{"w":"low","l":"low","k":"known"},{"w":"level","nsp":1,"l":"level","k":"known"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"Compared","l":"compared with","ph":1,"k":"known"},{"w":"with","l":"compared with","ph":1,"k":"known"},{"w":"September","l":"september","k":"known"},{"w":"2024","nsp":1,"k":"plain","fig":"f5"},{"w":",","k":"plain"},{"w":"the","l":"the","k":"known"},{"w":"picture","l":"picture","k":"known"},{"w":"looks","l":"look","k":"known"},{"w":"very","l":"very","k":"known"},{"w":"different","nsp":1,"l":"different","k":"known"},{"w":".","k":"plain"}],[{"w":"Car","l":"car","k":"known"},{"w":"trips","l":"trip","k":"known"},{"w":"were","l":"be","k":"known"},{"w":"31.1","nsp":1,"k":"plain","fig":"f5"},{"w":"%","k":"plain"},{"w":"lower","l":"low","k":"known"},{"w":"than","l":"than","k":"known"},{"w":"two","l":"two","k":"known"},{"w":"years","l":"year","k":"known"},{"w":"ago","nsp":1,"l":"ago","k":"known"},{"w":".","k":"plain"}],[{"w":"Trips","l":"trip","k":"known"},{"w":"by","l":"by","k":"known"},{"w":"air","l":"air","k":"known"},{"w":"were","l":"be","k":"known"},{"w":"down","l":"down","k":"known"},{"w":"18.7","nsp":1,"k":"plain","fig":"f6"},{"w":"%","nsp":1,"k":"plain"},{"w":".","k":"plain"}],[{"w":"In","l":"in other words","ph":1,"k":"known"},{"w":"other","l":"in other words","ph":1,"k":"known"},{"w":"words","nsp":1,"l":"in other words","ph":1,"k":"known"},{"w":",","k":"plain"},{"w":"many","l":"many","k":"known"},{"w":"Canadians","k":"name"},{"w":"who","l":"who","k":"known"},{"w":"used","l":"used to","ph":2,"k":"known"},{"w":"to","l":"used to","ph":2,"k":"known"},{"w":"visit","l":"visit","k":"known"},{"w":"their","l":"their","k":"known"},{"w":"southern","l":"southern","k":"known"},{"w":"neighbor","l":"neighbor","k":"core"},{"w":"have","l":"have","k":"known"},{"w":"not","l":"not","k":"known"},{"w":"come","l":"come back","ph":3,"k":"known"},{"w":"back","nsp":1,"l":"come back","ph":3,"k":"known"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"The","l":"the","k":"known"},{"w":"same","l":"same","k":"known"},{"w":"pattern","l":"pattern","k":"known"},{"w":"appears","l":"appear","k":"known"},{"w":"in","l":"in","k":"known"},{"w":"many","l":"many","k":"known"},{"w":"places","nsp":1,"l":"place","k":"known"},{"w":",","k":"plain"},{"w":"both","l":"both","k":"known"},{"w":"near","l":"near","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"border","l":"border","k":"known"},{"w":"and","l":"and","k":"known"},{"w":"far","l":"far","k":"known"},{"w":"from","l":"from","k":"known"},{"w":"it","nsp":1,"l":"it","k":"known"},{"w":".","k":"plain"}],[{"w":"In","l":"in","k":"known"},{"w":"northern","l":"northern","k":"known"},{"w":"New","k":"name"},{"w":"England","nsp":1,"k":"name"},{"w":",","k":"plain"},{"w":"crossings","l":"crossing","k":"known"},{"w":"were","l":"be","k":"known"},{"w":"up","l":"up","k":"known"},{"w":"6","nsp":1,"k":"plain","fig":"f7"},{"w":"%","k":"plain"},{"w":"from","l":"from","k":"known"},{"w":"last","l":"last","k":"known"},{"w":"year","l":"year","k":"known"},{"w":"but","l":"but","k":"known"},{"w":"down","l":"down","k":"known"},{"w":"23","nsp":1,"k":"plain","fig":"f7"},{"w":"%","k":"plain"},{"w":"from","l":"from","k":"known"},{"w":"2024","nsp":1,"k":"plain","fig":"f5"},{"w":".","k":"plain"}],[{"w":"In","l":"in","k":"known"},{"w":"Whatcom","k":"name"},{"w":"County","nsp":1,"k":"name"},{"w":",","k":"plain"},{"w":"Washington","nsp":1,"k":"name"},{"w":",","k":"plain"},{"w":"cars","l":"car","k":"known"},{"w":"going","l":"go","k":"known"},{"w":"south","l":"south","k":"known"},{"w":"rose","l":"rise","k":"known"},{"w":"3","nsp":1,"k":"plain","fig":"f8"},{"w":"%","k":"plain"},{"w":"but","l":"but","k":"known"},{"w":"stayed","l":"stay","k":"known"},{"w":"27","nsp":1,"k":"plain","fig":"f8"},{"w":"%","k":"plain"},{"w":"below","l":"below","k":"known"},{"w":"2024","nsp":1,"k":"plain","fig":"f5"},{"w":".","k":"plain"}],[{"w":"Even","l":"even","k":"known"},{"w":"Hawaii","nsp":1,"k":"name"},{"w":",","k":"plain"},{"w":"a","l":"a","k":"known"},{"w":"popular","l":"popular","k":"known"},{"w":"winter","l":"winter","k":"known"},{"w":"destination","nsp":1,"l":"destination","k":"core"},{"w":",","k":"plain"},{"w":"saw","l":"see","k":"known"},{"w":"only","l":"only","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"slight","l":"slight","k":"core"},{"w":"rise","l":"rise","k":"known"},{"w":"of","l":"of","k":"known"},{"w":"0.6","nsp":1,"k":"plain","fig":"f9"},{"w":"%","k":"plain"},{"w":"in","l":"in","k":"known"},{"w":"Canadian","k":"name"},{"w":"arrivals","nsp":1,"l":"arrival","k":"known"},{"w":".","k":"plain"}],[{"w":"It","l":"it","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"still","l":"still","k":"known"},{"w":"4","nsp":1,"k":"plain","fig":"f9"},{"w":"%","k":"plain"},{"w":"below","l":"below","k":"known"},{"w":"2024","nsp":1,"k":"plain","fig":"f5"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"Business","l":"business","k":"known"},{"w":"travel","l":"travel","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"doing","l":"do","k":"known"},{"w":"better","l":"good","k":"known"},{"w":"than","l":"than","k":"known"},{"w":"vacation","l":"vacation","k":"known"},{"w":"travel","nsp":1,"l":"travel","k":"known"},{"w":".","k":"plain"}],[{"w":"Corporate","k":"name"},{"w":"Traveller","k":"name"},{"w":"Canada","k":"name"},{"w":"said","l":"say","k":"known"},{"w":"flights","l":"flight","k":"known"},{"w":"booked","l":"book","k":"known"},{"w":"across","l":"across","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"border","l":"border","k":"known"},{"w":"were","l":"be","k":"known"},{"w":"up","l":"up","k":"known"},{"w":"2.2","nsp":1,"k":"plain","fig":"f10"},{"w":"%","k":"plain"},{"w":"in","l":"in","k":"known"},{"w":"September","nsp":1,"l":"september","k":"known"},{"w":".","k":"plain"}],[{"w":"For","l":"for","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"year","l":"year","k":"known"},{"w":"so","l":"so far","ph":1,"k":"known"},{"w":"far","nsp":1,"l":"so far","ph":1,"k":"known"},{"w":",","k":"plain"},{"w":"they","l":"they","k":"known"},{"w":"were","l":"be","k":"known"},{"w":"3.9","nsp":1,"k":"plain","fig":"f11"},{"w":"%","k":"plain"},{"w":"higher","l":"high","k":"known"},{"w":"than","l":"than","k":"known"},{"w":"in","l":"in","k":"known"},{"w":"2024","nsp":1,"k":"plain","fig":"f5"},{"w":".","k":"plain"}],[{"w":"Flight","k":"name"},{"w":"Centre","k":"name"},{"w":"Canada","k":"name"},{"w":"said","l":"say","k":"known"},{"w":"vacation","l":"vacation","k":"known"},{"w":"travel","l":"travel","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"growing","l":"grow","k":"known"},{"w":"from","l":"from","k":"known"},{"w":"an","l":"an","k":"known"},{"w":"unusually","l":"unusually","k":"known"},{"w":"weak","l":"weak","k":"known"},{"w":"2025","nsp":1,"k":"plain","fig":"f12"},{"w":",","k":"plain"},{"w":"so","l":"so","k":"known"},{"w":"it","l":"it","k":"known"},{"w":"still","l":"still","k":"known"},{"w":"has","l":"have","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"long","l":"long","k":"known"},{"w":"way","l":"way","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"recover","nsp":1,"l":"recover","k":"known"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"Interest","l":"interest","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"growing","l":"grow","k":"known"},{"w":"online","nsp":1,"l":"online","k":"known"},{"w":",","k":"plain"},{"w":"too","nsp":1,"l":"too","k":"known"},{"w":".","k":"plain"}],[{"w":"The","l":"the","k":"known"},{"w":"travel","l":"travel","k":"known"},{"w":"website","l":"website","k":"known"},{"w":"FlightHub","k":"name"},{"w":"said","l":"say","k":"known"},{"w":"searches","l":"search","k":"known"},{"w":"for","l":"for","k":"known"},{"w":"U.S.","k":"name"},{"w":"destinations","l":"destination","k":"core"},{"w":"rose","l":"rise","k":"known"},{"w":"15","nsp":1,"k":"plain","fig":"f13"},{"w":"%","k":"plain"},{"w":"from","l":"from","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"year","l":"year","k":"known"},{"w":"earlier","nsp":1,"l":"early","k":"known"},{"w":",","k":"plain"},{"w":"even","l":"even though","ph":1,"k":"known"},{"w":"though","l":"even though","ph":1,"k":"known"},{"w":"airline","l":"airline","k":"core"},{"w":"ticket","l":"ticket","k":"known"},{"w":"prices","l":"price","k":"known"},{"w":"jumped","l":"jump","k":"known"},{"w":"17","nsp":1,"k":"plain","fig":"f14"},{"w":"%","nsp":1,"k":"plain"},{"w":".","k":"plain"}],[{"w":"So","l":"so","k":"known"},{"w":"many","l":"many","k":"known"},{"w":"Canadians","k":"name"},{"w":"are","l":"be","k":"known"},{"w":"clearly","l":"clearly","k":"known"},{"w":"still","l":"still","k":"known"},{"w":"thinking","l":"think","k":"known"},{"w":"about","l":"about","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"trip","nsp":1,"l":"trip","k":"known"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"Still","nsp":1,"l":"still","k":"known"},{"w":",","k":"plain"},{"w":"many","l":"many","k":"known"},{"w":"Canadians","k":"name"},{"w":"have","l":"have","k":"known"},{"w":"strong","l":"strong","k":"known"},{"w":"feelings","l":"feeling","k":"known"},{"w":"about","l":"about","k":"known"},{"w":"their","l":"their","k":"known"},{"w":"neighbor","nsp":1,"l":"neighbor","k":"core"},{"w":".","k":"plain"}],[{"w":"There","l":"there","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"also","l":"also","k":"known"},{"w":"tension","l":"tension","k":"core"},{"w":"over","l":"over","k":"known"},{"w":"trade","l":"trade","k":"known"},{"w":"between","l":"between","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"two","l":"two","k":"known"},{"w":"countries","nsp":1,"l":"country","k":"known"},{"w":".","k":"plain"}],[{"w":"In","l":"in","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"Leger","k":"name"},{"w":"survey","l":"survey","k":"known"},{"w":"of","l":"of","k":"known"},{"w":"1,538","k":"plain","fig":"f15"},{"w":"Canadian","k":"name"},{"w":"adults","nsp":1,"l":"adult","k":"known"},{"w":",","k":"plain"},{"w":"60","nsp":1,"k":"plain","fig":"f16"},{"w":"%","k":"plain"},{"w":"said","l":"say","k":"known"},{"w":"they","l":"they","k":"known"},{"w":"were","l":"be","k":"known"},{"w":"less","l":"less","k":"known"},{"w":"open","l":"open","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"U.S.","k":"name"},{"w":"travel","l":"travel","k":"known"},{"w":"than","l":"than","k":"known"},{"w":"at","l":"at","k":"known"},{"w":"any","l":"any","k":"known"},{"w":"point","l":"point","k":"known"},{"w":"in","l":"in","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"past","l":"past","k":"known"},{"w":"year","nsp":1,"l":"year","k":"known"},{"w":".","k":"plain"}],[{"w":"And","l":"and","k":"known"},{"w":"43","nsp":1,"k":"plain","fig":"f17"},{"w":"%","k":"plain"},{"w":"said","l":"say","k":"known"},{"w":"that","l":"that","k":"known"},{"w":"ending","l":"end","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"trade","l":"trade","k":"known"},{"w":"tension","l":"tension","k":"core"},{"w":"between","l":"between","k":"known"},{"w":"Canada","k":"name"},{"w":"and","l":"and","k":"known"},{"w":"the","l":"the","k":"known"},{"w":"U.S.","k":"name"},{"w":"would","l":"would","k":"known"},{"w":"not","l":"not","k":"known"},{"w":"change","l":"change","k":"known"},{"w":"how","l":"how","k":"known"},{"w":"likely","l":"likely","k":"known"},{"w":"they","l":"they","k":"known"},{"w":"are","l":"be","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"visit","nsp":1,"l":"visit","k":"known"},{"w":".","k":"plain"}]]},{"type":"p","sents":[[{"w":"For","l":"for","k":"known"},{"w":"U.S.","k":"name"},{"w":"tourism","nsp":1,"l":"tourism","k":"core"},{"w":",","k":"plain"},{"w":"the","l":"the","k":"known"},{"w":"direction","l":"direction","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"good","nsp":1,"l":"good","k":"known"},{"w":".","k":"plain"}],[{"w":"Six","l":"six","k":"known"},{"w":"consecutive","l":"consecutive","k":"core"},{"w":"months","l":"month","k":"known"},{"w":"of","l":"of","k":"known"},{"w":"growth","l":"growth","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"steady","l":"steady","k":"core"},{"w":"trend","nsp":1,"l":"trend","k":"known"},{"w":",","k":"plain"},{"w":"and","l":"and","k":"known"},{"w":"tourists","l":"tourist","k":"known"},{"w":"from","l":"from","k":"known"},{"w":"Canada","k":"name"},{"w":"are","l":"be","k":"known"},{"w":"slowly","l":"slowly","k":"known"},{"w":"coming","l":"come back","ph":1,"k":"known"},{"w":"back","nsp":1,"l":"come back","ph":1,"k":"known"},{"w":".","k":"plain"}],[{"w":"But","l":"but","k":"known"},{"w":"each","l":"each","k":"known"},{"w":"step","l":"step","k":"known"},{"w":"is","l":"be","k":"known"},{"w":"slight","nsp":1,"l":"slight","k":"core"},{"w":",","k":"plain"},{"w":"and","l":"and","k":"known"},{"w":"tourism","l":"tourism","k":"core"},{"w":"needs","l":"need","k":"known"},{"w":"a","l":"a","k":"known"},{"w":"steady","l":"steady","k":"core"},{"w":"recovery","l":"recovery","k":"known"},{"w":"for","l":"for","k":"known"},{"w":"many","l":"many","k":"known"},{"w":"more","l":"more","k":"known"},{"w":"months","l":"month","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"recover","l":"recover","k":"known"},{"w":"fully","nsp":1,"l":"fully","k":"known"},{"w":".","k":"plain"}],[{"w":"The","l":"the","k":"known"},{"w":"road","l":"road","k":"known"},{"w":"back","l":"back","k":"known"},{"w":"to","l":"to","k":"known"},{"w":"2024","k":"plain","fig":"f5"},{"w":"levels","l":"level","k":"known"},{"w":"still","l":"still","k":"known"},{"w":"looks","l":"look","k":"known"},{"w":"long","nsp":1,"l":"long","k":"known"},{"w":".","k":"plain"}]]}]}],"known":{"updated":"2026-10-14","source":"placeholder — chưa có kết quả kiểm tra; giả định vững mức 1–3 như ví dụ trong spec","threshold_band":3,"frontier_band":4,"known":["a","abandon","ability","able","about","above","abroad","absence","absolute","absolutely","abuse","academic","academy","accept","access","accident","accord","account","accurate","accuse","achieve","achievement","acid","acquire","across","act","acting","action","active","activity","actor","actress","actual","actually","ad","add","addition","additional","address","administration","administrative","admit","adopt","adult","advance","advantage","adventure","advertising","advice","affair","affect","afford","afraid","african","after","afternoon","afterwards","again","against","age","agency","agent","aggressive","ago","agree","agreement","agricultural","agriculture","ah","ahead","aid","aim","air","aircraft","airport","album","alcohol","alert","alexander","alive","all","allege","allen","alliance","allow","almost","alone","along","alongside","already","alright","also","alternative","although","always","amaze","amazon","ambassador","amendment","american","among","amongst","amount","an","analysis","ancient","and","android","angel","anger","angle","angry","animal","anna","anniversary","announce","announcement","annoying","annual","another","answer","anthony","anti","anxiety","any","anybody","anymore","anyone","anything","anyway","anywhere","apart","apartment","app","apparent","apparently","appeal","appear","appearance","apple","application","apply","appoint","appointment","appreciate","approach","appropriate","approval","approve","approximately","april","arab","architecture","area","arena","argue","argument","arizona","arm","army","around","arrange","arrest","arrival","arrive","arsenal","art","arthur","article","artist","as","asian","aside","ask","asking","asleep","aspect","assault","assembly","assessment","asset","asshole","assign","assist","assistance","assistant","associate","association","assume","at","athlete","atlantic","atmosphere","attach","attack","attempt","attend","attending","attention","attitude","attorney","attract","attractive","audience","audio","aug","august","austin","australian","author","authority","auto","automatic","automatically","available","avenue","average","avoid","award","aware","awareness","away","awesome","awful","baby","back","background","bad","badly","bag","balance","ball","ban","band","bang","bank","banking","bar","barely","base","baseball","basic","basically","basis","basketball","bath","bathroom","battery","battle","bay","be","beach","bear","beat","beating","beautiful","beauty","because","become","bed","bedroom","before","begin","beginning","behalf","behavior","behaviour","behind","belief","believe","bell","belong","below","belt","bench","benefit","besides","bet","between","beyond","bible","bid","big","bike","bill","billion","billy","biological","bird","birth","birthday","bitch","bite","black","blame","blast","blind","block","blog","blood","blow","blue","board","boat","body","bomb","bond","bone","bonus","book","boom","boost","boot","border","boring","boss","both","bother","bottle","bottom","bound","bowl","box","boy","boyfriend","brain","branch","brand","brave","brazil","bread","break","breakfast","breaking","breast","breath","brian","bridge","brief","bright","brilliant","bring","bringing","britain","british","bro","broad","broadcast","broth","brother","brown","bruce","buddy","budget","build","building","bull","bullshit","bunch","bureau","burn","burning","bury","bus","business","busy","but","butter","button","buy","buying","by","bye","ca","cabinet","cable","cake","call","calling","calm","cambridge","camera","camp","campaign","campus","can","canadian","cancer","candidate","cannot","cant","cap","capable","capacity","capital","captain","capture","car","carbon","card","care","career","careful","carefully","carry","cart","case","cash","cast","castle","cat","catch","category","catholic","cause","causing","celebrate","cell","cent","center","central","centre","century","ceo","ceremony","certain","certainly","chain","chair","chairman","challenge","chamber","champion","championship","chance","change","channel","chapter","character","charge","charity","charles","charlie","chart","chase","chat","che","cheap","check","cheese","chelsea","chemical","chemistry","chicken","chief","child","childhood","chinese","chip","chocolate","choice","choose","christ","christian","christmas","church","circle","circuit","circumstance","citizen","city","civil","claim","clark","class","classic","clean","cleaning","clear","clearly","click","client","climate","clinical","clock","close","closely","closing","clothes","clothing","cloud","club","coach","coal","coast","coat","code","coffee","cold","collect","collection","college","colonel","color","colour","column","combat","combination","combine","come","comedy","comfort","comfortable","comic","coming","command","comment","commerce","commercial","commission","commit","commitment","committee","common","commonly","commonwealth","communication","communist","community","company","compare","comparison","compensation","compete","competition","competitive","complaint","complete","completely","complex","complicate","component","composition","comprehensive","compute","computer","concept","concern","concert","conclude","conclusion","concrete","condition","conduct","conference","confidence","confident","confirm","conflict","confuse","congratulations","congress","connect","connection","consent","consequence","conservation","conservative","consider","consist","consistent","constant","constantly","constitution","constitutional","construction","consume","consumer","consumption","contact","contain","contemporary","content","contest","context","continue","contract","contrast","contribute","contribution","control","convention","conversation","convince","cook","cooking","cool","cop","copy","core","corner","corporate","corporation","correct","corruption","cost","cotton","could","council","count","counter","country","county","couple","courage","course","court","cousin","cover","coverage","covering","crack","crap","crash","crazy","cream","create","creation","creative","credit","creek","crew","cricket","crime","criminal","crisis","critic","critical","criticism","cross","crossing","crowd","crown","cry","crying","crystal","cultural","culture","cup","cure","curious","currency","current","currently","custom","customer","cut","cute","cutting","cycle","dad","daddy","daily","damage","damn","dance","dancing","dang","dangerous","dare","dark","data","database","date","dating","daughter","day","dead","deal","dealing","dean","dear","death","debate","debt","debut","decade","december","decent","decide","decision","deck","declare","decline","dedicate","deep","deeply","defeat","defence","defend","defense","defensive","define","definitely","definition","degree","del","delay","delicious","deliver","delivery","demand","democracy","democrat","democratic","density","deny","department","depend","depression","depth","deputy","describe","description","desert","deserve","design","desire","desk","desperate","despite","destroy","destruction","detail","determine","develop","developing","development","device","diamond","dick","die","diego","diet","difference","different","difficult","difficulty","digital","dinner","direct","direction","directly","director","dirty","disappoint","disaster","discount","discover","discovery","discrimination","discuss","discussion","disease","disney","disorder","display","distance","distribute","distribution","district","diversity","divide","division","divorce","dna","do","doctor","document","documentary","dog","dollar","domain","domestic","door","double","doubt","down","download","downtown","dozen","draft","dragon","drama","dramatic","draw","drawing","dream","dress","drink","drinking","drive","driver","driving","drop","drug","dry","dude","due","duke","dumb","during","dust","dutch","duty","dying","dynamic","each","ear","early","earn","earth","ease","easily","east","eastern","easy","eat","eating","economic","economics","economy","edge","edit","edition","editor","education","educational","effect","effective","effectively","efficiency","efficient","effort","egg","egypt","eight","either","elect","election","electric","electrical","electricity","electronic","element","elementary","elite","else","elsewhere","email","emergency","emotion","emotional","empire","employ","employee","employment","empty","encourage","end","ending","enemy","energy","enforcement","engage","engagement","engine","engineer","engineering","england","english","enjoy","enough","ensure","enter","entering","enterprise","entertainment","entire","entirely","entitled","entrance","entry","environment","environmental","epic","episode","equal","equally","equipment","equivalent","era","error","escape","especially","essential","essentially","establish","establishment","estate","estimate","etc","ethnic","european","eve","even","evening","event","eventually","ever","every","everybody","everyday","everyone","everything","everywhere","evidence","evil","evolution","exact","exactly","example","excellent","except","exception","exchange","excite","exclusive","excuse","executive","exercise","exhibition","exist","existence","exit","expand","expansion","expect","expectation","expense","expensive","experience","experiment","expert","explain","explanation","explore","expose","exposure","express","expression","extend","extension","extensive","extent","external","extra","extraordinary","extreme","extremely","eye","face","facebook","facility","facing","fact","factor","factory","faculty","fail","failure","fair","fairly","faith","fake","fall","false","fame","familiar","family","famous","fan","fancy","fantastic","fantasy","far","farm","farmer","fashion","fast","fat","fate","father","fault","favor","favorite","favour","favourite","fear","feature","feb","february","federal","fee","feed","feedback","feel","feeling","fell","fellow","felt","female","festival","few","fiction","field","fifth","fight","fighting","figure","file","fill","film","final","finally","finance","financial","find","finding","fine","finger","finish","fire","firm","first","fish","fishing","fit","fitness","five","fix","flag","flash","flat","fleet","flight","flood","floor","flow","flower","fly","flying","focus","folk","follow","following","food","foot","footage","football","for","force","ford","foreign","forest","forever","forget","form","formal","format","formation","former","formula","fort","forth","forum","forward","foster","found","foundation","founder","four","fourth","fox","frame","francisco","frank","fraud","free","freedom","freeze","french","frequency","frequently","fresh","friday","friend","friendly","friendship","from","front","fruit","fuck","fuckin","fucking","fuel","full","fully","fun","function","fund","fundamental","funding","funeral","funny","further","future","gain","gallery","game","gaming","gang","gap","garden","gary","gas","gate","gay","gear","gender","gene","general","generally","generate","generation","genetic","genius","genuine","george","german","germany","get","getting","ghost","giant","gift","girl","girlfriend","give","giving","glad","glass","glasses","global","glory","go","goal","god","going","gold","golden","golf","gonna","good","gorgeous","gotta","government","governor","grab","grace","grade","graduate","grand","grant","grass","grateful","grave","gray","great","greatly","greek","green","grey","gross","ground","group","grow","growing","growth","guarantee","guard","guess","guest","guidance","guide","guilty","guitar","gun","guy","gym","hair","half","hall","hand","handle","handling","hang","hanging","happen","happening","happiness","happy","hard","hardly","harm","hat","hate","have","he","head","heading","headquarters","health","healthcare","healthy","hear","hearing","heart","heat","heaven","heavily","heavy","height","hell","hello","help","helpful","helping","hence","henry","her","here","heritage","hero","herself","hey","hi","hide","hiding","high","highly","highway","hill","himself","hip","hire","his","historic","historical","history","hit","hitting","hockey","hold","holding","hole","holiday","hollywood","holy","home","hon","honestly","honey","honor","honour","hook","hop","hope","hopefully","horrible","horror","horse","hospital","host","hot","hotel","hour","house","household","housing","how","howard","however","huge","human","humanity","hundred","hungry","hunt","hunting","hurt","husband","i","ice","idea","ideal","identify","identity","idiot","if","ignore","ill","illegal","illness","image","imagine","immediate","immediately","immigrant","immigration","impact","implementation","importance","important","impossible","impress","impression","impressive","improve","improvement","in","inc","inch","incident","include","income","increase","increasingly","incredible","incredibly","indeed","independence","independent","index","india","indian","indiana","indicate","individual","industrial","industry","infection","influence","info","inform","information","infrastructure","initial","initially","initiative","injure","injury","inn","innocent","innovation","input","insane","inside","inspiration","inspire","instagram","install","instance","instant","instead","institute","institution","instruction","instrument","insurance","intelligence","intend","intense","intention","interest","interior","internal","international","internet","interview","into","introduce","introduction","invest","investigate","investigation","investment","investor","invite","involve","iowa","iphone","iraq","ireland","irish","iron","islamic","island","israeli","issue","it","italian","italy","item","its","itself","jack","jacket","jail","jam","jan","jane","january","japanese","jason","jay","jazz","jew","jewish","jimmy","job","join","joining","joint","joke","jon","journal","journalist","journey","joy","judge","juice","july","jump","june","junior","jury","just","justice","kate","keep","keeping","kelly","key","kick","kid","kill","killing","kind","kinda","king","kingdom","kiss","kit","kitchen","knee","knife","knock","know","knowing","knowledge","kong","korean","lab","label","labor","laboratory","labour","lack","lady","lake","land","landing","landscape","lane","language","large","largely","last","late","lately","latin","latter","laugh","launch","law","lawrence","lawyer","lay","layer","lead","leader","leadership","leading","league","learn","learning","least","leather","leave","leaving","leg","legacy","legal","legend","legislation","legislative","length","less","lesson","let","letter","letting","level","lewis","liberal","liberty","library","license","lie","lieutenant","life","lifetime","lift","light","like","likely","limit","lincoln","line","link","lip","liquid","list","listen","listening","listing","literally","literary","literature","little","live","liverpool","living","load","loan","local","locate","location","lock","log","logic","lol","long","look","looking","loose","lord","lose","loss","lot","loud","love","lovely","low","lower","luck","lucky","lunch","luxury","lying","lyric","mac","machine","mad","magazine","magic","mail","main","mainly","maintain","maintenance","major","majority","make","makeup","making","male","man","manage","management","manager","manchester","mann","manual","manufacturer","manufacturing","many","map","march","maria","marine","mark","market","marketing","marriage","marry","martin","mask","mass","massive","master","match","mate","material","math","matt","matter","maximum","may","maybe","mayor","meal","mean","meaning","means","meanwhile","measure","meat","mechanical","medal","media","medical","medicine","medium","meet","meeting","melbourne","member","membership","memorial","memory","mental","mention","merely","mess","message","metal","method","mexican","mid","middle","midnight","might","mike","mile","military","milk","mill","million","min","mind","mine","mini","minimum","mining","minister","ministry","minor","minority","minute","mirror","miss","mission","mistake","mix","mobile","mode","model","modern","mom","moment","monday","money","monitor","monitoring","monster","month","monthly","mood","moon","moral","more","morning","mortgage","most","mostly","mother","motion","motor","mount","mountain","mouse","mouth","move","movement","movie","much","multi","multiple","mum","murder","muscle","museum","music","musical","muslim","must","my","myself","mystery","nah","naked","name","narrative","narrow","nation","national","native","natural","naturally","nature","navy","nba","near","nearby","nearly","necessarily","necessary","neck","need","negative","neighborhood","neither","nervous","net","network","never","new","newly","news","newspaper","next","nice","nick","nigeria","night","nine","no","nobody","noise","non","none","nor","normal","normally","north","northern","nose","not","note","nothing","notice","nov","novel","november","now","nowhere","nuclear","number","numerous","nurse","nursing","obama","object","objective","observe","obtain","obvious","obviously","occasion","occasionally","occupy","occur","ocean","oct","october","odd","of","off","offensive","offer","offering","office","officer","official","officially","often","oh","oil","ok","okay","old","olympic","on","once","one","ongoing","online","only","onto","open","opening","operate","operation","operator","opinion","opportunity","oppose","opposite","opposition","option","or","orange","order","ordinary","organic","organisation","organization","organize","origin","original","originally","oscar","other","others","otherwise","ought","our","ourselves","out","outcome","output","outside","outstanding","over","overall","own","owner","ownership","pace","pacific","pack","package","page","pain","painful","paint","painting","pair","palace","pan","panel","pant","paper","parent","park","parking","parliament","part","participant","participate","participation","particular","particularly","partner","partnership","party","pass","passenger","passing","passion","past","path","patient","patrick","pattern","pay","payment","peace","peak","pen","penalty","people","per","percent","percentage","perfect","perfectly","perform","performance","performing","perhaps","period","permanent","permission","person","personal","personality","personally","personnel","perspective","pet","phase","phil","philadelphia","philosophy","phone","photo","photograph","photography","physical","physics","pick","picking","picture","piece","pilot","pink","pitch","pizza","place","plain","plan","plane","planet","planning","plant","plastic","plate","platform","play","player","playing","please","pleasure","plenty","plot","plus","pocket","poetry","point","police","policy","political","politician","politics","poll","pool","poor","pop","pope","popular","population","porn","port","portion","position","positive","possession","possibility","possible","possibly","post","posting","pot","potential","potentially","pound","poverty","power","powerful","practical","practice","pray","pre","precious","prefer","pregnancy","pregnant","premier","premium","preparation","prepare","presence","present","president","presidential","press","pressure","pretend","pretty","prevent","previous","previously","price","pride","priest","primarily","primary","prime","prince","princes","principal","principle","print","prior","priority","prison","prisoner","privacy","private","prize","pro","probably","problem","procedure","process","processing","produce","producer","product","production","professional","professor","profile","profit","program","programme","programming","progress","progressive","project","prominent","promise","promote","promotion","proof","prop","properly","property","proposal","propose","protect","protection","protein","protest","proud","prove","provide","province","public","publication","publish","publishing","pull","pulling","punch","punishment","purchase","pure","purple","purpose","push","pushing","put","putting","qualify","quality","quarter","queen","question","quick","quickly","quiet","quit","quite","quote","race","racing","racist","radical","radio","rail","railroad","railway","rain","raise","raising","rally","random","range","rank","rape","rapid","rapidly","rare","rarely","rat","rate","rather","rating","ratio","raw","ray","re","reach","reaching","reaction","read","reader","reading","ready","real","reality","realize","really","rear","reason","reasonable","recall","receive","recent","recently","recognition","recognize","recommend","record","recording","recovery","red","reduce","reducing","reduction","refer","reference","reflect","reform","refuse","regard","regarding","regardless","region","regional","register","registration","regret","regular","regularly","regulation","reject","relate","relation","relationship","relative","relatively","release","relevant","relief","religion","religious","remain","remember","remind","remote","removal","remove","rent","rep","repair","repeat","replace","replacement","reply","report","reporting","represent","representation","representative","republic","republican","reputation","request","require","requirement","rescue","research","researcher","reserve","residence","resident","residential","resistance","resolution","resort","resource","respect","respectively","respond","response","responsibility","responsible","rest","restaurant","result","retail","retire","retirement","return","reveal","revenue","reverse","review","revolution","reward","rice","rich","richard","rick","rid","ride","ridiculous","riding","right","ring","rio","rise","rising","risk","river","road","rob","robin","rock","roger","role","roll","rolling","roman","romance","romantic","roof","room","root","rough","roughly","round","route","routine","row","royal","rugby","rule","run","running","rural","rush","russell","russian","sad","safe","safety","saint","sake","salary","sale","salt","same","sample","sand","santa","satellite","saturday","save","saving","saw","say","saying","scale","scar","scary","scene","schedule","scheme","school","science","scientific","scientist","score","scoring","scotland","scott","scottish","screaming","screen","script","sea","search","searching","season","seat","second","secondary","secret","secretary","section","sector","secure","security","see","seed","seeing","seek","seeking","seem","select","selection","self","sell","selling","semi","senate","senator","send","sending","senior","sense","sensitive","sentence","separate","sept","september","sequence","series","serious","seriously","serve","service","serving","session","set","setting","settle","settlement","seven","several","severe","sex","sexual","sexy","shadow","shake","shall","shame","shape","share","sharing","sharp","she","sheet","shell","shift","ship","shipping","shirt","shit","shock","shoe","shoot","shooting","shop","shopping","shore","short","shortly","shot","should","shoulder","show","shower","showing","shut","sick","side","sight","sign","signal","significant","significantly","signing","silence","silent","silly","silver","similar","simple","simply","sin","since","sing","singapore","singing","single","sir","sister","sit","site","sitting","situation","six","sixth","size","skill","skin","sky","sleep","sleeping","slightly","slow","slowly","small","smart","smell","smile","smoke","smoking","smooth","snow","so","soccer","social","society","soft","software","soil","solar","soldier","solid","solo","solution","solve","some","somebody","somehow","someone","something","sometimes","somewhat","somewhere","son","song","soon","sorry","sort","soul","sound","source","south","southern","soviet","space","spanish","speak","speaking","special","species","specific","specifically","speech","speed","spell","spend","spending","spin","spirit","spiritual","split","sport","spot","spread","spring","squad","square","stable","stadium","staff","stag","stage","stand","standard","standing","star","start","starting","stat","state","statement","station","statistic","status","stay","steal","steam","steel","step","stick","still","stock","stomach","stone","stop","storage","store","storm","story","straight","strange","strategic","strategy","stream","street","strength","stress","stretch","strike","string","strip","strong","strongly","structure","struggle","student","studio","study","studying","stuff","stupid","style","sub","subject","submit","subsequent","substantial","success","successful","successfully","such","suck","sudden","suddenly","suffer","suffering","sufficient","sugar","suggest","suicide","suit","suitable","sum","summary","summer","sun","sunday","sup","superior","supply","support","supporter","supporting","suppose","supreme","sure","surely","surface","surgery","surprise","surround","survey","survival","survive","suspect","suspend","swear","sweden","sweet","swimming","swing","switch","sword","sydney","symptom","system","table","tag","tail","take","taking","talent","talk","talking","tall","tank","tape","target","task","taste","tax","taylor","tea","teach","teacher","teaching","team","tear","tech","technical","technique","technology","teen","telephone","television","tell","telling","temperature","temple","temporary","ten","tend","tennis","term","terrible","territory","terrorist","test","testing","text","than","thank","that","the","theater","theatre","their","theme","themselves","then","theory","therapy","there","therefore","these","they","thick","thin","thing","think","thinking","third","thirty","this","tho","those","though","thought","thousand","thread","threat","threaten","three","through","throughout","throw","thursday","thus","ticket","tie","tight","till","time","tiny","tip","tire","tissue","title","to","today","together","tom","tomorrow","ton","tone","tongue","tonight","tony","too","tool","tooth","top","topic","total","totally","touch","tough","tour","tournament","toward","towards","tower","town","track","trade","trading","tradition","traditional","traffic","trail","train","training","transfer","transition","translation","transmission","transport","transportation","trap","trash","travel","treat","treatment","tree","trend","trial","trick","trip","troop","trouble","truck","true","truly","trump","trust","truth","try","tube","tuesday","turkey","turn","turning","twelve","twenty","twice","twin","twitter","two","type","typical","typically","ugly","ukraine","ultimate","ultimately","unable","uncle","under","underground","understand","understanding","unfortunately","uniform","union","unique","unit","unite","universal","universe","university","unknown","unless","unlike","until","unusual","up","upcoming","update","upon","upper","upset","urban","use","useful","user","using","usual","usually","vacation","valid","valley","valuable","value","van","variety","various","vast","vega","vehicle","version","versus","very","veteran","via","vice","victim","victory","video","view","village","violence","violent","virgin","virtual","virus","visible","vision","visit","visiting","visitor","visual","vital","voice","volume","vote","voter","voting","wage","wait","waiting","wake","wal","walk","walking","wall","walt","wanna","want","war","ward","warm","warning","wash","waste","watch","watching","water","wave","way","wayne","we","weak","wealth","weapon","wear","wearing","weather","web","website","wedding","wednesday","week","weekend","weekly","weight","weird","welcome","welfare","well","western","wet","what","whatever","wheel","when","whenever","where","whereas","whether","which","while","whilst","white","who","whoever","whole","whom","whose","why","wide","widely","wife","wild","wildlife","will","willing","wilson","win","wind","window","wine","wing","winner","winning","winter","wire","wisconsin","wise","wish","with","within","without","witness","wolf","woman","wonder","wonderful","wood","wooden","word","work","worker","working","world","worldwide","worry","worth","would","wound","wow","writ","write","writer","writing","wrong","yard","yeah","year","yellow","yep","yes","yesterday","yet","york","you","young","your","yours","yourself","youth","youtube","zealand","zero","zone"],"known_extra":[],"unknown_in_known":[],"app_known":[],"history":[]}}</script>
+<script>
+(function(){
+  "use strict";
+  // ───────────────────────── data ─────────────────────────
+  var P = JSON.parse(document.getElementById("data").textContent);
+  var META = P.meta || {}, DICT = P.dict || {}, NAMES = P.names || {};
+  var ARTICLES = (P.articles || []).slice().sort(function(a,b){ return a.id < b.id ? 1 : a.id > b.id ? -1 : 0; });
+  var KB = P.known || {};
+  var BASE_KNOWN = new Set([].concat(KB.known || [], KB.known_extra || []));
+  (KB.unknown_in_known || []).forEach(function(l){ BASE_KNOWN.delete(l); });
+  var BY_ID = {}; ARTICLES.forEach(function(a){ BY_ID[a.id] = a; });
+  // lemmas the pipeline classified as known in some article (phrases of known parts, derived forms)
+  var TOKEN_KNOWN = new Set();
+  ARTICLES.forEach(function(a){ eachToken(a, function(t){ if (t.l && t.k === "known") TOKEN_KNOWN.add(t.l); }); });
+
+  var DOMAIN = { business: "Kinh doanh", travel: "Du lịch", fashion: "Thời trang" };
+  var POS = { n:"danh từ", v:"động từ", adj:"tính từ", adv:"trạng từ", phr:"cụm từ", prep:"giới từ", pron:"đại từ",
+              det:"từ hạn định", conj:"liên từ", num:"số từ", aux:"trợ động từ", intj:"thán từ", part:"tiểu từ", name:"tên riêng" };
+
+  function eachToken(a, fn){
+    (a.blocks || []).forEach(function(b, bi){ (b.sents || []).forEach(function(s, si){ s.forEach(function(t, ti){ fn(t, bi, si, ti); }); }); });
+  }
+
+  // ───────────────────────── storage ─────────────────────────
+  var mem = {};
+  function sget(k, dflt){
+    var raw; try { raw = localStorage.getItem("enreader:" + k); } catch(e) { raw = null; }
+    if (raw == null) raw = mem[k];
+    if (raw == null) return dflt;
+    try { return JSON.parse(raw); } catch(e) { return dflt; }
+  }
+  function sset(k, v){
+    var raw = JSON.stringify(v); mem[k] = raw;
+    try { localStorage.setItem("enreader:" + k, raw); } catch(e) {}
+  }
+  var MARKS = sget("marks", {});          // lemma -> "known" | "learning" | "unknown"
+  var READ = sget("read", {});            // article id -> timestamp
+  var SIZES = sget("sizes", {});          // yyyy-mm-dd -> effective known size seen on this device
+  var SET = Object.assign({ tts: true, rate: 0.9, voice: "", hide: false }, sget("settings", {}));
+  function saveSettings(){ sset("settings", SET); }
+
+  function defaultState(l){ return (BASE_KNOWN.has(l) || TOKEN_KNOWN.has(l)) ? "known" : "unknown"; }
+  function stateOf(l){ return MARKS[l] || defaultState(l); }
+  function setState(l, st){
+    if (!st || st === defaultState(l)) delete MARKS[l]; else MARKS[l] = st;
+    sset("marks", MARKS); snapshotSize();
+  }
+  function knownSize(){
+    var n = BASE_KNOWN.size;
+    Object.keys(MARKS).forEach(function(l){
+      var base = BASE_KNOWN.has(l);
+      if (MARKS[l] === "known" && !base) n++;
+      else if (MARKS[l] !== "known" && base) n--;
+    });
+    return n;
+  }
+  function snapshotSize(){ SIZES[today()] = knownSize(); sset("sizes", SIZES); }
+
+  // ───────────────────────── utils ─────────────────────────
+  var $ = function(id){ return document.getElementById(id); };
+  function esc(s){ return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){ return { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" }[c]; }); }
+  function today(){ return ymd(new Date()); }
+  function ymd(d){ var p = function(n){ return (n < 10 ? "0" : "") + n; }; return d.getFullYear() + "-" + p(d.getMonth()+1) + "-" + p(d.getDate()); }
+  function vnDate(id){ var m = /^(\d{4})-(\d\d)-(\d\d)/.exec(id || ""); return m ? (+m[3]) + "/" + (+m[2]) + "/" + m[1] : id; }
+  function fmtInt(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, "."); }
+  function toast(msg){ var t = $("toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toast._t); toast._t = setTimeout(function(){ t.classList.remove("on"); }, 1800); }
+  function download(name, text, type){
+    try {
+      var blob = new Blob([text], { type: type || "application/octet-stream" });
+      var url = URL.createObjectURL(blob), a = document.createElement("a");
+      a.href = url; a.download = name; document.body.appendChild(a); a.click();
+      setTimeout(function(){ URL.revokeObjectURL(url); a.remove(); }, 1500);
+      toast("Đã tạo " + name);
+    } catch(e) { toast("Trình duyệt không cho tải file"); }
+  }
+  function sentText(sent){
+    var s = "", offs = [];
+    sent.forEach(function(t, i){ offs.push(s.length); s += t.w; if (!t.nsp && i < sent.length - 1) s += " "; });
+    return { text: s, offs: offs };
+  }
+
+  // ───────────────────────── TTS ─────────────────────────
+  var TTS = (function(){
+    var ok = false; try { ok = "speechSynthesis" in window && typeof SpeechSynthesisUtterance === "function"; } catch(e) {}
+    var gen = 0, queue = [], qi = 0, onStop = null, voices = [];
+    function loadVoices(){ try { voices = window.speechSynthesis.getVoices() || []; } catch(e) { voices = []; } return voices; }
+    if (ok) { loadVoices(); try { window.speechSynthesis.onvoiceschanged = function(){ loadVoices(); if (TTS.onvoices) TTS.onvoices(); }; } catch(e) {} }
+    function isUS(v){ return /^en[-_]US/i.test(v.lang || ""); }
+    function enVoices(){ return loadVoices().filter(function(v){ return /^en[-_]US/i.test(v.lang || ""); }); }
+    function pick(){
+      var vs = loadVoices(); if (!vs.length) return null;
+      if (SET.voice) { var s = vs.filter(function(v){ return v.name === SET.voice; })[0]; if (s) return s; }
+      var prefs = ["Samantha", "Google US English"];
+      for (var i = 0; i < prefs.length; i++) { var m = vs.filter(function(v){ return v.name === prefs[i] || v.name.indexOf(prefs[i]) === 0; })[0]; if (m) return m; }
+      return vs.filter(isUS)[0] || vs.filter(function(v){ return /^en/i.test(v.lang || ""); })[0] || null;
+    }
+    function utter(text, rate){
+      var u = new SpeechSynthesisUtterance(text);
+      var v = pick(); if (v) u.voice = v;
+      u.lang = "en-US"; u.rate = rate; u.pitch = 1;
+      return u;
+    }
+    function stop(){
+      gen++; queue = []; qi = 0;
+      try { window.speechSynthesis.cancel(); } catch(e) {}
+      var f = onStop; onStop = null; if (f) try { f(); } catch(e) {}
+    }
+    // items: [{ text, offs, onstart, onword(idx), onend }]
+    function play(items, done){
+      if (!ok || !SET.tts) return false;
+      stop();
+      var my = ++gen; queue = items; qi = 0; onStop = done || null;
+      function next(){
+        if (my !== gen) return;
+        if (qi >= queue.length) { var f = onStop; onStop = null; if (f) try { f(); } catch(e) {} return; }
+        var it = queue[qi++], u;
+        try { u = utter(it.text, SET.rate); } catch(e) { stop(); return; }
+        var finished = false;
+        u.onstart = function(){ if (my === gen && it.onstart) try { it.onstart(); } catch(e) {} };
+        u.onboundary = function(ev){
+          if (my !== gen || !it.onword) return;
+          if (ev.name && ev.name !== "word") return;
+          try {
+            var ci = ev.charIndex, idx = -1;
+            for (var i = 0; i < it.offs.length; i++) { if (it.offs[i] <= ci) idx = i; else break; }
+            if (idx >= 0) it.onword(idx);
+          } catch(e) {}
+        };
+        var end = function(){ if (finished) return; finished = true; if (it.onend) try { it.onend(); } catch(e) {} next(); };
+        u.onend = end;
+        u.onerror = function(ev){ if (ev && (ev.error === "interrupted" || ev.error === "canceled")) return; end(); };
+        try { window.speechSynthesis.speak(u); } catch(e) { stop(); }
+      }
+      next();
+      return true;
+    }
+    function say(text, rate){
+      if (!ok || !SET.tts) return;
+      stop();
+      try { window.speechSynthesis.speak(utter(text, rate || 0.8)); } catch(e) {}
+    }
+    return { ok: ok, play: play, stop: stop, say: say, enVoices: enVoices, pick: pick, onvoices: null };
+  })();
+  function ttsOn(){ return TTS.ok && SET.tts; }
+
+  // ───────────────────────── routing ─────────────────────────
+  var current = null;   // open article
+  function route(){
+    var h = location.hash || "#/";
+    var m = /^#\/a\/([\w-]+)/.exec(h);
+    TTS.stop(); closeSheet();
+    if (m && BY_ID[m[1]]) { openArticle(BY_ID[m[1]]); setTab("list", "reader"); }
+    else if (h === "#/vocab") { current = null; clearReader(); renderVocab(); setTab("vocab"); }
+    else if (h === "#/progress") { current = null; clearReader(); renderProgress(); setTab("progress"); }
+    else { current = null; clearReader(); renderList(); setTab("list"); }
+  }
+  function setTab(tab, screen){
+    var scr = screen || tab;
+    ["list","reader","vocab","progress"].forEach(function(s){ $("scr-" + s).classList.toggle("on", s === scr); });
+    Array.prototype.forEach.call(document.querySelectorAll(".tab"), function(b){ b.classList.toggle("on", b.getAttribute("data-tab") === tab); });
+    window.scrollTo(0, 0);
+  }
+  function clearReader(){ $("scr-reader").innerHTML = ""; }   // only the open article lives in the DOM
+
+  // ───────────────────────── list ─────────────────────────
+  function covBadge(a){
+    var c = a.coverage || {};
+    if (c.effective == null) return "";
+    return '<span class="cov">' + Math.round(c.effective * 100) + "% · " + (c.new_core || 0) + " từ mới</span>";
+  }
+  function renderList(){
+    $("stArticles").textContent = ARTICLES.length;
+    $("stUnread").textContent = ARTICLES.filter(function(a){ return !READ[a.id]; }).length;
+    $("stFrontier").textContent = KB.frontier_band || META.frontier_band || "–";
+    if (!ARTICLES.length) { $("list").innerHTML = '<div class="empty">Chưa có bài nào.</div>'; return; }
+    $("list").innerHTML = ARTICLES.map(function(a){
+      var read = !!READ[a.id];
+      return '<button class="card' + (read ? " read" : "") + '" data-id="' + esc(a.id) + '">' +
+        (read ? "" : '<span class="unread-dot" aria-label="chưa đọc"></span>') +
+        '<div class="row"><span class="date">' + vnDate(a.id) + '</span><span class="badge d-' + esc(a.domain) + '">' + esc(DOMAIN[a.domain] || a.domain) + "</span></div>" +
+        "<h3>" + esc(a.title) + "</h3>" +
+        '<div class="meta"><span>' + esc((a.source || {}).outlet || "") + "</span>" + covBadge(a) +
+        (read ? '<span class="readmark">✓ Đã đọc</span>' : "") + "</div></button>";
+    }).join("");
+  }
+  $("list").addEventListener("click", function(e){
+    var c = e.target.closest(".card"); if (c) location.hash = "#/a/" + c.getAttribute("data-id");
+  });
+
+  // ───────────────────────── reader ─────────────────────────
+  function tokClass(t){
+    var c = "t";
+    if (t.k === "name") return c + " k-name";
+    if (t.k === "core") c += " k-core";
+    if (t.l) c += " st-" + stateOf(t.l);
+    return c;
+  }
+  function renderSent(sent, bi, si){
+    var h = "", i = 0;
+    function tokHtml(t, ti){
+      var sp = (t.nsp || ti === sent.length - 1) ? "" : " ";
+      if (t.k === "plain" || (!t.l && t.k !== "name")) return esc(t.w) + sp;
+      return '<span class="' + tokClass(t) + '" data-p="' + bi + "." + si + "." + ti + '">' + esc(t.w) + "</span>" + sp;
+    }
+    while (i < sent.length) {
+      var t = sent[i];
+      if (t.ph) {
+        var j = i; while (j + 1 < sent.length && sent[j + 1].ph === t.ph) j++;
+        var inner = "";
+        for (var k = i; k <= j; k++) {
+          var tk = sent[k], last = k === j;
+          var sp = (tk.nsp || k === sent.length - 1) ? "" : " ";
+          inner += '<span class="' + tokClass(tk) + '" data-p="' + bi + "." + si + "." + k + '">' + esc(tk.w) + "</span>" + (last ? "" : sp);
+        }
+        var tail = (sent[j].nsp || j === sent.length - 1) ? "" : " ";
+        h += '<span class="ph">' + inner + "</span>" + tail;
+        i = j + 1;
+      } else { h += tokHtml(t, i); i++; }
+    }
+    return '<span class="s" data-s="' + bi + "." + si + '">' + h + "</span>";
+  }
+  function openArticle(a){
+    current = a;
+    var src = a.source || {};
+    var title = a.blocks && a.blocks[0] && a.blocks[0].type === "h" ? a.blocks[0] : null;
+    var h = '<div class="rhead"><button class="back" id="backBtn">← Bài đọc</button>' +
+      '<div class="row"><span class="badge d-' + esc(a.domain) + '">' + esc(DOMAIN[a.domain] || a.domain) + '</span><span class="cov">' + vnDate(a.id) + "</span>" + covBadge(a) + "</div>" +
+      '<h1>' + (title ? title.sents.map(function(s, si){ return renderSent(s, 0, si); }).join(" ") : esc(a.title)) + "</h1>" +
+      '<div class="src">Phóng tác từ ' + esc(src.outlet || "") + (src.date ? " · " + vnDate(src.date) : "") + "</div></div>";
+    h += '<div class="bar"><button class="pill tts-only" id="playAll">▶ Nghe cả bài</button>' +
+      '<label class="pill tts-only" title="Tốc độ đọc"><select id="rateSel" aria-label="Tốc độ">' +
+      [0.7, 0.8, 0.9, 1.0, 1.1].map(function(r){ return '<option value="' + r + '"' + (Math.abs(r - SET.rate) < 0.01 ? " selected" : "") + ">" + r.toFixed(1) + "×</option>"; }).join("") +
+      '</select></label><span class="spacer"></span>' +
+      '<button class="pill' + (SET.hide ? " on" : "") + '" id="hideBtn" title="Ẩn nghĩa khi tra">Ẩn nghĩa</button>' +
+      '<button class="icon" id="setBtn" aria-label="Cài đặt">⚙︎</button></div>';
+    h += '<div class="legend"><span><i class="sw" style="background:var(--core);box-shadow:inset 0 -2px 0 var(--core-line)"></i>từ mới</span>' +
+      '<span><i class="sw" style="background:var(--learn);box-shadow:inset 0 -2px 0 var(--learn-line)"></i>đang học</span>' +
+      '<span><i class="sw" style="border-bottom:2px solid var(--phrase);height:10px;border-radius:0"></i>cụm từ</span>' +
+      '<span style="color:var(--name)">Tên riêng</span></div>';
+    h += '<div class="text" id="text">';
+    (a.blocks || []).forEach(function(b, bi){
+      if (b.type === "h") return;
+      h += '<div class="para" data-b="' + bi + '"><button class="pplay" data-b="' + bi + '" aria-label="Nghe đoạn này">▶</button><p>' +
+        b.sents.map(function(s, si){ return renderSent(s, bi, si); }).join(" ") + "</p></div>";
+    });
+    h += "</div>";
+    var read = !!READ[a.id];
+    h += '<div class="endbox"><button class="readbtn' + (read ? " done" : "") + '" id="readBtn">' + (read ? "✓ Đã đọc xong" : "Đánh dấu đã đọc xong") + "</button>";
+    if (a.questions && a.questions.length) {
+      h += '<div class="qs"><div class="eyebrow" style="margin-bottom:10px">Câu hỏi đọc hiểu</div>' + a.questions.map(function(q, qi){
+        return '<div class="q" data-q="' + qi + '"><b>' + esc(q.q) + "</b>" + q.a.map(function(opt, oi){ return '<button data-o="' + oi + '">' + esc(opt) + "</button>"; }).join("") + "</div>";
+      }).join("") + "</div>";
+    }
+    h += '<div class="source"><p><b>Nguồn:</b> ' + esc(src.outlet || "") + (src.author ? ", " + esc(src.author) : "") + (src.date ? " · " + vnDate(src.date) : "") + "</p>" +
+      (src.url ? '<p><a href="' + esc(src.url) + '" target="_blank" rel="noopener">' + esc(src.title || src.url) + "</a></p>" : "") +
+      "<p>Đây là bản viết lại đơn giản hoá, không phải bản dịch. Mọi con số, tên và ngày tháng lấy từ bài gốc.</p></div></div>";
+    var scr = $("scr-reader");
+    scr.innerHTML = h;
+    scr.classList.toggle("no-tts", !ttsOn());
+    wireReader(a);
+  }
+  function wireReader(a){
+    var scr = $("scr-reader");
+    $("backBtn").onclick = function(){ if (history.length > 1 && document.referrer !== undefined && location.hash.indexOf("#/a/") === 0) history.back(); else location.hash = "#/"; };
+    $("hideBtn").onclick = function(){ SET.hide = !SET.hide; saveSettings(); this.classList.toggle("on", SET.hide); toast(SET.hide ? "Ẩn nghĩa: bật — chạm từ chỉ hiện phát âm" : "Ẩn nghĩa: tắt"); };
+    $("setBtn").onclick = openSettingsSheet;
+    $("rateSel").onchange = function(){ SET.rate = parseFloat(this.value) || 0.9; saveSettings(); };
+    $("playAll").onclick = function(){
+      if (this.classList.contains("on")) { TTS.stop(); return; }
+      var bis = (a.blocks || []).map(function(b, bi){ return bi; }).filter(function(bi){ return a.blocks[bi].type !== "h"; });
+      playBlocks(a, bis, this);
+    };
+    $("readBtn").onclick = function(){
+      if (READ[a.id]) delete READ[a.id]; else READ[a.id] = Date.now();
+      sset("read", READ);
+      var done = !!READ[a.id];
+      this.classList.toggle("done", done); this.textContent = done ? "✓ Đã đọc xong" : "Đánh dấu đã đọc xong";
+    };
+    scr.addEventListener("click", function(e){
+      var pp = e.target.closest(".pplay");
+      if (pp) {
+        if (pp.classList.contains("on")) { TTS.stop(); return; }
+        playBlocks(a, [parseInt(pp.getAttribute("data-b"), 10)], pp); return;
+      }
+      var t = e.target.closest(".t");
+      if (t && t.getAttribute("data-p")) { onTokenTap(a, t); return; }
+      var qb = e.target.closest(".q button");
+      if (qb) {
+        var q = a.questions[parseInt(qb.parentNode.getAttribute("data-q"), 10)], o = parseInt(qb.getAttribute("data-o"), 10);
+        qb.classList.add(o === q.correct ? "right" : "wrong");
+        if (o !== q.correct) qb.parentNode.querySelectorAll("button")[q.correct].classList.add("right");
+      }
+    });
+  }
+  function playBlocks(a, bis, btn){
+    var items = [];
+    bis.forEach(function(bi){
+      var b = a.blocks[bi];
+      b.sents.forEach(function(sent, si){
+        var st = sentText(sent);
+        var sEl = document.querySelector('.s[data-s="' + bi + "." + si + '"]');
+        var lastW = null;
+        items.push({
+          text: st.text, offs: st.offs,
+          onstart: function(){
+            if (sEl) { sEl.classList.add("on"); var r = sEl.getBoundingClientRect(); if (r.top < 60 || r.bottom > window.innerHeight - 80) sEl.scrollIntoView({ block: "center", behavior: "smooth" }); }
+            var pb = document.querySelector('.pplay[data-b="' + bi + '"]'); if (pb) pb.classList.add("on");
+          },
+          onword: function(ti){
+            if (lastW) lastW.classList.remove("w-on");
+            lastW = document.querySelector('.t[data-p="' + bi + "." + si + "." + ti + '"]');
+            if (lastW) lastW.classList.add("w-on");
+          },
+          onend: function(){
+            if (sEl) sEl.classList.remove("on"); if (lastW) lastW.classList.remove("w-on");
+            if (si === b.sents.length - 1) { var pb = document.querySelector('.pplay[data-b="' + bi + '"]'); if (pb && pb !== btn) pb.classList.remove("on"); }
+          }
+        });
+      });
+    });
+    var started = TTS.play(items, function(){
+      Array.prototype.forEach.call(document.querySelectorAll(".s.on,.t.w-on,.pplay.on,#playAll.on"), function(el){ el.classList.remove("on"); el.classList.remove("w-on"); });
+      var pa = $("playAll"); if (pa) pa.textContent = "▶ Nghe cả bài";
+    });
+    if (started && btn) { btn.classList.add("on"); if (btn.id === "playAll") btn.textContent = "■ Dừng"; }
+    if (!started) toast("Thiết bị này không đọc to được");
+  }
+
+  // ───────────────────────── sheet ─────────────────────────
+  var sheetLemma = null, sheetSel = null;
+  function openSheet(html){
+    $("sheetBody").innerHTML = html;
+    $("sheet").scrollTop = 0;
+    $("sheet").classList.add("on"); $("scrim").classList.add("on");
+  }
+  function closeSheet(){
+    $("sheet").classList.remove("on"); $("scrim").classList.remove("on");
+    if (sheetSel) { sheetSel.classList.remove("sel"); sheetSel = null; }
+    sheetLemma = null;
+  }
+  $("scrim").onclick = closeSheet;
+  document.addEventListener("keydown", function(e){ if (e.key === "Escape") closeSheet(); });
+
+  function onTokenTap(a, el){
+    var p = el.getAttribute("data-p").split(".").map(Number);
+    var sent = a.blocks[p[0]].sents[p[1]], t = sent[p[2]];
+    if (sheetSel) sheetSel.classList.remove("sel");
+    sheetSel = el; el.classList.add("sel");
+    if (t.k === "name") { openNameSheet(t, sent, p[2]); return; }
+    openWordSheet(t.l, { sent: sent, ti: p[2], article: a });
+  }
+  function exampleHtml(sent, l){
+    return sent.map(function(t, i){
+      var sp = (t.nsp || i === sent.length - 1) ? "" : " ";
+      var w = esc(t.w);
+      return (t.l === l ? "<mark>" + w + "</mark>" : w) + sp;
+    }).join("").replace(/<\/mark>(\s?)<mark>/g, "$1");
+  }
+  function findExample(l){
+    for (var i = 0; i < ARTICLES.length; i++) {
+      var a = ARTICLES[i];
+      for (var bi = 0; bi < a.blocks.length; bi++) for (var si = 0; si < a.blocks[bi].sents.length; si++) {
+        var s = a.blocks[bi].sents[si];
+        for (var ti = 0; ti < s.length; ti++) if (s[ti].l === l) return { sent: s, ti: ti, article: a };
+      }
+    }
+    return null;
+  }
+  function openWordSheet(l, ctx){
+    sheetLemma = l;
+    var d = DICT[l] || {};
+    ctx = ctx || findExample(l);
+    var st = stateOf(l);
+    var h = '<div class="hw"><h2>' + esc(l) + "</h2>" +
+      '<button class="say tts-only" id="sayBtn" aria-label="Phát âm">🔊</button><button class="x" id="xBtn" aria-label="Đóng">×</button></div>' +
+      (d.ipa ? '<div class="ipa">/' + esc(d.ipa) + "/</div>" : "");
+    var tags = "";
+    if (d.pos) tags += '<span class="tag">' + esc(POS[d.pos] || d.pos) + "</span>";
+    if (d.band) tags += '<span class="tag">Mức ' + d.band + "</span>";
+    var body = "";
+    body += '<div class="tags">' + tags + "</div>";
+    body += '<div class="mean">' + (d.vi ? '<div class="vi">' + esc(d.vi) + "</div>" : "") + (d.en ? '<div class="en">' + esc(d.en) + "</div>" : "") +
+      (!d.vi && !d.en ? '<div class="en">Chưa có nghĩa cho mục này.</div>' : "") + "</div>";
+    if (ctx) body += '<blockquote class="ex">' + exampleHtml(ctx.sent, l) + "</blockquote>";
+    body += '<div class="states"><button data-st="known" class="' + (st === "known" ? "on" : "") + '">Đã biết</button>' +
+      '<button data-st="learning" class="' + (st === "learning" ? "on" : "") + '">Đang học</button></div>';
+    var ls = (d.ls || []).filter(function(id){ return BY_ID[id]; });
+    if (ls.length) body += '<div class="ls">Có trong: ' + ls.map(function(id){ return '<a href="#/a/' + esc(id) + '">' + vnDate(id) + " · " + esc(BY_ID[id].title) + "</a>"; }).join(" · ") + "</div>";
+    if (SET.hide) h += '<div class="veil" id="veil">Chạm để xem nghĩa</div><div id="hidden" hidden>' + body + "</div>";
+    else h += body;
+    openSheet(h);
+    $("sheet").classList.toggle("no-tts", !ttsOn());
+    $("xBtn").onclick = closeSheet;
+    if ($("sayBtn")) $("sayBtn").onclick = function(){ TTS.say(l, 0.8); };
+    if ($("veil")) $("veil").onclick = function(){ $("veil").remove(); $("hidden").hidden = false; };
+    Array.prototype.forEach.call($("sheetBody").querySelectorAll(".states button"), function(b){
+      b.onclick = function(){
+        // tapping the active button undoes it: known -> unknown, learning -> back to default
+        var want = b.getAttribute("data-st"), cur = stateOf(l), next = want;
+        if (cur === want) next = want === "known" ? "unknown" : (defaultState(l) === "known" ? "known" : "unknown");
+        setState(l, next);
+        var now = stateOf(l);
+        Array.prototype.forEach.call($("sheetBody").querySelectorAll(".states button"), function(x){ x.classList.toggle("on", x.getAttribute("data-st") === now); });
+        refreshTokens(l);
+      };
+    });
+    if (SET.hide && ttsOn()) TTS.say(l, 0.8);
+  }
+  function openNameSheet(t, sent){
+    var n = NAMES[t.w] || null;
+    var h = '<div class="hw"><h2>' + esc(t.w) + '</h2><button class="say tts-only" id="sayBtn" aria-label="Phát âm">🔊</button><button class="x" id="xBtn" aria-label="Đóng">×</button></div>' +
+      '<div class="tags"><span class="tag">tên riêng</span></div>' +
+      '<div class="mean"><div class="vi">' + esc(n && n.vi ? n.vi : "Tên riêng — không cần học như từ vựng.") + "</div></div>" +
+      '<blockquote class="ex">' + sent.map(function(x, i){ var sp = (x.nsp || i === sent.length - 1) ? "" : " "; return (x === t ? "<mark>" + esc(x.w) + "</mark>" : esc(x.w)) + sp; }).join("") + "</blockquote>";
+    openSheet(h);
+    $("sheet").classList.toggle("no-tts", !ttsOn());
+    $("xBtn").onclick = closeSheet;
+    $("sayBtn").onclick = function(){ TTS.say(t.w, 0.8); };
+  }
+  function refreshTokens(l){
+    Array.prototype.forEach.call(document.querySelectorAll("#scr-reader .t[data-p]"), function(el){
+      if (!current) return;
+      var p = el.getAttribute("data-p").split(".").map(Number);
+      var t = current.blocks[p[0]].sents[p[1]][p[2]];
+      if (t.l === l) { var sel = el.classList.contains("sel"); el.className = tokClass(t) + (sel ? " sel" : ""); }
+    });
+  }
+  function openSettingsSheet(){
+    openSheet('<div class="hw"><h2 style="font-size:22px">Cài đặt</h2><button class="x" id="xBtn" aria-label="Đóng">×</button></div><div id="setSheet"></div>');
+    $("xBtn").onclick = closeSheet;
+    renderSettings($("setSheet"), function(){ if (current) openArticle(current); });
+  }
+  function renderSettings(root, after){
+    var vs = TTS.ok ? TTS.enVoices() : [];
+    var cur = TTS.ok ? TTS.pick() : null;
+    var h = '<div class="set-row"><div>Đọc to (TTS)<small>' + (TTS.ok ? "Giọng Mỹ, đọc từng câu và tô sáng câu đang đọc" : "Trình duyệt này không hỗ trợ") + '</small></div><button class="switch' + (SET.tts && TTS.ok ? " on" : "") + '" id="swTts" aria-label="Bật tắt đọc to"' + (TTS.ok ? "" : " disabled") + "></button></div>";
+    h += '<div class="set-row"><div>Giọng đọc<small>' + esc(cur ? cur.name : "mặc định") + '</small></div><select id="voiceSel"><option value="">Tự chọn</option>' +
+      vs.map(function(v){ return '<option value="' + esc(v.name) + '"' + (v.name === SET.voice ? " selected" : "") + ">" + esc(v.name) + "</option>"; }).join("") + "</select></div>";
+    h += '<div class="set-row"><div>Tốc độ đọc<small>Mặc định 0.9×</small></div><select id="rateSel2">' +
+      [0.7, 0.8, 0.9, 1.0, 1.1].map(function(r){ return '<option value="' + r + '"' + (Math.abs(r - SET.rate) < 0.01 ? " selected" : "") + ">" + r.toFixed(1) + "×</option>"; }).join("") + "</select></div>";
+    h += '<div class="set-row"><div>Ẩn nghĩa<small>Chạm vào từ chỉ hiện phát âm, chạm lần nữa mới hiện nghĩa</small></div><button class="switch' + (SET.hide ? " on" : "") + '" id="swHide" aria-label="Bật tắt ẩn nghĩa"></button></div>';
+    root.innerHTML = h;
+    $("swTts").onclick = function(){ SET.tts = !SET.tts; if (!SET.tts) TTS.stop(); saveSettings(); this.classList.toggle("on", SET.tts); if (after) after(); };
+    $("swHide").onclick = function(){ SET.hide = !SET.hide; saveSettings(); this.classList.toggle("on", SET.hide); var hb = $("hideBtn"); if (hb) hb.classList.toggle("on", SET.hide); };
+    $("voiceSel").onchange = function(){ SET.voice = this.value; saveSettings(); TTS.say("Hello, this is my reading voice.", SET.rate); renderSettings(root, after); };
+    $("rateSel2").onchange = function(){ SET.rate = parseFloat(this.value) || 0.9; saveSettings(); var r = $("rateSel"); if (r) r.value = String(SET.rate); };
+  }
+  TTS.onvoices = function(){ var s = $("settings"); if (s && $("scr-progress").classList.contains("on")) renderSettings(s); };
+
+  // ───────────────────────── vocab ─────────────────────────
+  var vFilter = "all", vBand = "", vLimit = 200;
+  (function(){
+    var opts = '<option value="">Mọi mức</option>';
+    for (var b = 1; b <= 10; b++) opts += '<option value="' + b + '">Mức ' + b + "</option>";
+    $("vBand").innerHTML = opts + '<option value="x">Ngoài 10.000</option>';
+  })();
+  function fold(s){ return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d"); }
+  function vocabRows(){
+    var q = fold($("vSearch").value.trim());
+    return Object.keys(DICT).filter(function(l){
+      var d = DICT[l], st = stateOf(l);
+      if (vFilter !== "all" && st !== vFilter) return false;
+      if (vBand === "x" && d.band) return false;
+      if (vBand && vBand !== "x" && String(d.band) !== vBand) return false;
+      if (q && fold(l).indexOf(q) < 0 && fold(d.vi).indexOf(q) < 0) return false;
+      return true;
+    }).sort(function(a, b){
+      var o = { learning: 0, unknown: 1, known: 2 };
+      var sa = o[stateOf(a)], sb = o[stateOf(b)];
+      if (sa !== sb) return sa - sb;
+      return a < b ? -1 : 1;
+    });
+  }
+  function renderVocab(){
+    var all = Object.keys(DICT), learning = 0, known = 0;
+    all.forEach(function(l){ var s = stateOf(l); if (s === "learning") learning++; else if (s === "known") known++; });
+    $("vTotal").textContent = all.length; $("vLearning").textContent = learning; $("vKnown").textContent = known;
+    var rows = vocabRows();
+    if (!rows.length) { $("vList").innerHTML = '<div class="empty">Không có từ nào khớp.</div>'; $("vMore").hidden = true; return; }
+    $("vList").innerHTML = rows.slice(0, vLimit).map(function(l){
+      var d = DICT[l], st = stateOf(l), n = (d.ls || []).length;
+      return '<button class="vrow" data-l="' + esc(l) + '"><span class="dot ' + st + '"></span><span class="w">' + esc(l) +
+        "<small>" + esc(d.vi || "") + '</small></span><span class="n">' + (d.band ? "M" + d.band : "—") + " · " + n + " bài</span></button>";
+    }).join("");
+    $("vMore").hidden = rows.length <= vLimit;
+  }
+  $("vList").addEventListener("click", function(e){
+    var r = e.target.closest(".vrow"); if (r) openWordSheet(r.getAttribute("data-l"));
+  });
+  $("vSearch").addEventListener("input", function(){ vLimit = 200; renderVocab(); });
+  $("vStates").addEventListener("click", function(e){
+    var c = e.target.closest(".chip"); if (!c) return;
+    vFilter = c.getAttribute("data-f"); vLimit = 200;
+    Array.prototype.forEach.call(document.querySelectorAll("#vStates .chip"), function(x){ x.classList.toggle("on", x === c); });
+    renderVocab();
+  });
+  $("vBand").onchange = function(){ vBand = this.value; vLimit = 200; renderVocab(); };
+  $("vMore").onclick = function(){ vLimit += 200; renderVocab(); };
+  // sheet changes state -> keep vocab list in sync when visible
+  $("scrim").addEventListener("click", function(){ if ($("scr-vocab").classList.contains("on")) renderVocab(); });
+  document.addEventListener("click", function(e){ if (e.target.closest("#xBtn") && $("scr-vocab").classList.contains("on")) renderVocab(); });
+
+  $("expKnown").onclick = function(){
+    var ch = { known: [], learning: [], unknown: [] };
+    Object.keys(MARKS).sort().forEach(function(l){ if (ch[MARKS[l]]) ch[MARKS[l]].push(l); });
+    var extra = new Set(KB.known_extra || []), unk = new Set(KB.unknown_in_known || []), base = new Set(KB.known || []);
+    ch.known.forEach(function(l){ if (base.has(l)) unk.delete(l); else extra.add(l); });
+    ch.learning.concat(ch.unknown).forEach(function(l){ extra.delete(l); if (base.has(l)) unk.add(l); });
+    var d = today();
+    var out = {
+      updated: d, source: "app-export-" + d,
+      threshold_band: KB.threshold_band, frontier_band: KB.frontier_band,
+      known: KB.known || [], known_extra: Array.from(extra).sort(), unknown_in_known: Array.from(unk).sort(),
+      app_known: KB.app_known || [], history: KB.history || [], changes: ch
+    };
+    download("known-export-" + d + ".json", JSON.stringify(out, null, 1), "application/json");
+  };
+  $("expAnki").onclick = function(){
+    var ls = Object.keys(DICT).filter(function(l){ return stateOf(l) === "learning"; }).sort();
+    if (!ls.length) { toast("Chưa có từ nào ở trạng thái Đang học"); return; }
+    var clean = function(s){ return String(s || "").replace(/[\t\r\n]+/g, " "); };
+    var lines = ["#separator:tab", "#html:true", "#columns:Word\tIPA\tPOS\tVietnamese\tEnglish\tSentence\tTags"];
+    ls.forEach(function(l){
+      var d = DICT[l], ex = findExample(l);
+      lines.push([l, d.ipa ? "/" + d.ipa + "/" : "", POS[d.pos] || d.pos || "", d.vi, d.en,
+        ex ? exampleHtml(ex.sent, l).replace(/<mark>/g, "<b>").replace(/<\/mark>/g, "</b>") : "",
+        "enreader" + (d.band ? " band" + d.band : "")].map(clean).join("\t"));
+    });
+    download("anki-" + today() + ".txt", lines.join("\n") + "\n", "text/plain");
+  };
+
+  // ───────────────────────── progress ─────────────────────────
+  function renderProgress(){
+    snapshotSize();
+    var learning = Object.keys(MARKS).filter(function(l){ return MARKS[l] === "learning"; }).length;
+    $("pKnown").textContent = fmtInt(knownSize());
+    $("pRead").textContent = Object.keys(READ).length;
+    $("pLearning").textContent = learning;
+    $("chKnown").innerHTML = knownChart();
+    $("chWeeks").innerHTML = weeksChart();
+    $("chBands").innerHTML = bandsChart();
+    renderSettings($("settings"));
+  }
+  function knownChart(){
+    var pts = {};
+    (KB.history || []).forEach(function(r){ pts[r.date] = r.size; });
+    Object.keys(SIZES).forEach(function(d){ pts[d] = SIZES[d]; });
+    var ds = Object.keys(pts).sort();
+    if (!ds.length) return '<p class="empty" style="padding:16px">Chưa có dữ liệu.</p>';
+    var W = 320, H = 150, L = 40, R = 10, T = 12, B = 24;
+    var vals = ds.map(function(d){ return pts[d]; });
+    var max = Math.max.apply(null, vals), min = Math.min.apply(null, vals);
+    var lo = Math.max(0, Math.floor((min - 200) / 500) * 500), hi = Math.ceil((max + 200) / 500) * 500;
+    var t0 = Date.parse(ds[0]), t1 = Date.parse(ds[ds.length - 1]); if (t1 === t0) t1 = t0 + 86400000;
+    var x = function(d){ return L + (W - L - R) * (Date.parse(d) - t0) / (t1 - t0); };
+    var y = function(v){ return T + (H - T - B) * (1 - (v - lo) / (hi - lo)); };
+    var s = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Vốn từ theo thời gian">';
+    [lo, (lo + hi) / 2, hi].forEach(function(v){ s += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + y(v) + '" y2="' + y(v) + '" stroke="var(--grid)"/><text x="' + (L - 6) + '" y="' + (y(v) + 4) + '" text-anchor="end">' + fmtInt(Math.round(v)) + "</text>"; });
+    var path = ds.map(function(d, i){ return (i ? "L" : "M") + x(d).toFixed(1) + " " + y(pts[d]).toFixed(1); }).join(" ");
+    s += '<path d="' + path + '" fill="none" stroke="var(--bar)" stroke-width="2"/>';
+    ds.forEach(function(d){ s += '<circle cx="' + x(d) + '" cy="' + y(pts[d]) + '" r="3" fill="var(--bar)"/>'; });
+    s += '<text x="' + L + '" y="' + (H - 6) + '">' + vnDate(ds[0]) + "</text>";
+    if (ds.length > 1) s += '<text x="' + (W - R) + '" y="' + (H - 6) + '" text-anchor="end">' + vnDate(ds[ds.length - 1]) + "</text>";
+    return s + "</svg>";
+  }
+  function weekStart(ts){ var d = new Date(ts); d.setHours(0,0,0,0); var wd = (d.getDay() + 6) % 7; d.setDate(d.getDate() - wd); return d.getTime(); }
+  function weeksChart(){
+    var now = weekStart(Date.now()), weeks = [];
+    for (var i = 7; i >= 0; i--) weeks.push(now - i * 7 * 86400000);
+    var counts = weeks.map(function(){ return 0; });
+    Object.keys(READ).forEach(function(id){ var w = weekStart(READ[id]); var k = weeks.indexOf(w); if (k >= 0) counts[k]++; });
+    var W = 320, H = 130, L = 24, B = 22, T = 14, bw = (W - L) / 8, max = Math.max(3, Math.max.apply(null, counts));
+    var y = function(v){ return T + (H - T - B) * (1 - v / max); };
+    var s = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Bài đọc mỗi tuần">';
+    s += '<line x1="' + L + '" x2="' + W + '" y1="' + y(0) + '" y2="' + y(0) + '" stroke="var(--grid)"/>';
+    counts.forEach(function(c, i){
+      var x0 = L + i * bw + bw * .2, w = bw * .6;
+      if (c) s += '<rect x="' + x0 + '" y="' + y(c) + '" width="' + w + '" height="' + (y(0) - y(c)) + '" rx="2" fill="var(--bar)"/><text x="' + (x0 + w / 2) + '" y="' + (y(c) - 4) + '" text-anchor="middle">' + c + "</text>";
+      var d = new Date(weeks[i]);
+      s += '<text x="' + (x0 + w / 2) + '" y="' + (H - 6) + '" text-anchor="middle">' + d.getDate() + "/" + (d.getMonth() + 1) + "</text>";
+    });
+    return s + "</svg>";
+  }
+  function bandsChart(){
+    var size = META.band_size || {}, kn = Object.assign({}, META.band_known || {});
+    // local marks on dictionary words shift their band
+    Object.keys(MARKS).forEach(function(l){
+      var b = (DICT[l] || {}).band; if (!b || l.indexOf(" ") >= 0) return;
+      var base = BASE_KNOWN.has(l);
+      if (MARKS[l] === "known" && !base) kn[b] = (kn[b] || 0) + 1;
+      else if (MARKS[l] !== "known" && base) kn[b] = (kn[b] || 0) - 1;
+    });
+    var W = 320, H = 150, L = 30, B = 22, T = 14, bw = (W - L) / 10;
+    var y = function(v){ return T + (H - T - B) * (1 - v); };
+    var s = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Độ phủ theo mức">';
+    [0, .5, 1].forEach(function(v){ s += '<line x1="' + L + '" x2="' + W + '" y1="' + y(v) + '" y2="' + y(v) + '" stroke="var(--grid)"/><text x="' + (L - 6) + '" y="' + (y(v) + 4) + '" text-anchor="end">' + v * 100 + "</text>"; });
+    for (var b = 1; b <= 10; b++) {
+      var v = size[b] ? Math.max(0, Math.min(1, (kn[b] || 0) / size[b])) : 0;
+      var x0 = L + (b - 1) * bw + bw * .18, w = bw * .64;
+      var fill = b === (KB.frontier_band || 0) ? "var(--core-line)" : (v >= .8 ? "var(--bar)" : "var(--bar-weak)");
+      if (v > 0) s += '<rect x="' + x0 + '" y="' + y(v) + '" width="' + w + '" height="' + (y(0) - y(v)) + '" rx="2" fill="' + fill + '"/>';
+      s += '<text x="' + (x0 + w / 2) + '" y="' + (H - 6) + '" text-anchor="middle">' + b + "</text>";
+    }
+    return s + "</svg>";
+  }
+
+  // ───────────────────────── boot ─────────────────────────
+  Array.prototype.forEach.call(document.querySelectorAll(".tab"), function(b){
+    b.onclick = function(){ var t = b.getAttribute("data-tab"); location.hash = t === "list" ? "#/" : "#/" + t; };
+  });
+  window.addEventListener("hashchange", route);
+  try { snapshotSize(); } catch(e) {}
+  route();
+})();
+</script>
+</body>
+</html>

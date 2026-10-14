@@ -1,0 +1,155 @@
+{
+ "id": "2026-10-14",
+ "domain": "travel",
+ "title": "More Canadians Visit the U.S., but Many Still Stay Away",
+ "source": {
+  "url": "https://skift.com/2026/10/13/canadian-trips-to-u-s-rise-for-sixth-straight-month-but-remain-far-below-2024-levels/",
+  "outlet": "Skift",
+  "author": "Rashaad Jorden",
+  "title": "Canadian Trips to U.S. Rise for Sixth Straight Month — but Remain Far Below 2024 Levels",
+  "date": "2026-10-13",
+  "accessed": "2026-10-14",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "6.8% rise in September",
+    "quote": "rose 6.8% in September"
+   },
+   {
+    "id": "f2",
+    "text": "sixth consecutive month",
+    "quote": "the sixth consecutive month of year-over-year growth"
+   },
+   {
+    "id": "f3",
+    "text": "car 5.6%, air 11.6%",
+    "quote": "by 5.6% and 11.6%, respectively"
+   },
+   {
+    "id": "f4",
+    "text": "released Tuesday by Statistics Canada",
+    "quote": "figures released Tuesday by Statistics Canada"
+   },
+   {
+    "id": "f5",
+    "text": "car trips 31.1% lower than in September 2024",
+    "quote": "were 31.1% lower than in September 2024"
+   },
+   {
+    "id": "f6",
+    "text": "air trips down 18.7%",
+    "quote": "return trips by air were down 18.7%"
+   },
+   {
+    "id": "f7",
+    "text": "Northern New England up 6%, down 23% from 2024",
+    "quote": "Northern New England crossings up 6% year over year but down 23% from 2024"
+   },
+   {
+    "id": "f8",
+    "text": "Whatcom County southbound vehicles up 3%, down 27%",
+    "quote": "Whatcom County, Washington, southbound vehicles up 3% but down 27%"
+   },
+   {
+    "id": "f9",
+    "text": "Hawaii Canadian arrivals up 0.6%, down 4%",
+    "quote": "Hawaii's Canadian arrivals up 0.6% but down 4%"
+   },
+   {
+    "id": "f10",
+    "text": "Corporate Traveller Canada bookings up 2.2% in September",
+    "quote": "Corporate Traveller Canada said cross-border air bookings were up 2.2% in September"
+   },
+   {
+    "id": "f11",
+    "text": "3.9% year-to-date against 2024",
+    "quote": "and 3.9% year-to-date against 2024"
+   },
+   {
+    "id": "f12",
+    "text": "unusually soft 2025",
+    "quote": "Climbing out of an unusually soft 2025"
+   },
+   {
+    "id": "f13",
+    "text": "FlightHub search demand up 15%",
+    "quote": "FlightHub said U.S. search demand rose 15% year over year"
+   },
+   {
+    "id": "f14",
+    "text": "17% jump in fares",
+    "quote": "despite a 17% jump in fares"
+   },
+   {
+    "id": "f15",
+    "text": "Leger survey of 1,538 Canadian adults",
+    "quote": "a Leger survey of 1,538 Canadian adults"
+   },
+   {
+    "id": "f16",
+    "text": "60% less open to U.S. travel",
+    "quote": "60% said they were less open to U.S. travel than at any point in the past year"
+   },
+   {
+    "id": "f17",
+    "text": "43% trade tensions would not change likelihood",
+    "quote": "43% said resolving Canada-U.S. trade tensions would not change their likelihood of visiting"
+   }
+  ]
+ },
+ "paragraphs": [
+  "Canadians are traveling to the United States again, but slowly. In September, Canadian return trips from the U.S. rose 6.8% compared with a year earlier, according to Statistics Canada. A return trip is counted when a Canadian comes home after a visit to the United States. September was the sixth consecutive month of growth. The agency released the numbers on Tuesday.",
+  "Trips by car went up 5.6%, and trips by plane went up 11.6%. That sounds like good news for American hotels, shops and airlines that welcome Canadian tourists. But the growth starts from a very low level.",
+  "Compared with September 2024, the picture looks very different. Car trips were 31.1% lower than two years ago. Trips by air were down 18.7%. In other words, many Canadians who used to visit their southern neighbor have not come back.",
+  "The same pattern appears in many places, both near the border and far from it. In northern New England, crossings were up 6% from last year but down 23% from 2024. In Whatcom County, Washington, cars going south rose 3% but stayed 27% below 2024. Even Hawaii, a popular winter destination, saw only a slight rise of 0.6% in Canadian arrivals. It is still 4% below 2024.",
+  "Business travel is doing better than vacation travel. Corporate Traveller Canada said flights booked across the border were up 2.2% in September. For the year so far, they were 3.9% higher than in 2024. Flight Centre Canada said vacation travel is growing from an unusually weak 2025, so it still has a long way to recover.",
+  "Interest is growing online, too. The travel website FlightHub said searches for U.S. destinations rose 15% from a year earlier, even though airline ticket prices jumped 17%. So many Canadians are clearly still thinking about a trip.",
+  "Still, many Canadians have strong feelings about their neighbor. There is also tension over trade between the two countries. In a Leger survey of 1,538 Canadian adults, 60% said they were less open to U.S. travel than at any point in the past year. And 43% said that ending the trade tension between Canada and the U.S. would not change how likely they are to visit.",
+  "For U.S. tourism, the direction is good. Six consecutive months of growth is a steady trend, and tourists from Canada are slowly coming back. But each step is slight, and tourism needs a steady recovery for many more months to recover fully. The road back to 2024 levels still looks long."
+ ],
+ "names": {
+  "Statistics Canada": {
+   "vi": "Cục Thống kê Canada, cơ quan thống kê của chính phủ Canada"
+  },
+  "Canadians": {
+   "vi": "người Canada"
+  },
+  "Canadian": {
+   "vi": "thuộc về Canada; người Canada"
+  },
+  "U.S.": {
+   "vi": "Hoa Kỳ (viết tắt của United States)"
+  },
+  "United States": {
+   "vi": "Hoa Kỳ, nước Mỹ"
+  },
+  "New England": {
+   "vi": "vùng New England, đông bắc nước Mỹ (giáp Canada)"
+  },
+  "Whatcom County": {
+   "vi": "hạt Whatcom, bang Washington, giáp biên giới Canada"
+  },
+  "Washington": {
+   "vi": "bang Washington, tây bắc nước Mỹ (không phải thủ đô)"
+  },
+  "Hawaii": {
+   "vi": "bang Hawaii, quần đảo giữa Thái Bình Dương"
+  },
+  "Corporate Traveller Canada": {
+   "vi": "công ty dịch vụ đặt vé công tác cho doanh nghiệp ở Canada"
+  },
+  "Flight Centre Canada": {
+   "vi": "công ty du lịch, đặt vé máy bay ở Canada"
+  },
+  "FlightHub": {
+   "vi": "trang web đặt vé máy bay của Canada"
+  },
+  "Leger": {
+   "vi": "công ty khảo sát ý kiến của Canada"
+  },
+  "Canada": {
+   "vi": "Canada"
+  }
+ },
+ "gloss": {}
+}

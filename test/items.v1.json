@@ -1,0 +1,965 @@
+{
+ "version": "v1",
+ "items": [
+  {
+   "id": 1,
+   "w": "cravotine",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 2,
+   "w": "legendary",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 3,
+   "w": "cellphone",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 4,
+   "w": "square",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 5,
+   "w": "thermal",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 6,
+   "w": "sustainable",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 7,
+   "w": "shade",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 8,
+   "w": "glimmock",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 9,
+   "w": "thrust",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 10,
+   "w": "compensation",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 11,
+   "w": "hestle",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 12,
+   "w": "effect",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 13,
+   "w": "specifically",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 14,
+   "w": "sponder",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 15,
+   "w": "industrial",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 16,
+   "w": "formation",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 17,
+   "w": "process",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 18,
+   "w": "prosperity",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 19,
+   "w": "fendacious",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 20,
+   "w": "also",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 21,
+   "w": "wonderful",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 22,
+   "w": "flinder",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 23,
+   "w": "endorsement",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 24,
+   "w": "addiction",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 25,
+   "w": "ice",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 26,
+   "w": "dremble",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 27,
+   "w": "dumb",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 28,
+   "w": "censorship",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 29,
+   "w": "polymer",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 30,
+   "w": "deficiency",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 31,
+   "w": "policeman",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 32,
+   "w": "prospective",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 33,
+   "w": "enjoyment",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 34,
+   "w": "gently",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 35,
+   "w": "liquid",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 36,
+   "w": "infectious",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 37,
+   "w": "immature",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 38,
+   "w": "dump",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 39,
+   "w": "residency",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 40,
+   "w": "transition",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 41,
+   "w": "exclusion",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 42,
+   "w": "scandal",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 43,
+   "w": "tournament",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 44,
+   "w": "penetration",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 45,
+   "w": "remarkable",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 46,
+   "w": "directive",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 47,
+   "w": "lamprish",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 48,
+   "w": "punk",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 49,
+   "w": "mere",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 50,
+   "w": "granite",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 51,
+   "w": "pact",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 52,
+   "w": "departure",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 53,
+   "w": "scrindle",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 54,
+   "w": "spare",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 55,
+   "w": "incumbent",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 56,
+   "w": "taskment",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 57,
+   "w": "coordinate",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 58,
+   "w": "sage",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 59,
+   "w": "prevalent",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 60,
+   "w": "automation",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 61,
+   "w": "tiger",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 62,
+   "w": "charity",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 63,
+   "w": "accountable",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 64,
+   "w": "wave",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 65,
+   "w": "mentory",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 66,
+   "w": "semester",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 67,
+   "w": "hike",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 68,
+   "w": "gloath",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 69,
+   "w": "source",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 70,
+   "w": "minister",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 71,
+   "w": "desktop",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 72,
+   "w": "importance",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 73,
+   "w": "sometimes",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 74,
+   "w": "fragment",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 75,
+   "w": "carbule",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 76,
+   "w": "stobe",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 77,
+   "w": "oxide",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 78,
+   "w": "obstrance",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 79,
+   "w": "arbitrary",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 80,
+   "w": "employment",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 81,
+   "w": "coverage",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 82,
+   "w": "floral",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 83,
+   "w": "drainage",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 84,
+   "w": "autism",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 85,
+   "w": "fusion",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 86,
+   "w": "renovation",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 87,
+   "w": "mail",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 88,
+   "w": "spotlight",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 89,
+   "w": "earthquake",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 90,
+   "w": "promise",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 91,
+   "w": "describe",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 92,
+   "w": "sweat",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 93,
+   "w": "bulvent",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 94,
+   "w": "water",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 95,
+   "w": "momentum",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 96,
+   "w": "essence",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 97,
+   "w": "ecological",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 98,
+   "w": "friendship",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 99,
+   "w": "ride",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 100,
+   "w": "wheat",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 101,
+   "w": "wendle",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 102,
+   "w": "rellow",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 103,
+   "w": "resistant",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 104,
+   "w": "lectory",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 105,
+   "w": "pardle",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 106,
+   "w": "coat",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 107,
+   "w": "simplify",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 108,
+   "w": "registration",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 109,
+   "w": "amount",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 110,
+   "w": "procurement",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 111,
+   "w": "harbinous",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 112,
+   "w": "percentage",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 113,
+   "w": "history",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 114,
+   "w": "rational",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 115,
+   "w": "adventure",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 116,
+   "w": "professor",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 117,
+   "w": "ever",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 118,
+   "w": "nutrition",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 119,
+   "w": "presidential",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 120,
+   "w": "implement",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 121,
+   "w": "clemp",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 122,
+   "w": "alignment",
+   "band": 7,
+   "real": true
+  },
+  {
+   "id": 123,
+   "w": "qualify",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 124,
+   "w": "specify",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 125,
+   "w": "skelving",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 126,
+   "w": "glorious",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 127,
+   "w": "mortgage",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 128,
+   "w": "pellish",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 129,
+   "w": "furnished",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 130,
+   "w": "teen",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 131,
+   "w": "soundtrack",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 132,
+   "w": "preview",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 133,
+   "w": "drubbet",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 134,
+   "w": "mivotal",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 135,
+   "w": "proffle",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 136,
+   "w": "consistency",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 137,
+   "w": "couple",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 138,
+   "w": "microphone",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 139,
+   "w": "revenge",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 140,
+   "w": "torsity",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 141,
+   "w": "pet",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 142,
+   "w": "mayor",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 143,
+   "w": "plorn",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 144,
+   "w": "protest",
+   "band": 3,
+   "real": true
+  },
+  {
+   "id": 145,
+   "w": "hostile",
+   "band": 5,
+   "real": true
+  },
+  {
+   "id": 146,
+   "w": "prove",
+   "band": 2,
+   "real": true
+  },
+  {
+   "id": 147,
+   "w": "sprent",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 148,
+   "w": "stir",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 149,
+   "w": "human",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 150,
+   "w": "cultivation",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 151,
+   "w": "activism",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 152,
+   "w": "guideline",
+   "band": 4,
+   "real": true
+  },
+  {
+   "id": 153,
+   "w": "whatever",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 154,
+   "w": "good",
+   "band": 1,
+   "real": true
+  },
+  {
+   "id": 155,
+   "w": "temptation",
+   "band": 8,
+   "real": true
+  },
+  {
+   "id": 156,
+   "w": "notification",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 157,
+   "w": "trambel",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 158,
+   "w": "alumni",
+   "band": 6,
+   "real": true
+  },
+  {
+   "id": 159,
+   "w": "vorsten",
+   "band": 0,
+   "real": false
+  },
+  {
+   "id": 160,
+   "w": "advertisement",
+   "band": 6,
+   "real": true
+  }
+ ]
+}

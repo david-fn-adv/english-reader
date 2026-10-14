@@ -1,0 +1,6 @@
+spacy>=3.8,<3.9
+wordfreq>=3.1
+cmudict>=1.1
+# 2.5.1 is pinned because Windows Application Control on the dev machine blocks
+# newer numpy DLLs; any numpy works elsewhere.
+numpy==2.5.1
