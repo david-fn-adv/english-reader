@@ -4,6 +4,9 @@ Trình đọc tin tiếng Anh theo trình độ cho Nhung (mục tiêu B1+): kin
 thời trang, viết lại theo đúng vốn từ của người đọc, kèm đọc to giọng Mỹ.
 Một trang HTML tĩnh, chạy được từ `file://` và GitHub Pages, không gọi tài nguyên ngoài.
 
+- **Đọc:** https://david-fn-adv.github.io/english-reader/
+- **Kiểm tra vốn từ:** https://david-fn-adv.github.io/english-reader/test/
+
 Đặc tả gốc: `english-reader-spec.md` (v1, 2026-10-14). Kiến trúc mượn từ reader tiếng
 Trung (`david-fn-adv/Chinese`), không dùng chung mã.
 
