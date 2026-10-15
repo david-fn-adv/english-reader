@@ -297,17 +297,20 @@ def _tag_phrases(sent: list[dict], phrases: list[dict]) -> None:
 
 
 def classify(sents, eff_known: set[str], bands: dict[str, int], frontier: int,
-             loanwords: set[str]):
+             loanwords: set[str], taught: set[str] = frozenset()):
     """Fill `k` on every token. Returns stats used by the coverage report.
 
     known  — lemma/phrase in effective known set (phrases: all content parts known
              counts as known, per spec "allowed when their parts are known")
     core   — lemma in the frontier band and not known
+    recycled — a core word of an earlier article, used again (spec §4.3). Shown
+             as core (still highlighted) but counted as familiar for coverage and
+             not counted among the 8–12 new core words.
     name / plain
     offenders — lemmas above the frontier band, not known, not loanwords
     """
     stats = {"lexical": 0, "known": 0, "derived": 0, "core": {}, "offenders": {},
-             "below_unknown": {}}
+             "below_unknown": {}, "recycled": {}}
     for sent in sents:
         for t in sent:
             if t.pop("_name", False):
@@ -330,6 +333,9 @@ def classify(sents, eff_known: set[str], bands: dict[str, int], frontier: int,
             elif _derived_known(lem, t["w"].lower(), eff_known):
                 t["k"] = "known"
                 stats["derived"] += 1
+            elif lem in taught:
+                t["k"] = "core"
+                stats["recycled"][lem] = stats["recycled"].get(lem, 0) + 1
             else:
                 b = bands.get(lem)
                 if " " in lem:

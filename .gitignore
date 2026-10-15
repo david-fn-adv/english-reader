@@ -1,6 +1,6 @@
-.venv/
-__pycache__/
-node_modules/
 .DS_Store
+.venv/
 Thumbs.db
+__pycache__/
 desktop.ini
+node_modules/

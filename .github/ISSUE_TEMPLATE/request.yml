@@ -1,0 +1,20 @@
+name: Gửi bài muốn đọc
+description: Gợi ý một bài báo tiếng Anh để viết lại theo trình độ của bạn
+title: "Bài muốn đọc: "
+labels: ["request"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link bài báo
+      description: Dán đường dẫn bài báo (tiếng Anh). Bài nên là tin cụ thể, có số liệu; không phải bài bình luận.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Vì sao muốn đọc bài này?
+      description: Không bắt buộc. Giúp chọn chủ đề cho các bài sau.
+    validations:
+      required: false

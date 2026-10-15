@@ -13,8 +13,8 @@ Trung (`david-fn-adv/Chinese`), không dùng chung mã.
 | | Trạng thái |
 |---|---|
 | Phase 1 — bài kiểm tra vốn từ | xong: `test/index.html`, `data/bands.json`, `tools/seed_known.py` |
-| Phase 2 — khung reader + 1 bài mẫu | xong, **chờ Nhung duyệt** |
-| Phase 3 — pipeline hằng ngày | chưa làm (spec: chỉ bắt đầu sau khi Nhung duyệt Phase 2) |
+| Phase 2 — khung reader + 1 bài mẫu | xong, đã duyệt 2026-10-15 |
+| Phase 3 — pipeline hằng ngày | công cụ xong, `selftest.py` PASS; **chờ Dương soát bài thật đầu tiên rồi mới bật lịch** |
 
 ## Dùng
 
@@ -72,8 +72,14 @@ tools/                  script Python (xem dưới)
 | `build_bands.py` | dựng `data/bands.json` từ wordfreq (chạy một lần, ~6 phút) |
 | `make_test_items.py` | dựng `test/items.v1.json` và nhúng vào `test/index.html` |
 | `seed_known.py` | kết quả test → `known/known.json`; `--merge` gộp file xuất từ app |
-| `build_article.py` | nháp → `news/<ngày>.json`: tách từ, phân loại, gắn số liệu, mục từ điển, cổng độ phủ |
+| `coverage.py` | cổng độ phủ (spec §4.4) |
+| `gloss.py` | mục từ điển cho từ chưa có; `--check` kiểm cả định nghĩa tiếng Anh có đọc được không |
+| `build_article.py` | ráp `news/<ngày>.json` khi hai cổng trên đều đạt |
 | `patch_app.py` | gộp một bài vào `index.html`, idempotent |
+| `qa.py` (+ `qa_render.js`) | render bằng jsdom, bấm mọi token, không lỗi console |
+| `frontier.py` | danh sách từ mục tiêu / từ ôn lại khi viết nháp |
+| `selftest.py` | chạy toàn bộ trên bản sao repo, có cả bài hỏng — chạy trên mọi máy mới |
+| `daily-news.md` | **hợp đồng** cho tác vụ Cowork — thắng mọi prompt |
 | `enlib.py` | hàm dùng chung (IPA, tách từ, tập đã biết) |
 
 ## Quyết định cần biết
@@ -103,10 +109,17 @@ học (data → datum) và được dùng chung khi dựng mức và khi tách t
   trong app — được giữ lại khi làm lại bài kiểm tra) và `threshold_override` (khi người
   quyết định khác ngưỡng của test).
 
-**Từ điển phủ mọi từ, không chỉ từ mới.** Spec §3.8 yêu cầu mọi token mở ra thẻ có nội dung,
-nên bài mẫu có mục cho cả từ đã biết. §4.5 thì chỉ sinh mục cho từ `core` và cụm từ. Ở Phase 3
-cần quyết định: hoặc gloss.py sinh cả từ đã biết (một lần, tích luỹ dần), hoặc thẻ của từ đã
-biết chỉ hiện IPA + câu ví dụ.
+**Từ điển phủ mọi từ, không chỉ từ mới.** Spec §4.5 nói gloss cho từ `core` và cụm từ, nhưng
+§4.7 (qa) đòi mọi token có mục từ điển. `gloss.py` sinh mục cho **mọi lemma chưa có** trong từ
+điển của app; từ điển tích luỹ nên bài sau cần ít mục mới hơn. Từ điển chuẩn là payload trong
+`index.html`; file bài chỉ mang mục mới.
+
+**Từ ôn lại** (spec §4.3, 3–5 từ core của 3 bài trước) vẫn được tô như từ mới nhưng **tính là
+quen** khi đo độ phủ và không tính vào 8–12 từ mới — nếu không, ba yêu cầu (≥ 95%, 8–12 mới,
+3–5 ôn) gần như không thể cùng đạt.
+
+**Gửi bài muốn đọc** mở issue GitHub theo mẫu `.github/ISSUE_TEMPLATE/request.yml` (nhãn
+`request`); Nhung cần tài khoản GitHub.
 
 **Cổng tách câu.** spaCy không ngắt câu sau từ viết tắt có dấu chấm ("…a visit to the
 U.S. September was…" thành một câu), làm hỏng phần tô sáng của TTS và câu ví dụ trong thẻ tra.

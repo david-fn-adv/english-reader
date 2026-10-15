@@ -3,6 +3,7 @@
     python tools/seed_known.py path/to/vocab-test-YYYY-MM-DD.json     # seed from a test
     python tools/seed_known.py --merge path/to/known-export.json      # merge an app export
     python tools/seed_known.py RESULT.json --threshold 3 --reason "…"  # human override
+    python tools/seed_known.py --merge-pending        # merge every unmerged known/known-export-*.json
 
 Seed (spec §2.5):
   known            = every lemma in bands <= threshold_band
@@ -140,7 +141,29 @@ def merge(export_path: Path) -> dict:
     return out
 
 
+def pending_exports() -> list[Path]:
+    """known/known-export-*.json files whose source is not yet in history."""
+    if not KNOWN_FILE.exists():
+        return []
+    done = {r.get("source") for r in load_json(KNOWN_FILE).get("history", [])}
+    out = []
+    for p in sorted(KNOWN.glob("known-export-*.json")):
+        src = load_json(p).get("source") or p.name
+        if src not in done:
+            out.append(p)
+    return out
+
+
 def main() -> int:
+    if sys.argv[1:] == ["--merge-pending"]:
+        todo = pending_exports()
+        for p in todo:
+            out = merge(p)
+            dump_json(out, KNOWN_FILE)
+            print(f"merged {p.name}: effective {len(effective_known(out))}")
+        if not todo:
+            print("no pending exports")
+        return 0
     ap = argparse.ArgumentParser()
     ap.add_argument("path", type=Path)
     ap.add_argument("--merge", action="store_true", help="merge an app export")
