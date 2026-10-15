@@ -1,0 +1,126 @@
+{
+ "id": "2026-10-15-4",
+ "domain": "business",
+ "title": "Why Hailey Bieber Sold Her Beauty Brand",
+ "source": {
+  "url": "https://fortune.com/2026/10/14/hailey-bieber-sold-rhode-e-l-f-beauty-after-she-and-co-founder-lauren-ratner-addressed-their-main-fear-in-an-acquisition",
+  "outlet": "Fortune",
+  "author": "Amanda Gerut",
+  "title": "Hailey Bieber sold Rhode to e.l.f. Beauty after she and cofounder Lauren Ratner addressed their main fear in an acquisition",
+  "date": "2026-10-14",
+  "accessed": "2026-10-15",
+  "checked_against": "https://www.digitalcommerce360.com/2026/05/22/e-l-f-beauty-sales-q4-fy26/",
+  "notes": "Deal value and fiscal 2026 net sales match e.l.f. results coverage. The Europe launch figures (19 markets, 500+ doors) and the No. 1 claim come from Fortune only and are attributed. Deal structure ($800M + $200M earnout) left out: only seen in a search summary, not read at source.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "Rhode launched in 2022",
+    "quote": "launched Rhode in 2022"
+   },
+   {
+    "id": "f2",
+    "text": "three years later e.l.f. agreed to buy, deal worth up to $1 billion",
+    "quote": "three years later e.l.f. Beauty agreed to buy the brand ... deal worth up to $1 billion"
+   },
+   {
+    "id": "f3",
+    "text": "spoke Wednesday at Fortune Most Powerful Women Summit",
+    "quote": "at the Fortune Most Powerful Women Summit on Wednesday"
+   },
+   {
+    "id": "f4",
+    "text": "her one fear: selling the company",
+    "quote": "That was my one fear, really—that I would sell my company."
+   },
+   {
+    "id": "f5",
+    "text": "e.l.f. lets founders continue to make every decision",
+    "quote": "let us fly and let us continue to make every decision"
+   },
+   {
+    "id": "f6",
+    "text": "lean team reached its limits; needed bigger partner to scale globally",
+    "quote": "We really needed the infrastructure of a bigger partner to scale globally."
+   },
+   {
+    "id": "f7",
+    "text": "about $390 million net sales in fiscal 2026, up 80%",
+    "quote": "Rhode generated roughly $390 million in net sales in fiscal 2026, an 80% increase from the year before"
+   },
+   {
+    "id": "f8",
+    "text": "entered Sephora in the U.S. last September",
+    "quote": "entered Sephora in the U.S. last September"
+   },
+   {
+    "id": "f9",
+    "text": "Sephora Europe launch: 19 new markets, more than 500 doors",
+    "quote": "launched with Sephora in Europe across 19 new markets and more than 500 doors"
+   },
+   {
+    "id": "f10",
+    "text": "Ratner: number one brand in every retail market",
+    "quote": "the No. 1 brand in every retail market it operates in"
+   },
+   {
+    "id": "f11",
+    "text": "number one at Mecca in Australia",
+    "quote": "Mecca, an Australian retailer where Rhode is the No. 1 brand"
+   },
+   {
+    "id": "f12",
+    "text": "Bieber chief creative officer; Ratner president and chief brand officer",
+    "quote": "chief creative officer at Rhode ... cofounder, president, and chief brand officer"
+   }
+  ]
+ },
+ "paragraphs": [
+  "Hailey Bieber is a celebrity, and she also started a business. In 2022, she launched Rhode, a beauty brand. Three years later, the company e.l.f. Beauty agreed to buy it in a deal worth up to $1 billion. On Wednesday, Bieber spoke about the acquisition at the Fortune Most Powerful Women Summit.",
+  "At the summit, Bieber said that selling her company was her one big fear. She worried that she would lose her say in the business. So before the deal, the founders wanted to retain control of Rhode's products and creative choices. According to Bieber, e.l.f. Beauty now lets them \"continue to make every decision.\"",
+  "Why sell at all? Lauren Ratner, who started Rhode with Bieber, explained the reason. Rhode had a lean team, and the team had reached its limits. \"We really needed the infrastructure of a bigger partner to scale globally,\" Ratner said. In other words, a lean company could not succeed in many countries alone. A larger partner can enable a small brand to grow much faster.",
+  "Sales are growing fast. Rhode had about $390 million in net sales in its fiscal year 2026, an 80% increase from the year before. The brand entered Sephora stores in the United States last September. According to Fortune, it then launched with Sephora in Europe, in 19 new markets and more than 500 stores. The size of its new owner helps enable this kind of growth overseas.",
+  "Ratner said Rhode is the number one brand in every retail market where it sells. In other words, she says it is the dominant brand. That is a strong claim, and the article does not give numbers for every market. Nevertheless, the popularity of the brand is clear from its sales. In Australia, for example, Rhode is the top brand at the beauty store Mecca.",
+  "Today, Bieber is the chief creative officer at Rhode, and Ratner is its president and chief brand officer. Both founders retain a big role, even after the sale. Nevertheless, as Bieber told the summit, the deal only worked for them because their main fear was answered first. If Rhode can keep its popularity and stay dominant in new markets, the founders will have reason to say the deal helped them succeed."
+ ],
+ "names": {
+  "Hailey Bieber": {
+   "vi": "Hailey Bieber, người nổi tiếng người Mỹ, nhà sáng lập Rhode"
+  },
+  "Bieber": {
+   "vi": "Hailey Bieber, nhà sáng lập Rhode"
+  },
+  "Rhode": {
+   "vi": "Rhode, thương hiệu làm đẹp do Hailey Bieber sáng lập"
+  },
+  "e.l.f. Beauty": {
+   "vi": "công ty mỹ phẩm Mỹ, đã mua lại Rhode"
+  },
+  "Fortune Most Powerful Women Summit": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất"
+  },
+  "Fortune": {
+   "vi": "tạp chí kinh doanh Fortune"
+  },
+  "Lauren Ratner": {
+   "vi": "đồng sáng lập, chủ tịch Rhode"
+  },
+  "Ratner": {
+   "vi": "Lauren Ratner, đồng sáng lập Rhode"
+  },
+  "Sephora": {
+   "vi": "Sephora, chuỗi cửa hàng mỹ phẩm lớn"
+  },
+  "United States": {
+   "vi": "Hoa Kỳ, nước Mỹ"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Australia": {
+   "vi": "Úc"
+  },
+  "Mecca": {
+   "vi": "Mecca, chuỗi cửa hàng mỹ phẩm ở Úc"
+  }
+ }
+}

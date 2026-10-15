@@ -1,0 +1,3582 @@
+{
+ "id": "2026-10-15-2",
+ "domain": "business",
+ "title": "Tom Cruise's New Film Could Lose $245 Million",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fortune.com/2026/10/14/tom-cruise-digger-box-office-bomb-245-million-loss-warner-bros/",
+  "outlet": "Fortune",
+  "author": "Andrew McGowan",
+  "title": "Tom Cruise's 'Digger' could be one of Hollywood's biggest flops ever, with a projected $245 million loss",
+  "date": "2026-10-14",
+  "accessed": "2026-10-15",
+  "checked_against": "https://www.deseret.com/entertainment/2026/10/12/fall-box-office-slows-with-two-flops-digger-and-the-social-reckoning/",
+  "notes": "Production budget left out: Fortune reports $160-180 million, Warner Bros. disputes it (reports cite $125-150 million). Loss and break-even figures are Variety's, as reported by Fortune.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "$8 million domestic opening, October 2 weekend",
+    "quote": "opened to an underwhelming $8 million at the domestic box office over the Oct. 2 weekend"
+   },
+   {
+    "id": "f2",
+    "text": "60% drop in second weekend",
+    "quote": "after a 60% drop in its second weekend"
+   },
+   {
+    "id": "f3",
+    "text": "estimated $245 million loss (Variety)",
+    "quote": "tracking to lose an estimated $245 million, according to Variety"
+   },
+   {
+    "id": "f4",
+    "text": "$35.3 million worldwide after two weekends",
+    "quote": "$14.4 million domestically and $35.3 million worldwide"
+   },
+   {
+    "id": "f5",
+    "text": "around $50 million final global total",
+    "quote": "projected to finish its run at around $50 million globally"
+   },
+   {
+    "id": "f6",
+    "text": "marketing roughly $100 million",
+    "quote": "a global marketing campaign estimated at roughly $100 million"
+   },
+   {
+    "id": "f7",
+    "text": "theaters keep roughly half of ticket sales",
+    "quote": "the roughly half of ticket sales that theaters keep"
+   },
+   {
+    "id": "f8",
+    "text": "break-even about $350 million (Variety)",
+    "quote": "needs to gross about $350 million worldwide to break even"
+   },
+   {
+    "id": "f9",
+    "text": "break-even closer to $300 million (Warner Bros.)",
+    "quote": "the break-even point is closer to $300 million"
+   },
+   {
+    "id": "f10",
+    "text": "52% on Rotten Tomatoes at debut",
+    "quote": "debuted at a 52% score on Rotten Tomatoes"
+   },
+   {
+    "id": "f11",
+    "text": "C+ CinemaScore from opening-night audiences",
+    "quote": "opening-night audiences gave it a C+ CinemaScore"
+   },
+   {
+    "id": "f12",
+    "text": "ad with good and bad reviews: decide for yourself",
+    "quote": "urging moviegoers to 'decide for yourself.'"
+   },
+   {
+    "id": "f13",
+    "text": "Anne Hathaway, Jane Fonda praised it on social media",
+    "quote": "Hollywood figures including Anne Hathaway, Jane Fonda, Guillermo del Toro, and Mandy Patinkin"
+   },
+   {
+    "id": "f14",
+    "text": "John Carter, The Lone Ranger each lost around $200 million",
+    "quote": "each estimated to have lost around $200 million"
+   },
+   {
+    "id": "f15",
+    "text": "Paramount Skydance closed roughly $110 billion acquisition of Warner Bros. Discovery on October 6",
+    "quote": "closed its roughly $110 billion acquisition of Warner Bros. Discovery on Oct. 6"
+   },
+   {
+    "id": "f16",
+    "text": "103-year-old studio",
+    "quote": "the 103-year-old studio"
+   },
+   {
+    "id": "f17",
+    "text": "hits a year ago; 2026 costly disappointments",
+    "quote": "Just a year ago, Warner Bros. was on ... But 2026 has been a long, painful goodbye"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.923,
+  "effective": 0.95,
+  "tokens": 429,
+  "new_core": 9
+ },
+ "vocab": [
+  "celebrity",
+  "enormous",
+  "unexpected",
+  "reportedly",
+  "remarkable",
+  "dispute",
+  "precise",
+  "praise",
+  "acquisition",
+  "according to",
+  "around the world",
+  "earn back",
+  "close to",
+  "such as",
+  "compared with"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Tom",
+      "k": "name"
+     },
+     {
+      "w": "Cruise",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "New",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "Film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "Could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "Lose",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "245",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "Million",
+      "l": "million",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Tom",
+      "k": "name"
+     },
+     {
+      "w": "Cruise",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "celebrities",
+      "l": "celebrity",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "However",
+      "nsp": 1,
+      "l": "however",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "his",
+      "l": "his",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "nsp": 1,
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Digger",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "turning",
+      "l": "turn",
+      "k": "known"
+     },
+     {
+      "w": "into",
+      "l": "into",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "enormous",
+      "l": "enormous",
+      "k": "core"
+     },
+     {
+      "w": "failure",
+      "nsp": 1,
+      "l": "failure",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "such",
+      "l": "such",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "star",
+      "nsp": 1,
+      "l": "star",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "start",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "unexpected",
+      "nsp": 1,
+      "l": "unexpected",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "opened",
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "8",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "domestic",
+      "l": "domestic",
+      "k": "known"
+     },
+     {
+      "w": "box",
+      "l": "box",
+      "k": "known"
+     },
+     {
+      "w": "office",
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": "over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "weekend",
+      "l": "weekend",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "domestic",
+      "l": "domestic",
+      "k": "known"
+     },
+     {
+      "w": "box",
+      "l": "box",
+      "k": "known"
+     },
+     {
+      "w": "office",
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "theaters",
+      "l": "theater",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Canada",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Reportedly",
+      "nsp": 1,
+      "l": "reportedly",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "lose",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "245",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "million",
+      "nsp": 1,
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "according",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "magazine",
+      "l": "magazine",
+      "k": "known"
+     },
+     {
+      "w": "Variety",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "weekend",
+      "nsp": 1,
+      "l": "weekend",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "ticket",
+      "l": "ticket",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "60",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "drop",
+      "nsp": 1,
+      "l": "drop",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "After",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "weekends",
+      "nsp": 1,
+      "l": "weekend",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "earned",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "35.3",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Variety",
+      "k": "name"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "finish",
+      "l": "finish",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "50",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "total",
+      "nsp": 1,
+      "l": "total",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "far",
+      "l": "far",
+      "k": "known"
+     },
+     {
+      "w": "below",
+      "l": "below",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "needs",
+      "nsp": 1,
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "gap",
+      "l": "gap",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "nsp": 1,
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "loss",
+      "l": "loss",
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "enormous",
+      "nsp": 1,
+      "l": "enormous",
+      "k": "core"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Making",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "nsp": 1,
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "selling",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "too",
+      "nsp": 1,
+      "l": "too",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Warner",
+      "k": "name"
+     },
+     {
+      "w": "Bros.",
+      "k": "name"
+     },
+     {
+      "w": "reportedly",
+      "l": "reportedly",
+      "k": "core"
+     },
+     {
+      "w": "spent",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "100",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "global",
+      "l": "global",
+      "k": "known"
+     },
+     {
+      "w": "marketing",
+      "l": "marketing",
+      "k": "known"
+     },
+     {
+      "w": "campaign",
+      "nsp": 1,
+      "l": "campaign",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Moreover",
+      "nsp": 1,
+      "l": "moreover",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "theaters",
+      "l": "theater",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "roughly",
+      "l": "roughly",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "ticket",
+      "l": "ticket",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "must",
+      "l": "must",
+      "k": "known"
+     },
+     {
+      "w": "earn",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "studio",
+      "l": "studio",
+      "k": "known"
+     },
+     {
+      "w": "makes",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "any",
+      "l": "any",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Variety",
+      "k": "name"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "Digger",
+      "k": "name"
+     },
+     {
+      "w": "needs",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "350",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "worldwide",
+      "l": "worldwide",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "break",
+      "l": "break",
+      "k": "known"
+     },
+     {
+      "w": "even",
+      "nsp": 1,
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "earn",
+      "l": "earn back",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "back",
+      "l": "earn back",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "nsp": 1,
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "person",
+      "l": "person",
+      "k": "known"
+     },
+     {
+      "w": "speaking",
+      "l": "speak",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Warner",
+      "k": "name"
+     },
+     {
+      "w": "Bros.",
+      "k": "name"
+     },
+     {
+      "w": "disputes",
+      "l": "dispute",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "point",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "closer",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "300",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "million",
+      "nsp": 1,
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "precise",
+      "l": "precise",
+      "k": "core"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "clear",
+      "nsp": 1,
+      "l": "clear",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Reports",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "dispute",
+      "l": "dispute",
+      "k": "core"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "make",
+      "nsp": 1,
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "precise",
+      "l": "precise",
+      "k": "core"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "clear",
+      "l": "clear",
+      "k": "known"
+     },
+     {
+      "w": "either",
+      "nsp": 1,
+      "l": "either",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Still",
+      "nsp": 1,
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "estimate",
+      "l": "estimate",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "far",
+      "l": "far",
+      "k": "known"
+     },
+     {
+      "w": "above",
+      "l": "above",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "50",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "million",
+      "nsp": 1,
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Critics",
+      "l": "critic",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "divided",
+      "nsp": 1,
+      "l": "divide",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "started",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "52",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Rotten",
+      "k": "name"
+     },
+     {
+      "w": "Tomatoes",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "website",
+      "l": "website",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "collects",
+      "l": "collect",
+      "k": "known"
+     },
+     {
+      "w": "reviews",
+      "nsp": 1,
+      "l": "review",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Viewers",
+      "l": "viewer",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "night",
+      "l": "night",
+      "k": "known"
+     },
+     {
+      "w": "gave",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "weak",
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": "grade",
+      "nsp": 1,
+      "l": "grade",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Warner",
+      "k": "name"
+     },
+     {
+      "w": "Bros.",
+      "k": "name"
+     },
+     {
+      "w": "even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "put",
+      "l": "put",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "bad",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "reviews",
+      "l": "review",
+      "k": "known"
+     },
+     {
+      "w": "side",
+      "l": "side",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "side",
+      "l": "side",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "ad",
+      "l": "ad",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "asked",
+      "l": "ask",
+      "k": "known"
+     },
+     {
+      "w": "viewers",
+      "l": "viewer",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "decide",
+      "l": "decide",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "yourself",
+      "nsp": 1,
+      "l": "yourself",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Furthermore",
+      "nsp": 1,
+      "l": "furthermore",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Hollywood",
+      "k": "name"
+     },
+     {
+      "w": "celebrities",
+      "l": "celebrity",
+      "k": "core"
+     },
+     {
+      "w": "such",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Anne",
+      "k": "name"
+     },
+     {
+      "w": "Hathaway",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Jane",
+      "k": "name"
+     },
+     {
+      "w": "Fonda",
+      "k": "name"
+     },
+     {
+      "w": "publicly",
+      "l": "publicly",
+      "k": "known"
+     },
+     {
+      "w": "praised",
+      "l": "praise",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "film",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "social",
+      "l": "social",
+      "k": "known"
+     },
+     {
+      "w": "media",
+      "nsp": 1,
+      "l": "media",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "praise",
+      "l": "praise",
+      "k": "core"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "numbers",
+      "nsp": 1,
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Fortune",
+      "k": "name"
+     },
+     {
+      "w": "compares",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "Digger",
+      "k": "name"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "failures",
+      "nsp": 1,
+      "l": "failure",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "such",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "John",
+      "k": "name"
+     },
+     {
+      "w": "Carter",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "The",
+      "k": "name"
+     },
+     {
+      "w": "Lone",
+      "k": "name"
+     },
+     {
+      "w": "Ranger",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "those",
+      "l": "those",
+      "k": "known"
+     },
+     {
+      "w": "films",
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": "reportedly",
+      "l": "reportedly",
+      "k": "core"
+     },
+     {
+      "w": "lost",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "200",
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": "million",
+      "nsp": 1,
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "loss",
+      "l": "loss",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Digger",
+      "k": "name"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "larger",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "considerable",
+      "l": "considerable",
+      "k": "core"
+     },
+     {
+      "w": "amount",
+      "nsp": 1,
+      "l": "amount",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "timing",
+      "l": "timing",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Warner",
+      "k": "name"
+     },
+     {
+      "w": "Bros.",
+      "k": "name"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "6",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Paramount",
+      "k": "name"
+     },
+     {
+      "w": "Skydance",
+      "k": "name"
+     },
+     {
+      "w": "closed",
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "acquisition",
+      "l": "acquisition",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Warner",
+      "k": "name"
+     },
+     {
+      "w": "Bros.",
+      "k": "name"
+     },
+     {
+      "w": "Discovery",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "studio",
+      "nsp": 1,
+      "l": "studio",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "parent",
+      "l": "parent",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "roughly",
+      "l": "roughly",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "110",
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "billion",
+      "nsp": 1,
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Just",
+      "l": "just",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "ago",
+      "nsp": 1,
+      "l": "ago",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "103",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "-",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "year-old",
+      "l": "year-old",
+      "k": "known"
+     },
+     {
+      "w": "studio",
+      "l": "studio",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "hits",
+      "nsp": 1,
+      "l": "hit",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "however",
+      "nsp": 1,
+      "l": "however",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "several",
+      "l": "several",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "nsp": 1,
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "disappointing",
+      "l": "disappointing",
+      "k": "known"
+     },
+     {
+      "w": "films",
+      "nsp": 1,
+      "l": "film",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "owner",
+      "nsp": 1,
+      "l": "owner",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "acquisition",
+      "l": "acquisition",
+      "k": "core"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "unexpected",
+      "l": "unexpected",
+      "k": "core"
+     },
+     {
+      "w": "start",
+      "nsp": 1,
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "failure",
+      "l": "failure",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "everyone",
+      "l": "everyone",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "see",
+      "nsp": 1,
+      "l": "see",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "happening",
+      "l": "happen",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "publicly",
+      "nsp": 1,
+      "l": "publicly",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "film": {
+   "ipa": "fɪlm",
+   "pos": "n",
+   "en": "a movie",
+   "vi": "phim",
+   "band": 1
+  },
+  "could": {
+   "ipa": "kʊd",
+   "pos": "aux",
+   "en": "used to say something is possible",
+   "vi": "có thể",
+   "band": 1
+  },
+  "lose": {
+   "ipa": "luz",
+   "pos": "v",
+   "en": "to have less money than you spent",
+   "vi": "lỗ, mất",
+   "band": 1
+  },
+  "million": {
+   "ipa": "ˈmɪljən",
+   "pos": "num",
+   "en": "the number 1,000,000",
+   "vi": "triệu",
+   "band": 1
+  },
+  "most": {
+   "ipa": "moʊst",
+   "pos": "adv",
+   "en": "more than all others",
+   "vi": "nhất",
+   "band": 1
+  },
+  "celebrity": {
+   "ipa": "səˈlɛbrɪti",
+   "pos": "n",
+   "en": "a famous person, often in film, music or sport",
+   "vi": "người nổi tiếng",
+   "band": 4
+  },
+  "world": {
+   "ipa": "wɝld",
+   "pos": "n",
+   "en": "the earth and all the people on it",
+   "vi": "thế giới",
+   "band": 1
+  },
+  "however": {
+   "ipa": "ˌhaʊˈɛvɚ",
+   "pos": "adv",
+   "en": "used to add something different or surprising",
+   "vi": "tuy nhiên",
+   "band": 1
+  },
+  "his": {
+   "ipa": "hɪz",
+   "pos": "pron",
+   "en": "belonging to a man or boy",
+   "vi": "của anh ấy",
+   "band": 1
+  },
+  "turn": {
+   "ipa": "tɝn",
+   "pos": "v",
+   "en": "(turn into) to become something different",
+   "vi": "trở thành",
+   "band": 1
+  },
+  "into": {
+   "ipa": "ˈɪntu",
+   "pos": "prep",
+   "en": "used to show a change to something new",
+   "vi": "thành",
+   "band": 1
+  },
+  "enormous": {
+   "ipa": "ɪˈnɔrməs",
+   "pos": "adj",
+   "en": "very, very big",
+   "vi": "khổng lồ, rất lớn",
+   "band": 4
+  },
+  "failure": {
+   "ipa": "ˈfeɪljɚ",
+   "pos": "n",
+   "en": "something that does not work out well",
+   "vi": "sự thất bại",
+   "band": 2
+  },
+  "such": {
+   "ipa": "sʌtʃ",
+   "pos": "det",
+   "en": "used to make a word stronger: so big, so good",
+   "vi": "như vậy, đến thế",
+   "band": 1
+  },
+  "big": {
+   "ipa": "bɪɡ",
+   "pos": "adj",
+   "en": "large; important",
+   "vi": "lớn",
+   "band": 1
+  },
+  "star": {
+   "ipa": "stɑr",
+   "pos": "n",
+   "en": "a famous actor or singer",
+   "vi": "ngôi sao",
+   "band": 1
+  },
+  "unexpected": {
+   "ipa": "ˌʌnɪkˈspɛktɪd",
+   "pos": "adj",
+   "en": "not what people thought would happen",
+   "vi": "bất ngờ, không lường trước",
+   "band": 4
+  },
+  "domestic": {
+   "ipa": "dəˈmɛstɪk",
+   "pos": "adj",
+   "en": "inside one country or region, not other countries",
+   "vi": "trong nước, nội địa",
+   "band": 2
+  },
+  "box": {
+   "ipa": "bɑks",
+   "pos": "n",
+   "en": "(box office) the place or system that sells film tickets",
+   "vi": "hộp; (box office) doanh thu phòng vé",
+   "band": 1
+  },
+  "office": {
+   "ipa": "ˈɔfɪs",
+   "pos": "n",
+   "en": "(box office) where film tickets are sold",
+   "vi": "phòng; (box office) phòng vé",
+   "band": 1
+  },
+  "weekend": {
+   "ipa": "ˈwiˌkɛnd",
+   "pos": "n",
+   "en": "Saturday and Sunday",
+   "vi": "cuối tuần",
+   "band": 1
+  },
+  "theater": {
+   "ipa": "ˈθiətɚ",
+   "pos": "n",
+   "en": "a building where people watch films",
+   "vi": "rạp chiếu phim",
+   "band": 3
+  },
+  "reportedly": {
+   "ipa": "rɪˈpɔrtədli",
+   "pos": "adv",
+   "en": "as people say or report, but not sure",
+   "vi": "theo báo cáo, được cho là",
+   "band": 4
+  },
+  "magazine": {
+   "ipa": "ˈmæɡəˌzin",
+   "pos": "n",
+   "en": "a thin book with news and pictures that comes out often",
+   "vi": "tạp chí",
+   "band": 2
+  },
+  "second": {
+   "ipa": "ˈsɛkənd",
+   "pos": "adj",
+   "en": "number 2 in a list",
+   "vi": "thứ hai",
+   "band": 1
+  },
+  "sale": {
+   "ipa": "seɪl",
+   "pos": "n",
+   "en": "the act of selling something",
+   "vi": "doanh số; (ticket sales) lượng vé bán",
+   "band": 1
+  },
+  "fall": {
+   "ipa": "fɔl",
+   "pos": "v",
+   "en": "to go down to a lower level",
+   "vi": "giảm",
+   "band": 1
+  },
+  "remarkable": {
+   "ipa": "rɪˈmɑrkəbəl",
+   "pos": "adj",
+   "en": "surprising and worth noticing",
+   "vi": "đáng chú ý, đáng kinh ngạc",
+   "band": 4
+  },
+  "drop": {
+   "ipa": "drɑp",
+   "pos": "n",
+   "en": "a fall in amount or level",
+   "vi": "sự sụt giảm",
+   "band": 1
+  },
+  "earn": {
+   "ipa": "ɝn",
+   "pos": "v",
+   "en": "to get money for work or for selling something",
+   "vi": "kiếm được, thu về",
+   "band": 3
+  },
+  "around the world": {
+   "ipa": "ɚˈaʊnd ðə wɝld",
+   "pos": "phr",
+   "en": "in many countries",
+   "vi": "trên khắp thế giới",
+   "band": 1
+  },
+  "expect": {
+   "ipa": "ɪkˈspɛkt",
+   "pos": "v",
+   "en": "to think that something will happen",
+   "vi": "dự kiến, kỳ vọng",
+   "band": 1
+  },
+  "what": {
+   "ipa": "wʌt",
+   "pos": "pron",
+   "en": "the thing that",
+   "vi": "cái mà, điều mà",
+   "band": 1
+  },
+  "gap": {
+   "ipa": "ɡæp",
+   "pos": "n",
+   "en": "a space or difference between two things",
+   "vi": "khoảng cách, chênh lệch",
+   "band": 3
+  },
+  "why": {
+   "ipa": "waɪ",
+   "pos": "conj",
+   "en": "for what reason",
+   "vi": "tại sao",
+   "band": 1
+  },
+  "loss": {
+   "ipa": "lɔs",
+   "pos": "n",
+   "en": "money that a business loses",
+   "vi": "khoản lỗ",
+   "band": 3
+  },
+  "make": {
+   "ipa": "meɪk",
+   "pos": "v",
+   "en": "to produce something",
+   "vi": "làm ra, sản xuất",
+   "band": 1
+  },
+  "expensive": {
+   "ipa": "ɪkˈspɛnsɪv",
+   "pos": "adj",
+   "en": "costing a lot of money",
+   "vi": "đắt",
+   "band": 2
+  },
+  "spend": {
+   "ipa": "spɛnd",
+   "pos": "v",
+   "en": "to use money to pay for things",
+   "vi": "chi tiêu",
+   "band": 1
+  },
+  "around": {
+   "ipa": "ɚˈaʊnd",
+   "pos": "adv",
+   "en": "about; not exactly",
+   "vi": "khoảng",
+   "band": 1
+  },
+  "global": {
+   "ipa": "ˈɡloʊbəl",
+   "pos": "adj",
+   "en": "of the whole world",
+   "vi": "toàn cầu",
+   "band": 1
+  },
+  "marketing": {
+   "ipa": "ˈmɑrkətɪŋ",
+   "pos": "n",
+   "en": "work to make people want to buy something",
+   "vi": "tiếp thị",
+   "band": 2
+  },
+  "campaign": {
+   "ipa": "kæmˈpeɪn",
+   "pos": "n",
+   "en": "a set of actions to reach one goal",
+   "vi": "chiến dịch",
+   "band": 1
+  },
+  "roughly": {
+   "ipa": "ˈrʌfli",
+   "pos": "adv",
+   "en": "about; not exactly",
+   "vi": "khoảng, xấp xỉ",
+   "band": 3
+  },
+  "half": {
+   "ipa": "hæf",
+   "pos": "n",
+   "en": "one of two equal parts",
+   "vi": "một nửa",
+   "band": 1
+  },
+  "money": {
+   "ipa": "ˈmʌni",
+   "pos": "n",
+   "en": "what you use to buy things",
+   "vi": "tiền",
+   "band": 1
+  },
+  "must": {
+   "ipa": "mʌst",
+   "pos": "aux",
+   "en": "to have to",
+   "vi": "phải",
+   "band": 1
+  },
+  "studio": {
+   "ipa": "ˈstudiˌoʊ",
+   "pos": "n",
+   "en": "a company that makes films",
+   "vi": "hãng phim",
+   "band": 2
+  },
+  "worldwide": {
+   "ipa": "ˈwɝlˈdwaɪd",
+   "pos": "adv",
+   "en": "in all parts of the world",
+   "vi": "trên toàn thế giới",
+   "band": 3
+  },
+  "break": {
+   "ipa": "breɪk",
+   "pos": "v",
+   "en": "(break even) to earn the same money as you spent",
+   "vi": "hoà vốn (break even)",
+   "band": 1
+  },
+  "or": {
+   "ipa": "ɔr",
+   "pos": "conj",
+   "en": "used to give another word for the same idea",
+   "vi": "hay, tức là",
+   "band": 1
+  },
+  "earn back": {
+   "ipa": "ɝn bæk",
+   "pos": "phr",
+   "en": "to get back money that you spent",
+   "vi": "thu hồi (vốn)",
+   "band": 3
+  },
+  "person": {
+   "ipa": "ˈpɝsən",
+   "pos": "n",
+   "en": "a man, woman or child",
+   "vi": "người",
+   "band": 1
+  },
+  "dispute": {
+   "ipa": "dɪˈspjut",
+   "pos": "v",
+   "en": "to say that something is not true or correct",
+   "vi": "phản bác, tranh cãi",
+   "band": 4
+  },
+  "close to": {
+   "ipa": "kloʊs tu",
+   "pos": "phr",
+   "en": "near; almost",
+   "vi": "gần (với)",
+   "band": 1
+  },
+  "precise": {
+   "ipa": "prɪˈsaɪs",
+   "pos": "adj",
+   "en": "exact and correct",
+   "vi": "chính xác",
+   "band": 4
+  },
+  "clear": {
+   "ipa": "klɪr",
+   "pos": "adj",
+   "en": "easy to understand or see",
+   "vi": "rõ ràng",
+   "band": 1
+  },
+  "report": {
+   "ipa": "riˈpɔrt",
+   "pos": "n",
+   "en": "a news story or written account",
+   "vi": "bài báo, bản tin",
+   "band": 1
+  },
+  "either": {
+   "ipa": "ˈiðɚ",
+   "pos": "adv",
+   "en": "also, after a negative sentence",
+   "vi": "cũng (không)",
+   "band": 1
+  },
+  "every": {
+   "ipa": "ˈɛvɚi",
+   "pos": "det",
+   "en": "all of a group, one by one",
+   "vi": "mọi",
+   "band": 1
+  },
+  "estimate": {
+   "ipa": "ˈɛstəmət",
+   "pos": "n",
+   "en": "a guess of a number, based on facts",
+   "vi": "ước tính",
+   "band": 2
+  },
+  "above": {
+   "ipa": "əˈbʌv",
+   "pos": "prep",
+   "en": "higher than",
+   "vi": "cao hơn, trên",
+   "band": 1
+  },
+  "critic": {
+   "ipa": "ˈkrɪtɪk",
+   "pos": "n",
+   "en": "a person who writes about how good films are",
+   "vi": "nhà phê bình",
+   "band": 3
+  },
+  "divide": {
+   "ipa": "dɪˈvaɪd",
+   "pos": "v",
+   "en": "to separate into groups that think differently",
+   "vi": "chia rẽ",
+   "band": 3
+  },
+  "score": {
+   "ipa": "skɔr",
+   "pos": "n",
+   "en": "a number that shows how good something is",
+   "vi": "điểm số",
+   "band": 2
+  },
+  "collect": {
+   "ipa": "kəˈlɛkt",
+   "pos": "v",
+   "en": "to bring things together in one place",
+   "vi": "thu thập",
+   "band": 2
+  },
+  "review": {
+   "ipa": "ˌriˈvju",
+   "pos": "n",
+   "en": "an article that says how good a film is",
+   "vi": "bài đánh giá",
+   "band": 1
+  },
+  "viewer": {
+   "ipa": "ˈvjuɚ",
+   "pos": "n",
+   "en": "a person who watches a film or TV",
+   "vi": "người xem",
+   "band": 4
+  },
+  "night": {
+   "ipa": "naɪt",
+   "pos": "n",
+   "en": "the time when it is dark",
+   "vi": "đêm, tối",
+   "band": 1
+  },
+  "grade": {
+   "ipa": "ɡreɪd",
+   "pos": "n",
+   "en": "a letter or number that shows quality",
+   "vi": "điểm (xếp loại)",
+   "band": 2
+  },
+  "put": {
+   "ipa": "pʊt",
+   "pos": "v",
+   "en": "to place something somewhere",
+   "vi": "đặt",
+   "band": 1
+  },
+  "bad": {
+   "ipa": "bæd",
+   "pos": "adj",
+   "en": "not good",
+   "vi": "xấu, tệ",
+   "band": 1
+  },
+  "side": {
+   "ipa": "saɪd",
+   "pos": "n",
+   "en": "(side by side) next to each other",
+   "vi": "bên; (side by side) cạnh nhau",
+   "band": 1
+  },
+  "ad": {
+   "ipa": "æd",
+   "pos": "n",
+   "en": "a short message to sell something",
+   "vi": "quảng cáo",
+   "band": 2
+  },
+  "ask": {
+   "ipa": "æsk",
+   "pos": "v",
+   "en": "to tell someone you want them to do something",
+   "vi": "yêu cầu, đề nghị",
+   "band": 1
+  },
+  "decide": {
+   "ipa": "ˌdɪˈsaɪd",
+   "pos": "v",
+   "en": "to choose after thinking",
+   "vi": "quyết định",
+   "band": 1
+  },
+  "yourself": {
+   "ipa": "jɚˈsɛlf",
+   "pos": "pron",
+   "en": "you, as the person doing something",
+   "vi": "tự bạn",
+   "band": 1
+  },
+  "such as": {
+   "ipa": "sʌtʃ æz",
+   "pos": "phr",
+   "en": "for example",
+   "vi": "chẳng hạn như",
+   "band": 1
+  },
+  "publicly": {
+   "ipa": "ˈpʌblɪkli",
+   "pos": "adv",
+   "en": "in a way that everyone can see",
+   "vi": "công khai",
+   "band": 4
+  },
+  "praise": {
+   "ipa": "preɪz",
+   "pos": "v",
+   "en": "to say good things about someone or something",
+   "vi": "khen ngợi",
+   "band": 4
+  },
+  "social": {
+   "ipa": "ˈsoʊʃəl",
+   "pos": "adj",
+   "en": "(social media) websites and apps for sharing with people",
+   "vi": "xã hội; (social media) mạng xã hội",
+   "band": 1
+  },
+  "media": {
+   "ipa": "ˈmidiə",
+   "pos": "n",
+   "en": "TV, newspapers and the internet",
+   "vi": "truyền thông",
+   "band": 1
+  },
+  "compare": {
+   "ipa": "kəmˈpɛr",
+   "pos": "v",
+   "en": "to look at how two things are the same or different",
+   "vi": "so sánh",
+   "band": 1
+  },
+  "amount": {
+   "ipa": "əˈmaʊnt",
+   "pos": "n",
+   "en": "how much there is of something",
+   "vi": "lượng, khoản",
+   "band": 1
+  },
+  "timing": {
+   "ipa": "ˈtaɪmɪŋ",
+   "pos": "n",
+   "en": "the time when something happens",
+   "vi": "thời điểm",
+   "band": 4
+  },
+  "hard": {
+   "ipa": "hɑrd",
+   "pos": "adj",
+   "en": "difficult",
+   "vi": "khó khăn",
+   "band": 1
+  },
+  "close": {
+   "ipa": "kloʊs",
+   "pos": "v",
+   "en": "(close a deal) to finish an agreement",
+   "vi": "hoàn tất (thương vụ)",
+   "band": 1
+  },
+  "acquisition": {
+   "ipa": "ˌækwəˈzɪʃən",
+   "pos": "n",
+   "en": "the act of one company buying another",
+   "vi": "thương vụ mua lại",
+   "band": 4
+  },
+  "parent": {
+   "ipa": "ˈpɛrənt",
+   "pos": "n",
+   "en": "(parent company) a company that owns another company",
+   "vi": "(công ty) mẹ",
+   "band": 1
+  },
+  "billion": {
+   "ipa": "ˈbɪljən",
+   "pos": "num",
+   "en": "the number 1,000,000,000",
+   "vi": "tỷ",
+   "band": 2
+  },
+  "just": {
+   "ipa": "dʒʌst",
+   "pos": "adv",
+   "en": "only; exactly",
+   "vi": "chỉ; vừa đúng",
+   "band": 1
+  },
+  "year-old": {
+   "ipa": "ˈjɪrˌoʊld",
+   "pos": "adj",
+   "en": "having that many years of age",
+   "vi": "… tuổi (103-year-old = 103 năm tuổi)"
+  },
+  "hit": {
+   "ipa": "hɪt",
+   "pos": "n",
+   "en": "a film or song that is very popular",
+   "vi": "tác phẩm ăn khách",
+   "band": 1
+  },
+  "several": {
+   "ipa": "ˈsɛvrəl",
+   "pos": "adj",
+   "en": "more than two but not many",
+   "vi": "vài, một số",
+   "band": 1
+  },
+  "disappointing": {
+   "ipa": "ˌdɪsəˈpɔɪntɪŋ",
+   "pos": "adj",
+   "en": "not as good as people hoped",
+   "vi": "đáng thất vọng"
+  },
+  "owner": {
+   "ipa": "ˈoʊnɚ",
+   "pos": "n",
+   "en": "a person or company that owns something",
+   "vi": "chủ sở hữu",
+   "band": 2
+  },
+  "everyone": {
+   "ipa": "ˈɛvriˌwʌn",
+   "pos": "pron",
+   "en": "all people",
+   "vi": "mọi người",
+   "band": 1
+  },
+  "happen": {
+   "ipa": "ˈhæpən",
+   "pos": "v",
+   "en": "to take place",
+   "vi": "xảy ra",
+   "band": 1
+  }
+ },
+ "names": {
+  "Tom": {
+   "vi": "Tom Cruise, ngôi sao điện ảnh Mỹ",
+   "full": "Tom Cruise"
+  },
+  "Cruise": {
+   "vi": "Tom Cruise, ngôi sao điện ảnh Mỹ",
+   "full": "Tom Cruise"
+  },
+  "Digger": {
+   "vi": "Digger, phim mới của Warner Bros. do Tom Cruise đóng chính"
+  },
+  "Variety": {
+   "vi": "tạp chí Variety, chuyên về ngành giải trí Mỹ"
+  },
+  "Warner": {
+   "vi": "hãng phim Warner Bros. của Mỹ",
+   "full": "Warner Bros."
+  },
+  "Bros.": {
+   "vi": "hãng phim Warner Bros. của Mỹ",
+   "full": "Warner Bros."
+  },
+  "Discovery": {
+   "vi": "tập đoàn mẹ của hãng phim Warner Bros.",
+   "full": "Warner Bros. Discovery"
+  },
+  "Paramount": {
+   "vi": "tập đoàn truyền thông Mỹ, vừa mua lại Warner Bros. Discovery",
+   "full": "Paramount Skydance"
+  },
+  "Skydance": {
+   "vi": "tập đoàn truyền thông Mỹ, vừa mua lại Warner Bros. Discovery",
+   "full": "Paramount Skydance"
+  },
+  "Rotten": {
+   "vi": "trang web tổng hợp điểm đánh giá phim của giới phê bình",
+   "full": "Rotten Tomatoes"
+  },
+  "Tomatoes": {
+   "vi": "trang web tổng hợp điểm đánh giá phim của giới phê bình",
+   "full": "Rotten Tomatoes"
+  },
+  "Hollywood": {
+   "vi": "Hollywood, trung tâm điện ảnh Mỹ"
+  },
+  "Anne": {
+   "vi": "nữ diễn viên Mỹ",
+   "full": "Anne Hathaway"
+  },
+  "Hathaway": {
+   "vi": "nữ diễn viên Mỹ",
+   "full": "Anne Hathaway"
+  },
+  "Jane": {
+   "vi": "nữ diễn viên Mỹ",
+   "full": "Jane Fonda"
+  },
+  "Fonda": {
+   "vi": "nữ diễn viên Mỹ",
+   "full": "Jane Fonda"
+  },
+  "Fortune": {
+   "vi": "tạp chí kinh doanh Fortune"
+  },
+  "John": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
+   "full": "John Carter"
+  },
+  "Carter": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
+   "full": "John Carter"
+  },
+  "The": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
+   "full": "The Lone Ranger"
+  },
+  "Lone": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
+   "full": "The Lone Ranger"
+  },
+  "Ranger": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
+   "full": "The Lone Ranger"
+  },
+  "United": {
+   "vi": "Hoa Kỳ, nước Mỹ",
+   "full": "United States"
+  },
+  "States": {
+   "vi": "Hoa Kỳ, nước Mỹ",
+   "full": "United States"
+  },
+  "Canada": {
+   "vi": "Canada"
+  }
+ }
+}

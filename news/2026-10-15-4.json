@@ -1,0 +1,2854 @@
+{
+ "id": "2026-10-15-4",
+ "domain": "business",
+ "title": "Why Hailey Bieber Sold Her Beauty Brand",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fortune.com/2026/10/14/hailey-bieber-sold-rhode-e-l-f-beauty-after-she-and-co-founder-lauren-ratner-addressed-their-main-fear-in-an-acquisition",
+  "outlet": "Fortune",
+  "author": "Amanda Gerut",
+  "title": "Hailey Bieber sold Rhode to e.l.f. Beauty after she and cofounder Lauren Ratner addressed their main fear in an acquisition",
+  "date": "2026-10-14",
+  "accessed": "2026-10-15",
+  "checked_against": "https://www.digitalcommerce360.com/2026/05/22/e-l-f-beauty-sales-q4-fy26/",
+  "notes": "Deal value and fiscal 2026 net sales match e.l.f. results coverage. The Europe launch figures (19 markets, 500+ doors) and the No. 1 claim come from Fortune only and are attributed. Deal structure ($800M + $200M earnout) left out: only seen in a search summary, not read at source.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "Rhode launched in 2022",
+    "quote": "launched Rhode in 2022"
+   },
+   {
+    "id": "f2",
+    "text": "three years later e.l.f. agreed to buy, deal worth up to $1 billion",
+    "quote": "three years later e.l.f. Beauty agreed to buy the brand ... deal worth up to $1 billion"
+   },
+   {
+    "id": "f3",
+    "text": "spoke Wednesday at Fortune Most Powerful Women Summit",
+    "quote": "at the Fortune Most Powerful Women Summit on Wednesday"
+   },
+   {
+    "id": "f4",
+    "text": "her one fear: selling the company",
+    "quote": "That was my one fear, really—that I would sell my company."
+   },
+   {
+    "id": "f5",
+    "text": "e.l.f. lets founders continue to make every decision",
+    "quote": "let us fly and let us continue to make every decision"
+   },
+   {
+    "id": "f6",
+    "text": "lean team reached its limits; needed bigger partner to scale globally",
+    "quote": "We really needed the infrastructure of a bigger partner to scale globally."
+   },
+   {
+    "id": "f7",
+    "text": "about $390 million net sales in fiscal 2026, up 80%",
+    "quote": "Rhode generated roughly $390 million in net sales in fiscal 2026, an 80% increase from the year before"
+   },
+   {
+    "id": "f8",
+    "text": "entered Sephora in the U.S. last September",
+    "quote": "entered Sephora in the U.S. last September"
+   },
+   {
+    "id": "f9",
+    "text": "Sephora Europe launch: 19 new markets, more than 500 doors",
+    "quote": "launched with Sephora in Europe across 19 new markets and more than 500 doors"
+   },
+   {
+    "id": "f10",
+    "text": "Ratner: number one brand in every retail market",
+    "quote": "the No. 1 brand in every retail market it operates in"
+   },
+   {
+    "id": "f11",
+    "text": "number one at Mecca in Australia",
+    "quote": "Mecca, an Australian retailer where Rhode is the No. 1 brand"
+   },
+   {
+    "id": "f12",
+    "text": "Bieber chief creative officer; Ratner president and chief brand officer",
+    "quote": "chief creative officer at Rhode ... cofounder, president, and chief brand officer"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.934,
+  "effective": 0.952,
+  "tokens": 375,
+  "new_core": 8
+ },
+ "vocab": [
+  "summit",
+  "retain",
+  "lean",
+  "succeed",
+  "enable",
+  "dominant",
+  "nevertheless",
+  "popularity",
+  "up to",
+  "according to",
+  "in other words",
+  "kind of",
+  "for example"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "Hailey",
+      "k": "name"
+     },
+     {
+      "w": "Bieber",
+      "k": "name"
+     },
+     {
+      "w": "Sold",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "Her",
+      "l": "her",
+      "k": "known"
+     },
+     {
+      "w": "Beauty",
+      "l": "beauty",
+      "k": "known"
+     },
+     {
+      "w": "Brand",
+      "l": "brand",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Hailey",
+      "k": "name"
+     },
+     {
+      "w": "Bieber",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "celebrity",
+      "nsp": 1,
+      "l": "celebrity",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "she",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "started",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "nsp": 1,
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2022",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "she",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "launched",
+      "l": "launch",
+      "k": "known"
+     },
+     {
+      "w": "Rhode",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "beauty",
+      "l": "beauty",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "years",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "later",
+      "nsp": 1,
+      "l": "later",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "e.l.f.",
+      "k": "name"
+     },
+     {
+      "w": "Beauty",
+      "k": "name"
+     },
+     {
+      "w": "agreed",
+      "l": "agree",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": "worth",
+      "l": "worth",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "up to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "1",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "billion",
+      "nsp": 1,
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Wednesday",
+      "nsp": 1,
+      "l": "wednesday",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Bieber",
+      "k": "name"
+     },
+     {
+      "w": "spoke",
+      "l": "speak",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "acquisition",
+      "l": "acquisition",
+      "k": "core"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Fortune",
+      "k": "name"
+     },
+     {
+      "w": "Most",
+      "k": "name"
+     },
+     {
+      "w": "Powerful",
+      "k": "name"
+     },
+     {
+      "w": "Women",
+      "k": "name"
+     },
+     {
+      "w": "Summit",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "At",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "summit",
+      "nsp": 1,
+      "l": "summit",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Bieber",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "selling",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "her",
+      "l": "her",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "her",
+      "l": "her",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "fear",
+      "nsp": 1,
+      "l": "fear",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "She",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "worried",
+      "l": "worry",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "she",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "lose",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "her",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "say",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "nsp": 1,
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "nsp": 1,
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "founders",
+      "l": "founder",
+      "k": "known"
+     },
+     {
+      "w": "wanted",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "retain",
+      "l": "retain",
+      "k": "core"
+     },
+     {
+      "w": "control",
+      "l": "control",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Rhode",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "products",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "creative",
+      "l": "creative",
+      "k": "known"
+     },
+     {
+      "w": "choices",
+      "nsp": 1,
+      "l": "choice",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Bieber",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "e.l.f.",
+      "k": "name"
+     },
+     {
+      "w": "Beauty",
+      "k": "name"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "lets",
+      "l": "let",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "continue",
+      "l": "continue",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "make",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "decision",
+      "nsp": 1,
+      "l": "decision",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "nsp": 1,
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Lauren",
+      "k": "name"
+     },
+     {
+      "w": "Ratner",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "started",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "Rhode",
+      "k": "name"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "Bieber",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "explained",
+      "l": "explain",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "nsp": 1,
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rhode",
+      "k": "name"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lean",
+      "l": "lean",
+      "k": "core"
+     },
+     {
+      "w": "team",
+      "nsp": 1,
+      "l": "team",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "team",
+      "l": "team",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "reached",
+      "l": "reach",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "limits",
+      "nsp": 1,
+      "l": "limit",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "We",
+      "l": "we",
+      "k": "known"
+     },
+     {
+      "w": "really",
+      "l": "really",
+      "k": "known"
+     },
+     {
+      "w": "needed",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "infrastructure",
+      "l": "infrastructure",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "partner",
+      "l": "partner",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "scale",
+      "l": "scale",
+      "k": "known"
+     },
+     {
+      "w": "globally",
+      "nsp": 1,
+      "l": "globally",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     },
+     {
+      "w": "Ratner",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "nsp": 1,
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lean",
+      "l": "lean",
+      "k": "core"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "succeed",
+      "l": "succeed",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "countries",
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": "alone",
+      "nsp": 1,
+      "l": "alone",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "larger",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "partner",
+      "l": "partner",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "enable",
+      "l": "enable",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "small",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "faster",
+      "nsp": 1,
+      "l": "fast",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "fast",
+      "nsp": 1,
+      "l": "fast",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rhode",
+      "k": "name"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "390",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "net",
+      "l": "net",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "fiscal",
+      "l": "fiscal",
+      "k": "core"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "80",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "increase",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "entered",
+      "l": "enter",
+      "k": "known"
+     },
+     {
+      "w": "Sephora",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "k": "name"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Fortune",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "launched",
+      "l": "launch",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "Sephora",
+      "k": "name"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "19",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "markets",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "500",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "size",
+      "l": "size",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "owner",
+      "l": "owner",
+      "k": "known"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "enable",
+      "l": "enable",
+      "k": "core"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "kind",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "overseas",
+      "nsp": 1,
+      "l": "overseas",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Ratner",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "Rhode",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "retail",
+      "l": "retail",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "sells",
+      "nsp": 1,
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "she",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "dominant",
+      "l": "dominant",
+      "k": "core"
+     },
+     {
+      "w": "brand",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "claim",
+      "nsp": 1,
+      "l": "claim",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "article",
+      "l": "article",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "give",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "numbers",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "popularity",
+      "l": "popularity",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "clear",
+      "l": "clear",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Australia",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "for",
+      "l": "for example",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "example",
+      "nsp": 1,
+      "l": "for example",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Rhode",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "top",
+      "l": "top",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "beauty",
+      "l": "beauty",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "Mecca",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Today",
+      "nsp": 1,
+      "l": "today",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Bieber",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "chief",
+      "l": "chief",
+      "k": "known"
+     },
+     {
+      "w": "creative",
+      "l": "creative",
+      "k": "known"
+     },
+     {
+      "w": "officer",
+      "l": "officer",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "Rhode",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Ratner",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "president",
+      "l": "president",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "chief",
+      "l": "chief",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "officer",
+      "nsp": 1,
+      "l": "officer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Both",
+      "l": "both",
+      "k": "known"
+     },
+     {
+      "w": "founders",
+      "l": "founder",
+      "k": "known"
+     },
+     {
+      "w": "retain",
+      "l": "retain",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "role",
+      "nsp": 1,
+      "l": "role",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "sale",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "Bieber",
+      "k": "name"
+     },
+     {
+      "w": "told",
+      "l": "tell",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "summit",
+      "nsp": 1,
+      "l": "summit",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "worked",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "main",
+      "l": "main",
+      "k": "known"
+     },
+     {
+      "w": "fear",
+      "l": "fear",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "answered",
+      "l": "answer",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "nsp": 1,
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "If",
+      "l": "if",
+      "k": "known"
+     },
+     {
+      "w": "Rhode",
+      "k": "name"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "popularity",
+      "l": "popularity",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "stay",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "dominant",
+      "l": "dominant",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "markets",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "founders",
+      "l": "founder",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "say",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": "helped",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "succeed",
+      "nsp": 1,
+      "l": "succeed",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "her": {
+   "ipa": "hɝ",
+   "pos": "pron",
+   "en": "belonging to a woman or girl",
+   "vi": "của cô ấy",
+   "band": 1
+  },
+  "beauty": {
+   "ipa": "ˈbjuti",
+   "pos": "n",
+   "en": "being nice to look at; (beauty brand) makeup and skin care",
+   "vi": "vẻ đẹp; (beauty brand) thương hiệu làm đẹp",
+   "band": 2
+  },
+  "she": {
+   "ipa": "ʃi",
+   "pos": "pron",
+   "en": "a woman or girl already talked about",
+   "vi": "cô ấy, bà ấy",
+   "band": 1
+  },
+  "launch": {
+   "ipa": "lɔntʃ",
+   "pos": "v",
+   "en": "to start a new product or business",
+   "vi": "ra mắt",
+   "band": 2
+  },
+  "later": {
+   "ipa": "ˈleɪtɚ",
+   "pos": "adv",
+   "en": "after some time",
+   "vi": "sau đó"
+  },
+  "agree": {
+   "ipa": "əˈɡri",
+   "pos": "v",
+   "en": "to say yes to a plan or deal",
+   "vi": "đồng ý",
+   "band": 1
+  },
+  "buy": {
+   "ipa": "baɪ",
+   "pos": "v",
+   "en": "to get something by paying money",
+   "vi": "mua",
+   "band": 1
+  },
+  "deal": {
+   "ipa": "dil",
+   "pos": "n",
+   "en": "an agreement in business",
+   "vi": "thương vụ, thoả thuận",
+   "band": 1
+  },
+  "worth": {
+   "ipa": "wɝθ",
+   "pos": "adj",
+   "en": "having a value of",
+   "vi": "trị giá",
+   "band": 1
+  },
+  "up to": {
+   "ipa": "ʌp tu",
+   "pos": "phr",
+   "en": "as much as; not more than",
+   "vi": "lên tới",
+   "band": 1
+  },
+  "wednesday": {
+   "ipa": "ˈwɛnzdi",
+   "pos": "n",
+   "en": "the day after Tuesday",
+   "vi": "thứ Tư",
+   "band": 2
+  },
+  "summit": {
+   "ipa": "ˈsʌmət",
+   "pos": "n",
+   "en": "an important meeting of leaders or experts",
+   "vi": "hội nghị thượng đỉnh, hội nghị lớn",
+   "band": 4
+  },
+  "fear": {
+   "ipa": "fɪr",
+   "pos": "n",
+   "en": "a feeling that something bad may happen",
+   "vi": "nỗi sợ",
+   "band": 1
+  },
+  "worry": {
+   "ipa": "ˈwɝi",
+   "pos": "v",
+   "en": "to think about bad things that may happen",
+   "vi": "lo lắng",
+   "band": 2
+  },
+  "founder": {
+   "ipa": "ˈfaʊndɚ",
+   "pos": "n",
+   "en": "a person who starts a company",
+   "vi": "nhà sáng lập",
+   "band": 3
+  },
+  "retain": {
+   "ipa": "rɪˈteɪn",
+   "pos": "v",
+   "en": "to keep something; not lose it",
+   "vi": "giữ lại",
+   "band": 4
+  },
+  "control": {
+   "ipa": "kənˈtroʊl",
+   "pos": "n",
+   "en": "the power to decide what happens",
+   "vi": "quyền kiểm soát",
+   "band": 1
+  },
+  "creative": {
+   "ipa": "kriˈeɪtɪv",
+   "pos": "adj",
+   "en": "about making new ideas, designs or art",
+   "vi": "sáng tạo",
+   "band": 2
+  },
+  "decision": {
+   "ipa": "dɪˈsɪʒən",
+   "pos": "n",
+   "en": "a choice that you make",
+   "vi": "quyết định",
+   "band": 1
+  },
+  "all": {
+   "ipa": "ɔl",
+   "pos": "adv",
+   "en": "(at all) in any way",
+   "vi": "(at all) chút nào, hoàn toàn",
+   "band": 1
+  },
+  "explain": {
+   "ipa": "ɪkˈspleɪn",
+   "pos": "v",
+   "en": "to make something clear and easy to understand",
+   "vi": "giải thích",
+   "band": 2
+  },
+  "reason": {
+   "ipa": "ˈrizən",
+   "pos": "n",
+   "en": "why something happens",
+   "vi": "lý do",
+   "band": 1
+  },
+  "lean": {
+   "ipa": "lin",
+   "pos": "adj",
+   "en": "small and using few people or little money",
+   "vi": "tinh gọn",
+   "band": 4
+  },
+  "team": {
+   "ipa": "tim",
+   "pos": "n",
+   "en": "a group of people who work together",
+   "vi": "đội, nhóm",
+   "band": 1
+  },
+  "limit": {
+   "ipa": "ˈlɪmət",
+   "pos": "n",
+   "en": "the most that is possible",
+   "vi": "giới hạn",
+   "band": 1
+  },
+  "we": {
+   "ipa": "wi",
+   "pos": "pron",
+   "en": "I and other people",
+   "vi": "chúng tôi",
+   "band": 1
+  },
+  "really": {
+   "ipa": "ˈrɪli",
+   "pos": "adv",
+   "en": "very; truly",
+   "vi": "thật sự",
+   "band": 1
+  },
+  "infrastructure": {
+   "ipa": "ˌɪnfrəˈstrʌktʃɚ",
+   "pos": "n",
+   "en": "the systems a business needs, like stores, staff and shipping",
+   "vi": "hạ tầng, cơ sở vật chất",
+   "band": 3
+  },
+  "partner": {
+   "ipa": "ˈpɑrtnɚ",
+   "pos": "n",
+   "en": "a person or company that works with you",
+   "vi": "đối tác",
+   "band": 2
+  },
+  "scale": {
+   "ipa": "skeɪl",
+   "pos": "v",
+   "en": "to grow a business to a much larger size",
+   "vi": "mở rộng quy mô",
+   "band": 2
+  },
+  "globally": {
+   "ipa": "ˈɡloʊbəli",
+   "pos": "adv",
+   "en": "in all parts of the world",
+   "vi": "trên toàn cầu",
+   "band": 7
+  },
+  "succeed": {
+   "ipa": "səkˈsid",
+   "pos": "v",
+   "en": "to do well; to get what you want",
+   "vi": "thành công",
+   "band": 4
+  },
+  "alone": {
+   "ipa": "əˈloʊn",
+   "pos": "adv",
+   "en": "without help",
+   "vi": "một mình",
+   "band": 1
+  },
+  "enable": {
+   "ipa": "ɛˈneɪbəl",
+   "pos": "v",
+   "en": "to make it possible for someone to do something",
+   "vi": "giúp, tạo điều kiện",
+   "band": 4
+  },
+  "small": {
+   "ipa": "smɔl",
+   "pos": "adj",
+   "en": "not big",
+   "vi": "nhỏ",
+   "band": 1
+  },
+  "net": {
+   "ipa": "nɛt",
+   "pos": "adj",
+   "en": "(net sales) after money taken off, such as for returns",
+   "vi": "thuần (doanh thu thuần)",
+   "band": 2
+  },
+  "increase": {
+   "ipa": "ˌɪnˈkris",
+   "pos": "n",
+   "en": "a rise in amount or number",
+   "vi": "sự tăng",
+   "band": 1
+  },
+  "enter": {
+   "ipa": "ˈɛntɚ",
+   "pos": "v",
+   "en": "to go into a place or market",
+   "vi": "gia nhập, bước vào",
+   "band": 2
+  },
+  "then": {
+   "ipa": "ðɛn",
+   "pos": "adv",
+   "en": "after that",
+   "vi": "sau đó",
+   "band": 1
+  },
+  "size": {
+   "ipa": "saɪz",
+   "pos": "n",
+   "en": "how big something is",
+   "vi": "quy mô, kích thước",
+   "band": 1
+  },
+  "help": {
+   "ipa": "hɛlp",
+   "pos": "v",
+   "en": "to make something easier",
+   "vi": "giúp",
+   "band": 1
+  },
+  "kind of": {
+   "ipa": "kaɪnd ʌv",
+   "pos": "phr",
+   "en": "a type of",
+   "vi": "loại, kiểu",
+   "band": 1
+  },
+  "retail": {
+   "ipa": "ˈriˌteɪl",
+   "pos": "adj",
+   "en": "about selling things to the public in shops",
+   "vi": "bán lẻ",
+   "band": 3
+  },
+  "dominant": {
+   "ipa": "ˈdɑmənənt",
+   "pos": "adj",
+   "en": "stronger or more important than all others",
+   "vi": "chiếm ưu thế, thống lĩnh",
+   "band": 4
+  },
+  "claim": {
+   "ipa": "kleɪm",
+   "pos": "n",
+   "en": "something someone says is true",
+   "vi": "tuyên bố, khẳng định",
+   "band": 1
+  },
+  "article": {
+   "ipa": "ˈɑrtəkəl",
+   "pos": "n",
+   "en": "a piece of writing in a newspaper or magazine",
+   "vi": "bài báo",
+   "band": 1
+  },
+  "nevertheless": {
+   "ipa": "ˌnɛvɚðəˈlɛs",
+   "pos": "adv",
+   "en": "even so; but still",
+   "vi": "tuy vậy, dù sao",
+   "band": 4
+  },
+  "popularity": {
+   "ipa": "ˌpɑpjəˈlɛrəti",
+   "pos": "n",
+   "en": "being liked by many people",
+   "vi": "sự được ưa chuộng",
+   "band": 4
+  },
+  "for example": {
+   "ipa": "fɔr ɪɡˈzæmpəl",
+   "pos": "phr",
+   "en": "used to give one example",
+   "vi": "ví dụ",
+   "band": 1
+  },
+  "top": {
+   "ipa": "tɑp",
+   "pos": "adj",
+   "en": "best; number one",
+   "vi": "hàng đầu",
+   "band": 1
+  },
+  "chief": {
+   "ipa": "tʃif",
+   "pos": "adj",
+   "en": "most important; at the top of a company",
+   "vi": "(giám đốc) trưởng",
+   "band": 1
+  },
+  "officer": {
+   "ipa": "ˈɔfəsɚ",
+   "pos": "n",
+   "en": "a person with an important job in a company",
+   "vi": "người phụ trách, giám đốc",
+   "band": 1
+  },
+  "role": {
+   "ipa": "roʊl",
+   "pos": "n",
+   "en": "the job or part someone has",
+   "vi": "vai trò",
+   "band": 1
+  },
+  "as": {
+   "ipa": "æz",
+   "pos": "conj",
+   "en": "while; when",
+   "vi": "khi, trong lúc",
+   "band": 1
+  },
+  "main": {
+   "ipa": "meɪn",
+   "pos": "adj",
+   "en": "most important",
+   "vi": "chính",
+   "band": 1
+  },
+  "if": {
+   "ipa": "ɪf",
+   "pos": "conj",
+   "en": "used to say that one thing depends on another",
+   "vi": "nếu",
+   "band": 1
+  }
+ },
+ "names": {
+  "Hailey": {
+   "vi": "Hailey Bieber, người nổi tiếng người Mỹ, nhà sáng lập Rhode",
+   "full": "Hailey Bieber"
+  },
+  "Bieber": {
+   "vi": "Hailey Bieber, người nổi tiếng người Mỹ, nhà sáng lập Rhode",
+   "full": "Hailey Bieber"
+  },
+  "Rhode": {
+   "vi": "Rhode, thương hiệu làm đẹp do Hailey Bieber sáng lập"
+  },
+  "e.l.f.": {
+   "vi": "công ty mỹ phẩm Mỹ, đã mua lại Rhode",
+   "full": "e.l.f. Beauty"
+  },
+  "Beauty": {
+   "vi": "công ty mỹ phẩm Mỹ, đã mua lại Rhode",
+   "full": "e.l.f. Beauty"
+  },
+  "Fortune": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
+   "full": "Fortune Most Powerful Women Summit"
+  },
+  "Most": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
+   "full": "Fortune Most Powerful Women Summit"
+  },
+  "Powerful": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
+   "full": "Fortune Most Powerful Women Summit"
+  },
+  "Women": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
+   "full": "Fortune Most Powerful Women Summit"
+  },
+  "Summit": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
+   "full": "Fortune Most Powerful Women Summit"
+  },
+  "Lauren": {
+   "vi": "đồng sáng lập, chủ tịch Rhode",
+   "full": "Lauren Ratner"
+  },
+  "Ratner": {
+   "vi": "đồng sáng lập, chủ tịch Rhode",
+   "full": "Lauren Ratner"
+  },
+  "Sephora": {
+   "vi": "Sephora, chuỗi cửa hàng mỹ phẩm lớn"
+  },
+  "United": {
+   "vi": "Hoa Kỳ, nước Mỹ",
+   "full": "United States"
+  },
+  "States": {
+   "vi": "Hoa Kỳ, nước Mỹ",
+   "full": "United States"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Australia": {
+   "vi": "Úc"
+  },
+  "Mecca": {
+   "vi": "Mecca, chuỗi cửa hàng mỹ phẩm ở Úc"
+  }
+ }
+}
