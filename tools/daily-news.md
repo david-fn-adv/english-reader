@@ -40,6 +40,9 @@ từ thư mục gốc repo. `git pull` trước khi bắt đầu.
 Chạy tay vào ngày khác: dùng chủ đề của ngày theo lịch kế tiếp. `id` của bài = ngày chạy
 (`YYYY-MM-DD`, giờ Việt Nam). Đã có `news/<id>.json` thì dừng — mỗi ngày một bài.
 
+Ngoại lệ duy nhất: **Dương yêu cầu bổ sung bài** trong ngày → `id` = `YYYY-MM-DD-2`, `-3`, …
+(tác vụ theo lịch không bao giờ dùng hậu tố).
+
 **Yêu cầu của Nhung đi trước lịch.** Hai nơi, xét theo thứ tự này:
 
 1. **Google Form** (nút "Gửi bài muốn đọc" trong app, không cần tài khoản):

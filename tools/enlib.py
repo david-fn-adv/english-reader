@@ -225,6 +225,13 @@ def tokenize_text(text: str, phrases: list[dict], names, wordlist=None):
     and its lowercase form is not an ordinary banded word (so "September" and
     "Northern" stay words, "Leger" is a name).
     """
+    # dotted names from the draft ("e.l.f.") stay one token; otherwise spaCy
+    # splits off the final "." and ends the sentence there
+    from spacy.attrs import ORTH
+    for n in names or ():
+        for part in n.split():
+            if "." in part.rstrip("."):
+                nlp().tokenizer.add_special_case(part, [{ORTH: part}])
     doc = nlp()(text)
     # merge hyphenated compounds (well-known, year-over-year) into one token
     with doc.retokenize() as rt:

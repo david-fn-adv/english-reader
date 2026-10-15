@@ -42,11 +42,15 @@ GATE = {"effective_min": 0.95, "core_min": 8, "core_max": 12, "core_reps": 2,
         "recycle_min": 3, "recycle_max": 5}
 
 
+ARTICLE_ID = re.compile(r"^\d{4}-\d\d-\d\d(-\d+)?$")   # 2026-10-15, or 2026-10-15-2 for extras
+
+
 def previous_articles(before_id: str) -> list[dict]:
-    """Published articles older than `before_id`, newest first."""
+    """Published articles older than `before_id`, newest first. Ids sort as
+    strings: 2026-10-15 < 2026-10-15-2 < 2026-10-16."""
     arts = []
-    for p in sorted(NEWS.glob("[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json")):
-        if p.stem < before_id:
+    for p in sorted(NEWS.glob("*.json")):
+        if ARTICLE_ID.match(p.stem) and p.stem < before_id:
             arts.append(load_json(p))
     return sorted(arts, key=lambda a: a["id"], reverse=True)
 
@@ -136,6 +140,8 @@ def analyze(draft: dict) -> tuple[list, dict]:
     for s_ in body:
         for i in range(len(s_) - 1):
             w, nxt = s_[i]["w"], s_[i + 1]["w"]
+            if s_[i].get("k") == "name" and s_[i + 1].get("k") == "name":
+                continue  # inside one name: "e.l.f. Beauty", "Warner Bros. Discovery"
             if len(w) > 2 and w.endswith(".") and "." in w[:-1] and nxt[:1].isupper():
                 fails.append(f"possible missed sentence break after '{w}' before '{nxt}' — "
                              f"rephrase so the abbreviation does not end a sentence")
