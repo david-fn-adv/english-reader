@@ -1,0 +1,126 @@
+{
+ "id": "2026-10-15",
+ "domain": "fashion",
+ "title": "Ross Stores Finishes Its Plan for 115 New Stores",
+ "source": {
+  "url": "https://us.fashionnetwork.com/news/Ross-stores-completes-2026-expansion-plan-with-115-new-locations,1875218.html",
+  "outlet": "FashionNetwork",
+  "author": "Jennifer Braun",
+  "title": "Ross Stores completes 2026 expansion plan with 115 new locations",
+  "date": "2026-10-13",
+  "accessed": "2026-10-15",
+  "checked_against": "https://www.tradeandindustrydev.com/industry/retail/news/ross-stores-opens-51-new-locations-across-17-36482",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "51 stores in September and October",
+    "quote": "opened 51 stores across its Ross Dress for Less and dd's Discounts banners in September and October"
+   },
+   {
+    "id": "f2",
+    "text": "41 Ross Dress for Less, 10 dd's Discounts, 17 states",
+    "quote": "added 41 Ross Dress for Less stores and 10 dd's Discounts locations across 17 states"
+   },
+   {
+    "id": "f3",
+    "text": "115 openings in fiscal 2026",
+    "quote": "completing its store expansion plans for fiscal 2026 ... bringing its total store openings for the year to 115"
+   },
+   {
+    "id": "f4",
+    "text": "first stores in Massachusetts; more in New York",
+    "quote": "The latest openings include Ross Dress for Less' first stores in Massachusetts ... further expansion in New York and other existing markets"
+   },
+   {
+    "id": "f5",
+    "text": "dd's Discounts core markets California, Florida, Texas",
+    "quote": "dd's Discounts continued to expand in its core markets of California, Florida and Texas"
+   },
+   {
+    "id": "f6",
+    "text": "Richard Lietz, executive vice president, property development",
+    "quote": "Each new opening allows us to deliver compelling value to even more customers ... while creating new jobs and making a positive impact in local communities"
+   },
+   {
+    "id": "f7",
+    "text": "Boys & Girls Clubs and First Book",
+    "quote": "also made donations to local Boys & Girls Clubs and First Book literacy partners"
+   },
+   {
+    "id": "f8",
+    "text": "about 2,377 stores in 45 states, DC, Guam, Puerto Rico",
+    "quote": "currently operate approximately 2,377 stores combined across 45 US states, the District of Columbia, Guam and Puerto Rico"
+   },
+   {
+    "id": "f9",
+    "text": "at least 2,900 Ross Dress for Less, 700 dd's Discounts, no date",
+    "quote": "aims to eventually expand its Ross Dress for Less network to at least 2,900 locations ... its dd's Discounts footprint to 700 stores"
+   },
+   {
+    "id": "f10",
+    "text": "off-price retailer; branded goods at discounted prices",
+    "quote": "consumers continue to seek branded merchandise at discounted prices"
+   }
+  ]
+ },
+ "paragraphs": [
+  "Ross Stores has reached the end of its plan for new stores this year. The American company opened 51 stores in September and October. With these openings, it reached a total of 115 new stores in its fiscal year 2026. A fiscal year is the twelve months a company uses for its accounts and plans. This marks the completion of its plan for the year.",
+  "Ross is an off-price retailer. That means it sells products from famous brands at lower prices. The company says buyers continue to look for brand-name goods at lower prices. Ross wants to give these buyers affordable choices.",
+  "The new stores opened under the company's two names. Ross added 41 Ross Dress for Less stores and 10 dd's Discounts stores. They are spread across 17 states. The openings came in two consecutive months, and they show a steady pace of growth.",
+  "Some of the openings took the company to new places. Ross Dress for Less opened its first stores in Massachusetts, a new destination for the brand. Furthermore, it added more stores in New York and in other markets where it already works. Meanwhile, dd's Discounts kept growing in its core markets of California, Florida and Texas.",
+  "Richard Lietz, an executive vice president at Ross, spoke about the openings. He said each new store lets the company bring good value to more customers. Furthermore, he said the stores create new jobs and have a positive effect on local communities.",
+  "The company also showed its involvement in those communities. It gave support to local Boys & Girls Clubs and to reading programs with First Book. The company did not say how much this involvement cost.",
+  "After this year's openings, Ross Dress for Less and dd's Discounts together have about 2,377 stores. They are in 45 states, as well as the District of Columbia, Guam and Puerto Rico. That is a considerable number of shops for one company.",
+  "Moreover, Ross believes it can grow much larger, and it plans to pursue that growth. It aims to have at least 2,900 Ross Dress for Less stores and 700 dd's Discounts stores one day. The company did not give a date by which it will pursue these goals. Moreover, it did not say how many stores it will open next year. Still, with the completion of this year's considerable plan, Ross now brings affordable shopping to more places than before."
+ ],
+ "names": {
+  "Ross Stores": {
+   "vi": "chuỗi bán lẻ giảm giá của Mỹ (off-price)"
+  },
+  "Ross": {
+   "vi": "Ross Stores, chuỗi bán lẻ giảm giá của Mỹ"
+  },
+  "Ross Dress for Less": {
+   "vi": "thương hiệu cửa hàng chính của Ross Stores"
+  },
+  "dd's Discounts": {
+   "vi": "chuỗi cửa hàng giá rẻ hơn nữa, cũng thuộc Ross Stores"
+  },
+  "Massachusetts": {
+   "vi": "bang Massachusetts, đông bắc nước Mỹ"
+  },
+  "New York": {
+   "vi": "bang New York, đông bắc nước Mỹ"
+  },
+  "California": {
+   "vi": "bang California, tây nước Mỹ"
+  },
+  "Florida": {
+   "vi": "bang Florida, đông nam nước Mỹ"
+  },
+  "Texas": {
+   "vi": "bang Texas, nam nước Mỹ"
+  },
+  "Richard Lietz": {
+   "vi": "phó chủ tịch điều hành phụ trách phát triển mặt bằng của Ross"
+  },
+  "Boys & Girls Clubs": {
+   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ"
+  },
+  "First Book": {
+   "vi": "tổ chức phi lợi nhuận về sách và đọc sách cho trẻ em"
+  },
+  "District of Columbia": {
+   "vi": "Đặc khu Columbia — thủ đô Washington, D.C."
+  },
+  "Guam": {
+   "vi": "đảo Guam, lãnh thổ của Mỹ ở Thái Bình Dương"
+  },
+  "Puerto Rico": {
+   "vi": "Puerto Rico, lãnh thổ của Mỹ ở vùng biển Caribe"
+  },
+  "American": {
+   "vi": "thuộc về Mỹ"
+  }
+ }
+}

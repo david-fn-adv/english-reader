@@ -1,0 +1,3240 @@
+{
+ "id": "2026-10-15",
+ "domain": "fashion",
+ "title": "Ross Stores Finishes Its Plan for 115 New Stores",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://us.fashionnetwork.com/news/Ross-stores-completes-2026-expansion-plan-with-115-new-locations,1875218.html",
+  "outlet": "FashionNetwork",
+  "author": "Jennifer Braun",
+  "title": "Ross Stores completes 2026 expansion plan with 115 new locations",
+  "date": "2026-10-13",
+  "accessed": "2026-10-15",
+  "checked_against": "https://www.tradeandindustrydev.com/industry/retail/news/ross-stores-opens-51-new-locations-across-17-36482",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "51 stores in September and October",
+    "quote": "opened 51 stores across its Ross Dress for Less and dd's Discounts banners in September and October"
+   },
+   {
+    "id": "f2",
+    "text": "41 Ross Dress for Less, 10 dd's Discounts, 17 states",
+    "quote": "added 41 Ross Dress for Less stores and 10 dd's Discounts locations across 17 states"
+   },
+   {
+    "id": "f3",
+    "text": "115 openings in fiscal 2026",
+    "quote": "completing its store expansion plans for fiscal 2026 ... bringing its total store openings for the year to 115"
+   },
+   {
+    "id": "f4",
+    "text": "first stores in Massachusetts; more in New York",
+    "quote": "The latest openings include Ross Dress for Less' first stores in Massachusetts ... further expansion in New York and other existing markets"
+   },
+   {
+    "id": "f5",
+    "text": "dd's Discounts core markets California, Florida, Texas",
+    "quote": "dd's Discounts continued to expand in its core markets of California, Florida and Texas"
+   },
+   {
+    "id": "f6",
+    "text": "Richard Lietz, executive vice president, property development",
+    "quote": "Each new opening allows us to deliver compelling value to even more customers ... while creating new jobs and making a positive impact in local communities"
+   },
+   {
+    "id": "f7",
+    "text": "Boys & Girls Clubs and First Book",
+    "quote": "also made donations to local Boys & Girls Clubs and First Book literacy partners"
+   },
+   {
+    "id": "f8",
+    "text": "about 2,377 stores in 45 states, DC, Guam, Puerto Rico",
+    "quote": "currently operate approximately 2,377 stores combined across 45 US states, the District of Columbia, Guam and Puerto Rico"
+   },
+   {
+    "id": "f9",
+    "text": "at least 2,900 Ross Dress for Less, 700 dd's Discounts, no date",
+    "quote": "aims to eventually expand its Ross Dress for Less network to at least 2,900 locations ... its dd's Discounts footprint to 700 stores"
+   },
+   {
+    "id": "f10",
+    "text": "off-price retailer; branded goods at discounted prices",
+    "quote": "consumers continue to seek branded merchandise at discounted prices"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.93,
+  "effective": 0.953,
+  "tokens": 406,
+  "new_core": 8
+ },
+ "vocab": [
+  "fiscal",
+  "completion",
+  "affordable",
+  "furthermore",
+  "involvement",
+  "considerable",
+  "moreover",
+  "pursue",
+  "look for",
+  "as well as",
+  "at least"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "Stores",
+      "k": "name"
+     },
+     {
+      "w": "Finishes",
+      "l": "finish",
+      "k": "known"
+     },
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "Plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "115",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "New",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "Stores",
+      "k": "name"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "Stores",
+      "k": "name"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "reached",
+      "l": "reach",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "American",
+      "k": "name"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "opened",
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": "51",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "nsp": 1,
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "With",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "openings",
+      "nsp": 1,
+      "l": "opening",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "reached",
+      "l": "reach",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "total",
+      "l": "total",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "115",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "fiscal",
+      "l": "fiscal",
+      "k": "core"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "fiscal",
+      "l": "fiscal",
+      "k": "core"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "twelve",
+      "l": "twelve",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "uses",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "accounts",
+      "l": "account",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "plans",
+      "nsp": 1,
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "marks",
+      "l": "mark",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "completion",
+      "l": "completion",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "off-price",
+      "l": "off-price",
+      "k": "known"
+     },
+     {
+      "w": "retailer",
+      "nsp": 1,
+      "l": "retailer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "sells",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "products",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "continue",
+      "l": "continue",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "look",
+      "l": "look for",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "look for",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "brand-name",
+      "l": "brand-name",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "give",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "affordable",
+      "l": "affordable",
+      "k": "core"
+     },
+     {
+      "w": "choices",
+      "nsp": 1,
+      "l": "choice",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "opened",
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": "under",
+      "l": "under",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "names",
+      "nsp": 1,
+      "l": "name",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "added",
+      "l": "add",
+      "k": "known"
+     },
+     {
+      "w": "41",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "Dress",
+      "k": "name"
+     },
+     {
+      "w": "for",
+      "k": "name"
+     },
+     {
+      "w": "Less",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "10",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "dd",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Discounts",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "spread",
+      "l": "spread",
+      "k": "known"
+     },
+     {
+      "w": "across",
+      "l": "across",
+      "k": "known"
+     },
+     {
+      "w": "17",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "states",
+      "nsp": 1,
+      "l": "state",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "openings",
+      "l": "opening",
+      "k": "known"
+     },
+     {
+      "w": "came",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "consecutive",
+      "l": "consecutive",
+      "k": "core"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "show",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "steady",
+      "l": "steady",
+      "k": "core"
+     },
+     {
+      "w": "pace",
+      "l": "pace",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "nsp": 1,
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "openings",
+      "l": "opening",
+      "k": "known"
+     },
+     {
+      "w": "took",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "places",
+      "nsp": 1,
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "Dress",
+      "k": "name"
+     },
+     {
+      "w": "for",
+      "k": "name"
+     },
+     {
+      "w": "Less",
+      "k": "name"
+     },
+     {
+      "w": "opened",
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Massachusetts",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "destination",
+      "l": "destination",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Furthermore",
+      "nsp": 1,
+      "l": "furthermore",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "added",
+      "l": "add",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "New",
+      "k": "name"
+     },
+     {
+      "w": "York",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "markets",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "already",
+      "l": "already",
+      "k": "known"
+     },
+     {
+      "w": "works",
+      "nsp": 1,
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Meanwhile",
+      "nsp": 1,
+      "l": "meanwhile",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "dd",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Discounts",
+      "k": "name"
+     },
+     {
+      "w": "kept",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "core",
+      "l": "core",
+      "k": "known"
+     },
+     {
+      "w": "markets",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "California",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Florida",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Texas",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Richard",
+      "k": "name"
+     },
+     {
+      "w": "Lietz",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "executive",
+      "l": "executive",
+      "k": "known"
+     },
+     {
+      "w": "vice",
+      "l": "vice",
+      "k": "known"
+     },
+     {
+      "w": "president",
+      "l": "president",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "Ross",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "spoke",
+      "l": "speak",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "openings",
+      "nsp": 1,
+      "l": "opening",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "He",
+      "l": "he",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "lets",
+      "l": "let",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "bring",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "value",
+      "l": "value",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "customers",
+      "nsp": 1,
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Furthermore",
+      "nsp": 1,
+      "l": "furthermore",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "he",
+      "l": "he",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "create",
+      "l": "create",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "jobs",
+      "l": "job",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "positive",
+      "l": "positive",
+      "k": "known"
+     },
+     {
+      "w": "effect",
+      "l": "effect",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "local",
+      "l": "local",
+      "k": "known"
+     },
+     {
+      "w": "communities",
+      "nsp": 1,
+      "l": "community",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "showed",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "involvement",
+      "l": "involvement",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "those",
+      "l": "those",
+      "k": "known"
+     },
+     {
+      "w": "communities",
+      "nsp": 1,
+      "l": "community",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "gave",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "support",
+      "l": "support",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "local",
+      "l": "local",
+      "k": "known"
+     },
+     {
+      "w": "Boys",
+      "k": "name"
+     },
+     {
+      "w": "&",
+      "k": "plain"
+     },
+     {
+      "w": "Girls",
+      "k": "name"
+     },
+     {
+      "w": "Clubs",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "reading",
+      "l": "read",
+      "k": "known"
+     },
+     {
+      "w": "programs",
+      "l": "program",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "First",
+      "k": "name"
+     },
+     {
+      "w": "Book",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "say",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "involvement",
+      "l": "involvement",
+      "k": "core"
+     },
+     {
+      "w": "cost",
+      "nsp": 1,
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "After",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "openings",
+      "nsp": 1,
+      "l": "opening",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "Dress",
+      "k": "name"
+     },
+     {
+      "w": "for",
+      "k": "name"
+     },
+     {
+      "w": "Less",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "dd",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Discounts",
+      "k": "name"
+     },
+     {
+      "w": "together",
+      "l": "together",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "2,377",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "45",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "states",
+      "nsp": 1,
+      "l": "state",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "as",
+      "l": "as well as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "l": "as well as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as well as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "District",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "k": "name"
+     },
+     {
+      "w": "Columbia",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Guam",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Puerto",
+      "k": "name"
+     },
+     {
+      "w": "Rico",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "considerable",
+      "l": "considerable",
+      "k": "core"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "shops",
+      "l": "shop",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Moreover",
+      "nsp": 1,
+      "l": "moreover",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "believes",
+      "l": "believe",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "larger",
+      "nsp": 1,
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "plans",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "pursue",
+      "l": "pursue",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "nsp": 1,
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "aims",
+      "l": "aim",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at least",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "least",
+      "l": "at least",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "2,900",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "Dress",
+      "k": "name"
+     },
+     {
+      "w": "for",
+      "k": "name"
+     },
+     {
+      "w": "Less",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "700",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "dd",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Discounts",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "day",
+      "nsp": 1,
+      "l": "day",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "give",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "date",
+      "l": "date",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "which",
+      "l": "which",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "pursue",
+      "l": "pursue",
+      "k": "core"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "goals",
+      "nsp": 1,
+      "l": "goal",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Moreover",
+      "nsp": 1,
+      "l": "moreover",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "say",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "open",
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": "next",
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Still",
+      "nsp": 1,
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "completion",
+      "l": "completion",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "considerable",
+      "l": "considerable",
+      "k": "core"
+     },
+     {
+      "w": "plan",
+      "nsp": 1,
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Ross",
+      "k": "name"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "brings",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "affordable",
+      "l": "affordable",
+      "k": "core"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "places",
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "finish": {
+   "ipa": "ˈfɪnɪʃ",
+   "pos": "v",
+   "en": "to come to the end of something",
+   "vi": "hoàn thành, kết thúc",
+   "band": 1
+  },
+  "its": {
+   "ipa": "ɪts",
+   "pos": "pron",
+   "en": "belonging to it",
+   "vi": "của nó",
+   "band": 1
+  },
+  "plan": {
+   "ipa": "plæn",
+   "pos": "n",
+   "en": "something you have decided to do in the future",
+   "vi": "kế hoạch",
+   "band": 1
+  },
+  "new": {
+   "ipa": "nu",
+   "pos": "adj",
+   "en": "not there before; just made or started",
+   "vi": "mới",
+   "band": 1
+  },
+  "reach": {
+   "ipa": "ritʃ",
+   "pos": "v",
+   "en": "to get to a place, level or number",
+   "vi": "đạt tới, đến",
+   "band": 1
+  },
+  "store": {
+   "ipa": "stɔr",
+   "pos": "n",
+   "en": "a shop",
+   "vi": "cửa hàng",
+   "band": 1
+  },
+  "this": {
+   "ipa": "ðɪs",
+   "pos": "det",
+   "en": "used for a thing that is near or now",
+   "vi": "này",
+   "band": 1
+  },
+  "company": {
+   "ipa": "ˈkʌmpəˌni",
+   "pos": "n",
+   "en": "a business that makes or sells things",
+   "vi": "công ty",
+   "band": 1
+  },
+  "october": {
+   "ipa": "ɑkˈtoʊbɚ",
+   "pos": "n",
+   "en": "month number 10 of the year",
+   "vi": "tháng Mười",
+   "band": 1
+  },
+  "with": {
+   "ipa": "wɪð",
+   "pos": "prep",
+   "en": "together with; because of",
+   "vi": "với, cùng với",
+   "band": 1
+  },
+  "these": {
+   "ipa": "ðiz",
+   "pos": "det",
+   "en": "used for things that are near or just talked about",
+   "vi": "những … này",
+   "band": 1
+  },
+  "opening": {
+   "ipa": "ˈoʊpənɪŋ",
+   "pos": "n",
+   "en": "the start of a new shop or business",
+   "vi": "sự khai trương",
+   "band": 1
+  },
+  "total": {
+   "ipa": "ˈtoʊtəl",
+   "pos": "n",
+   "en": "the number you get when you add everything",
+   "vi": "tổng số",
+   "band": 1
+  },
+  "fiscal": {
+   "ipa": "ˈfɪskəl",
+   "pos": "adj",
+   "en": "about money and accounts, for a business or government",
+   "vi": "(thuộc) tài chính; fiscal year = năm tài chính",
+   "band": 4
+  },
+  "twelve": {
+   "ipa": "twɛlv",
+   "pos": "num",
+   "en": "the number 12",
+   "vi": "mười hai",
+   "band": 3
+  },
+  "use": {
+   "ipa": "jus",
+   "pos": "v",
+   "en": "to do something with a thing for a purpose",
+   "vi": "dùng, sử dụng",
+   "band": 1
+  },
+  "account": {
+   "ipa": "əˈkaʊnt",
+   "pos": "n",
+   "en": "a record of money in and money out",
+   "vi": "sổ sách kế toán",
+   "band": 1
+  },
+  "mark": {
+   "ipa": "mɑrk",
+   "pos": "v",
+   "en": "to show that something has happened",
+   "vi": "đánh dấu",
+   "band": 1
+  },
+  "completion": {
+   "ipa": "kəmˈpliʃən",
+   "pos": "n",
+   "en": "the act of finishing something",
+   "vi": "sự hoàn thành",
+   "band": 4
+  },
+  "off-price": {
+   "ipa": "ˈɔfˌpraɪs",
+   "pos": "adj",
+   "en": "selling brand goods at lower prices than usual",
+   "vi": "(bán lẻ) giá chiết khấu, hàng hiệu giá rẻ"
+  },
+  "retailer": {
+   "ipa": "ˈriˌteɪlɚ",
+   "pos": "n",
+   "en": "a business that sells goods to the public",
+   "vi": "nhà bán lẻ",
+   "band": 6
+  },
+  "mean": {
+   "ipa": "min",
+   "pos": "v",
+   "en": "to have a certain meaning",
+   "vi": "có nghĩa là",
+   "band": 1
+  },
+  "sell": {
+   "ipa": "sɛl",
+   "pos": "v",
+   "en": "to give something to someone for money",
+   "vi": "bán",
+   "band": 1
+  },
+  "product": {
+   "ipa": "ˈprɑdəkt",
+   "pos": "n",
+   "en": "a thing that is made to be sold",
+   "vi": "sản phẩm",
+   "band": 1
+  },
+  "famous": {
+   "ipa": "ˈfeɪməs",
+   "pos": "adj",
+   "en": "known by many people",
+   "vi": "nổi tiếng",
+   "band": 2
+  },
+  "brand": {
+   "ipa": "brænd",
+   "pos": "n",
+   "en": "the name of a product made by a company",
+   "vi": "thương hiệu",
+   "band": 2
+  },
+  "buyer": {
+   "ipa": "ˈbaɪɚ",
+   "pos": "n",
+   "en": "a person who buys something",
+   "vi": "người mua",
+   "band": 4
+  },
+  "continue": {
+   "ipa": "kənˈtɪnju",
+   "pos": "v",
+   "en": "to keep doing something",
+   "vi": "tiếp tục",
+   "band": 1
+  },
+  "look for": {
+   "ipa": "lʊk fɔr",
+   "pos": "phr",
+   "en": "to try to find something",
+   "vi": "tìm, tìm kiếm",
+   "band": 1
+  },
+  "brand-name": {
+   "ipa": "ˈbrændˌneɪm",
+   "pos": "adj",
+   "en": "made by a famous company",
+   "vi": "(hàng) có thương hiệu"
+  },
+  "want": {
+   "ipa": "wɑnt",
+   "pos": "v",
+   "en": "to wish to have or do something",
+   "vi": "muốn",
+   "band": 1
+  },
+  "give": {
+   "ipa": "ɡɪv",
+   "pos": "v",
+   "en": "to let someone have something",
+   "vi": "cho, đưa",
+   "band": 1
+  },
+  "affordable": {
+   "ipa": "əˈfɔrdəbəl",
+   "pos": "adj",
+   "en": "cheap enough for people to buy",
+   "vi": "giá phải chăng, vừa túi tiền",
+   "band": 4
+  },
+  "choice": {
+   "ipa": "tʃɔɪs",
+   "pos": "n",
+   "en": "a thing you can pick from several things",
+   "vi": "lựa chọn",
+   "band": 1
+  },
+  "under": {
+   "ipa": "ˈʌndɚ",
+   "pos": "prep",
+   "en": "using a certain name; below",
+   "vi": "dưới (tên gọi)",
+   "band": 1
+  },
+  "name": {
+   "ipa": "neɪm",
+   "pos": "n",
+   "en": "the word used for a person, place or thing",
+   "vi": "tên",
+   "band": 1
+  },
+  "add": {
+   "ipa": "æd",
+   "pos": "v",
+   "en": "to put something more with what is already there",
+   "vi": "thêm",
+   "band": 1
+  },
+  "spread": {
+   "ipa": "sprɛd",
+   "pos": "v",
+   "en": "to be in many places across an area",
+   "vi": "trải rộng",
+   "band": 2
+  },
+  "state": {
+   "ipa": "steɪt",
+   "pos": "n",
+   "en": "one of the parts of a country like the United States",
+   "vi": "bang",
+   "band": 1
+  },
+  "show": {
+   "ipa": "ʃoʊ",
+   "pos": "v",
+   "en": "to make something clear",
+   "vi": "cho thấy",
+   "band": 1
+  },
+  "pace": {
+   "ipa": "peɪs",
+   "pos": "n",
+   "en": "the speed at which something happens",
+   "vi": "nhịp độ, tốc độ",
+   "band": 3
+  },
+  "some": {
+   "ipa": "sʌm",
+   "pos": "pron",
+   "en": "a number of; not all",
+   "vi": "một số",
+   "band": 1
+  },
+  "take": {
+   "ipa": "teɪk",
+   "pos": "v",
+   "en": "to move someone or something to a place",
+   "vi": "đưa (đến)",
+   "band": 1
+  },
+  "first": {
+   "ipa": "fɝst",
+   "pos": "adj",
+   "en": "coming before all others",
+   "vi": "đầu tiên",
+   "band": 1
+  },
+  "furthermore": {
+   "ipa": "ˈfɝðɚˌmɔr",
+   "pos": "adv",
+   "en": "also; used to add more information",
+   "vi": "hơn nữa, ngoài ra",
+   "band": 4
+  },
+  "other": {
+   "ipa": "ˈʌðɚ",
+   "pos": "adj",
+   "en": "more of the same kind; not this one",
+   "vi": "khác",
+   "band": 1
+  },
+  "market": {
+   "ipa": "ˈmɑrkət",
+   "pos": "n",
+   "en": "a place or area where things are sold",
+   "vi": "thị trường",
+   "band": 1
+  },
+  "where": {
+   "ipa": "wɛr",
+   "pos": "conj",
+   "en": "in which place",
+   "vi": "nơi mà",
+   "band": 1
+  },
+  "already": {
+   "ipa": "ɔlˈrɛdi",
+   "pos": "adv",
+   "en": "before now",
+   "vi": "đã … rồi",
+   "band": 1
+  },
+  "work": {
+   "ipa": "wɝk",
+   "pos": "v",
+   "en": "to do business in a place",
+   "vi": "hoạt động, làm việc",
+   "band": 1
+  },
+  "meanwhile": {
+   "ipa": "ˈminˌwaɪl",
+   "pos": "adv",
+   "en": "at the same time",
+   "vi": "trong khi đó",
+   "band": 3
+  },
+  "keep": {
+   "ipa": "kip",
+   "pos": "v",
+   "en": "to continue doing something",
+   "vi": "tiếp tục, giữ",
+   "band": 1
+  },
+  "core": {
+   "ipa": "kɔr",
+   "pos": "adj",
+   "en": "main and most important",
+   "vi": "cốt lõi, chính",
+   "band": 2
+  },
+  "executive": {
+   "ipa": "ɪɡˈzɛkjətɪv",
+   "pos": "adj",
+   "en": "having power to run a company",
+   "vi": "điều hành",
+   "band": 2
+  },
+  "vice": {
+   "ipa": "vaɪs",
+   "pos": "n",
+   "en": "(vice president) the person next below the president",
+   "vi": "phó",
+   "band": 2
+  },
+  "president": {
+   "ipa": "ˈprɛzəˌdɛnt",
+   "pos": "n",
+   "en": "the leader of a company or country",
+   "vi": "chủ tịch, tổng thống",
+   "band": 1
+  },
+  "speak": {
+   "ipa": "spik",
+   "pos": "v",
+   "en": "to say words",
+   "vi": "nói, phát biểu",
+   "band": 1
+  },
+  "he": {
+   "ipa": "hi",
+   "pos": "pron",
+   "en": "a man or boy already talked about",
+   "vi": "anh ấy, ông ấy",
+   "band": 1
+  },
+  "let": {
+   "ipa": "lɛt",
+   "pos": "v",
+   "en": "to make it possible for someone to do something",
+   "vi": "cho phép, giúp (làm gì)",
+   "band": 1
+  },
+  "bring": {
+   "ipa": "brɪŋ",
+   "pos": "v",
+   "en": "to take something to someone",
+   "vi": "mang lại",
+   "band": 1
+  },
+  "value": {
+   "ipa": "ˈvælju",
+   "pos": "n",
+   "en": "how good something is for the money you pay",
+   "vi": "giá trị",
+   "band": 1
+  },
+  "customer": {
+   "ipa": "ˈkʌstəmɚ",
+   "pos": "n",
+   "en": "a person who buys from a shop or business",
+   "vi": "khách hàng",
+   "band": 2
+  },
+  "create": {
+   "ipa": "kriˈeɪt",
+   "pos": "v",
+   "en": "to make something new",
+   "vi": "tạo ra",
+   "band": 1
+  },
+  "job": {
+   "ipa": "dʒɑb",
+   "pos": "n",
+   "en": "work you do to earn money",
+   "vi": "việc làm",
+   "band": 1
+  },
+  "positive": {
+   "ipa": "ˈpɑzətɪv",
+   "pos": "adj",
+   "en": "good or helpful",
+   "vi": "tích cực",
+   "band": 1
+  },
+  "effect": {
+   "ipa": "ɪˈfɛkt",
+   "pos": "n",
+   "en": "a change that something causes",
+   "vi": "tác động, ảnh hưởng",
+   "band": 1
+  },
+  "local": {
+   "ipa": "ˈloʊkəl",
+   "pos": "adj",
+   "en": "of the area where you live",
+   "vi": "địa phương",
+   "band": 1
+  },
+  "community": {
+   "ipa": "kəˈmjunəti",
+   "pos": "n",
+   "en": "the people living in one place",
+   "vi": "cộng đồng",
+   "band": 1
+  },
+  "involvement": {
+   "ipa": "ˌɪnˈvɑlvmənt",
+   "pos": "n",
+   "en": "taking part in something",
+   "vi": "sự tham gia, gắn bó",
+   "band": 4
+  },
+  "those": {
+   "ipa": "ðoʊz",
+   "pos": "det",
+   "en": "used for things or people already talked about",
+   "vi": "những … đó",
+   "band": 1
+  },
+  "support": {
+   "ipa": "səˈpɔrt",
+   "pos": "n",
+   "en": "help that you give",
+   "vi": "sự hỗ trợ",
+   "band": 1
+  },
+  "read": {
+   "ipa": "rɛd",
+   "pos": "v",
+   "en": "to look at words and understand them",
+   "vi": "đọc",
+   "band": 1
+  },
+  "program": {
+   "ipa": "ˈproʊˌɡræm",
+   "pos": "n",
+   "en": "a plan of activities to help people",
+   "vi": "chương trình",
+   "band": 1
+  },
+  "much": {
+   "ipa": "mʌtʃ",
+   "pos": "adj",
+   "en": "a large amount of",
+   "vi": "nhiều",
+   "band": 1
+  },
+  "cost": {
+   "ipa": "kɑst",
+   "pos": "n",
+   "en": "the money you need to pay for something",
+   "vi": "chi phí",
+   "band": 1
+  },
+  "together": {
+   "ipa": "təˈɡɛðɚ",
+   "pos": "adv",
+   "en": "with each other; as one group",
+   "vi": "cùng nhau, tổng cộng",
+   "band": 1
+  },
+  "as well as": {
+   "ipa": "æz wɛl æz",
+   "pos": "phr",
+   "en": "and also",
+   "vi": "cũng như, và cả",
+   "band": 1
+  },
+  "considerable": {
+   "ipa": "kənˈsɪdɚəbəl",
+   "pos": "adj",
+   "en": "large in size or amount",
+   "vi": "đáng kể",
+   "band": 4
+  },
+  "one": {
+   "ipa": "wʌn",
+   "pos": "num",
+   "en": "the number 1",
+   "vi": "một",
+   "band": 1
+  },
+  "moreover": {
+   "ipa": "mɔˈroʊvɚ",
+   "pos": "adv",
+   "en": "also; and more important",
+   "vi": "hơn nữa",
+   "band": 4
+  },
+  "believe": {
+   "ipa": "bɪˈliv",
+   "pos": "v",
+   "en": "to think that something is true",
+   "vi": "tin rằng",
+   "band": 1
+  },
+  "can": {
+   "ipa": "kæn",
+   "pos": "aux",
+   "en": "to be able to",
+   "vi": "có thể",
+   "band": 1
+  },
+  "large": {
+   "ipa": "lɑrdʒ",
+   "pos": "adj",
+   "en": "big",
+   "vi": "lớn",
+   "band": 1
+  },
+  "pursue": {
+   "ipa": "pɚˈsu",
+   "pos": "v",
+   "en": "to try to do or get something over time",
+   "vi": "theo đuổi",
+   "band": 4
+  },
+  "aim": {
+   "ipa": "eɪm",
+   "pos": "v",
+   "en": "to plan to do or get something",
+   "vi": "nhắm tới, đặt mục tiêu",
+   "band": 3
+  },
+  "at least": {
+   "ipa": "æt list",
+   "pos": "phr",
+   "en": "not less than",
+   "vi": "ít nhất",
+   "band": 1
+  },
+  "day": {
+   "ipa": "deɪ",
+   "pos": "n",
+   "en": "a time of 24 hours; (one day) in the future",
+   "vi": "ngày; (one day) một ngày nào đó",
+   "band": 1
+  },
+  "date": {
+   "ipa": "deɪt",
+   "pos": "n",
+   "en": "a day of a month or year",
+   "vi": "ngày (tháng năm)",
+   "band": 1
+  },
+  "which": {
+   "ipa": "wɪtʃ",
+   "pos": "pron",
+   "en": "used to say what thing",
+   "vi": "cái mà, nào",
+   "band": 1
+  },
+  "will": {
+   "ipa": "wɪl",
+   "pos": "aux",
+   "en": "used to talk about the future",
+   "vi": "sẽ",
+   "band": 1
+  },
+  "goal": {
+   "ipa": "ɡoʊl",
+   "pos": "n",
+   "en": "something you want to do or get",
+   "vi": "mục tiêu",
+   "band": 1
+  },
+  "next": {
+   "ipa": "nɛkst",
+   "pos": "adj",
+   "en": "coming right after this one",
+   "vi": "tiếp theo, tới",
+   "band": 1
+  },
+  "now": {
+   "ipa": "naʊ",
+   "pos": "adv",
+   "en": "at this time",
+   "vi": "bây giờ",
+   "band": 1
+  },
+  "shopping": {
+   "ipa": "ˈʃɑpɪŋ",
+   "pos": "n",
+   "en": "buying things in shops",
+   "vi": "việc mua sắm",
+   "band": 2
+  },
+  "before": {
+   "ipa": "bɪˈfɔr",
+   "pos": "adv",
+   "en": "at an earlier time",
+   "vi": "trước đây",
+   "band": 1
+  }
+ },
+ "names": {
+  "Ross": {
+   "vi": "chuỗi bán lẻ giảm giá của Mỹ (off-price)",
+   "full": "Ross Stores"
+  },
+  "Stores": {
+   "vi": "chuỗi bán lẻ giảm giá của Mỹ (off-price)",
+   "full": "Ross Stores"
+  },
+  "Dress": {
+   "vi": "thương hiệu cửa hàng chính của Ross Stores",
+   "full": "Ross Dress for Less"
+  },
+  "for": {
+   "vi": "thương hiệu cửa hàng chính của Ross Stores",
+   "full": "Ross Dress for Less"
+  },
+  "Less": {
+   "vi": "thương hiệu cửa hàng chính của Ross Stores",
+   "full": "Ross Dress for Less"
+  },
+  "dd": {
+   "vi": "chuỗi cửa hàng giá rẻ hơn nữa, cũng thuộc Ross Stores",
+   "full": "dd's Discounts"
+  },
+  "Discounts": {
+   "vi": "chuỗi cửa hàng giá rẻ hơn nữa, cũng thuộc Ross Stores",
+   "full": "dd's Discounts"
+  },
+  "Massachusetts": {
+   "vi": "bang Massachusetts, đông bắc nước Mỹ"
+  },
+  "New": {
+   "vi": "bang New York, đông bắc nước Mỹ",
+   "full": "New York"
+  },
+  "York": {
+   "vi": "bang New York, đông bắc nước Mỹ",
+   "full": "New York"
+  },
+  "California": {
+   "vi": "bang California, tây nước Mỹ"
+  },
+  "Florida": {
+   "vi": "bang Florida, đông nam nước Mỹ"
+  },
+  "Texas": {
+   "vi": "bang Texas, nam nước Mỹ"
+  },
+  "Richard": {
+   "vi": "phó chủ tịch điều hành phụ trách phát triển mặt bằng của Ross",
+   "full": "Richard Lietz"
+  },
+  "Lietz": {
+   "vi": "phó chủ tịch điều hành phụ trách phát triển mặt bằng của Ross",
+   "full": "Richard Lietz"
+  },
+  "Boys": {
+   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ",
+   "full": "Boys & Girls Clubs"
+  },
+  "Girls": {
+   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ",
+   "full": "Boys & Girls Clubs"
+  },
+  "Clubs": {
+   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ",
+   "full": "Boys & Girls Clubs"
+  },
+  "First": {
+   "vi": "tổ chức phi lợi nhuận về sách và đọc sách cho trẻ em",
+   "full": "First Book"
+  },
+  "Book": {
+   "vi": "tổ chức phi lợi nhuận về sách và đọc sách cho trẻ em",
+   "full": "First Book"
+  },
+  "District": {
+   "vi": "Đặc khu Columbia — thủ đô Washington, D.C.",
+   "full": "District of Columbia"
+  },
+  "of": {
+   "vi": "Đặc khu Columbia — thủ đô Washington, D.C.",
+   "full": "District of Columbia"
+  },
+  "Columbia": {
+   "vi": "Đặc khu Columbia — thủ đô Washington, D.C.",
+   "full": "District of Columbia"
+  },
+  "Guam": {
+   "vi": "đảo Guam, lãnh thổ của Mỹ ở Thái Bình Dương"
+  },
+  "Puerto": {
+   "vi": "Puerto Rico, lãnh thổ của Mỹ ở vùng biển Caribe",
+   "full": "Puerto Rico"
+  },
+  "Rico": {
+   "vi": "Puerto Rico, lãnh thổ của Mỹ ở vùng biển Caribe",
+   "full": "Puerto Rico"
+  },
+  "American": {
+   "vi": "thuộc về Mỹ"
+  }
+ }
+}
