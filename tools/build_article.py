@@ -26,7 +26,7 @@ import sys
 from pathlib import Path
 
 from coverage import analyze, print_report
-from enlib import NEWS, dump_json, ipa_for, load_json, nlp, phrase_band
+from enlib import NEWS, dump_json, ipa_for, load_json, phrase_band
 from gloss import check as gloss_check, load_tsv, needed, tsv_path
 
 
@@ -61,12 +61,9 @@ def assemble(draft_path: Path):
     core = rep["stats"]["core"]
     vocab = [l for l in order if l in core] + [l for l in order if " " in l and l not in core]
 
-    names_out = {}
-    for full, entry in draft.get("names", {}).items():
-        toks = [t.text for t in nlp().tokenizer(full) if any(c.isalpha() for c in t.text)
-                and not t.text.startswith("'")]
-        for w in toks:   # keyed by token text, as the reader looks them up
-            names_out.setdefault(w, {**entry, **({"full": full} if len(toks) > 1 else {})})
+    # keyed by the full name; tokens point to it with their `n` field
+    used = {t["n"] for b in blocks for s in b["sents"] for t in s if t.get("n")}
+    names_out = {full: entry for full, entry in draft.get("names", {}).items() if full in used}
 
     article = {
         "id": draft["id"], "domain": draft["domain"], "title": draft["title"],

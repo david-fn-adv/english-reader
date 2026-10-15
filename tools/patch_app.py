@@ -11,7 +11,8 @@ Idempotency rules (spec §4.7):
     `seq` (insertion order) is preserved for existing articles
   - dict entries: existing entries keep their hand-edited fields; new ones are
     added; `ls` gets the article id once for every lemma that occurs in it
-  - names: added, existing kept
+  - names: keyed by full name ("Corporate Traveller Canada"); added, existing
+    kept; names no token points to (token field `n`) are dropped
   - known / meta are recomputed from known/known.json + data/bands.json, and
     meta.built is the newest article id, so reruns are byte-identical
 The shell (everything outside <script id="data">) is never touched.
@@ -114,6 +115,10 @@ def patch(article_path: Path) -> None:
                 ls.sort()
     for name, entry in new_names.items():
         NAMES.setdefault(name, entry)
+    # keep only names some token still points to (drops the old per-word keys)
+    used = {t["n"] for a in ARTICLES for b in a["blocks"] for s in b["sents"] for t in s
+            if t.get("n")}
+    NAMES = {k: v for k, v in NAMES.items() if k in used}
 
     payload["dict"] = dict(sorted(DICT.items()))
     payload["names"] = dict(sorted(NAMES.items()))

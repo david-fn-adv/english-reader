@@ -101,7 +101,9 @@ học (data → datum) và được dùng chung khi dựng mức và khi tách t
 
 - token `nsp: 1` — không có khoảng trắng sau token này (`U.S.,` · `6.8%`). Cần để dựng lại
   câu đúng cho TTS và để hiển thị.
-- `names[x].full` — tên nhiều chữ ("Statistics Canada") để thẻ tra hiện đủ tên.
+- token `n` — tên đầy đủ mà lần xuất hiện này thuộc về ("Canada" trong "Statistics Canada"
+  có `n: "Statistics Canada"`, "Canada" đứng riêng có `n: "Canada"`). Bảng `names` khoá theo
+  tên đầy đủ; reader gộp các chữ của một tên thành một cụm và mở đúng thẻ của cả tên.
 - file bài có thêm `dict` và `names`; `patch_app.py` chuyển chúng vào bảng chung của payload.
 - `source.author`, `source.title`, `source.accessed`.
 - payload có thêm `known` (tập đã biết gốc, cần để app tính trạng thái mặc định và xuất

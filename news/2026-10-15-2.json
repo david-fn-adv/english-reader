@@ -133,11 +133,13 @@
     [
      {
       "w": "Tom",
+      "n": "Tom Cruise",
       "k": "name"
      },
      {
       "w": "Cruise",
       "nsp": 1,
+      "n": "Tom Cruise",
       "k": "name"
      },
      {
@@ -188,10 +190,12 @@
     [
      {
       "w": "Tom",
+      "n": "Tom Cruise",
       "k": "name"
      },
      {
       "w": "Cruise",
+      "n": "Tom Cruise",
       "k": "name"
      },
      {
@@ -284,6 +288,7 @@
      {
       "w": "Digger",
       "nsp": 1,
+      "n": "Digger",
       "k": "name"
      },
      {
@@ -523,10 +528,12 @@
      },
      {
       "w": "United",
+      "n": "United States",
       "k": "name"
      },
      {
       "w": "States",
+      "n": "United States",
       "k": "name"
      },
      {
@@ -537,6 +544,7 @@
      {
       "w": "Canada",
       "nsp": 1,
+      "n": "Canada",
       "k": "name"
      },
      {
@@ -625,6 +633,7 @@
      {
       "w": "Variety",
       "nsp": 1,
+      "n": "Variety",
       "k": "name"
      },
      {
@@ -814,6 +823,7 @@
     [
      {
       "w": "Variety",
+      "n": "Variety",
       "k": "name"
      },
      {
@@ -1066,10 +1076,12 @@
     [
      {
       "w": "Warner",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
       "w": "Bros.",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
@@ -1295,6 +1307,7 @@
     [
      {
       "w": "Variety",
+      "n": "Variety",
       "k": "name"
      },
      {
@@ -1304,6 +1317,7 @@
      },
      {
       "w": "Digger",
+      "n": "Digger",
       "k": "name"
      },
      {
@@ -1417,10 +1431,12 @@
      },
      {
       "w": "Warner",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
       "w": "Bros.",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
@@ -1772,11 +1788,13 @@
      },
      {
       "w": "Rotten",
+      "n": "Rotten Tomatoes",
       "k": "name"
      },
      {
       "w": "Tomatoes",
       "nsp": 1,
+      "n": "Rotten Tomatoes",
       "k": "name"
      },
      {
@@ -1874,10 +1892,12 @@
     [
      {
       "w": "Warner",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
       "w": "Bros.",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
@@ -2004,6 +2024,7 @@
      },
      {
       "w": "Hollywood",
+      "n": "Hollywood",
       "k": "name"
      },
      {
@@ -2025,10 +2046,12 @@
      },
      {
       "w": "Anne",
+      "n": "Anne Hathaway",
       "k": "name"
      },
      {
       "w": "Hathaway",
+      "n": "Anne Hathaway",
       "k": "name"
      },
      {
@@ -2038,10 +2061,12 @@
      },
      {
       "w": "Jane",
+      "n": "Jane Fonda",
       "k": "name"
      },
      {
       "w": "Fonda",
+      "n": "Jane Fonda",
       "k": "name"
      },
      {
@@ -2135,6 +2160,7 @@
     [
      {
       "w": "Fortune",
+      "n": "Fortune",
       "k": "name"
      },
      {
@@ -2144,6 +2170,7 @@
      },
      {
       "w": "Digger",
+      "n": "Digger",
       "k": "name"
      },
      {
@@ -2185,10 +2212,12 @@
      },
      {
       "w": "John",
+      "n": "John Carter",
       "k": "name"
      },
      {
       "w": "Carter",
+      "n": "John Carter",
       "k": "name"
      },
      {
@@ -2198,15 +2227,18 @@
      },
      {
       "w": "The",
+      "n": "The Lone Ranger",
       "k": "name"
      },
      {
       "w": "Lone",
+      "n": "The Lone Ranger",
       "k": "name"
      },
      {
       "w": "Ranger",
       "nsp": 1,
+      "n": "The Lone Ranger",
       "k": "name"
      },
      {
@@ -2311,6 +2343,7 @@
      },
      {
       "w": "Digger",
+      "n": "Digger",
       "k": "name"
      },
      {
@@ -2392,10 +2425,12 @@
      },
      {
       "w": "Warner",
+      "n": "Warner Bros.",
       "k": "name"
      },
      {
       "w": "Bros.",
+      "n": "Warner Bros.",
       "k": "name"
      }
     ],
@@ -2422,10 +2457,12 @@
      },
      {
       "w": "Paramount",
+      "n": "Paramount Skydance",
       "k": "name"
      },
      {
       "w": "Skydance",
+      "n": "Paramount Skydance",
       "k": "name"
      },
      {
@@ -2450,15 +2487,18 @@
      },
      {
       "w": "Warner",
+      "n": "Warner Bros. Discovery",
       "k": "name"
      },
      {
       "w": "Bros.",
+      "n": "Warner Bros. Discovery",
       "k": "name"
      },
      {
       "w": "Discovery",
       "nsp": 1,
+      "n": "Warner Bros. Discovery",
       "k": "name"
      },
      {
@@ -2796,700 +2836,10 @@
    ]
   }
  ],
- "dict": {
-  "film": {
-   "ipa": "fɪlm",
-   "pos": "n",
-   "en": "a movie",
-   "vi": "phim",
-   "band": 1
-  },
-  "could": {
-   "ipa": "kʊd",
-   "pos": "aux",
-   "en": "used to say something is possible",
-   "vi": "có thể",
-   "band": 1
-  },
-  "lose": {
-   "ipa": "luz",
-   "pos": "v",
-   "en": "to have less money than you spent",
-   "vi": "lỗ, mất",
-   "band": 1
-  },
-  "million": {
-   "ipa": "ˈmɪljən",
-   "pos": "num",
-   "en": "the number 1,000,000",
-   "vi": "triệu",
-   "band": 1
-  },
-  "most": {
-   "ipa": "moʊst",
-   "pos": "adv",
-   "en": "more than all others",
-   "vi": "nhất",
-   "band": 1
-  },
-  "celebrity": {
-   "ipa": "səˈlɛbrɪti",
-   "pos": "n",
-   "en": "a famous person, often in film, music or sport",
-   "vi": "người nổi tiếng",
-   "band": 4
-  },
-  "world": {
-   "ipa": "wɝld",
-   "pos": "n",
-   "en": "the earth and all the people on it",
-   "vi": "thế giới",
-   "band": 1
-  },
-  "however": {
-   "ipa": "ˌhaʊˈɛvɚ",
-   "pos": "adv",
-   "en": "used to add something different or surprising",
-   "vi": "tuy nhiên",
-   "band": 1
-  },
-  "his": {
-   "ipa": "hɪz",
-   "pos": "pron",
-   "en": "belonging to a man or boy",
-   "vi": "của anh ấy",
-   "band": 1
-  },
-  "turn": {
-   "ipa": "tɝn",
-   "pos": "v",
-   "en": "(turn into) to become something different",
-   "vi": "trở thành",
-   "band": 1
-  },
-  "into": {
-   "ipa": "ˈɪntu",
-   "pos": "prep",
-   "en": "used to show a change to something new",
-   "vi": "thành",
-   "band": 1
-  },
-  "enormous": {
-   "ipa": "ɪˈnɔrməs",
-   "pos": "adj",
-   "en": "very, very big",
-   "vi": "khổng lồ, rất lớn",
-   "band": 4
-  },
-  "failure": {
-   "ipa": "ˈfeɪljɚ",
-   "pos": "n",
-   "en": "something that does not work out well",
-   "vi": "sự thất bại",
-   "band": 2
-  },
-  "such": {
-   "ipa": "sʌtʃ",
-   "pos": "det",
-   "en": "used to make a word stronger: so big, so good",
-   "vi": "như vậy, đến thế",
-   "band": 1
-  },
-  "big": {
-   "ipa": "bɪɡ",
-   "pos": "adj",
-   "en": "large; important",
-   "vi": "lớn",
-   "band": 1
-  },
-  "star": {
-   "ipa": "stɑr",
-   "pos": "n",
-   "en": "a famous actor or singer",
-   "vi": "ngôi sao",
-   "band": 1
-  },
-  "unexpected": {
-   "ipa": "ˌʌnɪkˈspɛktɪd",
-   "pos": "adj",
-   "en": "not what people thought would happen",
-   "vi": "bất ngờ, không lường trước",
-   "band": 4
-  },
-  "domestic": {
-   "ipa": "dəˈmɛstɪk",
-   "pos": "adj",
-   "en": "inside one country or region, not other countries",
-   "vi": "trong nước, nội địa",
-   "band": 2
-  },
-  "box": {
-   "ipa": "bɑks",
-   "pos": "n",
-   "en": "(box office) the place or system that sells film tickets",
-   "vi": "hộp; (box office) doanh thu phòng vé",
-   "band": 1
-  },
-  "office": {
-   "ipa": "ˈɔfɪs",
-   "pos": "n",
-   "en": "(box office) where film tickets are sold",
-   "vi": "phòng; (box office) phòng vé",
-   "band": 1
-  },
-  "weekend": {
-   "ipa": "ˈwiˌkɛnd",
-   "pos": "n",
-   "en": "Saturday and Sunday",
-   "vi": "cuối tuần",
-   "band": 1
-  },
-  "theater": {
-   "ipa": "ˈθiətɚ",
-   "pos": "n",
-   "en": "a building where people watch films",
-   "vi": "rạp chiếu phim",
-   "band": 3
-  },
-  "reportedly": {
-   "ipa": "rɪˈpɔrtədli",
-   "pos": "adv",
-   "en": "as people say or report, but not sure",
-   "vi": "theo báo cáo, được cho là",
-   "band": 4
-  },
-  "magazine": {
-   "ipa": "ˈmæɡəˌzin",
-   "pos": "n",
-   "en": "a thin book with news and pictures that comes out often",
-   "vi": "tạp chí",
-   "band": 2
-  },
-  "second": {
-   "ipa": "ˈsɛkənd",
-   "pos": "adj",
-   "en": "number 2 in a list",
-   "vi": "thứ hai",
-   "band": 1
-  },
-  "sale": {
-   "ipa": "seɪl",
-   "pos": "n",
-   "en": "the act of selling something",
-   "vi": "doanh số; (ticket sales) lượng vé bán",
-   "band": 1
-  },
-  "fall": {
-   "ipa": "fɔl",
-   "pos": "v",
-   "en": "to go down to a lower level",
-   "vi": "giảm",
-   "band": 1
-  },
-  "remarkable": {
-   "ipa": "rɪˈmɑrkəbəl",
-   "pos": "adj",
-   "en": "surprising and worth noticing",
-   "vi": "đáng chú ý, đáng kinh ngạc",
-   "band": 4
-  },
-  "drop": {
-   "ipa": "drɑp",
-   "pos": "n",
-   "en": "a fall in amount or level",
-   "vi": "sự sụt giảm",
-   "band": 1
-  },
-  "earn": {
-   "ipa": "ɝn",
-   "pos": "v",
-   "en": "to get money for work or for selling something",
-   "vi": "kiếm được, thu về",
-   "band": 3
-  },
-  "around the world": {
-   "ipa": "ɚˈaʊnd ðə wɝld",
-   "pos": "phr",
-   "en": "in many countries",
-   "vi": "trên khắp thế giới",
-   "band": 1
-  },
-  "expect": {
-   "ipa": "ɪkˈspɛkt",
-   "pos": "v",
-   "en": "to think that something will happen",
-   "vi": "dự kiến, kỳ vọng",
-   "band": 1
-  },
-  "what": {
-   "ipa": "wʌt",
-   "pos": "pron",
-   "en": "the thing that",
-   "vi": "cái mà, điều mà",
-   "band": 1
-  },
-  "gap": {
-   "ipa": "ɡæp",
-   "pos": "n",
-   "en": "a space or difference between two things",
-   "vi": "khoảng cách, chênh lệch",
-   "band": 3
-  },
-  "why": {
-   "ipa": "waɪ",
-   "pos": "conj",
-   "en": "for what reason",
-   "vi": "tại sao",
-   "band": 1
-  },
-  "loss": {
-   "ipa": "lɔs",
-   "pos": "n",
-   "en": "money that a business loses",
-   "vi": "khoản lỗ",
-   "band": 3
-  },
-  "make": {
-   "ipa": "meɪk",
-   "pos": "v",
-   "en": "to produce something",
-   "vi": "làm ra, sản xuất",
-   "band": 1
-  },
-  "expensive": {
-   "ipa": "ɪkˈspɛnsɪv",
-   "pos": "adj",
-   "en": "costing a lot of money",
-   "vi": "đắt",
-   "band": 2
-  },
-  "spend": {
-   "ipa": "spɛnd",
-   "pos": "v",
-   "en": "to use money to pay for things",
-   "vi": "chi tiêu",
-   "band": 1
-  },
-  "around": {
-   "ipa": "ɚˈaʊnd",
-   "pos": "adv",
-   "en": "about; not exactly",
-   "vi": "khoảng",
-   "band": 1
-  },
-  "global": {
-   "ipa": "ˈɡloʊbəl",
-   "pos": "adj",
-   "en": "of the whole world",
-   "vi": "toàn cầu",
-   "band": 1
-  },
-  "marketing": {
-   "ipa": "ˈmɑrkətɪŋ",
-   "pos": "n",
-   "en": "work to make people want to buy something",
-   "vi": "tiếp thị",
-   "band": 2
-  },
-  "campaign": {
-   "ipa": "kæmˈpeɪn",
-   "pos": "n",
-   "en": "a set of actions to reach one goal",
-   "vi": "chiến dịch",
-   "band": 1
-  },
-  "roughly": {
-   "ipa": "ˈrʌfli",
-   "pos": "adv",
-   "en": "about; not exactly",
-   "vi": "khoảng, xấp xỉ",
-   "band": 3
-  },
-  "half": {
-   "ipa": "hæf",
-   "pos": "n",
-   "en": "one of two equal parts",
-   "vi": "một nửa",
-   "band": 1
-  },
-  "money": {
-   "ipa": "ˈmʌni",
-   "pos": "n",
-   "en": "what you use to buy things",
-   "vi": "tiền",
-   "band": 1
-  },
-  "must": {
-   "ipa": "mʌst",
-   "pos": "aux",
-   "en": "to have to",
-   "vi": "phải",
-   "band": 1
-  },
-  "studio": {
-   "ipa": "ˈstudiˌoʊ",
-   "pos": "n",
-   "en": "a company that makes films",
-   "vi": "hãng phim",
-   "band": 2
-  },
-  "worldwide": {
-   "ipa": "ˈwɝlˈdwaɪd",
-   "pos": "adv",
-   "en": "in all parts of the world",
-   "vi": "trên toàn thế giới",
-   "band": 3
-  },
-  "break": {
-   "ipa": "breɪk",
-   "pos": "v",
-   "en": "(break even) to earn the same money as you spent",
-   "vi": "hoà vốn (break even)",
-   "band": 1
-  },
-  "or": {
-   "ipa": "ɔr",
-   "pos": "conj",
-   "en": "used to give another word for the same idea",
-   "vi": "hay, tức là",
-   "band": 1
-  },
-  "earn back": {
-   "ipa": "ɝn bæk",
-   "pos": "phr",
-   "en": "to get back money that you spent",
-   "vi": "thu hồi (vốn)",
-   "band": 3
-  },
-  "person": {
-   "ipa": "ˈpɝsən",
-   "pos": "n",
-   "en": "a man, woman or child",
-   "vi": "người",
-   "band": 1
-  },
-  "dispute": {
-   "ipa": "dɪˈspjut",
-   "pos": "v",
-   "en": "to say that something is not true or correct",
-   "vi": "phản bác, tranh cãi",
-   "band": 4
-  },
-  "close to": {
-   "ipa": "kloʊs tu",
-   "pos": "phr",
-   "en": "near; almost",
-   "vi": "gần (với)",
-   "band": 1
-  },
-  "precise": {
-   "ipa": "prɪˈsaɪs",
-   "pos": "adj",
-   "en": "exact and correct",
-   "vi": "chính xác",
-   "band": 4
-  },
-  "clear": {
-   "ipa": "klɪr",
-   "pos": "adj",
-   "en": "easy to understand or see",
-   "vi": "rõ ràng",
-   "band": 1
-  },
-  "report": {
-   "ipa": "riˈpɔrt",
-   "pos": "n",
-   "en": "a news story or written account",
-   "vi": "bài báo, bản tin",
-   "band": 1
-  },
-  "either": {
-   "ipa": "ˈiðɚ",
-   "pos": "adv",
-   "en": "also, after a negative sentence",
-   "vi": "cũng (không)",
-   "band": 1
-  },
-  "every": {
-   "ipa": "ˈɛvɚi",
-   "pos": "det",
-   "en": "all of a group, one by one",
-   "vi": "mọi",
-   "band": 1
-  },
-  "estimate": {
-   "ipa": "ˈɛstəmət",
-   "pos": "n",
-   "en": "a guess of a number, based on facts",
-   "vi": "ước tính",
-   "band": 2
-  },
-  "above": {
-   "ipa": "əˈbʌv",
-   "pos": "prep",
-   "en": "higher than",
-   "vi": "cao hơn, trên",
-   "band": 1
-  },
-  "critic": {
-   "ipa": "ˈkrɪtɪk",
-   "pos": "n",
-   "en": "a person who writes about how good films are",
-   "vi": "nhà phê bình",
-   "band": 3
-  },
-  "divide": {
-   "ipa": "dɪˈvaɪd",
-   "pos": "v",
-   "en": "to separate into groups that think differently",
-   "vi": "chia rẽ",
-   "band": 3
-  },
-  "score": {
-   "ipa": "skɔr",
-   "pos": "n",
-   "en": "a number that shows how good something is",
-   "vi": "điểm số",
-   "band": 2
-  },
-  "collect": {
-   "ipa": "kəˈlɛkt",
-   "pos": "v",
-   "en": "to bring things together in one place",
-   "vi": "thu thập",
-   "band": 2
-  },
-  "review": {
-   "ipa": "ˌriˈvju",
-   "pos": "n",
-   "en": "an article that says how good a film is",
-   "vi": "bài đánh giá",
-   "band": 1
-  },
-  "viewer": {
-   "ipa": "ˈvjuɚ",
-   "pos": "n",
-   "en": "a person who watches a film or TV",
-   "vi": "người xem",
-   "band": 4
-  },
-  "night": {
-   "ipa": "naɪt",
-   "pos": "n",
-   "en": "the time when it is dark",
-   "vi": "đêm, tối",
-   "band": 1
-  },
-  "grade": {
-   "ipa": "ɡreɪd",
-   "pos": "n",
-   "en": "a letter or number that shows quality",
-   "vi": "điểm (xếp loại)",
-   "band": 2
-  },
-  "put": {
-   "ipa": "pʊt",
-   "pos": "v",
-   "en": "to place something somewhere",
-   "vi": "đặt",
-   "band": 1
-  },
-  "bad": {
-   "ipa": "bæd",
-   "pos": "adj",
-   "en": "not good",
-   "vi": "xấu, tệ",
-   "band": 1
-  },
-  "side": {
-   "ipa": "saɪd",
-   "pos": "n",
-   "en": "(side by side) next to each other",
-   "vi": "bên; (side by side) cạnh nhau",
-   "band": 1
-  },
-  "ad": {
-   "ipa": "æd",
-   "pos": "n",
-   "en": "a short message to sell something",
-   "vi": "quảng cáo",
-   "band": 2
-  },
-  "ask": {
-   "ipa": "æsk",
-   "pos": "v",
-   "en": "to tell someone you want them to do something",
-   "vi": "yêu cầu, đề nghị",
-   "band": 1
-  },
-  "decide": {
-   "ipa": "ˌdɪˈsaɪd",
-   "pos": "v",
-   "en": "to choose after thinking",
-   "vi": "quyết định",
-   "band": 1
-  },
-  "yourself": {
-   "ipa": "jɚˈsɛlf",
-   "pos": "pron",
-   "en": "you, as the person doing something",
-   "vi": "tự bạn",
-   "band": 1
-  },
-  "such as": {
-   "ipa": "sʌtʃ æz",
-   "pos": "phr",
-   "en": "for example",
-   "vi": "chẳng hạn như",
-   "band": 1
-  },
-  "publicly": {
-   "ipa": "ˈpʌblɪkli",
-   "pos": "adv",
-   "en": "in a way that everyone can see",
-   "vi": "công khai",
-   "band": 4
-  },
-  "praise": {
-   "ipa": "preɪz",
-   "pos": "v",
-   "en": "to say good things about someone or something",
-   "vi": "khen ngợi",
-   "band": 4
-  },
-  "social": {
-   "ipa": "ˈsoʊʃəl",
-   "pos": "adj",
-   "en": "(social media) websites and apps for sharing with people",
-   "vi": "xã hội; (social media) mạng xã hội",
-   "band": 1
-  },
-  "media": {
-   "ipa": "ˈmidiə",
-   "pos": "n",
-   "en": "TV, newspapers and the internet",
-   "vi": "truyền thông",
-   "band": 1
-  },
-  "compare": {
-   "ipa": "kəmˈpɛr",
-   "pos": "v",
-   "en": "to look at how two things are the same or different",
-   "vi": "so sánh",
-   "band": 1
-  },
-  "amount": {
-   "ipa": "əˈmaʊnt",
-   "pos": "n",
-   "en": "how much there is of something",
-   "vi": "lượng, khoản",
-   "band": 1
-  },
-  "timing": {
-   "ipa": "ˈtaɪmɪŋ",
-   "pos": "n",
-   "en": "the time when something happens",
-   "vi": "thời điểm",
-   "band": 4
-  },
-  "hard": {
-   "ipa": "hɑrd",
-   "pos": "adj",
-   "en": "difficult",
-   "vi": "khó khăn",
-   "band": 1
-  },
-  "close": {
-   "ipa": "kloʊs",
-   "pos": "v",
-   "en": "(close a deal) to finish an agreement",
-   "vi": "hoàn tất (thương vụ)",
-   "band": 1
-  },
-  "acquisition": {
-   "ipa": "ˌækwəˈzɪʃən",
-   "pos": "n",
-   "en": "the act of one company buying another",
-   "vi": "thương vụ mua lại",
-   "band": 4
-  },
-  "parent": {
-   "ipa": "ˈpɛrənt",
-   "pos": "n",
-   "en": "(parent company) a company that owns another company",
-   "vi": "(công ty) mẹ",
-   "band": 1
-  },
-  "billion": {
-   "ipa": "ˈbɪljən",
-   "pos": "num",
-   "en": "the number 1,000,000,000",
-   "vi": "tỷ",
-   "band": 2
-  },
-  "just": {
-   "ipa": "dʒʌst",
-   "pos": "adv",
-   "en": "only; exactly",
-   "vi": "chỉ; vừa đúng",
-   "band": 1
-  },
-  "year-old": {
-   "ipa": "ˈjɪrˌoʊld",
-   "pos": "adj",
-   "en": "having that many years of age",
-   "vi": "… tuổi (103-year-old = 103 năm tuổi)"
-  },
-  "hit": {
-   "ipa": "hɪt",
-   "pos": "n",
-   "en": "a film or song that is very popular",
-   "vi": "tác phẩm ăn khách",
-   "band": 1
-  },
-  "several": {
-   "ipa": "ˈsɛvrəl",
-   "pos": "adj",
-   "en": "more than two but not many",
-   "vi": "vài, một số",
-   "band": 1
-  },
-  "disappointing": {
-   "ipa": "ˌdɪsəˈpɔɪntɪŋ",
-   "pos": "adj",
-   "en": "not as good as people hoped",
-   "vi": "đáng thất vọng"
-  },
-  "owner": {
-   "ipa": "ˈoʊnɚ",
-   "pos": "n",
-   "en": "a person or company that owns something",
-   "vi": "chủ sở hữu",
-   "band": 2
-  },
-  "everyone": {
-   "ipa": "ˈɛvriˌwʌn",
-   "pos": "pron",
-   "en": "all people",
-   "vi": "mọi người",
-   "band": 1
-  },
-  "happen": {
-   "ipa": "ˈhæpən",
-   "pos": "v",
-   "en": "to take place",
-   "vi": "xảy ra",
-   "band": 1
-  }
- },
+ "dict": {},
  "names": {
-  "Tom": {
-   "vi": "Tom Cruise, ngôi sao điện ảnh Mỹ",
-   "full": "Tom Cruise"
-  },
-  "Cruise": {
-   "vi": "Tom Cruise, ngôi sao điện ảnh Mỹ",
-   "full": "Tom Cruise"
+  "Tom Cruise": {
+   "vi": "Tom Cruise, ngôi sao điện ảnh Mỹ"
   },
   "Digger": {
    "vi": "Digger, phim mới của Warner Bros. do Tom Cruise đóng chính"
@@ -3497,83 +2847,38 @@
   "Variety": {
    "vi": "tạp chí Variety, chuyên về ngành giải trí Mỹ"
   },
-  "Warner": {
-   "vi": "hãng phim Warner Bros. của Mỹ",
-   "full": "Warner Bros."
+  "Warner Bros.": {
+   "vi": "hãng phim Warner Bros. của Mỹ"
   },
-  "Bros.": {
-   "vi": "hãng phim Warner Bros. của Mỹ",
-   "full": "Warner Bros."
+  "Warner Bros. Discovery": {
+   "vi": "tập đoàn mẹ của hãng phim Warner Bros."
   },
-  "Discovery": {
-   "vi": "tập đoàn mẹ của hãng phim Warner Bros.",
-   "full": "Warner Bros. Discovery"
+  "Paramount Skydance": {
+   "vi": "tập đoàn truyền thông Mỹ, vừa mua lại Warner Bros. Discovery"
   },
-  "Paramount": {
-   "vi": "tập đoàn truyền thông Mỹ, vừa mua lại Warner Bros. Discovery",
-   "full": "Paramount Skydance"
-  },
-  "Skydance": {
-   "vi": "tập đoàn truyền thông Mỹ, vừa mua lại Warner Bros. Discovery",
-   "full": "Paramount Skydance"
-  },
-  "Rotten": {
-   "vi": "trang web tổng hợp điểm đánh giá phim của giới phê bình",
-   "full": "Rotten Tomatoes"
-  },
-  "Tomatoes": {
-   "vi": "trang web tổng hợp điểm đánh giá phim của giới phê bình",
-   "full": "Rotten Tomatoes"
+  "Rotten Tomatoes": {
+   "vi": "trang web tổng hợp điểm đánh giá phim của giới phê bình"
   },
   "Hollywood": {
    "vi": "Hollywood, trung tâm điện ảnh Mỹ"
   },
-  "Anne": {
-   "vi": "nữ diễn viên Mỹ",
-   "full": "Anne Hathaway"
+  "Anne Hathaway": {
+   "vi": "nữ diễn viên Mỹ"
   },
-  "Hathaway": {
-   "vi": "nữ diễn viên Mỹ",
-   "full": "Anne Hathaway"
-  },
-  "Jane": {
-   "vi": "nữ diễn viên Mỹ",
-   "full": "Jane Fonda"
-  },
-  "Fonda": {
-   "vi": "nữ diễn viên Mỹ",
-   "full": "Jane Fonda"
+  "Jane Fonda": {
+   "vi": "nữ diễn viên Mỹ"
   },
   "Fortune": {
    "vi": "tạp chí kinh doanh Fortune"
   },
-  "John": {
-   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
-   "full": "John Carter"
+  "John Carter": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé"
   },
-  "Carter": {
-   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
-   "full": "John Carter"
+  "The Lone Ranger": {
+   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé"
   },
-  "The": {
-   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
-   "full": "The Lone Ranger"
-  },
-  "Lone": {
-   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
-   "full": "The Lone Ranger"
-  },
-  "Ranger": {
-   "vi": "phim Mỹ từng lỗ rất nặng ở phòng vé",
-   "full": "The Lone Ranger"
-  },
-  "United": {
-   "vi": "Hoa Kỳ, nước Mỹ",
-   "full": "United States"
-  },
-  "States": {
-   "vi": "Hoa Kỳ, nước Mỹ",
-   "full": "United States"
+  "United States": {
+   "vi": "Hoa Kỳ, nước Mỹ"
   },
   "Canada": {
    "vi": "Canada"

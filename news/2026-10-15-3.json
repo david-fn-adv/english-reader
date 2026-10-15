@@ -122,6 +122,7 @@
     [
      {
       "w": "India",
+      "n": "India",
       "k": "name"
      },
      {
@@ -137,6 +138,7 @@
      {
       "w": "Skyscanner",
       "nsp": 1,
+      "n": "Skyscanner",
       "k": "name"
      },
      {
@@ -162,6 +164,7 @@
     [
      {
       "w": "Skyscanner",
+      "n": "Skyscanner",
       "k": "name"
      },
      {
@@ -248,6 +251,7 @@
     [
      {
       "w": "India",
+      "n": "India",
       "k": "name"
      },
      {
@@ -315,6 +319,7 @@
      {
       "w": "Skift",
       "nsp": 1,
+      "n": "Skift",
       "k": "name"
      },
      {
@@ -335,6 +340,7 @@
      },
      {
       "w": "India",
+      "n": "India",
       "k": "name"
      },
      {
@@ -405,6 +411,7 @@
      {
       "w": "Skyscanner",
       "nsp": 1,
+      "n": "Skyscanner",
       "k": "name"
      },
      {
@@ -443,6 +450,7 @@
      },
      {
       "w": "India",
+      "n": "India",
       "k": "name"
      },
      {
@@ -494,6 +502,7 @@
      },
      {
       "w": "Indians",
+      "n": "Indians",
       "k": "name"
      },
      {
@@ -525,6 +534,7 @@
     [
      {
       "w": "Skyscanner",
+      "n": "Skyscanner",
       "k": "name"
      },
      {
@@ -641,6 +651,7 @@
      },
      {
       "w": "India",
+      "n": "India",
       "k": "name"
      },
      {
@@ -861,11 +872,13 @@
     [
      {
       "w": "Neel",
+      "n": "Neel Ghose",
       "k": "name"
      },
      {
       "w": "Ghose",
       "nsp": 1,
+      "n": "Neel Ghose",
       "k": "name"
      },
      {
@@ -899,11 +912,13 @@
      },
      {
       "w": "Skyscanner",
+      "n": "Skyscanner India",
       "k": "name"
      },
      {
       "w": "India",
       "nsp": 1,
+      "n": "Skyscanner India",
       "k": "name"
      },
      {
@@ -932,6 +947,7 @@
      },
      {
       "w": "Delhi",
+      "n": "Delhi",
       "k": "name"
      },
      {
@@ -971,15 +987,18 @@
      },
      {
       "w": "Travel",
+      "n": "Travel Trends 2027",
       "k": "name"
      },
      {
       "w": "Trends",
+      "n": "Travel Trends 2027",
       "k": "name"
      },
      {
       "w": "2027",
       "nsp": 1,
+      "n": "Travel Trends 2027",
       "k": "plain",
       "fig": "f5"
      },
@@ -1011,6 +1030,7 @@
      },
      {
       "w": "Indian",
+      "n": "Indian",
       "k": "name"
      },
      {
@@ -1112,6 +1132,7 @@
      },
      {
       "w": "Indian",
+      "n": "Indian",
       "k": "name"
      },
      {
@@ -1126,6 +1147,7 @@
      },
      {
       "w": "Skyscanner",
+      "n": "Skyscanner",
       "k": "name"
      },
      {
@@ -1261,6 +1283,7 @@
      },
      {
       "w": "Indians",
+      "n": "Indians",
       "k": "name"
      },
      {
@@ -1461,6 +1484,7 @@
     [
      {
       "w": "Skift",
+      "n": "Skift",
       "k": "name"
      },
      {
@@ -1475,6 +1499,7 @@
      },
      {
       "w": "Indian",
+      "n": "Indian",
       "k": "name"
      },
      {
@@ -1903,6 +1928,7 @@
      },
      {
       "w": "Indians",
+      "n": "Indians",
       "k": "name"
      },
      {
@@ -1953,6 +1979,7 @@
      {
       "w": "AI",
       "nsp": 1,
+      "n": "AI",
       "k": "name"
      },
      {
@@ -2164,6 +2191,7 @@
     [
      {
       "w": "Skyscanner",
+      "n": "Skyscanner",
       "k": "name"
      },
      {
@@ -2178,6 +2206,7 @@
      },
      {
       "w": "Skift",
+      "n": "Skift",
       "k": "name"
      },
      {
@@ -2274,6 +2303,7 @@
      },
      {
       "w": "AI",
+      "n": "AI",
       "k": "name"
      },
      {
@@ -2325,6 +2355,7 @@
      },
      {
       "w": "AI",
+      "n": "AI",
       "k": "name"
      },
      {
@@ -2401,6 +2432,7 @@
      },
      {
       "w": "Indian",
+      "n": "Indian",
       "k": "name"
      },
      {
@@ -2435,6 +2467,7 @@
      {
       "w": "Skift",
       "nsp": 1,
+      "n": "Skift",
       "k": "name"
      },
      {
@@ -2481,6 +2514,7 @@
      {
       "w": "Bishkek",
       "nsp": 1,
+      "n": "Bishkek",
       "k": "name"
      },
      {
@@ -2489,6 +2523,7 @@
      },
      {
       "w": "Baku",
+      "n": "Baku",
       "k": "name"
      },
      {
@@ -2499,6 +2534,7 @@
      {
       "w": "Tashkent",
       "nsp": 1,
+      "n": "Tashkent",
       "k": "name"
      },
      {
@@ -2530,6 +2566,7 @@
      },
      {
       "w": "Japan",
+      "n": "Japan",
       "k": "name"
      },
      {
@@ -2540,6 +2577,7 @@
      {
       "w": "Vietnam",
       "nsp": 1,
+      "n": "Vietnam",
       "k": "name"
      },
      {
@@ -2638,6 +2676,7 @@
      {
       "w": "Vietnam",
       "nsp": 1,
+      "n": "Vietnam",
       "k": "name"
      },
      {
@@ -2681,6 +2720,7 @@
      },
      {
       "w": "Indians",
+      "n": "Indians",
       "k": "name"
      },
      {
@@ -2712,413 +2752,16 @@
    ]
   }
  ],
- "dict": {
-  "app": {
-   "ipa": "æp",
-   "pos": "n",
-   "en": "a program on a phone or computer",
-   "vi": "ứng dụng",
-   "band": 2
-  },
-  "people": {
-   "ipa": "ˈpipəl",
-   "pos": "n",
-   "en": "men, women and children",
-   "vi": "người, mọi người",
-   "band": 1
-  },
-  "site": {
-   "ipa": "saɪt",
-   "pos": "n",
-   "en": "a website",
-   "vi": "trang web",
-   "band": 1
-  },
-  "fast": {
-   "ipa": "fæst",
-   "pos": "adv",
-   "en": "quickly",
-   "vi": "nhanh",
-   "band": 1
-  },
-  "average": {
-   "ipa": "ˈævɚɪdʒ",
-   "pos": "n",
-   "en": "the usual or middle amount",
-   "vi": "mức trung bình",
-   "band": 1
-  },
-  "overseas": {
-   "ipa": "ˈoʊvɚˈsiz",
-   "pos": "adv",
-   "en": "in or to another country across the sea",
-   "vi": "ở nước ngoài, ra nước ngoài",
-   "band": 4
-  },
-  "send": {
-   "ipa": "sɛnd",
-   "pos": "v",
-   "en": "to make someone or something go to a place",
-   "vi": "gửi, chuyển (người dùng) tới",
-   "band": 1
-  },
-  "user": {
-   "ipa": "ˈjuzɚ",
-   "pos": "n",
-   "en": "a person who uses a website or app",
-   "vi": "người dùng",
-   "band": 2
-  },
-  "three": {
-   "ipa": "θri",
-   "pos": "num",
-   "en": "the number 3",
-   "vi": "ba",
-   "band": 1
-  },
-  "booking": {
-   "ipa": "ˈbʊkɪŋ",
-   "pos": "n",
-   "en": "an order for a ticket or room made before you go",
-   "vi": "lượt đặt chỗ, đặt vé",
-   "band": 6
-  },
-  "inside": {
-   "ipa": "ˌɪnˈsaɪd",
-   "pos": "prep",
-   "en": "in a place, not out of it",
-   "vi": "bên trong",
-   "band": 1
-  },
-  "international": {
-   "ipa": "ˌɪntɚˈnæʃənəl",
-   "pos": "adj",
-   "en": "between or across different countries",
-   "vi": "quốc tế",
-   "band": 1
-  },
-  "today": {
-   "ipa": "təˈdeɪ",
-   "pos": "n",
-   "en": "this day; the present time",
-   "vi": "ngày nay, hiện nay",
-   "band": 1
-  },
-  "split": {
-   "ipa": "splɪt",
-   "pos": "n",
-   "en": "the way something is divided into parts",
-   "vi": "tỉ lệ chia",
-   "band": 2
-  },
-  "almost": {
-   "ipa": "ˈɔlˌmoʊst",
-   "pos": "adv",
-   "en": "nearly; not quite",
-   "vi": "gần như",
-   "band": 1
-  },
-  "expert": {
-   "ipa": "ˈɛkspɚt",
-   "pos": "n",
-   "en": "a person who knows a lot about something",
-   "vi": "chuyên gia",
-   "band": 2
-  },
-  "journalist": {
-   "ipa": "ˈdʒɝnələst",
-   "pos": "n",
-   "en": "a person who writes news",
-   "vi": "nhà báo",
-   "band": 3
-  },
-  "examine": {
-   "ipa": "ɪɡˈzæmɪn",
-   "pos": "v",
-   "en": "to look at something carefully",
-   "vi": "xem xét kỹ",
-   "band": 4
-  },
-  "traveler": {
-   "ipa": "ˈtrævəlɚ",
-   "pos": "n",
-   "en": "a person who travels",
-   "vi": "du khách, người đi du lịch",
-   "band": 6
-  },
-  "insight": {
-   "ipa": "ˈɪnˌsaɪt",
-   "pos": "n",
-   "en": "a clear understanding of something",
-   "vi": "hiểu biết sâu, góc nhìn",
-   "band": 4
-  },
-  "base": {
-   "ipa": "beɪs",
-   "pos": "v",
-   "en": "(be based on) to come from or use as a start",
-   "vi": "dựa trên",
-   "band": 1
-  },
-  "july": {
-   "ipa": "ˌdʒuˈlaɪ",
-   "pos": "n",
-   "en": "month number 7 of the year",
-   "vi": "tháng Bảy",
-   "band": 1
-  },
-  "highlight": {
-   "ipa": "ˈhaɪˌlaɪt",
-   "pos": "v",
-   "en": "to show that something is important",
-   "vi": "làm nổi bật, nhấn mạnh",
-   "band": 4
-  },
-  "abroad": {
-   "ipa": "əˈbrɔd",
-   "pos": "adv",
-   "en": "in or to another country",
-   "vi": "ở nước ngoài",
-   "band": 3
-  },
-  "important": {
-   "ipa": "ˌɪmˈpɔrtənt",
-   "pos": "adj",
-   "en": "having a big effect; mattering a lot",
-   "vi": "quan trọng",
-   "band": 1
-  },
-  "consideration": {
-   "ipa": "kənˌsɪdɚˈeɪʃən",
-   "pos": "n",
-   "en": "something you think about before you decide",
-   "vi": "điều cân nhắc, yếu tố cân nhắc",
-   "band": 4
-  },
-  "time": {
-   "ipa": "taɪm",
-   "pos": "n",
-   "en": "how long something takes",
-   "vi": "thời gian",
-   "band": 1
-  },
-  "major": {
-   "ipa": "ˈmeɪdʒɚ",
-   "pos": "adj",
-   "en": "big and important",
-   "vi": "lớn, chính",
-   "band": 1
-  },
-  "short": {
-   "ipa": "ʃɔrt",
-   "pos": "adj",
-   "en": "not long",
-   "vi": "ngắn",
-   "band": 1
-  },
-  "on average": {
-   "ipa": "ɑn ˈævɚɪdʒ",
-   "pos": "phr",
-   "en": "usually; as an average",
-   "vi": "trung bình",
-   "band": 1
-  },
-  "holiday": {
-   "ipa": "ˈhɑləˌdeɪ",
-   "pos": "n",
-   "en": "time away from home for rest or fun",
-   "vi": "kỳ nghỉ",
-   "band": 2
-  },
-  "because": {
-   "ipa": "bɪˈkɔz",
-   "pos": "conj",
-   "en": "for the reason that",
-   "vi": "bởi vì",
-   "band": 1
-  },
-  "another": {
-   "ipa": "əˈnʌðɚ",
-   "pos": "det",
-   "en": "one more; a different one",
-   "vi": "khác, một … khác",
-   "band": 1
-  },
-  "offer": {
-   "ipa": "ˈɔfɚ",
-   "pos": "v",
-   "en": "to give people the chance to have something",
-   "vi": "mang lại, đưa ra",
-   "band": 1
-  },
-  "matter": {
-   "ipa": "ˈmætɚ",
-   "pos": "v",
-   "en": "to be important",
-   "vi": "quan trọng, có ý nghĩa",
-   "band": 1
-  },
-  "technology": {
-   "ipa": "tɛkˈnɑlədʒi",
-   "pos": "n",
-   "en": "machines and computers and the way we use them",
-   "vi": "công nghệ",
-   "band": 1
-  },
-  "confident": {
-   "ipa": "ˈkɑnfədənt",
-   "pos": "adj",
-   "en": "sure that you can do something well",
-   "vi": "tự tin",
-   "band": 3
-  },
-  "artificial": {
-   "ipa": "ˌɑrtəˈfɪʃəl",
-   "pos": "adj",
-   "en": "made by people, not natural",
-   "vi": "nhân tạo",
-   "band": 4
-  },
-  "intelligence": {
-   "ipa": "ˌɪnˈtɛlədʒəns",
-   "pos": "n",
-   "en": "the ability to learn and understand",
-   "vi": "trí thông minh, trí tuệ",
-   "band": 2
-  },
-  "research": {
-   "ipa": "riˈsɝtʃ",
-   "pos": "n",
-   "en": "careful study to find new facts",
-   "vi": "nghiên cứu, tìm hiểu",
-   "band": 1
-  },
-  "accuracy": {
-   "ipa": "ˈækjɚəsi",
-   "pos": "n",
-   "en": "being correct and exact",
-   "vi": "độ chính xác",
-   "band": 4
-  },
-  "remain": {
-   "ipa": "rɪˈmeɪn",
-   "pos": "v",
-   "en": "to stay the same",
-   "vi": "vẫn là",
-   "band": 2
-  },
-  "key": {
-   "ipa": "ki",
-   "pos": "adj",
-   "en": "very important",
-   "vi": "then chốt, quan trọng",
-   "band": 1
-  },
-  "answer": {
-   "ipa": "ˈænsɚ",
-   "pos": "n",
-   "en": "what you say or write back to a question",
-   "vi": "câu trả lời",
-   "band": 1
-  },
-  "reliable": {
-   "ipa": "rɪˈlaɪəbəl",
-   "pos": "adj",
-   "en": "that you can trust to be good or correct",
-   "vi": "đáng tin cậy",
-   "band": 4
-  },
-  "tell": {
-   "ipa": "tɛl",
-   "pos": "v",
-   "en": "to give information to someone",
-   "vi": "nói, cho biết",
-   "band": 1
-  },
-  "because of": {
-   "ipa": "bɪˈkɔz ʌv",
-   "pos": "phr",
-   "en": "as a result of",
-   "vi": "vì, do",
-   "band": 1
-  },
-  "concern": {
-   "ipa": "kənˈsɝn",
-   "pos": "n",
-   "en": "a feeling of worry",
-   "vi": "mối lo ngại",
-   "band": 2
-  },
-  "no": {
-   "ipa": "noʊ",
-   "pos": "det",
-   "en": "not any",
-   "vi": "không (có)",
-   "band": 1
-  },
-  "sign": {
-   "ipa": "saɪn",
-   "pos": "n",
-   "en": "something that shows that something is true",
-   "vi": "dấu hiệu",
-   "band": 1
-  },
-  "yet": {
-   "ipa": "jɛt",
-   "pos": "adv",
-   "en": "until now",
-   "vi": "vẫn chưa",
-   "band": 1
-  },
-  "often": {
-   "ipa": "ˈɔfən",
-   "pos": "adv",
-   "en": "many times",
-   "vi": "thường xuyên",
-   "band": 1
-  },
-  "helper": {
-   "ipa": "ˈhɛlpɚ",
-   "pos": "n",
-   "en": "a person or thing that helps",
-   "vi": "người (công cụ) trợ giúp"
-  },
-  "agent": {
-   "ipa": "ˈeɪdʒənt",
-   "pos": "n",
-   "en": "a person who does work for you, like booking travel",
-   "vi": "đại lý, người môi giới",
-   "band": 2
-  },
-  "city": {
-   "ipa": "ˈsɪti",
-   "pos": "n",
-   "en": "a large town",
-   "vi": "thành phố",
-   "band": 1
-  },
-  "get": {
-   "ipa": "ɡɛt",
-   "pos": "v",
-   "en": "to receive or have something",
-   "vi": "nhận được",
-   "band": 1
-  },
-  "useful": {
-   "ipa": "ˈjusfəl",
-   "pos": "adj",
-   "en": "helping you to do something",
-   "vi": "hữu ích",
-   "band": 2
-  }
- },
+ "dict": {},
  "names": {
   "Skyscanner": {
    "vi": "Skyscanner, trang web và ứng dụng so sánh giá vé máy bay, khách sạn"
   },
+  "Skyscanner India": {
+   "vi": "chi nhánh Ấn Độ của Skyscanner"
+  },
   "India": {
-   "vi": "chi nhánh Ấn Độ của Skyscanner",
-   "full": "Skyscanner India"
+   "vi": "Ấn Độ"
   },
   "Indians": {
    "vi": "người Ấn Độ"
@@ -3129,24 +2772,14 @@
   "Skift": {
    "vi": "Skift, trang tin chuyên về ngành du lịch"
   },
-  "Neel": {
-   "vi": "chuyên gia xu hướng du lịch của Skyscanner Ấn Độ",
-   "full": "Neel Ghose"
-  },
-  "Ghose": {
-   "vi": "chuyên gia xu hướng du lịch của Skyscanner Ấn Độ",
-   "full": "Neel Ghose"
+  "Neel Ghose": {
+   "vi": "chuyên gia xu hướng du lịch của Skyscanner Ấn Độ"
   },
   "Delhi": {
    "vi": "Delhi, thủ đô Ấn Độ"
   },
-  "Travel": {
-   "vi": "tên báo cáo xu hướng du lịch năm 2027 của Skyscanner",
-   "full": "Travel Trends 2027"
-  },
-  "Trends": {
-   "vi": "tên báo cáo xu hướng du lịch năm 2027 của Skyscanner",
-   "full": "Travel Trends 2027"
+  "Travel Trends 2027": {
+   "vi": "tên báo cáo xu hướng du lịch năm 2027 của Skyscanner"
   },
   "AI": {
    "vi": "trí tuệ nhân tạo (artificial intelligence)"

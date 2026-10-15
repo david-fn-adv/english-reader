@@ -111,10 +111,12 @@
      },
      {
       "w": "Hailey",
+      "n": "Hailey Bieber",
       "k": "name"
      },
      {
       "w": "Bieber",
+      "n": "Hailey Bieber",
       "k": "name"
      },
      {
@@ -146,10 +148,12 @@
     [
      {
       "w": "Hailey",
+      "n": "Hailey Bieber",
       "k": "name"
      },
      {
       "w": "Bieber",
+      "n": "Hailey Bieber",
       "k": "name"
      },
      {
@@ -237,6 +241,7 @@
      {
       "w": "Rhode",
       "nsp": 1,
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -297,10 +302,12 @@
      },
      {
       "w": "e.l.f.",
+      "n": "e.l.f. Beauty",
       "k": "name"
      },
      {
       "w": "Beauty",
+      "n": "e.l.f. Beauty",
       "k": "name"
      },
      {
@@ -394,6 +401,7 @@
      },
      {
       "w": "Bieber",
+      "n": "Bieber",
       "k": "name"
      },
      {
@@ -428,23 +436,28 @@
      },
      {
       "w": "Fortune",
+      "n": "Fortune Most Powerful Women Summit",
       "k": "name"
      },
      {
       "w": "Most",
+      "n": "Fortune Most Powerful Women Summit",
       "k": "name"
      },
      {
       "w": "Powerful",
+      "n": "Fortune Most Powerful Women Summit",
       "k": "name"
      },
      {
       "w": "Women",
+      "n": "Fortune Most Powerful Women Summit",
       "k": "name"
      },
      {
       "w": "Summit",
       "nsp": 1,
+      "n": "Fortune Most Powerful Women Summit",
       "k": "name"
      },
      {
@@ -480,6 +493,7 @@
      },
      {
       "w": "Bieber",
+      "n": "Bieber",
       "k": "name"
      },
      {
@@ -664,6 +678,7 @@
      {
       "w": "Rhode",
       "nsp": 1,
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -712,6 +727,7 @@
      {
       "w": "Bieber",
       "nsp": 1,
+      "n": "Bieber",
       "k": "name"
      },
      {
@@ -720,10 +736,12 @@
      },
      {
       "w": "e.l.f.",
+      "n": "e.l.f. Beauty",
       "k": "name"
      },
      {
       "w": "Beauty",
+      "n": "e.l.f. Beauty",
       "k": "name"
      },
      {
@@ -817,11 +835,13 @@
     [
      {
       "w": "Lauren",
+      "n": "Lauren Ratner",
       "k": "name"
      },
      {
       "w": "Ratner",
       "nsp": 1,
+      "n": "Lauren Ratner",
       "k": "name"
      },
      {
@@ -840,6 +860,7 @@
      },
      {
       "w": "Rhode",
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -850,6 +871,7 @@
      {
       "w": "Bieber",
       "nsp": 1,
+      "n": "Bieber",
       "k": "name"
      },
      {
@@ -880,6 +902,7 @@
     [
      {
       "w": "Rhode",
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -1026,6 +1049,7 @@
      },
      {
       "w": "Ratner",
+      "n": "Ratner",
       "k": "name"
      },
      {
@@ -1221,6 +1245,7 @@
     [
      {
       "w": "Rhode",
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -1357,6 +1382,7 @@
      },
      {
       "w": "Sephora",
+      "n": "Sephora",
       "k": "name"
      },
      {
@@ -1376,10 +1402,12 @@
      },
      {
       "w": "United",
+      "n": "United States",
       "k": "name"
      },
      {
       "w": "States",
+      "n": "United States",
       "k": "name"
      },
      {
@@ -1414,6 +1442,7 @@
      {
       "w": "Fortune",
       "nsp": 1,
+      "n": "Fortune",
       "k": "name"
      },
      {
@@ -1442,6 +1471,7 @@
      },
      {
       "w": "Sephora",
+      "n": "Sephora",
       "k": "name"
      },
      {
@@ -1452,6 +1482,7 @@
      {
       "w": "Europe",
       "nsp": 1,
+      "n": "Europe",
       "k": "name"
      },
      {
@@ -1591,6 +1622,7 @@
     [
      {
       "w": "Ratner",
+      "n": "Ratner",
       "k": "name"
      },
      {
@@ -1600,6 +1632,7 @@
      },
      {
       "w": "Rhode",
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -1896,6 +1929,7 @@
      {
       "w": "Australia",
       "nsp": 1,
+      "n": "Australia",
       "k": "name"
      },
      {
@@ -1921,6 +1955,7 @@
      },
      {
       "w": "Rhode",
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -1966,6 +2001,7 @@
      {
       "w": "Mecca",
       "nsp": 1,
+      "n": "Mecca",
       "k": "name"
      },
      {
@@ -1991,6 +2027,7 @@
      },
      {
       "w": "Bieber",
+      "n": "Bieber",
       "k": "name"
      },
      {
@@ -2026,6 +2063,7 @@
      {
       "w": "Rhode",
       "nsp": 1,
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -2039,6 +2077,7 @@
      },
      {
       "w": "Ratner",
+      "n": "Ratner",
       "k": "name"
      },
      {
@@ -2162,6 +2201,7 @@
      },
      {
       "w": "Bieber",
+      "n": "Bieber",
       "k": "name"
      },
      {
@@ -2263,6 +2303,7 @@
      },
      {
       "w": "Rhode",
+      "n": "Rhode",
       "k": "name"
      },
      {
@@ -2389,457 +2430,37 @@
    ]
   }
  ],
- "dict": {
-  "her": {
-   "ipa": "hɝ",
-   "pos": "pron",
-   "en": "belonging to a woman or girl",
-   "vi": "của cô ấy",
-   "band": 1
-  },
-  "beauty": {
-   "ipa": "ˈbjuti",
-   "pos": "n",
-   "en": "being nice to look at; (beauty brand) makeup and skin care",
-   "vi": "vẻ đẹp; (beauty brand) thương hiệu làm đẹp",
-   "band": 2
-  },
-  "she": {
-   "ipa": "ʃi",
-   "pos": "pron",
-   "en": "a woman or girl already talked about",
-   "vi": "cô ấy, bà ấy",
-   "band": 1
-  },
-  "launch": {
-   "ipa": "lɔntʃ",
-   "pos": "v",
-   "en": "to start a new product or business",
-   "vi": "ra mắt",
-   "band": 2
-  },
-  "later": {
-   "ipa": "ˈleɪtɚ",
-   "pos": "adv",
-   "en": "after some time",
-   "vi": "sau đó"
-  },
-  "agree": {
-   "ipa": "əˈɡri",
-   "pos": "v",
-   "en": "to say yes to a plan or deal",
-   "vi": "đồng ý",
-   "band": 1
-  },
-  "buy": {
-   "ipa": "baɪ",
-   "pos": "v",
-   "en": "to get something by paying money",
-   "vi": "mua",
-   "band": 1
-  },
-  "deal": {
-   "ipa": "dil",
-   "pos": "n",
-   "en": "an agreement in business",
-   "vi": "thương vụ, thoả thuận",
-   "band": 1
-  },
-  "worth": {
-   "ipa": "wɝθ",
-   "pos": "adj",
-   "en": "having a value of",
-   "vi": "trị giá",
-   "band": 1
-  },
-  "up to": {
-   "ipa": "ʌp tu",
-   "pos": "phr",
-   "en": "as much as; not more than",
-   "vi": "lên tới",
-   "band": 1
-  },
-  "wednesday": {
-   "ipa": "ˈwɛnzdi",
-   "pos": "n",
-   "en": "the day after Tuesday",
-   "vi": "thứ Tư",
-   "band": 2
-  },
-  "summit": {
-   "ipa": "ˈsʌmət",
-   "pos": "n",
-   "en": "an important meeting of leaders or experts",
-   "vi": "hội nghị thượng đỉnh, hội nghị lớn",
-   "band": 4
-  },
-  "fear": {
-   "ipa": "fɪr",
-   "pos": "n",
-   "en": "a feeling that something bad may happen",
-   "vi": "nỗi sợ",
-   "band": 1
-  },
-  "worry": {
-   "ipa": "ˈwɝi",
-   "pos": "v",
-   "en": "to think about bad things that may happen",
-   "vi": "lo lắng",
-   "band": 2
-  },
-  "founder": {
-   "ipa": "ˈfaʊndɚ",
-   "pos": "n",
-   "en": "a person who starts a company",
-   "vi": "nhà sáng lập",
-   "band": 3
-  },
-  "retain": {
-   "ipa": "rɪˈteɪn",
-   "pos": "v",
-   "en": "to keep something; not lose it",
-   "vi": "giữ lại",
-   "band": 4
-  },
-  "control": {
-   "ipa": "kənˈtroʊl",
-   "pos": "n",
-   "en": "the power to decide what happens",
-   "vi": "quyền kiểm soát",
-   "band": 1
-  },
-  "creative": {
-   "ipa": "kriˈeɪtɪv",
-   "pos": "adj",
-   "en": "about making new ideas, designs or art",
-   "vi": "sáng tạo",
-   "band": 2
-  },
-  "decision": {
-   "ipa": "dɪˈsɪʒən",
-   "pos": "n",
-   "en": "a choice that you make",
-   "vi": "quyết định",
-   "band": 1
-  },
-  "all": {
-   "ipa": "ɔl",
-   "pos": "adv",
-   "en": "(at all) in any way",
-   "vi": "(at all) chút nào, hoàn toàn",
-   "band": 1
-  },
-  "explain": {
-   "ipa": "ɪkˈspleɪn",
-   "pos": "v",
-   "en": "to make something clear and easy to understand",
-   "vi": "giải thích",
-   "band": 2
-  },
-  "reason": {
-   "ipa": "ˈrizən",
-   "pos": "n",
-   "en": "why something happens",
-   "vi": "lý do",
-   "band": 1
-  },
-  "lean": {
-   "ipa": "lin",
-   "pos": "adj",
-   "en": "small and using few people or little money",
-   "vi": "tinh gọn",
-   "band": 4
-  },
-  "team": {
-   "ipa": "tim",
-   "pos": "n",
-   "en": "a group of people who work together",
-   "vi": "đội, nhóm",
-   "band": 1
-  },
-  "limit": {
-   "ipa": "ˈlɪmət",
-   "pos": "n",
-   "en": "the most that is possible",
-   "vi": "giới hạn",
-   "band": 1
-  },
-  "we": {
-   "ipa": "wi",
-   "pos": "pron",
-   "en": "I and other people",
-   "vi": "chúng tôi",
-   "band": 1
-  },
-  "really": {
-   "ipa": "ˈrɪli",
-   "pos": "adv",
-   "en": "very; truly",
-   "vi": "thật sự",
-   "band": 1
-  },
-  "infrastructure": {
-   "ipa": "ˌɪnfrəˈstrʌktʃɚ",
-   "pos": "n",
-   "en": "the systems a business needs, like stores, staff and shipping",
-   "vi": "hạ tầng, cơ sở vật chất",
-   "band": 3
-  },
-  "partner": {
-   "ipa": "ˈpɑrtnɚ",
-   "pos": "n",
-   "en": "a person or company that works with you",
-   "vi": "đối tác",
-   "band": 2
-  },
-  "scale": {
-   "ipa": "skeɪl",
-   "pos": "v",
-   "en": "to grow a business to a much larger size",
-   "vi": "mở rộng quy mô",
-   "band": 2
-  },
-  "globally": {
-   "ipa": "ˈɡloʊbəli",
-   "pos": "adv",
-   "en": "in all parts of the world",
-   "vi": "trên toàn cầu",
-   "band": 7
-  },
-  "succeed": {
-   "ipa": "səkˈsid",
-   "pos": "v",
-   "en": "to do well; to get what you want",
-   "vi": "thành công",
-   "band": 4
-  },
-  "alone": {
-   "ipa": "əˈloʊn",
-   "pos": "adv",
-   "en": "without help",
-   "vi": "một mình",
-   "band": 1
-  },
-  "enable": {
-   "ipa": "ɛˈneɪbəl",
-   "pos": "v",
-   "en": "to make it possible for someone to do something",
-   "vi": "giúp, tạo điều kiện",
-   "band": 4
-  },
-  "small": {
-   "ipa": "smɔl",
-   "pos": "adj",
-   "en": "not big",
-   "vi": "nhỏ",
-   "band": 1
-  },
-  "net": {
-   "ipa": "nɛt",
-   "pos": "adj",
-   "en": "(net sales) after money taken off, such as for returns",
-   "vi": "thuần (doanh thu thuần)",
-   "band": 2
-  },
-  "increase": {
-   "ipa": "ˌɪnˈkris",
-   "pos": "n",
-   "en": "a rise in amount or number",
-   "vi": "sự tăng",
-   "band": 1
-  },
-  "enter": {
-   "ipa": "ˈɛntɚ",
-   "pos": "v",
-   "en": "to go into a place or market",
-   "vi": "gia nhập, bước vào",
-   "band": 2
-  },
-  "then": {
-   "ipa": "ðɛn",
-   "pos": "adv",
-   "en": "after that",
-   "vi": "sau đó",
-   "band": 1
-  },
-  "size": {
-   "ipa": "saɪz",
-   "pos": "n",
-   "en": "how big something is",
-   "vi": "quy mô, kích thước",
-   "band": 1
-  },
-  "help": {
-   "ipa": "hɛlp",
-   "pos": "v",
-   "en": "to make something easier",
-   "vi": "giúp",
-   "band": 1
-  },
-  "kind of": {
-   "ipa": "kaɪnd ʌv",
-   "pos": "phr",
-   "en": "a type of",
-   "vi": "loại, kiểu",
-   "band": 1
-  },
-  "retail": {
-   "ipa": "ˈriˌteɪl",
-   "pos": "adj",
-   "en": "about selling things to the public in shops",
-   "vi": "bán lẻ",
-   "band": 3
-  },
-  "dominant": {
-   "ipa": "ˈdɑmənənt",
-   "pos": "adj",
-   "en": "stronger or more important than all others",
-   "vi": "chiếm ưu thế, thống lĩnh",
-   "band": 4
-  },
-  "claim": {
-   "ipa": "kleɪm",
-   "pos": "n",
-   "en": "something someone says is true",
-   "vi": "tuyên bố, khẳng định",
-   "band": 1
-  },
-  "article": {
-   "ipa": "ˈɑrtəkəl",
-   "pos": "n",
-   "en": "a piece of writing in a newspaper or magazine",
-   "vi": "bài báo",
-   "band": 1
-  },
-  "nevertheless": {
-   "ipa": "ˌnɛvɚðəˈlɛs",
-   "pos": "adv",
-   "en": "even so; but still",
-   "vi": "tuy vậy, dù sao",
-   "band": 4
-  },
-  "popularity": {
-   "ipa": "ˌpɑpjəˈlɛrəti",
-   "pos": "n",
-   "en": "being liked by many people",
-   "vi": "sự được ưa chuộng",
-   "band": 4
-  },
-  "for example": {
-   "ipa": "fɔr ɪɡˈzæmpəl",
-   "pos": "phr",
-   "en": "used to give one example",
-   "vi": "ví dụ",
-   "band": 1
-  },
-  "top": {
-   "ipa": "tɑp",
-   "pos": "adj",
-   "en": "best; number one",
-   "vi": "hàng đầu",
-   "band": 1
-  },
-  "chief": {
-   "ipa": "tʃif",
-   "pos": "adj",
-   "en": "most important; at the top of a company",
-   "vi": "(giám đốc) trưởng",
-   "band": 1
-  },
-  "officer": {
-   "ipa": "ˈɔfəsɚ",
-   "pos": "n",
-   "en": "a person with an important job in a company",
-   "vi": "người phụ trách, giám đốc",
-   "band": 1
-  },
-  "role": {
-   "ipa": "roʊl",
-   "pos": "n",
-   "en": "the job or part someone has",
-   "vi": "vai trò",
-   "band": 1
-  },
-  "as": {
-   "ipa": "æz",
-   "pos": "conj",
-   "en": "while; when",
-   "vi": "khi, trong lúc",
-   "band": 1
-  },
-  "main": {
-   "ipa": "meɪn",
-   "pos": "adj",
-   "en": "most important",
-   "vi": "chính",
-   "band": 1
-  },
-  "if": {
-   "ipa": "ɪf",
-   "pos": "conj",
-   "en": "used to say that one thing depends on another",
-   "vi": "nếu",
-   "band": 1
-  }
- },
+ "dict": {},
  "names": {
-  "Hailey": {
-   "vi": "Hailey Bieber, người nổi tiếng người Mỹ, nhà sáng lập Rhode",
-   "full": "Hailey Bieber"
+  "Hailey Bieber": {
+   "vi": "Hailey Bieber, người nổi tiếng người Mỹ, nhà sáng lập Rhode"
   },
   "Bieber": {
-   "vi": "Hailey Bieber, người nổi tiếng người Mỹ, nhà sáng lập Rhode",
-   "full": "Hailey Bieber"
+   "vi": "Hailey Bieber, nhà sáng lập Rhode"
   },
   "Rhode": {
    "vi": "Rhode, thương hiệu làm đẹp do Hailey Bieber sáng lập"
   },
-  "e.l.f.": {
-   "vi": "công ty mỹ phẩm Mỹ, đã mua lại Rhode",
-   "full": "e.l.f. Beauty"
+  "e.l.f. Beauty": {
+   "vi": "công ty mỹ phẩm Mỹ, đã mua lại Rhode"
   },
-  "Beauty": {
-   "vi": "công ty mỹ phẩm Mỹ, đã mua lại Rhode",
-   "full": "e.l.f. Beauty"
+  "Fortune Most Powerful Women Summit": {
+   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất"
   },
   "Fortune": {
-   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
-   "full": "Fortune Most Powerful Women Summit"
+   "vi": "tạp chí kinh doanh Fortune"
   },
-  "Most": {
-   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
-   "full": "Fortune Most Powerful Women Summit"
-  },
-  "Powerful": {
-   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
-   "full": "Fortune Most Powerful Women Summit"
-  },
-  "Women": {
-   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
-   "full": "Fortune Most Powerful Women Summit"
-  },
-  "Summit": {
-   "vi": "hội nghị thường niên của tạp chí Fortune về phụ nữ quyền lực nhất",
-   "full": "Fortune Most Powerful Women Summit"
-  },
-  "Lauren": {
-   "vi": "đồng sáng lập, chủ tịch Rhode",
-   "full": "Lauren Ratner"
+  "Lauren Ratner": {
+   "vi": "đồng sáng lập, chủ tịch Rhode"
   },
   "Ratner": {
-   "vi": "đồng sáng lập, chủ tịch Rhode",
-   "full": "Lauren Ratner"
+   "vi": "Lauren Ratner, đồng sáng lập Rhode"
   },
   "Sephora": {
    "vi": "Sephora, chuỗi cửa hàng mỹ phẩm lớn"
   },
-  "United": {
-   "vi": "Hoa Kỳ, nước Mỹ",
-   "full": "United States"
-  },
-  "States": {
-   "vi": "Hoa Kỳ, nước Mỹ",
-   "full": "United States"
+  "United States": {
+   "vi": "Hoa Kỳ, nước Mỹ"
   },
   "Europe": {
    "vi": "châu Âu"

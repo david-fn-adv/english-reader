@@ -136,6 +136,7 @@
      },
      {
       "w": "Canadians",
+      "n": "Canadians",
       "k": "name"
      },
      {
@@ -151,6 +152,7 @@
      {
       "w": "U.S.",
       "nsp": 1,
+      "n": "U.S.",
       "k": "name"
      },
      {
@@ -191,6 +193,7 @@
     [
      {
       "w": "Canadians",
+      "n": "Canadians",
       "k": "name"
      },
      {
@@ -215,10 +218,12 @@
      },
      {
       "w": "United",
+      "n": "United States",
       "k": "name"
      },
      {
       "w": "States",
+      "n": "United States",
       "k": "name"
      },
      {
@@ -265,6 +270,7 @@
      },
      {
       "w": "Canadian",
+      "n": "Canadian",
       "k": "name"
      },
      {
@@ -289,6 +295,7 @@
      },
      {
       "w": "U.S.",
+      "n": "U.S.",
       "k": "name"
      },
      {
@@ -352,11 +359,13 @@
      },
      {
       "w": "Statistics",
+      "n": "Statistics Canada",
       "k": "name"
      },
      {
       "w": "Canada",
       "nsp": 1,
+      "n": "Statistics Canada",
       "k": "name"
      },
      {
@@ -402,6 +411,7 @@
      },
      {
       "w": "Canadian",
+      "n": "Canadian",
       "k": "name"
      },
      {
@@ -441,11 +451,13 @@
      },
      {
       "w": "United",
+      "n": "United States",
       "k": "name"
      },
      {
       "w": "States",
       "nsp": 1,
+      "n": "United States",
       "k": "name"
      },
      {
@@ -707,6 +719,7 @@
      },
      {
       "w": "Canadian",
+      "n": "Canadian",
       "k": "name"
      },
      {
@@ -966,6 +979,7 @@
      },
      {
       "w": "Canadians",
+      "n": "Canadians",
       "k": "name"
      },
      {
@@ -1138,11 +1152,13 @@
      },
      {
       "w": "New",
+      "n": "New England",
       "k": "name"
      },
      {
       "w": "England",
       "nsp": 1,
+      "n": "New England",
       "k": "name"
      },
      {
@@ -1233,11 +1249,13 @@
      },
      {
       "w": "Whatcom",
+      "n": "Whatcom County",
       "k": "name"
      },
      {
       "w": "County",
       "nsp": 1,
+      "n": "Whatcom County",
       "k": "name"
      },
      {
@@ -1247,6 +1265,7 @@
      {
       "w": "Washington",
       "nsp": 1,
+      "n": "Washington",
       "k": "name"
      },
      {
@@ -1328,6 +1347,7 @@
      {
       "w": "Hawaii",
       "nsp": 1,
+      "n": "Hawaii",
       "k": "name"
      },
      {
@@ -1406,6 +1426,7 @@
      },
      {
       "w": "Canadian",
+      "n": "Canadian",
       "k": "name"
      },
      {
@@ -1516,14 +1537,17 @@
     [
      {
       "w": "Corporate",
+      "n": "Corporate Traveller Canada",
       "k": "name"
      },
      {
       "w": "Traveller",
+      "n": "Corporate Traveller Canada",
       "k": "name"
      },
      {
       "w": "Canada",
+      "n": "Corporate Traveller Canada",
       "k": "name"
      },
      {
@@ -1674,14 +1698,17 @@
     [
      {
       "w": "Flight",
+      "n": "Flight Centre Canada",
       "k": "name"
      },
      {
       "w": "Centre",
+      "n": "Flight Centre Canada",
       "k": "name"
      },
      {
       "w": "Canada",
+      "n": "Flight Centre Canada",
       "k": "name"
      },
      {
@@ -1850,6 +1877,7 @@
      },
      {
       "w": "FlightHub",
+      "n": "FlightHub",
       "k": "name"
      },
      {
@@ -1869,6 +1897,7 @@
      },
      {
       "w": "U.S.",
+      "n": "U.S.",
       "k": "name"
      },
      {
@@ -1977,6 +2006,7 @@
      },
      {
       "w": "Canadians",
+      "n": "Canadians",
       "k": "name"
      },
      {
@@ -2043,6 +2073,7 @@
      },
      {
       "w": "Canadians",
+      "n": "Canadians",
       "k": "name"
      },
      {
@@ -2151,6 +2182,7 @@
      },
      {
       "w": "Leger",
+      "n": "Leger",
       "k": "name"
      },
      {
@@ -2170,6 +2202,7 @@
      },
      {
       "w": "Canadian",
+      "n": "Canadian",
       "k": "name"
      },
      {
@@ -2224,6 +2257,7 @@
      },
      {
       "w": "U.S.",
+      "n": "U.S.",
       "k": "name"
      },
      {
@@ -2330,6 +2364,7 @@
      },
      {
       "w": "Canada",
+      "n": "Canada",
       "k": "name"
      },
      {
@@ -2344,6 +2379,7 @@
      },
      {
       "w": "U.S.",
+      "n": "U.S.",
       "k": "name"
      },
      {
@@ -2410,6 +2446,7 @@
      },
      {
       "w": "U.S.",
+      "n": "U.S.",
       "k": "name"
      },
      {
@@ -2516,6 +2553,7 @@
      },
      {
       "w": "Canada",
+      "n": "Canada",
       "k": "name"
      },
      {
@@ -2705,13 +2743,8 @@
  ],
  "dict": {},
  "names": {
-  "Statistics": {
-   "vi": "Cục Thống kê Canada, cơ quan thống kê của chính phủ Canada",
-   "full": "Statistics Canada"
-  },
-  "Canada": {
-   "vi": "Cục Thống kê Canada, cơ quan thống kê của chính phủ Canada",
-   "full": "Statistics Canada"
+  "Statistics Canada": {
+   "vi": "Cục Thống kê Canada, cơ quan thống kê của chính phủ Canada"
   },
   "Canadians": {
    "vi": "người Canada"
@@ -2722,29 +2755,14 @@
   "U.S.": {
    "vi": "Hoa Kỳ (viết tắt của United States)"
   },
-  "United": {
-   "vi": "Hoa Kỳ, nước Mỹ",
-   "full": "United States"
+  "United States": {
+   "vi": "Hoa Kỳ, nước Mỹ"
   },
-  "States": {
-   "vi": "Hoa Kỳ, nước Mỹ",
-   "full": "United States"
+  "New England": {
+   "vi": "vùng New England, đông bắc nước Mỹ (giáp Canada)"
   },
-  "New": {
-   "vi": "vùng New England, đông bắc nước Mỹ (giáp Canada)",
-   "full": "New England"
-  },
-  "England": {
-   "vi": "vùng New England, đông bắc nước Mỹ (giáp Canada)",
-   "full": "New England"
-  },
-  "Whatcom": {
-   "vi": "hạt Whatcom, bang Washington, giáp biên giới Canada",
-   "full": "Whatcom County"
-  },
-  "County": {
-   "vi": "hạt Whatcom, bang Washington, giáp biên giới Canada",
-   "full": "Whatcom County"
+  "Whatcom County": {
+   "vi": "hạt Whatcom, bang Washington, giáp biên giới Canada"
   },
   "Washington": {
    "vi": "bang Washington, tây bắc nước Mỹ (không phải thủ đô)"
@@ -2752,27 +2770,20 @@
   "Hawaii": {
    "vi": "bang Hawaii, quần đảo giữa Thái Bình Dương"
   },
-  "Corporate": {
-   "vi": "công ty dịch vụ đặt vé công tác cho doanh nghiệp ở Canada",
-   "full": "Corporate Traveller Canada"
+  "Corporate Traveller Canada": {
+   "vi": "công ty dịch vụ đặt vé công tác cho doanh nghiệp ở Canada"
   },
-  "Traveller": {
-   "vi": "công ty dịch vụ đặt vé công tác cho doanh nghiệp ở Canada",
-   "full": "Corporate Traveller Canada"
-  },
-  "Flight": {
-   "vi": "công ty du lịch, đặt vé máy bay ở Canada",
-   "full": "Flight Centre Canada"
-  },
-  "Centre": {
-   "vi": "công ty du lịch, đặt vé máy bay ở Canada",
-   "full": "Flight Centre Canada"
+  "Flight Centre Canada": {
+   "vi": "công ty du lịch, đặt vé máy bay ở Canada"
   },
   "FlightHub": {
    "vi": "trang web đặt vé máy bay của Canada"
   },
   "Leger": {
    "vi": "công ty khảo sát ý kiến của Canada"
+  },
+  "Canada": {
+   "vi": "Canada"
   }
  }
 }

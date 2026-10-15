@@ -93,10 +93,12 @@
     [
      {
       "w": "Ross",
+      "n": "Ross Stores",
       "k": "name"
      },
      {
       "w": "Stores",
+      "n": "Ross Stores",
       "k": "name"
      },
      {
@@ -142,10 +144,12 @@
     [
      {
       "w": "Ross",
+      "n": "Ross Stores",
       "k": "name"
      },
      {
       "w": "Stores",
+      "n": "Ross Stores",
       "k": "name"
      },
      {
@@ -222,6 +226,7 @@
      },
      {
       "w": "American",
+      "n": "American",
       "k": "name"
      },
      {
@@ -509,6 +514,7 @@
     [
      {
       "w": "Ross",
+      "n": "Ross",
       "k": "name"
      },
      {
@@ -676,6 +682,7 @@
     [
      {
       "w": "Ross",
+      "n": "Ross",
       "k": "name"
      },
      {
@@ -784,6 +791,7 @@
     [
      {
       "w": "Ross",
+      "n": "Ross",
       "k": "name"
      },
      {
@@ -798,18 +806,22 @@
      },
      {
       "w": "Ross",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Dress",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "for",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Less",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
@@ -830,14 +842,17 @@
      {
       "w": "dd",
       "nsp": 1,
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
       "w": "'s",
+      "n": "dd's Discounts",
       "k": "plain"
      },
      {
       "w": "Discounts",
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
@@ -1040,18 +1055,22 @@
     [
      {
       "w": "Ross",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Dress",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "for",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Less",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
@@ -1082,6 +1101,7 @@
      {
       "w": "Massachusetts",
       "nsp": 1,
+      "n": "Massachusetts",
       "k": "name"
      },
      {
@@ -1162,10 +1182,12 @@
      },
      {
       "w": "New",
+      "n": "New York",
       "k": "name"
      },
      {
       "w": "York",
+      "n": "New York",
       "k": "name"
      },
      {
@@ -1228,14 +1250,17 @@
      {
       "w": "dd",
       "nsp": 1,
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
       "w": "'s",
+      "n": "dd's Discounts",
       "k": "plain"
      },
      {
       "w": "Discounts",
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
@@ -1276,6 +1301,7 @@
      {
       "w": "California",
       "nsp": 1,
+      "n": "California",
       "k": "name"
      },
      {
@@ -1284,6 +1310,7 @@
      },
      {
       "w": "Florida",
+      "n": "Florida",
       "k": "name"
      },
      {
@@ -1294,6 +1321,7 @@
      {
       "w": "Texas",
       "nsp": 1,
+      "n": "Texas",
       "k": "name"
      },
      {
@@ -1309,11 +1337,13 @@
     [
      {
       "w": "Richard",
+      "n": "Richard Lietz",
       "k": "name"
      },
      {
       "w": "Lietz",
       "nsp": 1,
+      "n": "Richard Lietz",
       "k": "name"
      },
      {
@@ -1348,6 +1378,7 @@
      {
       "w": "Ross",
       "nsp": 1,
+      "n": "Ross",
       "k": "name"
      },
      {
@@ -1634,18 +1665,22 @@
      },
      {
       "w": "Boys",
+      "n": "Boys & Girls Clubs",
       "k": "name"
      },
      {
       "w": "&",
+      "n": "Boys & Girls Clubs",
       "k": "plain"
      },
      {
       "w": "Girls",
+      "n": "Boys & Girls Clubs",
       "k": "name"
      },
      {
       "w": "Clubs",
+      "n": "Boys & Girls Clubs",
       "k": "name"
      },
      {
@@ -1675,11 +1710,13 @@
      },
      {
       "w": "First",
+      "n": "First Book",
       "k": "name"
      },
      {
       "w": "Book",
       "nsp": 1,
+      "n": "First Book",
       "k": "name"
      },
      {
@@ -1782,18 +1819,22 @@
      },
      {
       "w": "Ross",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Dress",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "for",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Less",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
@@ -1804,14 +1845,17 @@
      {
       "w": "dd",
       "nsp": 1,
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
       "w": "'s",
+      "n": "dd's Discounts",
       "k": "plain"
      },
      {
       "w": "Discounts",
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
@@ -1901,15 +1945,18 @@
      },
      {
       "w": "District",
+      "n": "District of Columbia",
       "k": "name"
      },
      {
       "w": "of",
+      "n": "District of Columbia",
       "k": "name"
      },
      {
       "w": "Columbia",
       "nsp": 1,
+      "n": "District of Columbia",
       "k": "name"
      },
      {
@@ -1918,6 +1965,7 @@
      },
      {
       "w": "Guam",
+      "n": "Guam",
       "k": "name"
      },
      {
@@ -1927,11 +1975,13 @@
      },
      {
       "w": "Puerto",
+      "n": "Puerto Rico",
       "k": "name"
      },
      {
       "w": "Rico",
       "nsp": 1,
+      "n": "Puerto Rico",
       "k": "name"
      },
      {
@@ -2014,6 +2064,7 @@
      },
      {
       "w": "Ross",
+      "n": "Ross",
       "k": "name"
      },
      {
@@ -2132,18 +2183,22 @@
      },
      {
       "w": "Ross",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Dress",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "for",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
       "w": "Less",
+      "n": "Ross Dress for Less",
       "k": "name"
      },
      {
@@ -2164,14 +2219,17 @@
      {
       "w": "dd",
       "nsp": 1,
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
       "w": "'s",
+      "n": "dd's Discounts",
       "k": "plain"
      },
      {
       "w": "Discounts",
+      "n": "dd's Discounts",
       "k": "name"
      },
      {
@@ -2412,6 +2470,7 @@
      },
      {
       "w": "Ross",
+      "n": "Ross",
       "k": "name"
      },
      {
@@ -2468,710 +2527,25 @@
    ]
   }
  ],
- "dict": {
-  "finish": {
-   "ipa": "ˈfɪnɪʃ",
-   "pos": "v",
-   "en": "to come to the end of something",
-   "vi": "hoàn thành, kết thúc",
-   "band": 1
-  },
-  "its": {
-   "ipa": "ɪts",
-   "pos": "pron",
-   "en": "belonging to it",
-   "vi": "của nó",
-   "band": 1
-  },
-  "plan": {
-   "ipa": "plæn",
-   "pos": "n",
-   "en": "something you have decided to do in the future",
-   "vi": "kế hoạch",
-   "band": 1
-  },
-  "new": {
-   "ipa": "nu",
-   "pos": "adj",
-   "en": "not there before; just made or started",
-   "vi": "mới",
-   "band": 1
-  },
-  "reach": {
-   "ipa": "ritʃ",
-   "pos": "v",
-   "en": "to get to a place, level or number",
-   "vi": "đạt tới, đến",
-   "band": 1
-  },
-  "store": {
-   "ipa": "stɔr",
-   "pos": "n",
-   "en": "a shop",
-   "vi": "cửa hàng",
-   "band": 1
-  },
-  "this": {
-   "ipa": "ðɪs",
-   "pos": "det",
-   "en": "used for a thing that is near or now",
-   "vi": "này",
-   "band": 1
-  },
-  "company": {
-   "ipa": "ˈkʌmpəˌni",
-   "pos": "n",
-   "en": "a business that makes or sells things",
-   "vi": "công ty",
-   "band": 1
-  },
-  "october": {
-   "ipa": "ɑkˈtoʊbɚ",
-   "pos": "n",
-   "en": "month number 10 of the year",
-   "vi": "tháng Mười",
-   "band": 1
-  },
-  "with": {
-   "ipa": "wɪð",
-   "pos": "prep",
-   "en": "together with; because of",
-   "vi": "với, cùng với",
-   "band": 1
-  },
-  "these": {
-   "ipa": "ðiz",
-   "pos": "det",
-   "en": "used for things that are near or just talked about",
-   "vi": "những … này",
-   "band": 1
-  },
-  "opening": {
-   "ipa": "ˈoʊpənɪŋ",
-   "pos": "n",
-   "en": "the start of a new shop or business",
-   "vi": "sự khai trương",
-   "band": 1
-  },
-  "total": {
-   "ipa": "ˈtoʊtəl",
-   "pos": "n",
-   "en": "the number you get when you add everything",
-   "vi": "tổng số",
-   "band": 1
-  },
-  "fiscal": {
-   "ipa": "ˈfɪskəl",
-   "pos": "adj",
-   "en": "about money and accounts, for a business or government",
-   "vi": "(thuộc) tài chính; fiscal year = năm tài chính",
-   "band": 4
-  },
-  "twelve": {
-   "ipa": "twɛlv",
-   "pos": "num",
-   "en": "the number 12",
-   "vi": "mười hai",
-   "band": 3
-  },
-  "use": {
-   "ipa": "jus",
-   "pos": "v",
-   "en": "to do something with a thing for a purpose",
-   "vi": "dùng, sử dụng",
-   "band": 1
-  },
-  "account": {
-   "ipa": "əˈkaʊnt",
-   "pos": "n",
-   "en": "a record of money in and money out",
-   "vi": "sổ sách kế toán",
-   "band": 1
-  },
-  "mark": {
-   "ipa": "mɑrk",
-   "pos": "v",
-   "en": "to show that something has happened",
-   "vi": "đánh dấu",
-   "band": 1
-  },
-  "completion": {
-   "ipa": "kəmˈpliʃən",
-   "pos": "n",
-   "en": "the act of finishing something",
-   "vi": "sự hoàn thành",
-   "band": 4
-  },
-  "off-price": {
-   "ipa": "ˈɔfˌpraɪs",
-   "pos": "adj",
-   "en": "selling brand goods at lower prices than usual",
-   "vi": "(bán lẻ) giá chiết khấu, hàng hiệu giá rẻ"
-  },
-  "retailer": {
-   "ipa": "ˈriˌteɪlɚ",
-   "pos": "n",
-   "en": "a business that sells goods to the public",
-   "vi": "nhà bán lẻ",
-   "band": 6
-  },
-  "mean": {
-   "ipa": "min",
-   "pos": "v",
-   "en": "to have a certain meaning",
-   "vi": "có nghĩa là",
-   "band": 1
-  },
-  "sell": {
-   "ipa": "sɛl",
-   "pos": "v",
-   "en": "to give something to someone for money",
-   "vi": "bán",
-   "band": 1
-  },
-  "product": {
-   "ipa": "ˈprɑdəkt",
-   "pos": "n",
-   "en": "a thing that is made to be sold",
-   "vi": "sản phẩm",
-   "band": 1
-  },
-  "famous": {
-   "ipa": "ˈfeɪməs",
-   "pos": "adj",
-   "en": "known by many people",
-   "vi": "nổi tiếng",
-   "band": 2
-  },
-  "brand": {
-   "ipa": "brænd",
-   "pos": "n",
-   "en": "the name of a product made by a company",
-   "vi": "thương hiệu",
-   "band": 2
-  },
-  "buyer": {
-   "ipa": "ˈbaɪɚ",
-   "pos": "n",
-   "en": "a person who buys something",
-   "vi": "người mua",
-   "band": 4
-  },
-  "continue": {
-   "ipa": "kənˈtɪnju",
-   "pos": "v",
-   "en": "to keep doing something",
-   "vi": "tiếp tục",
-   "band": 1
-  },
-  "look for": {
-   "ipa": "lʊk fɔr",
-   "pos": "phr",
-   "en": "to try to find something",
-   "vi": "tìm, tìm kiếm",
-   "band": 1
-  },
-  "brand-name": {
-   "ipa": "ˈbrændˌneɪm",
-   "pos": "adj",
-   "en": "made by a famous company",
-   "vi": "(hàng) có thương hiệu"
-  },
-  "want": {
-   "ipa": "wɑnt",
-   "pos": "v",
-   "en": "to wish to have or do something",
-   "vi": "muốn",
-   "band": 1
-  },
-  "give": {
-   "ipa": "ɡɪv",
-   "pos": "v",
-   "en": "to let someone have something",
-   "vi": "cho, đưa",
-   "band": 1
-  },
-  "affordable": {
-   "ipa": "əˈfɔrdəbəl",
-   "pos": "adj",
-   "en": "cheap enough for people to buy",
-   "vi": "giá phải chăng, vừa túi tiền",
-   "band": 4
-  },
-  "choice": {
-   "ipa": "tʃɔɪs",
-   "pos": "n",
-   "en": "a thing you can pick from several things",
-   "vi": "lựa chọn",
-   "band": 1
-  },
-  "under": {
-   "ipa": "ˈʌndɚ",
-   "pos": "prep",
-   "en": "using a certain name; below",
-   "vi": "dưới (tên gọi)",
-   "band": 1
-  },
-  "name": {
-   "ipa": "neɪm",
-   "pos": "n",
-   "en": "the word used for a person, place or thing",
-   "vi": "tên",
-   "band": 1
-  },
-  "add": {
-   "ipa": "æd",
-   "pos": "v",
-   "en": "to put something more with what is already there",
-   "vi": "thêm",
-   "band": 1
-  },
-  "spread": {
-   "ipa": "sprɛd",
-   "pos": "v",
-   "en": "to be in many places across an area",
-   "vi": "trải rộng",
-   "band": 2
-  },
-  "state": {
-   "ipa": "steɪt",
-   "pos": "n",
-   "en": "one of the parts of a country like the United States",
-   "vi": "bang",
-   "band": 1
-  },
-  "show": {
-   "ipa": "ʃoʊ",
-   "pos": "v",
-   "en": "to make something clear",
-   "vi": "cho thấy",
-   "band": 1
-  },
-  "pace": {
-   "ipa": "peɪs",
-   "pos": "n",
-   "en": "the speed at which something happens",
-   "vi": "nhịp độ, tốc độ",
-   "band": 3
-  },
-  "some": {
-   "ipa": "sʌm",
-   "pos": "pron",
-   "en": "a number of; not all",
-   "vi": "một số",
-   "band": 1
-  },
-  "take": {
-   "ipa": "teɪk",
-   "pos": "v",
-   "en": "to move someone or something to a place",
-   "vi": "đưa (đến)",
-   "band": 1
-  },
-  "first": {
-   "ipa": "fɝst",
-   "pos": "adj",
-   "en": "coming before all others",
-   "vi": "đầu tiên",
-   "band": 1
-  },
-  "furthermore": {
-   "ipa": "ˈfɝðɚˌmɔr",
-   "pos": "adv",
-   "en": "also; used to add more information",
-   "vi": "hơn nữa, ngoài ra",
-   "band": 4
-  },
-  "other": {
-   "ipa": "ˈʌðɚ",
-   "pos": "adj",
-   "en": "more of the same kind; not this one",
-   "vi": "khác",
-   "band": 1
-  },
-  "market": {
-   "ipa": "ˈmɑrkət",
-   "pos": "n",
-   "en": "a place or area where things are sold",
-   "vi": "thị trường",
-   "band": 1
-  },
-  "where": {
-   "ipa": "wɛr",
-   "pos": "conj",
-   "en": "in which place",
-   "vi": "nơi mà",
-   "band": 1
-  },
-  "already": {
-   "ipa": "ɔlˈrɛdi",
-   "pos": "adv",
-   "en": "before now",
-   "vi": "đã … rồi",
-   "band": 1
-  },
-  "work": {
-   "ipa": "wɝk",
-   "pos": "v",
-   "en": "to do business in a place",
-   "vi": "hoạt động, làm việc",
-   "band": 1
-  },
-  "meanwhile": {
-   "ipa": "ˈminˌwaɪl",
-   "pos": "adv",
-   "en": "at the same time",
-   "vi": "trong khi đó",
-   "band": 3
-  },
-  "keep": {
-   "ipa": "kip",
-   "pos": "v",
-   "en": "to continue doing something",
-   "vi": "tiếp tục, giữ",
-   "band": 1
-  },
-  "core": {
-   "ipa": "kɔr",
-   "pos": "adj",
-   "en": "main and most important",
-   "vi": "cốt lõi, chính",
-   "band": 2
-  },
-  "executive": {
-   "ipa": "ɪɡˈzɛkjətɪv",
-   "pos": "adj",
-   "en": "having power to run a company",
-   "vi": "điều hành",
-   "band": 2
-  },
-  "vice": {
-   "ipa": "vaɪs",
-   "pos": "n",
-   "en": "(vice president) the person next below the president",
-   "vi": "phó",
-   "band": 2
-  },
-  "president": {
-   "ipa": "ˈprɛzəˌdɛnt",
-   "pos": "n",
-   "en": "the leader of a company or country",
-   "vi": "chủ tịch, tổng thống",
-   "band": 1
-  },
-  "speak": {
-   "ipa": "spik",
-   "pos": "v",
-   "en": "to say words",
-   "vi": "nói, phát biểu",
-   "band": 1
-  },
-  "he": {
-   "ipa": "hi",
-   "pos": "pron",
-   "en": "a man or boy already talked about",
-   "vi": "anh ấy, ông ấy",
-   "band": 1
-  },
-  "let": {
-   "ipa": "lɛt",
-   "pos": "v",
-   "en": "to make it possible for someone to do something",
-   "vi": "cho phép, giúp (làm gì)",
-   "band": 1
-  },
-  "bring": {
-   "ipa": "brɪŋ",
-   "pos": "v",
-   "en": "to take something to someone",
-   "vi": "mang lại",
-   "band": 1
-  },
-  "value": {
-   "ipa": "ˈvælju",
-   "pos": "n",
-   "en": "how good something is for the money you pay",
-   "vi": "giá trị",
-   "band": 1
-  },
-  "customer": {
-   "ipa": "ˈkʌstəmɚ",
-   "pos": "n",
-   "en": "a person who buys from a shop or business",
-   "vi": "khách hàng",
-   "band": 2
-  },
-  "create": {
-   "ipa": "kriˈeɪt",
-   "pos": "v",
-   "en": "to make something new",
-   "vi": "tạo ra",
-   "band": 1
-  },
-  "job": {
-   "ipa": "dʒɑb",
-   "pos": "n",
-   "en": "work you do to earn money",
-   "vi": "việc làm",
-   "band": 1
-  },
-  "positive": {
-   "ipa": "ˈpɑzətɪv",
-   "pos": "adj",
-   "en": "good or helpful",
-   "vi": "tích cực",
-   "band": 1
-  },
-  "effect": {
-   "ipa": "ɪˈfɛkt",
-   "pos": "n",
-   "en": "a change that something causes",
-   "vi": "tác động, ảnh hưởng",
-   "band": 1
-  },
-  "local": {
-   "ipa": "ˈloʊkəl",
-   "pos": "adj",
-   "en": "of the area where you live",
-   "vi": "địa phương",
-   "band": 1
-  },
-  "community": {
-   "ipa": "kəˈmjunəti",
-   "pos": "n",
-   "en": "the people living in one place",
-   "vi": "cộng đồng",
-   "band": 1
-  },
-  "involvement": {
-   "ipa": "ˌɪnˈvɑlvmənt",
-   "pos": "n",
-   "en": "taking part in something",
-   "vi": "sự tham gia, gắn bó",
-   "band": 4
-  },
-  "those": {
-   "ipa": "ðoʊz",
-   "pos": "det",
-   "en": "used for things or people already talked about",
-   "vi": "những … đó",
-   "band": 1
-  },
-  "support": {
-   "ipa": "səˈpɔrt",
-   "pos": "n",
-   "en": "help that you give",
-   "vi": "sự hỗ trợ",
-   "band": 1
-  },
-  "read": {
-   "ipa": "rɛd",
-   "pos": "v",
-   "en": "to look at words and understand them",
-   "vi": "đọc",
-   "band": 1
-  },
-  "program": {
-   "ipa": "ˈproʊˌɡræm",
-   "pos": "n",
-   "en": "a plan of activities to help people",
-   "vi": "chương trình",
-   "band": 1
-  },
-  "much": {
-   "ipa": "mʌtʃ",
-   "pos": "adj",
-   "en": "a large amount of",
-   "vi": "nhiều",
-   "band": 1
-  },
-  "cost": {
-   "ipa": "kɑst",
-   "pos": "n",
-   "en": "the money you need to pay for something",
-   "vi": "chi phí",
-   "band": 1
-  },
-  "together": {
-   "ipa": "təˈɡɛðɚ",
-   "pos": "adv",
-   "en": "with each other; as one group",
-   "vi": "cùng nhau, tổng cộng",
-   "band": 1
-  },
-  "as well as": {
-   "ipa": "æz wɛl æz",
-   "pos": "phr",
-   "en": "and also",
-   "vi": "cũng như, và cả",
-   "band": 1
-  },
-  "considerable": {
-   "ipa": "kənˈsɪdɚəbəl",
-   "pos": "adj",
-   "en": "large in size or amount",
-   "vi": "đáng kể",
-   "band": 4
-  },
-  "one": {
-   "ipa": "wʌn",
-   "pos": "num",
-   "en": "the number 1",
-   "vi": "một",
-   "band": 1
-  },
-  "moreover": {
-   "ipa": "mɔˈroʊvɚ",
-   "pos": "adv",
-   "en": "also; and more important",
-   "vi": "hơn nữa",
-   "band": 4
-  },
-  "believe": {
-   "ipa": "bɪˈliv",
-   "pos": "v",
-   "en": "to think that something is true",
-   "vi": "tin rằng",
-   "band": 1
-  },
-  "can": {
-   "ipa": "kæn",
-   "pos": "aux",
-   "en": "to be able to",
-   "vi": "có thể",
-   "band": 1
-  },
-  "large": {
-   "ipa": "lɑrdʒ",
-   "pos": "adj",
-   "en": "big",
-   "vi": "lớn",
-   "band": 1
-  },
-  "pursue": {
-   "ipa": "pɚˈsu",
-   "pos": "v",
-   "en": "to try to do or get something over time",
-   "vi": "theo đuổi",
-   "band": 4
-  },
-  "aim": {
-   "ipa": "eɪm",
-   "pos": "v",
-   "en": "to plan to do or get something",
-   "vi": "nhắm tới, đặt mục tiêu",
-   "band": 3
-  },
-  "at least": {
-   "ipa": "æt list",
-   "pos": "phr",
-   "en": "not less than",
-   "vi": "ít nhất",
-   "band": 1
-  },
-  "day": {
-   "ipa": "deɪ",
-   "pos": "n",
-   "en": "a time of 24 hours; (one day) in the future",
-   "vi": "ngày; (one day) một ngày nào đó",
-   "band": 1
-  },
-  "date": {
-   "ipa": "deɪt",
-   "pos": "n",
-   "en": "a day of a month or year",
-   "vi": "ngày (tháng năm)",
-   "band": 1
-  },
-  "which": {
-   "ipa": "wɪtʃ",
-   "pos": "pron",
-   "en": "used to say what thing",
-   "vi": "cái mà, nào",
-   "band": 1
-  },
-  "will": {
-   "ipa": "wɪl",
-   "pos": "aux",
-   "en": "used to talk about the future",
-   "vi": "sẽ",
-   "band": 1
-  },
-  "goal": {
-   "ipa": "ɡoʊl",
-   "pos": "n",
-   "en": "something you want to do or get",
-   "vi": "mục tiêu",
-   "band": 1
-  },
-  "next": {
-   "ipa": "nɛkst",
-   "pos": "adj",
-   "en": "coming right after this one",
-   "vi": "tiếp theo, tới",
-   "band": 1
-  },
-  "now": {
-   "ipa": "naʊ",
-   "pos": "adv",
-   "en": "at this time",
-   "vi": "bây giờ",
-   "band": 1
-  },
-  "shopping": {
-   "ipa": "ˈʃɑpɪŋ",
-   "pos": "n",
-   "en": "buying things in shops",
-   "vi": "việc mua sắm",
-   "band": 2
-  },
-  "before": {
-   "ipa": "bɪˈfɔr",
-   "pos": "adv",
-   "en": "at an earlier time",
-   "vi": "trước đây",
-   "band": 1
-  }
- },
+ "dict": {},
  "names": {
+  "Ross Stores": {
+   "vi": "chuỗi bán lẻ giảm giá của Mỹ (off-price)"
+  },
   "Ross": {
-   "vi": "chuỗi bán lẻ giảm giá của Mỹ (off-price)",
-   "full": "Ross Stores"
+   "vi": "Ross Stores, chuỗi bán lẻ giảm giá của Mỹ"
   },
-  "Stores": {
-   "vi": "chuỗi bán lẻ giảm giá của Mỹ (off-price)",
-   "full": "Ross Stores"
+  "Ross Dress for Less": {
+   "vi": "thương hiệu cửa hàng chính của Ross Stores"
   },
-  "Dress": {
-   "vi": "thương hiệu cửa hàng chính của Ross Stores",
-   "full": "Ross Dress for Less"
-  },
-  "for": {
-   "vi": "thương hiệu cửa hàng chính của Ross Stores",
-   "full": "Ross Dress for Less"
-  },
-  "Less": {
-   "vi": "thương hiệu cửa hàng chính của Ross Stores",
-   "full": "Ross Dress for Less"
-  },
-  "dd": {
-   "vi": "chuỗi cửa hàng giá rẻ hơn nữa, cũng thuộc Ross Stores",
-   "full": "dd's Discounts"
-  },
-  "Discounts": {
-   "vi": "chuỗi cửa hàng giá rẻ hơn nữa, cũng thuộc Ross Stores",
-   "full": "dd's Discounts"
+  "dd's Discounts": {
+   "vi": "chuỗi cửa hàng giá rẻ hơn nữa, cũng thuộc Ross Stores"
   },
   "Massachusetts": {
    "vi": "bang Massachusetts, đông bắc nước Mỹ"
   },
-  "New": {
-   "vi": "bang New York, đông bắc nước Mỹ",
-   "full": "New York"
-  },
-  "York": {
-   "vi": "bang New York, đông bắc nước Mỹ",
-   "full": "New York"
+  "New York": {
+   "vi": "bang New York, đông bắc nước Mỹ"
   },
   "California": {
    "vi": "bang California, tây nước Mỹ"
@@ -3182,56 +2556,23 @@
   "Texas": {
    "vi": "bang Texas, nam nước Mỹ"
   },
-  "Richard": {
-   "vi": "phó chủ tịch điều hành phụ trách phát triển mặt bằng của Ross",
-   "full": "Richard Lietz"
+  "Richard Lietz": {
+   "vi": "phó chủ tịch điều hành phụ trách phát triển mặt bằng của Ross"
   },
-  "Lietz": {
-   "vi": "phó chủ tịch điều hành phụ trách phát triển mặt bằng của Ross",
-   "full": "Richard Lietz"
+  "Boys & Girls Clubs": {
+   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ"
   },
-  "Boys": {
-   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ",
-   "full": "Boys & Girls Clubs"
+  "First Book": {
+   "vi": "tổ chức phi lợi nhuận về sách và đọc sách cho trẻ em"
   },
-  "Girls": {
-   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ",
-   "full": "Boys & Girls Clubs"
-  },
-  "Clubs": {
-   "vi": "tổ chức câu lạc bộ thiếu nhi phi lợi nhuận ở Mỹ",
-   "full": "Boys & Girls Clubs"
-  },
-  "First": {
-   "vi": "tổ chức phi lợi nhuận về sách và đọc sách cho trẻ em",
-   "full": "First Book"
-  },
-  "Book": {
-   "vi": "tổ chức phi lợi nhuận về sách và đọc sách cho trẻ em",
-   "full": "First Book"
-  },
-  "District": {
-   "vi": "Đặc khu Columbia — thủ đô Washington, D.C.",
-   "full": "District of Columbia"
-  },
-  "of": {
-   "vi": "Đặc khu Columbia — thủ đô Washington, D.C.",
-   "full": "District of Columbia"
-  },
-  "Columbia": {
-   "vi": "Đặc khu Columbia — thủ đô Washington, D.C.",
-   "full": "District of Columbia"
+  "District of Columbia": {
+   "vi": "Đặc khu Columbia — thủ đô Washington, D.C."
   },
   "Guam": {
    "vi": "đảo Guam, lãnh thổ của Mỹ ở Thái Bình Dương"
   },
-  "Puerto": {
-   "vi": "Puerto Rico, lãnh thổ của Mỹ ở vùng biển Caribe",
-   "full": "Puerto Rico"
-  },
-  "Rico": {
-   "vi": "Puerto Rico, lãnh thổ của Mỹ ở vùng biển Caribe",
-   "full": "Puerto Rico"
+  "Puerto Rico": {
+   "vi": "Puerto Rico, lãnh thổ của Mỹ ở vùng biển Caribe"
   },
   "American": {
    "vi": "thuộc về Mỹ"

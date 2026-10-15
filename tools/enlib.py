@@ -257,6 +257,10 @@ def tokenize_text(text: str, phrases: list[dict], names, wordlist=None):
             d = {"w": t.text}
             if not t.whitespace_ and t.i != sent.end - 1:
                 d["nsp"] = 1
+            if in_name[idx]:
+                # the occurrence carries its full name: "Canada" in "Statistics
+                # Canada" points to that name, a lone "Canada" to "Canada"
+                d["n"] = in_name[idx]
             if _is_lexical(t):
                 if in_name[idx] or (t.pos_ == "PROPN" and t.text[0].isupper()
                                     and (wordlist is None or t.text.lower() not in wordlist)):
@@ -273,21 +277,26 @@ def tokenize_text(text: str, phrases: list[dict], names, wordlist=None):
     return sents
 
 
-def _name_sequences(names) -> list[list[str]]:
-    """Token sequences of the draft's names, longest first ("dd's Discounts" ->
-    ["dd", "'s", "Discounts"], tokenized exactly as the text will be)."""
-    seqs = {tuple(t.text for t in nlp().tokenizer(n)) for n in names if n.strip()}
-    return sorted((list(s) for s in seqs), key=len, reverse=True)
+def _name_sequences(names) -> list[tuple[list[str], str]]:
+    """(token sequence, full name) for the draft's names, longest first
+    ("dd's Discounts" -> ["dd", "'s", "Discounts"], tokenized exactly as the
+    text will be)."""
+    seqs = {}
+    for n in names:
+        if n.strip():
+            seqs.setdefault(tuple(t.text for t in nlp().tokenizer(n)), n)
+    return sorted(((list(k), v) for k, v in seqs.items()), key=lambda x: len(x[0]), reverse=True)
 
 
-def _mark_names(words: list[str], seqs: list[list[str]]) -> list[bool]:
-    marked = [False] * len(words)
-    for seq in seqs:
+def _mark_names(words: list[str], seqs) -> list[str | None]:
+    """For each word, the full name it belongs to (longest match wins), else None."""
+    marked: list[str | None] = [None] * len(words)
+    for seq, full in seqs:
         n = len(seq)
         for i in range(len(words) - n + 1):
             if words[i:i + n] == seq and not any(marked[i:i + n]):
                 for k in range(i, i + n):
-                    marked[k] = True
+                    marked[k] = full
     return marked
 
 
