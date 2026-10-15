@@ -14,7 +14,7 @@ Trung (`david-fn-adv/Chinese`), không dùng chung mã.
 |---|---|
 | Phase 1 — bài kiểm tra vốn từ | xong: `test/index.html`, `data/bands.json`, `tools/seed_known.py` |
 | Phase 2 — khung reader + 1 bài mẫu | xong, đã duyệt 2026-10-15 |
-| Phase 3 — pipeline hằng ngày | công cụ xong, `selftest.py` PASS; **chờ Dương soát bài thật đầu tiên rồi mới bật lịch** |
+| Phase 3 — pipeline hằng ngày | xong; bài thật đầu tiên (2026-10-15) Dương đã soát số liệu; **chưa bật lịch** |
 
 ## Dùng
 
