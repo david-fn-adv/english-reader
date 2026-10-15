@@ -23,6 +23,8 @@ Trung (`david-fn-adv/Chinese`), không dùng chung mã.
 2. **Gieo tập từ đã biết:**
    ```bash
    python tools/seed_known.py ~/Downloads/vocab-test-2026-10-20.json
+   # ghi đè ngưỡng (quyết định của người, không phải của pipeline):
+   # python tools/seed_known.py RESULT.json --threshold 3 --reason "…"
    python tools/patch_app.py news/2026-10-14.json     # nhúng lại known vào index.html
    ```
 3. **Đọc:** mở `index.html`. Bấm từ nào cũng mở thẻ tra; ▶ cạnh mỗi đoạn để nghe.
@@ -31,8 +33,11 @@ Trung (`david-fn-adv/Chinese`), không dùng chung mã.
    python tools/seed_known.py --merge known/known-export-2026-11-02.json
    ```
 
-> Hiện `known/known.json` là **bản tạm** (giả định đã vững mức 1–3, đang học mức 4,
-> như ví dụ trong spec) để dựng bài mẫu. Bước 2 ở trên sẽ thay nó bằng kết quả thật.
+> **Tập từ hiện tại** (`known/known.json`) gieo từ bài kiểm tra của Nhung ngày 2026-10-15
+> (`known/history/vocab-test-2026-10-15.json`): ước lượng ≈ 5.250 từ, bấm nhầm từ giả 3%.
+> Quy tắc của test cho ngưỡng 1 — mức 2 và 3 đạt 13/16, thiếu đúng một từ mỗi mức để chạm
+> 80% — nên Dương quyết định **ghi đè ngưỡng = 3, frontier = 4** (`--threshold 3`). Giá trị gốc
+> của test và lý do nằm trong `known.json` → `threshold_override`.
 
 ## Cài đặt
 
@@ -94,8 +99,9 @@ học (data → datum) và được dùng chung khi dựng mức và khi tách t
 - `source.author`, `source.title`, `source.accessed`.
 - payload có thêm `known` (tập đã biết gốc, cần để app tính trạng thái mặc định và xuất
   known.json) và `meta.band_size` / `meta.band_known` cho biểu đồ Tiến độ.
-- `known.json` có thêm `history` (vẽ biểu đồ vốn từ) và `app_known` (từ đánh dấu Đã biết
-  trong app — được giữ lại khi làm lại bài kiểm tra).
+- `known.json` có thêm `history` (vẽ biểu đồ vốn từ), `app_known` (từ đánh dấu Đã biết
+  trong app — được giữ lại khi làm lại bài kiểm tra) và `threshold_override` (khi người
+  quyết định khác ngưỡng của test).
 
 **Từ điển phủ mọi từ, không chỉ từ mới.** Spec §3.8 yêu cầu mọi token mở ra thẻ có nội dung,
 nên bài mẫu có mục cho cả từ đã biết. §4.5 thì chỉ sinh mục cho từ `core` và cụm từ. Ở Phase 3

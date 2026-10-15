@@ -2,6 +2,7 @@
 
     python tools/seed_known.py path/to/vocab-test-YYYY-MM-DD.json     # seed from a test
     python tools/seed_known.py --merge path/to/known-export.json      # merge an app export
+    python tools/seed_known.py RESULT.json --threshold 3 --reason "…"  # human override
 
 Seed (spec §2.5):
   known            = every lemma in bands <= threshold_band
@@ -20,6 +21,11 @@ Merge (app "Export known.json"):
                        the lemma is in a known band
   Lists are de-duplicated and sorted, so merging the same export twice gives
   the same file.
+
+--threshold overrides the test's threshold_band (frontier = threshold + 1).
+It is a human decision, never a pipeline one: --reason is required and both
+the test's value and the reason are kept in known.json as `threshold_override`.
+The result file in known/history/ is left exactly as the test produced it.
 
 Both modes append to `history` ([{date, size, source}], one row per source),
 which the Tiến độ tab draws.
@@ -48,12 +54,12 @@ def _finish(obj: dict) -> dict:
     return obj
 
 
-def seed(result_path: Path) -> dict:
+def seed(result_path: Path, threshold: int | None = None, reason: str | None = None) -> dict:
     res = load_json(result_path)
     bands = load_bands()
     items = {it["id"]: it for it in load_json(
         KNOWN.parent / "test" / f"items.{res['version']}.json")["items"]}
-    thr = int(res["threshold_band"])
+    thr = int(res["threshold_band"]) if threshold is None else threshold
     known = [l for l, b in bands.items() if b <= thr]
     extra, unk = set(), set()
     for r in res["responses"]:
@@ -83,12 +89,19 @@ def seed(result_path: Path) -> dict:
         "updated": res["date"],
         "source": name,
         "threshold_band": thr,
-        "frontier_band": int(res["frontier_band"]),
+        "frontier_band": int(res["frontier_band"]) if threshold is None else thr + 1,
         "known": known,
         "known_extra": list(extra),
         "unknown_in_known": list(unk),
         "app_known": sorted(set((prev or {}).get("app_known", []))),
     })
+    if threshold is not None:
+        out["threshold_override"] = {
+            "test_threshold_band": int(res["threshold_band"]),
+            "test_frontier_band": int(res["frontier_band"]),
+            "used_threshold_band": thr,
+            "reason": reason,
+        }
     out["history"] = _history(prev, res["date"], len(effective_known(out)), name)
     return out
 
@@ -132,8 +145,12 @@ def main() -> int:
     ap.add_argument("path", type=Path)
     ap.add_argument("--merge", action="store_true", help="merge an app export")
     ap.add_argument("--out", type=Path, default=KNOWN_FILE)
+    ap.add_argument("--threshold", type=int, help="override the test's threshold band")
+    ap.add_argument("--reason", help="why the threshold is overridden (required with --threshold)")
     a = ap.parse_args()
-    out = merge(a.path) if a.merge else seed(a.path)
+    if a.threshold is not None and (a.merge or not a.reason):
+        ap.error("--threshold needs --reason and cannot be used with --merge")
+    out = merge(a.path) if a.merge else seed(a.path, a.threshold, a.reason)
     dump_json(out, a.out)
     eff = effective_known(out)
     print(f"{a.out}: threshold {out['threshold_band']}, frontier {out['frontier_band']}, "

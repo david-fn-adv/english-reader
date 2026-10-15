@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-14",
- "source": "placeholder — chưa có kết quả kiểm tra; giả định vững mức 1–3 như ví dụ trong spec",
+ "updated": "2026-10-15",
+ "source": "vocab-test-2026-10-15.json",
  "threshold_band": 3,
  "frontier_band": 4,
  "known": [
@@ -3005,8 +3005,74 @@
   "zero",
   "zone"
  ],
- "known_extra": [],
- "unknown_in_known": [],
+ "known_extra": [
+  "accountable",
+  "advertisement",
+  "alignment",
+  "autism",
+  "automation",
+  "cellphone",
+  "consistency",
+  "coordinate",
+  "cultivation",
+  "desktop",
+  "earthquake",
+  "ecological",
+  "enjoyment",
+  "essence",
+  "fusion",
+  "gently",
+  "granite",
+  "guideline",
+  "hike",
+  "hostile",
+  "immature",
+  "implement",
+  "infectious",
+  "legendary",
+  "microphone",
+  "notification",
+  "nutrition",
+  "policeman",
+  "polymer",
+  "preview",
+  "procurement",
+  "prosperity",
+  "renovation",
+  "residency",
+  "resistant",
+  "scandal",
+  "semester",
+  "shade",
+  "simplify",
+  "soundtrack",
+  "specify",
+  "spotlight",
+  "stir",
+  "sustainable",
+  "sweat",
+  "tiger"
+ ],
+ "unknown_in_known": [
+  "dumb",
+  "mayor",
+  "mortgage",
+  "registration",
+  "tournament",
+  "wave"
+ ],
  "app_known": [],
- "history": []
+ "threshold_override": {
+  "test_threshold_band": 1,
+  "test_frontier_band": 2,
+  "used_threshold_band": 3,
+  "reason": "Test gave threshold 1 only because bands 2 and 3 scored 13/16 (0.78 after the 3% false-alarm correction), one item short of 0.8 each; est. size 5,250 and bands 4-8 at 47-66%. Decided by Duong 2026-10-15: use bands 1-3 as known, frontier 4."
+ },
+ "history": [
+  {
+   "date": "2026-10-15",
+   "size": 3040,
+   "source": "vocab-test-2026-10-15.json"
+  }
+ ]
 }
