@@ -64,9 +64,7 @@ def analyze(draft: dict) -> tuple[list, dict]:
     frontier = int(known["frontier_band"])
     loans = load_loanwords()
     phrases = load_phrases()
-    name_words = set()
-    for n in draft.get("names", {}):
-        name_words.update(n.split())
+    names = list(draft.get("names", {}))
 
     prev = previous_articles(draft["id"])
     taught = set().union(*(core_of(a) for a in prev)) - eff if prev else set()
@@ -75,7 +73,7 @@ def analyze(draft: dict) -> tuple[list, dict]:
     blocks, pos_of = [], {}
     texts = [("h", draft["title"])] + [("p", p) for p in draft["paragraphs"]]
     for typ, text in texts:
-        sents = tokenize_text(text, phrases, name_words, bands)
+        sents = tokenize_text(text, phrases, names, bands)
         for s in sents:
             for t in s:
                 if t.get("l") and t["l"] not in pos_of:

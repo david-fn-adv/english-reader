@@ -693,14 +693,15 @@
   }
   function openNameSheet(t, sent){
     var n = NAMES[t.w] || null;
-    var h = '<div class="hw"><h2>' + esc(t.w) + '</h2><button class="say tts-only" id="sayBtn" aria-label="Phát âm">🔊</button><button class="x" id="xBtn" aria-label="Đóng">×</button></div>' +
+    var label = n && n.full ? n.full : t.w;
+    var h = '<div class="hw"><h2>' + esc(label) + '</h2><button class="say tts-only" id="sayBtn" aria-label="Phát âm">🔊</button><button class="x" id="xBtn" aria-label="Đóng">×</button></div>' +
       '<div class="tags"><span class="tag">tên riêng</span></div>' +
       '<div class="mean"><div class="vi">' + esc(n && n.vi ? n.vi : "Tên riêng — không cần học như từ vựng.") + "</div></div>" +
       '<blockquote class="ex">' + sent.map(function(x, i){ var sp = (x.nsp || i === sent.length - 1) ? "" : " "; return (x === t ? "<mark>" + esc(x.w) + "</mark>" : esc(x.w)) + sp; }).join("") + "</blockquote>";
     openSheet(h);
     $("sheet").classList.toggle("no-tts", !ttsOn());
     $("xBtn").onclick = closeSheet;
-    $("sayBtn").onclick = function(){ TTS.say(t.w, 0.8); };
+    $("sayBtn").onclick = function(){ TTS.say(label, 0.8); };
   }
   function refreshTokens(l){
     Array.prototype.forEach.call(document.querySelectorAll("#scr-reader .t[data-p]"), function(el){

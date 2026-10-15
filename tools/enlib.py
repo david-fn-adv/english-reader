@@ -187,7 +187,7 @@ LEMMA_FIX = {
     "data": "data", "datum": "data", "media": "media", "medium": "medium",
     "news": "news", "politics": "politics", "physics": "physics",
     "economics": "economics", "species": "species", "series": "series",
-    "means": "means", "clothes": "clothes", "glasses": "glasses",
+    "clothes": "clothes", "glasses": "glasses",
     "headquarters": "headquarters", "us": "we", "people": "people",
     "better": "good", "best": "good", "worse": "bad", "worst": "bad",
 }
@@ -212,16 +212,18 @@ def _is_lexical(tok) -> bool:
     return any(c.isalpha() for c in tok.text)
 
 
-def tokenize_text(text: str, phrases: list[dict], names: set[str], wordlist=None):
+def tokenize_text(text: str, phrases: list[dict], names, wordlist=None):
     """Tokenize one paragraph of draft text.
 
     Returns a list of sentences; each sentence is a list of token dicts with
     the schema fields w / l / k-candidate / ph / nsp. `k` is filled later by
     classify() because it needs the known set.
 
-    A token is a name if it belongs to a name listed in the draft, or if spaCy
-    tags it PROPN, it is capitalised, and its lowercase form is not an ordinary
-    banded word (so "September" and "Northern" stay words, "Leger" is a name).
+    A token is a name if it is part of a name listed in the draft — matched as
+    a whole token sequence, so "for" in "Ross Dress for Less" is a name but
+    every other "for" is not — or if spaCy tags it PROPN, it is capitalised,
+    and its lowercase form is not an ordinary banded word (so "September" and
+    "Northern" stay words, "Leger" is a name).
     """
     doc = nlp()(text)
     # merge hyphenated compounds (well-known, year-over-year) into one token
@@ -238,17 +240,19 @@ def tokenize_text(text: str, phrases: list[dict], names: set[str], wordlist=None
             else:
                 i += 1
 
+    name_seqs = _name_sequences(names)
     sents = []
     for sent in doc.sents:
         toks = [t for t in sent]
+        in_name = _mark_names([t.text for t in toks], name_seqs)
         out = []
-        for t in toks:
+        for idx, t in enumerate(toks):
             d = {"w": t.text}
             if not t.whitespace_ and t.i != sent.end - 1:
                 d["nsp"] = 1
             if _is_lexical(t):
-                if t.text in names or (t.pos_ == "PROPN" and t.text[0].isupper()
-                                       and (wordlist is None or t.text.lower() not in wordlist)):
+                if in_name[idx] or (t.pos_ == "PROPN" and t.text[0].isupper()
+                                    and (wordlist is None or t.text.lower() not in wordlist)):
                     d["_name"] = True
                 else:
                     d["l"] = (fix_lemma(t.lemma_.lower(), t.text) if "-" not in t.text
@@ -260,6 +264,24 @@ def tokenize_text(text: str, phrases: list[dict], names: set[str], wordlist=None
         _tag_phrases(out, phrases)
         sents.append(out)
     return sents
+
+
+def _name_sequences(names) -> list[list[str]]:
+    """Token sequences of the draft's names, longest first ("dd's Discounts" ->
+    ["dd", "'s", "Discounts"], tokenized exactly as the text will be)."""
+    seqs = {tuple(t.text for t in nlp().tokenizer(n)) for n in names if n.strip()}
+    return sorted((list(s) for s in seqs), key=len, reverse=True)
+
+
+def _mark_names(words: list[str], seqs: list[list[str]]) -> list[bool]:
+    marked = [False] * len(words)
+    for seq in seqs:
+        n = len(seq)
+        for i in range(len(words) - n + 1):
+            if words[i:i + n] == seq and not any(marked[i:i + n]):
+                for k in range(i, i + n):
+                    marked[k] = True
+    return marked
 
 
 def _tag_phrases(sent: list[dict], phrases: list[dict]) -> None:
@@ -333,6 +355,11 @@ def classify(sents, eff_known: set[str], bands: dict[str, int], frontier: int,
             elif _derived_known(lem, t["w"].lower(), eff_known):
                 t["k"] = "known"
                 stats["derived"] += 1
+            elif "-" in lem and all(_part_known(p, eff_known, loanwords)
+                                    for p in lem.split("-") if p):
+                # transparent compound of known words: brand-name, off-price
+                t["k"] = "known"
+                stats["derived"] += 1
             elif lem in taught:
                 t["k"] = "core"
                 stats["recycled"][lem] = stats["recycled"].get(lem, 0) + 1
@@ -341,6 +368,10 @@ def classify(sents, eff_known: set[str], bands: dict[str, int], frontier: int,
                 if " " in lem:
                     parts = t.get("_parts", lem.split())
                     b = max([bands.get(w, 99) for w in parts if w not in eff_known] or [0])
+                elif "-" in lem:
+                    parts = [p for p in lem.split("-") if p]
+                    b = max([bands.get(w, 99) for w in parts
+                             if not _part_known(w, eff_known, loanwords)] or [0])
                 if b == frontier:
                     t["k"] = "core"
                     stats["core"][lem] = stats["core"].get(lem, 0) + 1
@@ -354,6 +385,10 @@ def classify(sents, eff_known: set[str], bands: dict[str, int], frontier: int,
                     stats["offenders"][lem] = stats["offenders"].get(lem, 0) + 1
             _strip(t)
     return stats
+
+
+def _part_known(w: str, eff: set[str], loanwords: set[str]) -> bool:
+    return w in eff or w in loanwords or _derived_known(w, w, eff)
 
 
 AFFIXES_SUFFIX = ("ly", "ness", "er", "ing")
