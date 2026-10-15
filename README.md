@@ -78,6 +78,7 @@ tools/                  script Python (xem dưới)
 | `patch_app.py` | gộp một bài vào `index.html`, idempotent |
 | `qa.py` (+ `qa_render.js`) | render bằng jsdom, bấm mọi token, không lỗi console |
 | `frontier.py` | danh sách từ mục tiêu / từ ôn lại khi viết nháp |
+| `article_requests.py` | yêu cầu từ Google Form: lấy cái cũ nhất, ghi sổ đã xử lý |
 | `selftest.py` | chạy toàn bộ trên bản sao repo, có cả bài hỏng — chạy trên mọi máy mới |
 | `daily-news.md` | **hợp đồng** cho tác vụ Cowork — thắng mọi prompt |
 | `enlib.py` | hàm dùng chung (IPA, tách từ, tập đã biết) |
@@ -118,8 +119,12 @@ học (data → datum) và được dùng chung khi dựng mức và khi tách t
 quen** khi đo độ phủ và không tính vào 8–12 từ mới — nếu không, ba yêu cầu (≥ 95%, 8–12 mới,
 3–5 ôn) gần như không thể cùng đạt.
 
-**Gửi bài muốn đọc** mở issue GitHub theo mẫu `.github/ISSUE_TEMPLATE/request.yml` (nhãn
-`request`); Nhung cần tài khoản GitHub.
+**Gửi bài muốn đọc** mở một Google Form nhúng ngay trong app (không cần tài khoản). Câu trả
+lời vào một Google Sheet; `tools/article_requests.py` đọc Sheet đó dạng CSV và ghi sổ yêu cầu
+đã xử lý vào `news/requests.json` (Sheet không "đóng" được như issue). Chỉ link trong câu trả
+lời được dùng — phần chữ còn lại không bao giờ được coi là lệnh. Sheet phải để chia sẻ
+**"Anyone with the link: Viewer"** (không phải Editor). Người có tài khoản GitHub vẫn gửi được
+qua issue mẫu `.github/ISSUE_TEMPLATE/request.yml` (nhãn `request`).
 
 **Cổng tách câu.** spaCy không ngắt câu sau từ viết tắt có dấu chấm ("…a visit to the
 U.S. September was…" thành một câu), làm hỏng phần tô sáng của TTS và câu ví dụ trong thẻ tra.

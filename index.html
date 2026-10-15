@@ -77,7 +77,11 @@
   .card .meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--ink2)}
   .card.read h3{color:var(--ink2)}
   .unread-dot{width:8px;height:8px;border-radius:50%;background:var(--accent);position:absolute;top:18px;right:16px}
-  .reqbtn{display:block;margin:14px 16px 0;text-align:center;border:1px dashed var(--rule);border-radius:14px;padding:13px;color:var(--accent);font-weight:600;text-decoration:none;background:var(--paper)}
+  .reqbtn{display:block;width:calc(100% - 32px);margin:14px 16px 0;text-align:center;border:1px dashed var(--rule);border-radius:14px;padding:13px;color:var(--accent);font-weight:600;font-size:15px;text-decoration:none;background:var(--paper)}
+  .reqnote{font-size:13.5px;color:var(--ink2);margin:8px 0 10px}
+  .reqnote a{color:var(--accent)}
+  .reqframe{border:1px solid var(--rule);border-radius:12px;overflow:hidden;background:#fff}
+  .reqframe iframe{display:block;width:100%;height:min(62vh,520px);border:0}
   .readmark{font-size:12px;color:var(--ok);font-weight:600}
   .badge{display:inline-block;font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:20px;letter-spacing:.01em}
   .d-business{background:var(--biz-soft);color:var(--biz)}
@@ -219,8 +223,8 @@
       </div>
     </div>
     <div class="list" id="list"></div>
-    <a class="reqbtn" href="https://github.com/david-fn-adv/english-reader/issues/new?template=request.yml&amp;title=B%C3%A0i%20mu%E1%BB%91n%20%C4%91%E1%BB%8Dc%3A%20" target="_blank" rel="noopener">＋ Gửi bài muốn đọc</a>
-    <p class="hint" style="text-align:center">Mở GitHub (cần tài khoản): dán link bài báo tiếng Anh, bài sẽ được viết lại theo trình độ của bạn.</p>
+    <button class="reqbtn" id="reqBtn">＋ Gửi bài muốn đọc</button>
+    <p class="hint" style="text-align:center">Dán link một bài báo tiếng Anh — bài sẽ được viết lại theo trình độ của bạn trong lần ra bài tới.</p>
   </section>
 
   <section class="screen" id="scr-reader"></section>
@@ -471,6 +475,21 @@
   $("list").addEventListener("click", function(e){
     var c = e.target.closest(".card"); if (c) location.hash = "#/a/" + c.getAttribute("data-id");
   });
+
+  // article requests: Google Form embedded in the sheet (no account needed);
+  // loaded only on tap, so the app itself stays offline-capable
+  var REQUEST_FORM = "https://docs.google.com/forms/d/e/1FAIpQLSeeredeM-d2DbfFcbbPXhCVBe9Jod42JyTBpS7MI-ZjFRGLKg/viewform?embedded=true";
+  var REQUEST_ISSUE = "https://github.com/david-fn-adv/english-reader/issues/new?template=request.yml";
+  $("reqBtn").onclick = function(){
+    var offline = false; try { offline = navigator.onLine === false; } catch(e) {}
+    var h = '<div class="hw"><h2 style="font-family:var(--ui);font-size:21px">Gửi bài muốn đọc</h2><button class="x" id="xBtn" aria-label="Đóng">×</button></div>' +
+      '<p class="reqnote">Dán link bài báo tiếng Anh (tin cụ thể, có số liệu — không phải bài bình luận). Bài được xử lý theo thứ tự gửi.</p>';
+    h += offline ? '<div class="empty">Cần kết nối mạng để gửi bài.</div>'
+      : '<div class="reqframe"><iframe src="' + REQUEST_FORM + '" title="Gửi bài muốn đọc" loading="lazy" referrerpolicy="no-referrer">Đang tải…</iframe></div>';
+    h += '<p class="reqnote">Có tài khoản GitHub? Cũng có thể <a href="' + REQUEST_ISSUE + '" target="_blank" rel="noopener">gửi qua GitHub</a>.</p>';
+    openSheet(h);
+    $("xBtn").onclick = closeSheet;
+  };
 
   // ───────────────────────── reader ─────────────────────────
   function tokClass(t){
