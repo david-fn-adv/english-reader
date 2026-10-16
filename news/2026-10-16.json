@@ -1,0 +1,3540 @@
+{
+ "id": "2026-10-16",
+ "domain": "fashion",
+ "title": "China Slows Sales at the Owner of Louis Vuitton",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+  "outlet": "LVMH",
+  "author": "LVMH (company press release)",
+  "title": "Continued growth in the third quarter of 2026",
+  "date": "2026-10-12",
+  "accessed": "2026-10-16",
+  "checked_against": "https://fashionunited.com/news/business/lvmh-q3-organic-revenue-growth-slows-amid-china-downturn/2026101375147",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "release dated October 12, 2026",
+    "quote": "Paris, October 12, 2026"
+   },
+   {
+    "id": "f2",
+    "text": "€57.1 billion revenue in first nine months of 2026",
+    "quote": "recorded revenue of €57.1 billion in the first nine months of 2026"
+   },
+   {
+    "id": "f3",
+    "text": "nine-month organic growth 2%",
+    "quote": "Organic revenue growth came to 2%."
+   },
+   {
+    "id": "f4",
+    "text": "Q3 organic growth 1% (table: Total LVMH, Q3 2026 vs Q3 2025 organic +1%); FashionUnited agrees",
+    "quote": "In the third quarter of 2026, organic revenue growth stood at 1 percent YoY."
+   },
+   {
+    "id": "f5",
+    "text": "China weaker; US, Europe, Japan good growth",
+    "quote": "a less buoyant environment in China ... while the United States, Europe and Japan saw good growth"
+   },
+   {
+    "id": "f6",
+    "text": "organic = constant scope and currency (table footnote)",
+    "quote": "organic = constant scope and currency"
+   },
+   {
+    "id": "f7",
+    "text": "Fashion & Leather Goods: 26.4 billion euros (26,391 million) in 9M, -2% organic; largest division (FashionUnited)",
+    "quote": "saw organic revenue decrease 2 percent YoY over the first nine months to 26.39 billion euros"
+   },
+   {
+    "id": "f8",
+    "text": "Fashion & Leather Goods Q3 organic -5%",
+    "quote": "Third-quarter organic revenue for the segment fell 5 percent YoY"
+   },
+   {
+    "id": "f9",
+    "text": "fashion helped by US market, hurt in Q3 by China",
+    "quote": "continued to benefit from the buoyant US market but was affected in the third quarter by the slowdown in demand in China"
+   },
+   {
+    "id": "f10",
+    "text": "Louis Vuitton: Monogram is 130 years old (130th anniversary); iconic bags",
+    "quote": "honoured its iconic bags ... for the 130th anniversary of the Monogram"
+   },
+   {
+    "id": "f11",
+    "text": "Dior store on Via Monte Napoleone, Milan, September",
+    "quote": "a new House of Dior flagship store was opened in September, on Via Monte Napoleone in Milan"
+   },
+   {
+    "id": "f12",
+    "text": "Marc Jacobs sold to WHP Global on September 1",
+    "quote": "On September 1, Marc Jacobs was sold to WHP Global."
+   },
+   {
+    "id": "f13",
+    "text": "Watches & Jewelry: 9M organic +8%, Q3 +6%",
+    "quote": "recorded organic revenue growth of 8% in the first nine months of 2026, driven by the very good performance in jewelry"
+   },
+   {
+    "id": "f14",
+    "text": "Selective Retailing: 9M organic +6%, Q3 +8%",
+    "quote": "posted an 8 percent organic rise in the third quarter"
+   },
+   {
+    "id": "f15",
+    "text": "Sephora entered Belgium and Croatia",
+    "quote": "new market entries in Belgium and Croatia"
+   },
+   {
+    "id": "f16",
+    "text": "Perfumes & Cosmetics stable organic in 9M",
+    "quote": "remained stable on an organic basis in the first nine months of 2026"
+   },
+   {
+    "id": "f17",
+    "text": "goal: reinforce global leadership in luxury in 2026",
+    "quote": "to reinforce its global leadership position in luxury goods once again in 2026"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.936,
+  "effective": 0.953,
+  "tokens": 479,
+  "new_core": 9
+ },
+ "vocab": [
+  "wealthy",
+  "rely on",
+  "decrease",
+  "celebration",
+  "iconic",
+  "segment",
+  "stability",
+  "demonstrate",
+  "moderate",
+  "such as",
+  "around the world",
+  "in other words",
+  "for example",
+  "according to"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "Slows",
+      "l": "slow",
+      "k": "known"
+     },
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Owner",
+      "l": "owner",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Louis",
+      "n": "Louis Vuitton",
+      "k": "name"
+     },
+     {
+      "w": "Vuitton",
+      "n": "Louis Vuitton",
+      "k": "name"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "LVMH",
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "French",
+      "n": "French",
+      "k": "name"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "owns",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "such",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Louis",
+      "n": "Louis Vuitton",
+      "k": "name"
+     },
+     {
+      "w": "Vuitton",
+      "nsp": 1,
+      "n": "Louis Vuitton",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Dior",
+      "n": "Dior",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Sephora",
+      "nsp": 1,
+      "n": "Sephora",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "clothes",
+      "nsp": 1,
+      "l": "clothes",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "bags",
+      "nsp": 1,
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "watches",
+      "nsp": 1,
+      "l": "watch",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "perfume",
+      "l": "perfume",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "wine",
+      "nsp": 1,
+      "l": "wine",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "sells",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "wealthy",
+      "l": "wealthy",
+      "k": "core"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "shared",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "From",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "January",
+      "l": "january",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "LVMH",
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "57.1",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "nsp": 1,
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "organic",
+      "l": "organic",
+      "k": "known"
+     },
+     {
+      "w": "basis",
+      "nsp": 1,
+      "l": "basis",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Organic",
+      "l": "organic",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "count",
+      "l": "count",
+      "k": "known"
+     },
+     {
+      "w": "changes",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "currency",
+      "l": "currency",
+      "k": "known"
+     },
+     {
+      "w": "exchange",
+      "l": "exchange",
+      "k": "known"
+     },
+     {
+      "w": "rates",
+      "nsp": 1,
+      "l": "rate",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "count",
+      "l": "count",
+      "k": "known"
+     },
+     {
+      "w": "businesses",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "bought",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "sold",
+      "nsp": 1,
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "compares",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "businesses",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for example",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "example",
+      "nsp": 1,
+      "l": "for example",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "euro",
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "make",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "countries",
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": "look",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "really",
+      "l": "really",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "nsp": 1,
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "July",
+      "l": "july",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "weaker",
+      "nsp": 1,
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Organic",
+      "l": "organic",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "1",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "slight",
+      "l": "slight",
+      "k": "core"
+     },
+     {
+      "w": "rise",
+      "nsp": 1,
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "LVMH",
+      "nsp": 1,
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "main",
+      "l": "main",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "China",
+      "nsp": 1,
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "nsp": 1,
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Japan",
+      "n": "Japan",
+      "k": "name"
+     },
+     {
+      "w": "saw",
+      "l": "see",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "nsp": 1,
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "leather",
+      "l": "leather",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "largest",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "division",
+      "nsp": 1,
+      "l": "division",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "26.4",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "LVMH",
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": "relies",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "division",
+      "l": "division",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "any",
+      "l": "any",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "nsp": 1,
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "here",
+      "l": "here",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "showed",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "decrease",
+      "nsp": 1,
+      "l": "decrease",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Organic",
+      "l": "organic",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": "alone",
+      "nsp": 1,
+      "l": "alone",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "decrease",
+      "l": "decrease",
+      "k": "core"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "division",
+      "l": "division",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "l": "well",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "However",
+      "nsp": 1,
+      "l": "however",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "hurt",
+      "l": "hurt",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "weaker",
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "China",
+      "nsp": 1,
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "wealthy",
+      "l": "wealthy",
+      "k": "core"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "spend",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "nsp": 1,
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "LVMH",
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": "quickly",
+      "l": "quickly",
+      "k": "known"
+     },
+     {
+      "w": "feels",
+      "l": "feel",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "nsp": 1,
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Louis",
+      "n": "Louis Vuitton",
+      "k": "name"
+     },
+     {
+      "w": "Vuitton",
+      "n": "Louis Vuitton",
+      "k": "name"
+     },
+     {
+      "w": "held",
+      "l": "hold",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "celebration",
+      "l": "celebration",
+      "k": "core"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "Monogram",
+      "n": "Monogram",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "130",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "years",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "old",
+      "nsp": 1,
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Monogram",
+      "n": "Monogram",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "pattern",
+      "l": "pattern",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "iconic",
+      "l": "iconic",
+      "k": "core"
+     },
+     {
+      "w": "bags",
+      "nsp": 1,
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "celebration",
+      "l": "celebration",
+      "k": "core"
+     },
+     {
+      "w": "included",
+      "l": "include",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "version",
+      "l": "version",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "pattern",
+      "nsp": 1,
+      "l": "pattern",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Dior",
+      "n": "Dior",
+      "k": "name"
+     },
+     {
+      "w": "opened",
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Via",
+      "n": "Via Monte Napoleone",
+      "k": "name"
+     },
+     {
+      "w": "Monte",
+      "n": "Via Monte Napoleone",
+      "k": "name"
+     },
+     {
+      "w": "Napoleone",
+      "n": "Via Monte Napoleone",
+      "k": "name"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Milan",
+      "nsp": 1,
+      "n": "Milan",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Furthermore",
+      "nsp": 1,
+      "l": "furthermore",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": "1",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "LVMH",
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": "sold",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "Marc",
+      "n": "Marc Jacobs",
+      "k": "name"
+     },
+     {
+      "w": "Jacobs",
+      "n": "Marc Jacobs",
+      "k": "name"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "WHP",
+      "n": "WHP Global",
+      "k": "name"
+     },
+     {
+      "w": "Global",
+      "nsp": 1,
+      "n": "WHP Global",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "parts",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "better",
+      "nsp": 1,
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Watches",
+      "n": "Watches & Jewelry",
+      "k": "name"
+     },
+     {
+      "w": "&",
+      "n": "Watches & Jewelry",
+      "k": "plain"
+     },
+     {
+      "w": "Jewelry",
+      "n": "Watches & Jewelry",
+      "k": "name"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "8",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "6",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Selective",
+      "n": "Selective Retailing",
+      "k": "name"
+     },
+     {
+      "w": "Retailing",
+      "nsp": 1,
+      "n": "Selective Retailing",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "segment",
+      "l": "segment",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "includes",
+      "l": "include",
+      "k": "known"
+     },
+     {
+      "w": "Sephora",
+      "nsp": 1,
+      "n": "Sephora",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "6",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "stronger",
+      "nsp": 1,
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "8",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sephora",
+      "n": "Sephora",
+      "k": "name"
+     },
+     {
+      "w": "sells",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "beauty",
+      "l": "beauty",
+      "k": "known"
+     },
+     {
+      "w": "products",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "different",
+      "l": "different",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "Sephora",
+      "n": "Sephora",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "countries",
+      "nsp": 1,
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Belgium",
+      "n": "Belgium",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Croatia",
+      "nsp": 1,
+      "n": "Croatia",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "perfume",
+      "l": "perfume",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "beauty",
+      "l": "beauty",
+      "k": "known"
+     },
+     {
+      "w": "products",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "showed",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "stability",
+      "nsp": 1,
+      "l": "stability",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "organic",
+      "l": "organic",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Overall",
+      "nsp": 1,
+      "l": "overall",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "demonstrate",
+      "l": "demonstrate",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "moderate",
+      "l": "moderate",
+      "k": "core"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "LVMH",
+      "nsp": 1,
+      "n": "LVMH",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "segments",
+      "l": "segment",
+      "k": "core"
+     },
+     {
+      "w": "rely",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "products",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "nsp": 1,
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Others",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "need",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "return",
+      "nsp": 1,
+      "l": "return",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Stability",
+      "l": "stability",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "parts",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "helps",
+      "nsp": 1,
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "moderate",
+      "l": "moderate",
+      "k": "core"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "investors",
+      "l": "investor",
+      "k": "known"
+     },
+     {
+      "w": "hope",
+      "l": "hope",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "nsp": 1,
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "demonstrate",
+      "l": "demonstrate",
+      "k": "core"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "iconic",
+      "l": "iconic",
+      "k": "core"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "matter",
+      "nsp": 1,
+      "l": "matter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "make",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "position",
+      "l": "position",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "leader",
+      "l": "leader",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "stronger",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "slow": {
+   "ipa": "sloʊ",
+   "pos": "v",
+   "en": "to make something happen less fast",
+   "vi": "làm chậm lại",
+   "band": 2
+  },
+  "luxury": {
+   "ipa": "ˈlʌɡʒɚi",
+   "pos": "n",
+   "en": "very expensive and beautiful things that people do not need",
+   "vi": "hàng xa xỉ",
+   "band": 3
+  },
+  "own": {
+   "ipa": "oʊn",
+   "pos": "v",
+   "en": "to have something as your property",
+   "vi": "sở hữu",
+   "band": 1
+  },
+  "clothes": {
+   "ipa": "kloʊðz",
+   "pos": "n",
+   "en": "things you wear, like shirts and pants",
+   "vi": "quần áo",
+   "band": 2
+  },
+  "bag": {
+   "ipa": "bæɡ",
+   "pos": "n",
+   "en": "a thing you carry your things in",
+   "vi": "túi, túi xách",
+   "band": 2
+  },
+  "watch": {
+   "ipa": "wɑtʃ",
+   "pos": "n",
+   "en": "a small clock that you wear on your arm",
+   "vi": "đồng hồ đeo tay",
+   "band": 1
+  },
+  "perfume": {
+   "ipa": "pɚˈfjum",
+   "pos": "n",
+   "en": "a liquid with a nice smell that people put on their skin",
+   "vi": "nước hoa",
+   "band": 7
+  },
+  "wine": {
+   "ipa": "waɪn",
+   "pos": "n",
+   "en": "a drink made from fruit, usually red or white",
+   "vi": "rượu vang",
+   "band": 2
+  },
+  "wealthy": {
+   "ipa": "ˈwɛlθi",
+   "pos": "adj",
+   "en": "having a lot of money",
+   "vi": "giàu có",
+   "band": 4
+  },
+  "shopper": {
+   "ipa": "ˈʃɑpɚ",
+   "pos": "n",
+   "en": "a person who buys things in stores",
+   "vi": "người mua sắm",
+   "band": 9
+  },
+  "share": {
+   "ipa": "ʃɛr",
+   "pos": "v",
+   "en": "to tell other people about something",
+   "vi": "chia sẻ, công bố",
+   "band": 1
+  },
+  "result": {
+   "ipa": "rɪˈzʌlt",
+   "pos": "n",
+   "en": "the numbers that show how well a business did",
+   "vi": "kết quả",
+   "band": 1
+  },
+  "nine": {
+   "ipa": "naɪn",
+   "pos": "num",
+   "en": "the number 9",
+   "vi": "chín",
+   "band": 2
+  },
+  "january": {
+   "ipa": "ˈdʒænjuˌɛri",
+   "pos": "name",
+   "en": "the first month of the year",
+   "vi": "tháng Một",
+   "band": 1
+  },
+  "revenue": {
+   "ipa": "ˈrɛvəˌnu",
+   "pos": "n",
+   "en": "the money a company gets from selling things",
+   "vi": "doanh thu",
+   "band": 2
+  },
+  "euro": {
+   "ipa": "ˈjuroʊ",
+   "pos": "n",
+   "en": "the money used in many countries in Europe",
+   "vi": "đồng euro",
+   "band": 5
+  },
+  "organic": {
+   "ipa": "ɔrˈɡænɪk",
+   "pos": "adj",
+   "en": "about business growth that does not count money rate changes or bought businesses",
+   "vi": "tự thân (không tính tỷ giá, mua bán công ty)",
+   "band": 3
+  },
+  "basis": {
+   "ipa": "ˈbeɪsəs",
+   "pos": "n",
+   "en": "the way something is measured or decided",
+   "vi": "cơ sở",
+   "band": 2
+  },
+  "currency": {
+   "ipa": "ˈkɝənsi",
+   "pos": "n",
+   "en": "the money used in one country",
+   "vi": "tiền tệ",
+   "band": 3
+  },
+  "exchange": {
+   "ipa": "ɪksˈtʃeɪndʒ",
+   "pos": "n",
+   "en": "changing one kind of money for another",
+   "vi": "trao đổi, quy đổi",
+   "band": 2
+  },
+  "rate": {
+   "ipa": "reɪt",
+   "pos": "n",
+   "en": "a number that shows how one thing compares to another",
+   "vi": "tỷ giá, tỷ lệ",
+   "band": 1
+  },
+  "third": {
+   "ipa": "θɝd",
+   "pos": "adj",
+   "en": "coming after the second one",
+   "vi": "thứ ba",
+   "band": 1
+  },
+  "quarter": {
+   "ipa": "ˈkwɔrtɚ",
+   "pos": "n",
+   "en": "one of four parts of a year, three months long",
+   "vi": "quý",
+   "band": 2
+  },
+  "demand": {
+   "ipa": "dɪˈmænd",
+   "pos": "n",
+   "en": "how much people want to buy something",
+   "vi": "nhu cầu",
+   "band": 2
+  },
+  "fashion": {
+   "ipa": "ˈfæʃən",
+   "pos": "n",
+   "en": "the business of making and selling clothes",
+   "vi": "thời trang",
+   "band": 2
+  },
+  "leather": {
+   "ipa": "ˈlɛðɚ",
+   "pos": "n",
+   "en": "material made from animal skin, used for bags and shoes",
+   "vi": "da thuộc",
+   "band": 3
+  },
+  "division": {
+   "ipa": "dɪˈvɪʒən",
+   "pos": "n",
+   "en": "one part of a large company",
+   "vi": "bộ phận, mảng",
+   "band": 2
+  },
+  "rely on": {
+   "ipa": "rɪˈlaɪ ɑn",
+   "pos": "phr",
+   "en": "to need something in order to do well",
+   "vi": "dựa vào",
+   "band": 4
+  },
+  "part": {
+   "ipa": "pɑrt",
+   "pos": "n",
+   "en": "one piece of a bigger thing",
+   "vi": "phần",
+   "band": 1
+  },
+  "here": {
+   "ipa": "hir",
+   "pos": "adv",
+   "en": "in this case or this part",
+   "vi": "ở đây, trong trường hợp này",
+   "band": 1
+  },
+  "decrease": {
+   "ipa": "dɪˈkris",
+   "pos": "n",
+   "en": "a fall in number or amount",
+   "vi": "sự sụt giảm",
+   "band": 4
+  },
+  "well": {
+   "ipa": "wɛl",
+   "pos": "adv",
+   "en": "in a good way",
+   "vi": "tốt",
+   "band": 1
+  },
+  "hurt": {
+   "ipa": "hɝt",
+   "pos": "v",
+   "en": "to cause problems or damage to something",
+   "vi": "gây hại, ảnh hưởng xấu",
+   "band": 1
+  },
+  "quickly": {
+   "ipa": "ˈkwɪkli",
+   "pos": "adv",
+   "en": "in a short time",
+   "vi": "nhanh chóng",
+   "band": 1
+  },
+  "feel": {
+   "ipa": "fil",
+   "pos": "v",
+   "en": "to be affected by something",
+   "vi": "cảm nhận, chịu ảnh hưởng",
+   "band": 1
+  },
+  "hold": {
+   "ipa": "hoʊld",
+   "pos": "v",
+   "en": "to have an event or party",
+   "vi": "tổ chức",
+   "band": 1
+  },
+  "celebration": {
+   "ipa": "ˌsɛləˈbreɪʃən",
+   "pos": "n",
+   "en": "a special event for something good",
+   "vi": "lễ kỷ niệm",
+   "band": 4
+  },
+  "old": {
+   "ipa": "oʊld",
+   "pos": "adj",
+   "en": "having lived or existed for a number of years",
+   "vi": "(bao nhiêu) tuổi",
+   "band": 1
+  },
+  "iconic": {
+   "ipa": "ˌaɪˈkɑnɪk",
+   "pos": "adj",
+   "en": "very famous and easy to know as a sign of something",
+   "vi": "mang tính biểu tượng",
+   "band": 4
+  },
+  "include": {
+   "ipa": "ˌɪnˈklud",
+   "pos": "v",
+   "en": "to have something as one part",
+   "vi": "bao gồm",
+   "band": 1
+  },
+  "version": {
+   "ipa": "ˈvɝʒən",
+   "pos": "n",
+   "en": "a form of something that is a little different",
+   "vi": "phiên bản",
+   "band": 1
+  },
+  "group": {
+   "ipa": "ɡrup",
+   "pos": "n",
+   "en": "a large company that owns many smaller companies",
+   "vi": "tập đoàn",
+   "band": 1
+  },
+  "segment": {
+   "ipa": "ˈsɛɡmənt",
+   "pos": "n",
+   "en": "one part of a business or market",
+   "vi": "mảng, phân khúc",
+   "band": 4
+  },
+  "stability": {
+   "ipa": "stəˈbɪlɪti",
+   "pos": "n",
+   "en": "the state of staying the same, without big changes",
+   "vi": "sự ổn định",
+   "band": 4
+  },
+  "overall": {
+   "ipa": "ˈoʊvɚˌɔl",
+   "pos": "adv",
+   "en": "when you think about everything together",
+   "vi": "nhìn chung",
+   "band": 2
+  },
+  "demonstrate": {
+   "ipa": "ˈdɛmənˌstreɪt",
+   "pos": "v",
+   "en": "to show something clearly",
+   "vi": "cho thấy",
+   "band": 4
+  },
+  "moderate": {
+   "ipa": "ˈmɑdɚət",
+   "pos": "adj",
+   "en": "not large and not small; in the middle",
+   "vi": "vừa phải",
+   "band": 4
+  },
+  "investor": {
+   "ipa": "ˌɪnˈvɛstɚ",
+   "pos": "n",
+   "en": "a person who puts money into a company to make more money",
+   "vi": "nhà đầu tư",
+   "band": 3
+  },
+  "hope": {
+   "ipa": "hoʊp",
+   "pos": "v",
+   "en": "to want something to happen",
+   "vi": "hy vọng",
+   "band": 1
+  },
+  "position": {
+   "ipa": "pəˈzɪʃən",
+   "pos": "n",
+   "en": "the place someone has compared to others",
+   "vi": "vị trí",
+   "band": 1
+  },
+  "leader": {
+   "ipa": "ˈlidɚ",
+   "pos": "n",
+   "en": "the person or company that is first or best",
+   "vi": "người dẫn đầu",
+   "band": 2
+  }
+ },
+ "names": {
+  "LVMH": {
+   "vi": "tập đoàn hàng xa xỉ lớn của Pháp (Louis Vuitton Moët Hennessy)"
+  },
+  "Louis Vuitton": {
+   "vi": "thương hiệu thời trang và túi da xa xỉ của Pháp, thuộc LVMH"
+  },
+  "Dior": {
+   "vi": "thương hiệu thời trang xa xỉ của Pháp, thuộc LVMH"
+  },
+  "Sephora": {
+   "vi": "chuỗi cửa hàng mỹ phẩm, thuộc LVMH"
+  },
+  "China": {
+   "vi": "Trung Quốc"
+  },
+  "Japan": {
+   "vi": "Nhật Bản"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "Monogram": {
+   "vi": "hoa văn chữ LV kinh điển của Louis Vuitton"
+  },
+  "Via Monte Napoleone": {
+   "vi": "con phố mua sắm hàng hiệu nổi tiếng ở Milan"
+  },
+  "Milan": {
+   "vi": "thành phố Milan, miền bắc nước Ý"
+  },
+  "Marc Jacobs": {
+   "vi": "thương hiệu thời trang Mỹ, trước đây thuộc LVMH"
+  },
+  "WHP Global": {
+   "vi": "công ty Mỹ chuyên mua và quản lý các thương hiệu"
+  },
+  "Watches & Jewelry": {
+   "vi": "mảng đồng hồ và trang sức của LVMH (gồm Tiffany, Bvlgari)"
+  },
+  "Selective Retailing": {
+   "vi": "mảng bán lẻ của LVMH (gồm Sephora)"
+  },
+  "Belgium": {
+   "vi": "nước Bỉ"
+  },
+  "Croatia": {
+   "vi": "nước Croatia, đông nam châu Âu"
+  },
+  "French": {
+   "vi": "thuộc về nước Pháp"
+  }
+ }
+}
