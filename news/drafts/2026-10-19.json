@@ -1,0 +1,163 @@
+{
+ "id": "2026-10-19",
+ "domain": "business",
+ "title": "Tesla's New Roadster Can Flip in the Air",
+ "source": {
+  "url": "https://fortune.com/2026/10/17/tesla-flying-roadster-spacex-thrusters-2028-production-price/",
+  "outlet": "Fortune",
+  "author": "Bilin Lin",
+  "title": "Tesla is taking $250,000 deposits for a Roadster with SpaceX thrusters. The FAA says it isn't an aircraft",
+  "date": "2026-10-17",
+  "accessed": "2026-10-19",
+  "checked_against": "https://www.autocarpro.in/news/tesla-unveils-thrusterequipped-roadster-135279",
+  "notes": "Cross-checked against Autocar Professional (16 Oct 2026, own report): place, 2028 production, top speed above 230 mph, two seats, sub-one-second 0-60 (0.81 s in a test), 10 air nozzles. Deposits, 300-mile range and the 2017/2020 dates also match a Reuters wire story read in syndication (staradvertiser.com), not used as the check source. The 2017 promises (1.9 s, four seats, 620 miles), the FAA view and the 2023 Musk remark come from Fortune only. Event day given only as 'Thursday' (October 15); the article says 'last Thursday'.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "event on Thursday at SpaceX test site in McGregor, Texas",
+    "quote": "in McGregor, Texas, near Waco"
+   },
+   {
+    "id": "f2",
+    "text": "car rolled 180 degrees using air, landed on its wheels",
+    "quote": "rolled 180 degrees using bursts of compressed air"
+   },
+   {
+    "id": "f3",
+    "text": "jumped over a row of Tesla vehicles",
+    "quote": "used thrusters to jump over a row of Tesla vehicles, including a Cybertruck and a Tesla Semi"
+   },
+   {
+    "id": "f4",
+    "text": "Musk post on X",
+    "quote": "Turns out the future does have flying cars."
+   },
+   {
+    "id": "f5",
+    "text": "second Roadster unveiled November 2017",
+    "quote": "in November 2017"
+   },
+   {
+    "id": "f6",
+    "text": "2017 promise: 0-60 mph in 1.9 s, four seats, 620 miles",
+    "quote": "accelerate from zero to 60 mph in 1.9 seconds, seat four people and travel 620 miles on a single charge"
+   },
+   {
+    "id": "f7",
+    "text": "2017 reservations $50,000, or $250,000 for one of 1,000 Founders Series cars; 2020 target",
+    "quote": "began taking $50,000 reservations—or $250,000 for one of 1,000 limited Founders Series cars"
+   },
+   {
+    "id": "f8",
+    "text": "Musk blamed supply chain shortages for delays",
+    "quote": "blamed supply chain shortages for earlier delays (paraphrase of Fortune; ranked the car below other projects)"
+   },
+   {
+    "id": "f9",
+    "text": "production in 2028, eight years later than promised",
+    "quote": "Tesla now says production will begin in 2028—eight years later than originally promised."
+   },
+   {
+    "id": "f10",
+    "text": "three versions: Performance (road-ready two-seater), Thrust, Rocket",
+    "quote": "a \"road ready\" two-seater with active aerodynamics"
+   },
+   {
+    "id": "f11",
+    "text": "Thrust: rear air thrusters, under one second to 60 mph",
+    "quote": "for sub-one-second acceleration to 60 mph"
+   },
+   {
+    "id": "f12",
+    "text": "Rocket: invitation-only, one seat, 10 thrusters",
+    "quote": "an invitation-only single-seater with 10 thrusters"
+   },
+   {
+    "id": "f13",
+    "text": "top speed more than 230 mph",
+    "quote": "Tesla claims a top speed of more than 230 mph."
+   },
+   {
+    "id": "f14",
+    "text": "range more than 300 miles, less than half of 620",
+    "quote": "Tesla now promises a range of more than 300 miles ... less than half the 620 miles it touted in 2017"
+   },
+   {
+    "id": "f15",
+    "text": "deposits: $50,000 Performance, $250,000 Thrust; Rocket no public fee; no final prices; Tesla hasn't said what happens to the 2017 depositors",
+    "quote": "Tesla is asking for a $50,000 reservation payment for the Performance model and a whopping $250,000 for Thrust."
+   },
+   {
+    "id": "f16",
+    "text": "Rocket not approved for public roads",
+    "quote": "not approved for public road use"
+   },
+   {
+    "id": "f17",
+    "text": "FAA: not an aircraft, no airworthiness certification needed",
+    "quote": "the vehicle doesn't meet its definition of an aircraft (FAA to CBS News and Politico, as reported by Fortune)"
+   },
+   {
+    "id": "f19",
+    "text": "Musk 2023: not a big contributor to revenue",
+    "quote": "definitely not gonna be a huge contributor to revenue"
+   },
+   {
+    "id": "f20",
+    "text": "no driver; figure in a SpaceX suit; car ran by itself for safety",
+    "quote": "A mannequin in a SpaceX spacesuit sat in the car (paraphrase); Musk said it ran autonomously for safety reasons"
+   }
+  ]
+ },
+ "paragraphs": [
+  "Last Thursday, Tesla showed its new Roadster, and the show looked more like a rocket test than a car show. It took place at a test site of SpaceX in McGregor, Texas. The car drove along a track, left the ground and did a flip in the air. It turned 180 degrees with short blasts of air, and after the flip it landed safely on its wheels. Then it jumped over a row of Tesla vehicles. Elon Musk wrote on X: \"Turns out the future does have flying cars.\"",
+  "Tesla first showed this Roadster in November 2017. It promised a car that could reach 60 miles per hour in 1.9 seconds. It also promised four seats and 620 miles on a single charge. Buyers paid a deposit of $50,000, or $250,000 for one of 1,000 special cars. The first timeline said the car would arrive in 2020.",
+  "That timeline did not hold. Musk gave other projects more attention, and he blamed problems with supply chains for the delays. Tesla now says production will begin in 2028. That is eight years later than the first promise.",
+  "The new car comes in three versions. The Performance version is a two-seat car for normal roads. The Thrust version is an upgrade with jets of air at the back. They help the car reach 60 miles per hour in less than one second. The third version, called Rocket, has one seat and ten small air jets. It is available only by invitation. Tesla says the top speed is more than 230 miles per hour.",
+  "Some promises have become smaller. The car has two seats at most, not four. Tesla now promises a range of more than 300 miles. That is less than half of the 620 miles it promised in 2017. Nevertheless, the payments are still large. Tesla asks for $50,000 for the Performance version and $250,000 for the Thrust upgrade. The Rocket is sold only by invitation, with no public payment. Tesla has not said what will happen to the people who paid in 2017.",
+  "Rules are another question. Tesla's website says the Rocket is not approved for use on public roads. The Federal Aviation Administration controls aviation in the United States. It said the car does not meet its meaning of an aircraft. So the car would not need the usual aviation safety checks.",
+  "The Roadster is unlikely to become a mainstream car. With deposits this large, it is a car for wealthy fans, not for mainstream buyers. In 2023, Musk said it would definitely not bring Tesla much revenue. Instead, it is a way to demonstrate what the company can do, and to highlight its links with SpaceX and its rockets.",
+  "In the show, no one was driving. A human figure in a SpaceX suit sat in the seat, and the car drove itself so that the show could end safely. For now, buyers can only wait and see whether the car arrives in 2028."
+ ],
+ "names": {
+  "Tesla": {
+   "vi": "hãng xe điện Tesla của Mỹ"
+  },
+  "Roadster": {
+   "vi": "Roadster, mẫu xe thể thao hai cửa mui trần của Tesla"
+  },
+  "SpaceX": {
+   "vi": "công ty tên lửa và du hành vũ trụ SpaceX của Elon Musk"
+  },
+  "McGregor": {
+   "vi": "thị trấn McGregor, bang Texas, nơi SpaceX thử tên lửa"
+  },
+  "Texas": {
+   "vi": "bang Texas, miền nam nước Mỹ"
+  },
+  "Elon Musk": {
+   "vi": "tỷ phú, CEO của Tesla và SpaceX"
+  },
+  "Musk": {
+   "vi": "Elon Musk, CEO của Tesla và SpaceX"
+  },
+  "X": {
+   "vi": "mạng xã hội X (trước đây là Twitter)"
+  },
+  "Performance": {
+   "vi": "Performance, phiên bản chạy đường phố"
+  },
+  "Thrust": {
+   "vi": "Thrust, phiên bản có bộ phản lực khí ở đuôi"
+  },
+  "Rocket": {
+   "vi": "Rocket, phiên bản một chỗ có thể bay, chỉ bán theo lời mời"
+  },
+  "Federal Aviation Administration": {
+   "vi": "Cục Hàng không Liên bang Mỹ (FAA)"
+  },
+  "United States": {
+   "vi": "Hoa Kỳ, nước Mỹ"
+  }
+ }
+}
