@@ -1,0 +1,96 @@
+{
+ "id": "2026-10-21",
+ "domain": "travel",
+ "title": "Fuel Costs Hurt United Airlines' Profit",
+ "source": {
+  "url": "https://skift.com/2026/10/20/united-airlines-forecasts-weaker-profits-on-high-fuel-costs/",
+  "outlet": "Skift",
+  "author": "Meghna Maharishi",
+  "title": "United Airlines Cuts Profit Outlook as Jet Fuel Costs Rise",
+  "date": "2026-10-20",
+  "accessed": "2026-10-21",
+  "second_source": "https://www.sec.gov/Archives/edgar/data/0000100517/000010051726000184/ual_erx09302026xex991.htm",
+  "checked_against": "https://uk.finance.yahoo.com/news/united-airlines-falls-weak-fourth-203813290.html",
+  "notes": "Skift body is paywalled after two paragraphs; Q3 revenue, segment growth and fuel bill come from Skift's Key Points/Summary block and match United's own press release (SEC 8-K Exhibit 99.1, 2026-10-20) and its Investor Update (Exhibit 99.2). Investing.com via Yahoo (2026-10-21) also matches revenue, segments, 49.5 million customers and the $0.50-$1.50 range. Analyst consensus EPS left out: Skift says $1.76, Investing.com says $1.88. Per-gallon prices left out (word out of level); only the $0.45 gap and its ~$1/share effect are used. Fare and capacity remarks by the CFO and Delta's guidance cut appear only in Skift's AI summary, not used.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "on Tuesday United issued a disappointing fourth-quarter earnings outlook due to high jet fuel costs",
+    "quote": "United Airlines on Tuesday issued a disappointing earnings outlook for the fourth quarter due to continued high costs for jet fuel."
+   },
+   {
+    "id": "f2",
+    "text": "results released October 20, 2026",
+    "quote": "CHICAGO, October 20, 2026"
+   },
+   {
+    "id": "f3",
+    "text": "Q3 2026 revenue $17.9 billion, up 17% from Q3 2025, a record",
+    "quote": "Q3 total operating revenue of $17.9 billion rose 17% year-over-year and set an all-time record"
+   },
+   {
+    "id": "f4",
+    "text": "record 49.5 million customers in Q3",
+    "quote": "United carried a record 49.5 million customers during Q3"
+   },
+   {
+    "id": "f5",
+    "text": "vs Q3 2025: premium up 17%, basic economy up 16%, loyalty up 17%, cargo up 23%",
+    "quote": "compared to the third quarter of 2025, Premium revenue was up 17%, revenue from Basic Economy was up 16%, loyalty revenue was up 17% and cargo revenue was up 23%."
+   },
+   {
+    "id": "f6",
+    "text": "fuel expense up 62% vs Q3 2025",
+    "quote": "within guidance despite a 62% increase in fuel expense"
+   },
+   {
+    "id": "f7",
+    "text": "fuel expense up $1.8 billion vs Q3 2025",
+    "quote": "Fuel expense was up $1.8 billion compared to third-quarter 2025 as jet fuel prices remained volatile."
+   },
+   {
+    "id": "f8",
+    "text": "Q4 adjusted EPS $0.50 to $1.50 (50 cents to $1.50), short of analyst expectations",
+    "quote": "It now expects adjusted earnings per share to range from $0.50 to $1.50, short of the $1.76 analysts expected."
+   },
+   {
+    "id": "f9",
+    "text": "fuel assumption about $0.45 (45 cents) higher than consensus, worth about $1 a share",
+    "quote": "about $0.45 higher than what consensus assumed, a difference it said is worth roughly $1 a share."
+   },
+   {
+    "id": "f10",
+    "text": "Q4 revenue growth over 20% year over year, another record",
+    "quote": "United expects Q4 total operating revenue growth to accelerate versus Q3 and set another record with an over 20% year-over-year increase"
+   },
+   {
+    "id": "f11",
+    "text": "despite fuel costs, demand is high; premium and loyalty up 17%",
+    "quote": "Despite the higher fuel costs, United is still seeing high travel demand — premium and loyalty revenues were both up 17%."
+   }
+  ]
+ },
+ "paragraphs": [
+  "United Airlines is a large airline in the United States. On Tuesday, October 20, it warned investors that its profit at the end of the year will be weaker than they expected. The reason is the high price of fuel. For any airline, fuel is a crucial cost, and its price is still high.",
+  "First, the good news. From July to September, United earned $17.9 billion in revenue. That was 17% more than in the same months of 2025, and it was a record for the company. United also carried a record 49.5 million customers in those three months.",
+  "People clearly still want to travel. Revenue from premium seats rose 17%. Revenue from loyalty, the program that gives points to frequent fliers, also rose 17%. Even basic economy, the cheapest kind of ticket, grew 16%. Cargo, the goods that United carries in its planes for other businesses, rose 23%. These numbers demonstrate that demand is strong. People in the best seats, frequent fliers and travelers on a small budget are all spending more.",
+  "Nevertheless, fuel put a heavy burden on the airline. United spent 62% more on fuel than a year earlier. That is $1.8 billion extra in just three months. When fuel costs rise this fast, the profit margin on each flight gets smaller. In other words, the airline keeps less money from every dollar it earns. A thin margin is hard to sustain for a long time.",
+  "The bigger strain is still ahead. For October to December, United expects earnings of between 50 cents and $1.50 for each share. That is less than Wall Street expected. United says it will pay about 45 cents more for the same amount of fuel than Wall Street had assumed. According to the company, that difference alone is worth about $1 for each share. So the company says the problem is fuel, not a lack of customers.",
+  "United's news highlights a problem for the whole airline business. Airlines rely on fuel for every flight, and they cannot simply fly without it. They also rely on customers who keep buying tickets. That second part looks good for now. United says its revenue from October to December will grow more than 20% from a year earlier and set another record.",
+  "So the news is good and bad at the same time. Customers are paying more than ever, and loyalty and cargo are growing. But fuel is the burden that United cannot control. The airline warned that the strain from fuel will make its profit weaker at the end of the year. The crucial question is whether it can sustain strong profits while fuel stays expensive, and whether other airlines can do the same."
+ ],
+ "names": {
+  "United Airlines": {
+   "vi": "United Airlines, một hãng hàng không lớn của Mỹ"
+  },
+  "United": {
+   "vi": "hãng hàng không United Airlines"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "Wall Street": {
+   "vi": "Phố Wall — chỉ giới đầu tư, thị trường chứng khoán Mỹ"
+  }
+ }
+}
