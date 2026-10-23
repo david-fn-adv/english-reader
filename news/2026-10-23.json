@@ -1,0 +1,3471 @@
+{
+ "id": "2026-10-23",
+ "domain": "fashion",
+ "title": "Mulberry Sells More Bags at Full Price",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://www.retail-insight-network.com/newsletters/mulberry-18-h1-fy2027-sales-growth",
+  "outlet": "Retail Insight Network",
+  "author": "Shubhendu Vimal",
+  "title": "Mulberry reports 18% H1 FY2027 sales growth",
+  "date": "2026-10-19",
+  "accessed": "2026-10-23",
+  "checked_against": "https://fashionunited.com/news/business/mulberry-records-18-percent-h1-revenue-growth-driven-by-full-price-sales/2026101975236",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "article dated October 19, 2026 (RIN byline date; FashionUnited URL 20261019)",
+    "quote": "October 19 2026"
+   },
+   {
+    "id": "f2",
+    "text": "half year ended September 26, 2026 (FU: 26 weeks ended September 26, 2026); 26 weeks = precisely half of a 52-week year",
+    "quote": "In its trading update for the half year ended 26 September 2026,"
+   },
+   {
+    "id": "f3",
+    "text": "group sales up 18% (FU: 18.1% at actual currency rates)",
+    "quote": "reported an 18% increase in group sales during the first half (H1) of FY2027"
+   },
+   {
+    "id": "f3b",
+    "text": "exact figure 18.1% at actual currency rates (FashionUnited)",
+    "quote": "announced an 18.1 percent increase in sales at actual currency rates for the 26 weeks ended September 26, 2026."
+   },
+   {
+    "id": "f4",
+    "text": "US sales +28% YoY (FashionUnited only; RIN gives US 34% like-for-like, also in FU)",
+    "quote": "Revenue in the US grew 28 percent year-over-year (YoY), or 34 percent on a like-for-like (LFL) basis,"
+   },
+   {
+    "id": "f5",
+    "text": "US growth: digital, Bloomingdale's Marketplace launch, wider wholesale presence (both sources)",
+    "quote": "performance was supported by higher customer demand, digital sales growth, the launch of Bloomingdale's Marketplace, and a wider wholesale presence."
+   },
+   {
+    "id": "f6",
+    "text": "Europe excluding UK +23% YoY (FashionUnited; RIN: 21% LFL, matches FU)",
+    "quote": "European sales, excluding the UK, increased 23 percent YoY (21 percent LFL)."
+   },
+   {
+    "id": "f7",
+    "text": "UK +10% YoY (FashionUnited; RIN: 9% LFL, matches FU)",
+    "quote": "In the UK, sales grew 10 percent YoY and 9 percent LFL."
+   },
+   {
+    "id": "f8",
+    "text": "Asia Pacific total sales +5% YoY (FashionUnited; RIN: 24% LFL, matches FU)",
+    "quote": "Asia Pacific total sales rose 5 percent YoY, recorded at 24 percent LFL."
+   },
+   {
+    "id": "f9",
+    "text": "franchise and wholesale +52%; 17% of revenue vs 16% a year earlier (both sources)",
+    "quote": "The franchise and wholesale division grew 52 percent YoY, representing 17 percent of total revenue for the period compared to 16 percent in the prior year period."
+   },
+   {
+    "id": "f10",
+    "text": "Bayswater and Lily demand sustained; new launches incl. Stevie, Darley Camera Bag (both sources)",
+    "quote": "Demand was sustained across core product families including Bayswater and Lily, alongside new launches such as Raffia, Crochet, Stevie, and the Darley Camera Bag."
+   },
+   {
+    "id": "f11",
+    "text": "CEO Andrea Baldo: past year spent refocusing on product, brand and customer",
+    "quote": "The strength of our performance reflects the work undertaken over the past year to refocus the Group around product, brand and customer,"
+   },
+   {
+    "id": "f12",
+    "text": "growth driven by full-price sales (FU headline)",
+    "quote": "Mulberry records 18 percent H1 revenue growth driven by full-price sales"
+   },
+   {
+    "id": "f13",
+    "text": "Baldo: full-price growth shows collections resonate in key markets despite challenging environment (FU, indirect)",
+    "quote": "growth in full-price sales demonstrates collection resonance across key markets despite a challenging trading environment."
+   },
+   {
+    "id": "f14",
+    "text": "disciplined trading, restricted discounting (RIN)",
+    "quote": "Mulberry said it maintained a \"disciplined\" trading approach and restricted discounting during the period."
+   },
+   {
+    "id": "f15",
+    "text": "promotional sales share 300 basis points (= 3 percentage points) lower excluding markdowns, supporting gross margin (both sources)",
+    "quote": "Excluding markdown activity, promotional sales represented a proportion of sales 300 basis points lower than in the previous-year period, supporting gross margin performance."
+   },
+   {
+    "id": "f16",
+    "text": "medium-term targets: revenue above £200m, adjusted EBIT margin 15% (both sources)",
+    "quote": "continues to target annual revenue of more than £200m ($266.7m) and an adjusted EBIT margin of 15% over the medium term."
+   },
+   {
+    "id": "f17",
+    "text": "FY2026 revenue £125.5m, up 4% from £120.4m (RIN only)",
+    "quote": "FY2026 group revenue of £125.5m, up 4% from £120.4m a year earlier."
+   },
+   {
+    "id": "f18",
+    "text": "half-year results on November 19, 2026 (both sources)",
+    "quote": "The company is scheduled to publish its H1 results on 19 November 2026."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.919,
+  "effective": 0.963,
+  "tokens": 484,
+  "new_core": 8
+ },
+ "vocab": [
+  "precisely",
+  "vary",
+  "derive",
+  "cite",
+  "franchise",
+  "keen",
+  "restrict",
+  "discipline",
+  "compared with",
+  "make up",
+  "such as",
+  "in other words",
+  "leave out",
+  "according to",
+  "even though"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Mulberry",
+      "n": "Mulberry",
+      "k": "name"
+     },
+     {
+      "w": "Sells",
+      "k": "name"
+     },
+     {
+      "w": "More",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "Bags",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "Full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "Price",
+      "l": "price",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Mulberry",
+      "n": "Mulberry",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "maker",
+      "l": "maker",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "bags",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "include",
+      "l": "include",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Bayswater",
+      "n": "Bayswater",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Lily",
+      "nsp": 1,
+      "n": "Lily",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "19",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "news",
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": "reports",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "shared",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "update",
+      "l": "update",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "covered",
+      "l": "cover",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "26",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "weeks",
+      "l": "week",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "ended",
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": "26",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "precisely",
+      "l": "precisely",
+      "k": "core"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "update",
+      "l": "update",
+      "k": "known"
+     },
+     {
+      "w": "showed",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "considerable",
+      "l": "considerable",
+      "k": "core"
+     },
+     {
+      "w": "growth",
+      "nsp": 1,
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "18",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "precisely",
+      "l": "precisely",
+      "k": "core"
+     },
+     {
+      "w": "18.1",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "varied",
+      "l": "vary",
+      "k": "core"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "strongest",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "There",
+      "nsp": 1,
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "28",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "derived",
+      "l": "derive",
+      "k": "core"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "digital",
+      "l": "digital",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "cited",
+      "l": "cite",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "launch",
+      "l": "launch",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Bloomingdale",
+      "nsp": 1,
+      "n": "Bloomingdale's Marketplace",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "n": "Bloomingdale's Marketplace",
+      "k": "plain"
+     },
+     {
+      "w": "Marketplace",
+      "nsp": 1,
+      "n": "Bloomingdale's Marketplace",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "cited",
+      "l": "cite",
+      "k": "core"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "country",
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "Mulberry",
+      "n": "Mulberry",
+      "k": "name"
+     },
+     {
+      "w": "bags",
+      "nsp": 1,
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "overseas",
+      "l": "overseas",
+      "k": "core"
+     },
+     {
+      "w": "markets",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "too",
+      "nsp": 1,
+      "l": "too",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "counting",
+      "l": "count",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": "Kingdom",
+      "nsp": 1,
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "23",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Asia",
+      "n": "Asia Pacific",
+      "k": "name"
+     },
+     {
+      "w": "Pacific",
+      "n": "Asia Pacific",
+      "k": "name"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "weaker",
+      "nsp": 1,
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": "Kingdom",
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": "itself",
+      "nsp": 1,
+      "l": "itself",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "10",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "numbers",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "vary",
+      "l": "vary",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lot",
+      "nsp": 1,
+      "l": "lot",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "28",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "overseas",
+      "l": "overseas",
+      "k": "core"
+     },
+     {
+      "w": "regions",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "faster",
+      "l": "fast",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": "Kingdom",
+      "nsp": 1,
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Mulberry",
+      "n": "Mulberry",
+      "k": "name"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "own",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "go",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "through",
+      "l": "through",
+      "k": "known"
+     },
+     {
+      "w": "franchise",
+      "l": "franchise",
+      "k": "core"
+     },
+     {
+      "w": "partners",
+      "l": "partner",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "partner",
+      "l": "partner",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "franchise",
+      "nsp": 1,
+      "l": "franchise",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "runs",
+      "l": "run",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "name",
+      "nsp": 1,
+      "l": "name",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "partner",
+      "l": "partner",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "maker",
+      "l": "maker",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "own",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "customers",
+      "nsp": 1,
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "through",
+      "l": "through",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "partners",
+      "l": "partner",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "52",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "made",
+      "l": "make up",
+      "ph": 2,
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "make up",
+      "ph": 2,
+      "k": "known"
+     },
+     {
+      "w": "17",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "16",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "stayed",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "keen",
+      "l": "keen",
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "iconic",
+      "l": "iconic",
+      "k": "core"
+     },
+     {
+      "w": "Bayswater",
+      "n": "Bayswater",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Lily",
+      "n": "Lily",
+      "k": "name"
+     },
+     {
+      "w": "bags",
+      "nsp": 1,
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Demand",
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "sustained",
+      "nsp": 1,
+      "l": "sustain",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Additionally",
+      "nsp": 1,
+      "l": "additionally",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "styles",
+      "l": "style",
+      "k": "known"
+     },
+     {
+      "w": "such",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Stevie",
+      "n": "Stevie",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Darley",
+      "n": "Darley Camera Bag",
+      "k": "name"
+     },
+     {
+      "w": "Camera",
+      "n": "Darley Camera Bag",
+      "k": "name"
+     },
+     {
+      "w": "Bag",
+      "n": "Darley Camera Bag",
+      "k": "name"
+     },
+     {
+      "w": "helped",
+      "nsp": 1,
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Chief",
+      "l": "chief",
+      "k": "known"
+     },
+     {
+      "w": "executive",
+      "l": "executive",
+      "k": "known"
+     },
+     {
+      "w": "Andrea",
+      "n": "Andrea Baldo",
+      "k": "name"
+     },
+     {
+      "w": "Baldo",
+      "n": "Andrea Baldo",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "worked",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "past",
+      "l": "past",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "focus",
+      "l": "focus",
+      "k": "known"
+     },
+     {
+      "w": "again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "product",
+      "nsp": 1,
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "customer",
+      "nsp": 1,
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "derived",
+      "l": "derive",
+      "k": "core"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "paid",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "normal",
+      "l": "normal",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "sale",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Mulberry",
+      "n": "Mulberry",
+      "k": "name"
+     },
+     {
+      "w": "restricted",
+      "l": "restrict",
+      "k": "core"
+     },
+     {
+      "w": "discounts",
+      "l": "discount",
+      "k": "known"
+     },
+     {
+      "w": "during",
+      "l": "during",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "kept",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "discipline",
+      "l": "discipline",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "way",
+      "l": "way",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "traded",
+      "nsp": 1,
+      "l": "trade",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "restricted",
+      "l": "restrict",
+      "k": "core"
+     },
+     {
+      "w": "discounts",
+      "nsp": 1,
+      "l": "discount",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "fewer",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "made",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "special",
+      "l": "special",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Leaving",
+      "l": "leave out",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "out",
+      "l": "leave out",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "types",
+      "l": "type",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "cuts",
+      "nsp": 1,
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "3",
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "percentage",
+      "l": "percentage",
+      "k": "known"
+     },
+     {
+      "w": "points",
+      "nsp": 1,
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "discipline",
+      "l": "discipline",
+      "k": "core"
+     },
+     {
+      "w": "partly",
+      "l": "partly",
+      "k": "known"
+     },
+     {
+      "w": "supported",
+      "l": "support",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "margin",
+      "nsp": 1,
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "margin",
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "sale",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "keeps",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "paying",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "nsp": 1,
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Baldo",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "full-price",
+      "l": "full-price",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "demonstrates",
+      "l": "demonstrate",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "key",
+      "l": "key",
+      "k": "known"
+     },
+     {
+      "w": "markets",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "keen",
+      "l": "keen",
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "collections",
+      "nsp": 1,
+      "l": "collection",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "even",
+      "l": "even though",
+      "ph": 2,
+      "k": "known"
+     },
+     {
+      "w": "though",
+      "l": "even though",
+      "ph": 2,
+      "k": "known"
+     },
+     {
+      "w": "trading",
+      "l": "trading",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "difficult",
+      "nsp": 1,
+      "l": "difficult",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Mulberry",
+      "n": "Mulberry",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "repeated",
+      "l": "repeat",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "goals",
+      "l": "goal",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "medium",
+      "l": "medium",
+      "k": "known"
+     },
+     {
+      "w": "term",
+      "nsp": 1,
+      "l": "term",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "yearly",
+      "l": "yearly",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "200",
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "pounds",
+      "nsp": 1,
+      "l": "pound",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "margin",
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "15",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "using",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "own",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "measure",
+      "nsp": 1,
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "comparison",
+      "nsp": 1,
+      "l": "comparison",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "125.5",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "pounds",
+      "nsp": 1,
+      "l": "pound",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "4",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "120.4",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "pounds",
+      "nsp": 1,
+      "l": "pound",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "considerable",
+      "l": "considerable",
+      "k": "core"
+     },
+     {
+      "w": "gap",
+      "l": "gap",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "today",
+      "nsp": 1,
+      "l": "today",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "goal",
+      "nsp": 1,
+      "l": "goal",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": "19",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "full": {
+   "ipa": "fʊl",
+   "pos": "name",
+   "en": "with nothing missing; the normal amount",
+   "vi": "đầy đủ, nguyên (giá)",
+   "band": 1
+  },
+  "maker": {
+   "ipa": "ˈmeɪkɚ",
+   "pos": "n",
+   "en": "a person or company that makes something",
+   "vi": "nhà sản xuất, hãng làm ra",
+   "band": 4
+  },
+  "update": {
+   "ipa": "əpˈdeɪt",
+   "pos": "n",
+   "en": "new information about how something is going",
+   "vi": "bản cập nhật",
+   "band": 2
+  },
+  "cover": {
+   "ipa": "ˈkʌvɚ",
+   "pos": "v",
+   "en": "to include a certain time or subject",
+   "vi": "bao gồm, tính cho (giai đoạn)",
+   "band": 1
+  },
+  "week": {
+   "ipa": "wik",
+   "pos": "n",
+   "en": "a time of seven days",
+   "vi": "tuần",
+   "band": 1
+  },
+  "precisely": {
+   "ipa": "prɪˈsaɪsli",
+   "pos": "adv",
+   "en": "exactly",
+   "vi": "chính xác là",
+   "band": 4
+  },
+  "vary": {
+   "ipa": "ˈvɛri",
+   "pos": "v",
+   "en": "to be different from one to another",
+   "vi": "khác nhau, dao động",
+   "band": 4
+  },
+  "derive": {
+   "ipa": "dɚˈaɪv",
+   "pos": "v",
+   "en": "to come from something",
+   "vi": "đến từ, bắt nguồn từ",
+   "band": 4
+  },
+  "digital": {
+   "ipa": "ˈdɪdʒətəl",
+   "pos": "adj",
+   "en": "using computers and the internet",
+   "vi": "kỹ thuật số, trực tuyến",
+   "band": 2
+  },
+  "cite": {
+   "ipa": "saɪt",
+   "pos": "v",
+   "en": "to give something as a reason or example",
+   "vi": "nêu ra (làm lý do)",
+   "band": 4
+  },
+  "lot": {
+   "ipa": "lɑt",
+   "pos": "n",
+   "en": "a large amount",
+   "vi": "nhiều",
+   "band": 1
+  },
+  "region": {
+   "ipa": "ˈridʒən",
+   "pos": "n",
+   "en": "a large area of the world or of a country",
+   "vi": "khu vực",
+   "band": 1
+  },
+  "through": {
+   "ipa": "θru",
+   "pos": "prep",
+   "en": "by using a person or thing",
+   "vi": "thông qua",
+   "band": 1
+  },
+  "franchise": {
+   "ipa": "ˈfrænˌtʃaɪz",
+   "pos": "n",
+   "en": "a deal that lets a business use another company's name to sell",
+   "vi": "nhượng quyền thương hiệu",
+   "band": 4
+  },
+  "run": {
+   "ipa": "rʌn",
+   "pos": "v",
+   "en": "to control and manage a business",
+   "vi": "điều hành",
+   "band": 1
+  },
+  "make up": {
+   "ipa": "meɪk ʌp",
+   "pos": "phr",
+   "en": "to form a part of a total",
+   "vi": "chiếm (một phần)",
+   "band": 1
+  },
+  "keen": {
+   "ipa": "kin",
+   "pos": "adj",
+   "en": "wanting something very much",
+   "vi": "thích, mê, háo hức",
+   "band": 4
+  },
+  "additionally": {
+   "ipa": "əˈdɪʃəˌnʌli",
+   "pos": "adv",
+   "en": "also; and more",
+   "vi": "ngoài ra",
+   "band": 4
+  },
+  "style": {
+   "ipa": "staɪl",
+   "pos": "n",
+   "en": "a design of a product",
+   "vi": "kiểu, mẫu",
+   "band": 1
+  },
+  "focus": {
+   "ipa": "ˈfoʊkəs",
+   "pos": "v",
+   "en": "to give most of your attention to something",
+   "vi": "tập trung",
+   "band": 1
+  },
+  "restrict": {
+   "ipa": "riˈstrɪkt",
+   "pos": "v",
+   "en": "to keep something small or under control",
+   "vi": "hạn chế",
+   "band": 4
+  },
+  "discount": {
+   "ipa": "dɪˈskaʊnt",
+   "pos": "n",
+   "en": "a lower price than usual",
+   "vi": "giảm giá",
+   "band": 3
+  },
+  "during": {
+   "ipa": "ˈdʊrɪŋ",
+   "pos": "prep",
+   "en": "from the start to the end of a time",
+   "vi": "trong suốt",
+   "band": 1
+  },
+  "discipline": {
+   "ipa": "ˈdɪsəplən",
+   "pos": "n",
+   "en": "careful control of what you do",
+   "vi": "kỷ luật, sự chặt chẽ",
+   "band": 4
+  },
+  "few": {
+   "ipa": "fju",
+   "pos": "adj",
+   "en": "not many",
+   "vi": "ít",
+   "band": 1
+  },
+  "leave out": {
+   "ipa": "liv aʊt",
+   "pos": "phr",
+   "en": "to not include something",
+   "vi": "bỏ ra, không tính",
+   "band": 1
+  },
+  "type": {
+   "ipa": "taɪp",
+   "pos": "n",
+   "en": "a kind or group of things",
+   "vi": "loại",
+   "band": 1
+  },
+  "cut": {
+   "ipa": "kʌt",
+   "pos": "n",
+   "en": "a fall in an amount or price",
+   "vi": "sự cắt giảm",
+   "band": 1
+  },
+  "percentage": {
+   "ipa": "pɚˈsɛntədʒ",
+   "pos": "n",
+   "en": "a number out of 100",
+   "vi": "phần trăm",
+   "band": 3
+  },
+  "partly": {
+   "ipa": "ˈpɑrtli",
+   "pos": "adv",
+   "en": "in part; not fully",
+   "vi": "một phần",
+   "band": 4
+  },
+  "full-price": {
+   "ipa": "ˈfʊlˌpraɪs",
+   "pos": "n",
+   "en": "the normal price, with no money taken off",
+   "vi": "giá gốc, nguyên giá"
+  },
+  "collection": {
+   "ipa": "kəˈlɛkʃən",
+   "pos": "n",
+   "en": "a group of new clothes or bags shown together",
+   "vi": "bộ sưu tập",
+   "band": 1
+  },
+  "trading": {
+   "ipa": "ˈtreɪdɪŋ",
+   "pos": "n",
+   "en": "the business of buying and selling",
+   "vi": "kinh doanh, buôn bán",
+   "band": 2
+  },
+  "difficult": {
+   "ipa": "ˈdɪfəkəlt",
+   "pos": "adj",
+   "en": "not easy",
+   "vi": "khó khăn",
+   "band": 1
+  },
+  "repeat": {
+   "ipa": "rɪˈpit",
+   "pos": "v",
+   "en": "to say something again",
+   "vi": "nhắc lại",
+   "band": 3
+  },
+  "medium": {
+   "ipa": "ˈmidiəm",
+   "pos": "adj",
+   "en": "in the middle; not long and not short",
+   "vi": "trung (hạn)",
+   "band": 2
+  },
+  "term": {
+   "ipa": "tɝm",
+   "pos": "n",
+   "en": "a period of time",
+   "vi": "thời hạn, kỳ",
+   "band": 1
+  },
+  "yearly": {
+   "ipa": "ˈjɪrli",
+   "pos": "adj",
+   "en": "happening or counted each year",
+   "vi": "hằng năm",
+   "band": 6
+  },
+  "pound": {
+   "ipa": "paʊnd",
+   "pos": "n",
+   "en": "the money used in the United Kingdom",
+   "vi": "bảng Anh",
+   "band": 3
+  },
+  "measure": {
+   "ipa": "ˈmɛʒɚ",
+   "pos": "n",
+   "en": "a way of counting or judging something",
+   "vi": "cách đo, thước đo",
+   "band": 2
+  },
+  "comparison": {
+   "ipa": "kəmˈpɛrəsən",
+   "pos": "n",
+   "en": "looking at how two things are the same or different",
+   "vi": "sự so sánh",
+   "band": 3
+  }
+ },
+ "names": {
+  "Mulberry": {
+   "vi": "hãng thời trang và túi xách da của Anh"
+  },
+  "Bayswater": {
+   "vi": "dòng túi xách kinh điển của Mulberry"
+  },
+  "Lily": {
+   "vi": "dòng túi xách kinh điển của Mulberry"
+  },
+  "Stevie": {
+   "vi": "mẫu túi mới của Mulberry"
+  },
+  "Darley Camera Bag": {
+   "vi": "mẫu túi đeo chéo kiểu túi máy ảnh mới của Mulberry"
+  },
+  "Bloomingdale's Marketplace": {
+   "vi": "khu bán hàng trực tuyến của chuỗi bách hoá Bloomingdale's (Mỹ)"
+  },
+  "Andrea Baldo": {
+   "vi": "tổng giám đốc (CEO) của Mulberry"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "United Kingdom": {
+   "vi": "Vương quốc Anh"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Asia Pacific": {
+   "vi": "khu vực châu Á – Thái Bình Dương"
+  }
+ }
+}
