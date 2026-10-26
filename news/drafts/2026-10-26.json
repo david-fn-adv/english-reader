@@ -1,0 +1,198 @@
+{
+ "id": "2026-10-26",
+ "domain": "business",
+ "title": "Spotify Grows to 788 Million Users",
+ "source": {
+  "url": "https://www.hypebot.com/spotify-q3-2026-788m-users-and-306m-subscribers/",
+  "outlet": "Hypebot",
+  "author": "Bruce Houghton",
+  "title": "Spotify Q3 2026: 788M Users and 306M Subscribers",
+  "date": "2026-10-22",
+  "accessed": "2026-10-26",
+  "checked_against": "https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "results released October 22, 2026 (Hypebot date Oct 22, 2026; Spotify newsroom URL 2026-10-22)",
+    "quote": "Spotify released its Q3 2026 subscriber and earnings report showing sustained double-digit growth while also improving profitability."
+   },
+   {
+    "id": "f2",
+    "text": "788 million monthly active users, up 11% year over year (both sources)",
+    "quote": "Monthly Active Users (MAUs) rose by 11% Y/Y to 788 million"
+   },
+   {
+    "id": "f3",
+    "text": "11 million net new monthly users in the quarter (Hypebot)",
+    "quote": "11 million net new MAUs."
+   },
+   {
+    "id": "f4",
+    "text": "Premium subscribers up 9% to 306 million (both sources)",
+    "quote": "Premium Subscribers grew 9% Y/Y to 306 million"
+   },
+   {
+    "id": "f5",
+    "text": "6 million net Premium additions in the quarter (Hypebot)",
+    "quote": "6 million net premium subscriber additions during the quarter."
+   },
+   {
+    "id": "f6",
+    "text": "ad-supported users 499 million, up 12% year over year (Hypebot; search snippet of Thurrott agrees)",
+    "quote": "Ad-Supported MAUs rose to 499 million."
+   },
+   {
+    "id": "f6b",
+    "text": "ad-supported growth 12% year over year",
+    "quote": "a 12% increase year-over-year for the ad-supported tier."
+   },
+   {
+    "id": "f7",
+    "text": "Premium growth across every region (Spotify newsroom)",
+    "quote": "In Q3 2026, we grew to 306 million Premium Subscribers, with growth across every region"
+   },
+   {
+    "id": "f8",
+    "text": "total revenue up 16% year over year to 5.0 billion euros (newsroom; Hypebot: 4.969 billion euros, 16%)",
+    "quote": "Total Revenue increased 16% Y/Y (14% Y/Y constant currency*) to €5.0 billion"
+   },
+   {
+    "id": "f9",
+    "text": "gross margin 33.0%, a third-quarter record (Hypebot; newsroom: improved to 33.0%)",
+    "quote": "Gross Margin finished at a Q3 record high of 33.0%."
+   },
+   {
+    "id": "f10",
+    "text": "stock closed the day up 11.19% (more than 11) at $583.66 (Hypebot only)",
+    "quote": "Spotify [SPOT] closed the day at $583.66 up 11.19%"
+   },
+   {
+    "id": "f11",
+    "text": "Hypebot: sustained double-digit growth (more than 10%) while improving profitability",
+    "quote": "showing sustained double-digit growth while also improving profitability."
+   },
+   {
+    "id": "f12",
+    "text": "Hypebot: results prove scaling profitability without sacrificing audience growth",
+    "quote": "successfully code on scaling profitability without sacrificing audience growth."
+   },
+   {
+    "id": "f13",
+    "text": "Alex Norström, Co-CEO: did what we said",
+    "quote": "This was a quarter where we did what we said."
+   },
+   {
+    "id": "f14",
+    "text": "Norström: continue to grow and take share",
+    "quote": "That’s why we continue to grow and take share."
+   },
+   {
+    "id": "f15",
+    "text": "Gustav Söderström, Co-CEO: Spotify stands to thrive in the agentic age",
+    "quote": "Spotify is in one of the few categories that actually stands to thrive in the agentic age."
+   },
+   {
+    "id": "f16",
+    "text": "Söderström: agents take care of things people would rather not do; nobody asks an agent to summarize a song",
+    "quote": "agents excel at replacing and taking care of things people would rather not do."
+   },
+   {
+    "id": "f16b",
+    "text": "Söderström quote",
+    "quote": "Nobody asks an agent to “summarize a song” for them."
+   },
+   {
+    "id": "f17",
+    "text": "Creator Memberships rolling out in 34 markets for eligible creators (both sources)",
+    "quote": "Memberships are now rolling out in 34 markets, giving eligible creators a new way to offer exclusive content"
+   },
+   {
+    "id": "f18",
+    "text": "Spotify Partner Program to more than 35 new markets incl. Brazil, Mexico, Italy, Spain; earnings based on engagement (both sources)",
+    "quote": "This expansion gives podcast creators in countries like Brazil, Mexico, Italy, and Spain new opportunities to earn revenue based on engagement."
+   },
+   {
+    "id": "f19",
+    "text": "Taste Profile beta for Premium users 18 and older in the U.S.; shows how Spotify understands taste in music, podcasts, audiobooks; editable (both sources)",
+    "quote": "It’s now available to Premium Subscribers ages 18 and older in the U.S."
+   },
+   {
+    "id": "f19b",
+    "text": "Taste Profile is editable (Hypebot)",
+    "quote": "giving users an editable view of how the platform understands their taste."
+   },
+   {
+    "id": "f20",
+    "text": "audiobooks from 22 markets to more than 180 by end of 2026 (both sources)",
+    "quote": "From now through the end of 2026, we’re expanding audiobook access from 22 markets to more than 180."
+   },
+   {
+    "id": "f21",
+    "text": "Fresh Finds Forward: about 10,000 emerging independent artists each year (newsroom only)",
+    "quote": "Our new Fresh Finds Forward program will give approximately 10,000 emerging independent artists each year the resources"
+   },
+   {
+    "id": "f22",
+    "text": "Coach Live Your Story campaign, Tabby Tour at college campuses in U.S., U.K., Japan, South Korea (newsroom only)",
+    "quote": "The tour is making stops at college campuses across the U.S., U.K., Japan, and South Korea."
+   }
+  ]
+ },
+ "paragraphs": [
+  "Spotify is a service for music, podcasts and audio books. People can use it for free with ads, or they can pay for Premium. On October 22, the company shared its results for the third quarter of 2026. The results highlight strong growth in users and in money.",
+  "In the quarter, 788 million people used Spotify each month. That was 11% more than a year earlier. The number of paying Premium users grew 9% to 306 million. Of all monthly users, 499 million used the free version with ads. That group grew 12%. According to Spotify, the growth was widespread. Premium users grew in every region of the world.",
+  "Revenue rose 16% from a year earlier, to 5.0 billion euros. The gross margin reached 33.0%. The gross margin is the part of revenue that is left after paying the direct costs of the service. It was the highest margin Spotify has ever had in a third quarter. Investors were happy. On the day of the report, the stock closed more than 11% higher.",
+  "The music news site Hypebot said the results demonstrate that Spotify can earn more without losing growth in users.",
+  "Spotify has two chief executives. One of them, Alex Norström, said: \"This was a quarter where we did what we said.\" He added that Spotify continues to grow and take a bigger share of the market. The other, Gustav Söderström, talked about agents. Agents are intelligent computer programs that do jobs for people. In his view, people use agents for things they would rather not do. But nobody asks an agent to give them a short version of a song. He believes Spotify can do well in a time of intelligent agents.",
+  "Spotify also wants to help people who make shows and other content earn more. In 34 markets, eligible creators can now offer special content to fans who pay for a membership. Another program pays podcast creators based on how much people listen. It is coming to more than 35 new markets, including Brazil, Mexico, Italy and Spain. So these programs are becoming more widespread.",
+  "Spotify also launched a beta version of a feature called Taste Profile. A beta is an early test version. It shows users how Spotify understands their taste in music, podcasts and books. Users can also change it. For now, only Premium users aged 18 or older in the United States are eligible.",
+  "The company is gradually bringing audio books to more countries. It was in 22 markets, and it will gradually reach more than 180 by the end of 2026. Spotify also has a new program for emerging artists. An emerging artist is a new artist who is just starting to become known. Each year, about 10,000 such artists will get help. Spotify also has a collaboration with the fashion brand Coach. As part of the collaboration, a tour is visiting colleges in the United States, the United Kingdom, Japan and South Korea."
+ ],
+ "names": {
+  "Spotify": {
+   "vi": "ứng dụng nghe nhạc trực tuyến của Thuỵ Điển"
+  },
+  "Premium": {
+   "vi": "gói trả phí của Spotify (không quảng cáo)"
+  },
+  "Hypebot": {
+   "vi": "trang tin về ngành âm nhạc (Mỹ)"
+  },
+  "Alex Norström": {
+   "vi": "đồng tổng giám đốc (co-CEO) của Spotify"
+  },
+  "Gustav Söderström": {
+   "vi": "đồng tổng giám đốc (co-CEO) của Spotify"
+  },
+  "Taste Profile": {
+   "vi": "tính năng \"hồ sơ gu nghe\" của Spotify"
+  },
+  "Coach": {
+   "vi": "hãng túi xách và thời trang của Mỹ"
+  },
+  "Brazil": {
+   "vi": "Brazil"
+  },
+  "Mexico": {
+   "vi": "Mexico"
+  },
+  "Italy": {
+   "vi": "Ý"
+  },
+  "Spain": {
+   "vi": "Tây Ban Nha"
+  },
+  "Japan": {
+   "vi": "Nhật Bản"
+  },
+  "South Korea": {
+   "vi": "Hàn Quốc"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "United Kingdom": {
+   "vi": "Vương quốc Anh"
+  }
+ }
+}

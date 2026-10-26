@@ -1,0 +1,3478 @@
+{
+ "id": "2026-10-26",
+ "domain": "business",
+ "title": "Spotify Grows to 788 Million Users",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://www.hypebot.com/spotify-q3-2026-788m-users-and-306m-subscribers/",
+  "outlet": "Hypebot",
+  "author": "Bruce Houghton",
+  "title": "Spotify Q3 2026: 788M Users and 306M Subscribers",
+  "date": "2026-10-22",
+  "accessed": "2026-10-26",
+  "checked_against": "https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "results released October 22, 2026 (Hypebot date Oct 22, 2026; Spotify newsroom URL 2026-10-22)",
+    "quote": "Spotify released its Q3 2026 subscriber and earnings report showing sustained double-digit growth while also improving profitability."
+   },
+   {
+    "id": "f2",
+    "text": "788 million monthly active users, up 11% year over year (both sources)",
+    "quote": "Monthly Active Users (MAUs) rose by 11% Y/Y to 788 million"
+   },
+   {
+    "id": "f3",
+    "text": "11 million net new monthly users in the quarter (Hypebot)",
+    "quote": "11 million net new MAUs."
+   },
+   {
+    "id": "f4",
+    "text": "Premium subscribers up 9% to 306 million (both sources)",
+    "quote": "Premium Subscribers grew 9% Y/Y to 306 million"
+   },
+   {
+    "id": "f5",
+    "text": "6 million net Premium additions in the quarter (Hypebot)",
+    "quote": "6 million net premium subscriber additions during the quarter."
+   },
+   {
+    "id": "f6",
+    "text": "ad-supported users 499 million, up 12% year over year (Hypebot; search snippet of Thurrott agrees)",
+    "quote": "Ad-Supported MAUs rose to 499 million."
+   },
+   {
+    "id": "f6b",
+    "text": "ad-supported growth 12% year over year",
+    "quote": "a 12% increase year-over-year for the ad-supported tier."
+   },
+   {
+    "id": "f7",
+    "text": "Premium growth across every region (Spotify newsroom)",
+    "quote": "In Q3 2026, we grew to 306 million Premium Subscribers, with growth across every region"
+   },
+   {
+    "id": "f8",
+    "text": "total revenue up 16% year over year to 5.0 billion euros (newsroom; Hypebot: 4.969 billion euros, 16%)",
+    "quote": "Total Revenue increased 16% Y/Y (14% Y/Y constant currency*) to €5.0 billion"
+   },
+   {
+    "id": "f9",
+    "text": "gross margin 33.0%, a third-quarter record (Hypebot; newsroom: improved to 33.0%)",
+    "quote": "Gross Margin finished at a Q3 record high of 33.0%."
+   },
+   {
+    "id": "f10",
+    "text": "stock closed the day up 11.19% (more than 11) at $583.66 (Hypebot only)",
+    "quote": "Spotify [SPOT] closed the day at $583.66 up 11.19%"
+   },
+   {
+    "id": "f11",
+    "text": "Hypebot: sustained double-digit growth (more than 10%) while improving profitability",
+    "quote": "showing sustained double-digit growth while also improving profitability."
+   },
+   {
+    "id": "f12",
+    "text": "Hypebot: results prove scaling profitability without sacrificing audience growth",
+    "quote": "successfully code on scaling profitability without sacrificing audience growth."
+   },
+   {
+    "id": "f13",
+    "text": "Alex Norström, Co-CEO: did what we said",
+    "quote": "This was a quarter where we did what we said."
+   },
+   {
+    "id": "f14",
+    "text": "Norström: continue to grow and take share",
+    "quote": "That’s why we continue to grow and take share."
+   },
+   {
+    "id": "f15",
+    "text": "Gustav Söderström, Co-CEO: Spotify stands to thrive in the agentic age",
+    "quote": "Spotify is in one of the few categories that actually stands to thrive in the agentic age."
+   },
+   {
+    "id": "f16",
+    "text": "Söderström: agents take care of things people would rather not do; nobody asks an agent to summarize a song",
+    "quote": "agents excel at replacing and taking care of things people would rather not do."
+   },
+   {
+    "id": "f16b",
+    "text": "Söderström quote",
+    "quote": "Nobody asks an agent to “summarize a song” for them."
+   },
+   {
+    "id": "f17",
+    "text": "Creator Memberships rolling out in 34 markets for eligible creators (both sources)",
+    "quote": "Memberships are now rolling out in 34 markets, giving eligible creators a new way to offer exclusive content"
+   },
+   {
+    "id": "f18",
+    "text": "Spotify Partner Program to more than 35 new markets incl. Brazil, Mexico, Italy, Spain; earnings based on engagement (both sources)",
+    "quote": "This expansion gives podcast creators in countries like Brazil, Mexico, Italy, and Spain new opportunities to earn revenue based on engagement."
+   },
+   {
+    "id": "f19",
+    "text": "Taste Profile beta for Premium users 18 and older in the U.S.; shows how Spotify understands taste in music, podcasts, audiobooks; editable (both sources)",
+    "quote": "It’s now available to Premium Subscribers ages 18 and older in the U.S."
+   },
+   {
+    "id": "f19b",
+    "text": "Taste Profile is editable (Hypebot)",
+    "quote": "giving users an editable view of how the platform understands their taste."
+   },
+   {
+    "id": "f20",
+    "text": "audiobooks from 22 markets to more than 180 by end of 2026 (both sources)",
+    "quote": "From now through the end of 2026, we’re expanding audiobook access from 22 markets to more than 180."
+   },
+   {
+    "id": "f21",
+    "text": "Fresh Finds Forward: about 10,000 emerging independent artists each year (newsroom only)",
+    "quote": "Our new Fresh Finds Forward program will give approximately 10,000 emerging independent artists each year the resources"
+   },
+   {
+    "id": "f22",
+    "text": "Coach Live Your Story campaign, Tabby Tour at college campuses in U.S., U.K., Japan, South Korea (newsroom only)",
+    "quote": "The tour is making stops at college campuses across the U.S., U.K., Japan, and South Korea."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.945,
+  "effective": 0.957,
+  "tokens": 491,
+  "new_core": 9
+ },
+ "vocab": [
+  "podcast",
+  "widespread",
+  "intelligent",
+  "eligible",
+  "creator",
+  "beta",
+  "gradually",
+  "emerge",
+  "collaboration",
+  "according to",
+  "by the end of"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "Grows",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "788",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "Million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "Users",
+      "l": "user",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "service",
+      "l": "service",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "music",
+      "nsp": 1,
+      "l": "music",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "podcasts",
+      "l": "podcast",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "audio",
+      "l": "audio",
+      "k": "known"
+     },
+     {
+      "w": "books",
+      "nsp": 1,
+      "l": "book",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "People",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "use",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "free",
+      "l": "free",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "ads",
+      "nsp": 1,
+      "l": "ad",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "pay",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Premium",
+      "nsp": 1,
+      "n": "Premium",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "22",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "shared",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "highlight",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "users",
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "788",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "11",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "paying",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "Premium",
+      "n": "Premium",
+      "k": "name"
+     },
+     {
+      "w": "users",
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "9",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "306",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "million",
+      "nsp": 1,
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "monthly",
+      "l": "monthly",
+      "k": "known"
+     },
+     {
+      "w": "users",
+      "nsp": 1,
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "499",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "free",
+      "l": "free",
+      "k": "known"
+     },
+     {
+      "w": "version",
+      "l": "version",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "ads",
+      "nsp": 1,
+      "l": "ad",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Spotify",
+      "nsp": 1,
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "widespread",
+      "nsp": 1,
+      "l": "widespread",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Premium",
+      "n": "Premium",
+      "k": "name"
+     },
+     {
+      "w": "users",
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "16",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "5.0",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "nsp": 1,
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "gross",
+      "l": "gross",
+      "k": "known"
+     },
+     {
+      "w": "margin",
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": "reached",
+      "l": "reach",
+      "k": "known"
+     },
+     {
+      "w": "33.0",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "gross",
+      "l": "gross",
+      "k": "known"
+     },
+     {
+      "w": "margin",
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "left",
+      "l": "leave",
+      "k": "known"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "paying",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "direct",
+      "l": "direct",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "service",
+      "nsp": 1,
+      "l": "service",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "highest",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "margin",
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "ever",
+      "l": "ever",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Investors",
+      "l": "investor",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "happy",
+      "nsp": 1,
+      "l": "happy",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "day",
+      "l": "day",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "nsp": 1,
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "stock",
+      "l": "stock",
+      "k": "known"
+     },
+     {
+      "w": "closed",
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "11",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "higher",
+      "nsp": 1,
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "music",
+      "l": "music",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": "site",
+      "l": "site",
+      "k": "known"
+     },
+     {
+      "w": "Hypebot",
+      "n": "Hypebot",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "demonstrate",
+      "l": "demonstrate",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "earn",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "without",
+      "l": "without",
+      "k": "known"
+     },
+     {
+      "w": "losing",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "users",
+      "nsp": 1,
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "chief",
+      "l": "chief",
+      "k": "known"
+     },
+     {
+      "w": "executives",
+      "nsp": 1,
+      "l": "executive",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "One",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Alex",
+      "n": "Alex Norström",
+      "k": "name"
+     },
+     {
+      "w": "Norström",
+      "nsp": 1,
+      "n": "Alex Norström",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "said",
+      "nsp": 1,
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "we",
+      "l": "we",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "we",
+      "l": "we",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "nsp": 1,
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "He",
+      "l": "he",
+      "k": "known"
+     },
+     {
+      "w": "added",
+      "l": "add",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "continues",
+      "l": "continue",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "take",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "nsp": 1,
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Gustav",
+      "n": "Gustav Söderström",
+      "k": "name"
+     },
+     {
+      "w": "Söderström",
+      "nsp": 1,
+      "n": "Gustav Söderström",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "talked",
+      "l": "talk",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "agents",
+      "nsp": 1,
+      "l": "agent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Agents",
+      "l": "agent",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "intelligent",
+      "l": "intelligent",
+      "k": "core"
+     },
+     {
+      "w": "computer",
+      "l": "computer",
+      "k": "known"
+     },
+     {
+      "w": "programs",
+      "l": "program",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "jobs",
+      "l": "job",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "nsp": 1,
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "his",
+      "l": "his",
+      "k": "known"
+     },
+     {
+      "w": "view",
+      "nsp": 1,
+      "l": "view",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "use",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "agents",
+      "l": "agent",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "rather",
+      "l": "rather",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "nsp": 1,
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "nobody",
+      "l": "nobody",
+      "k": "known"
+     },
+     {
+      "w": "asks",
+      "l": "ask",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "agent",
+      "l": "agent",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "give",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "short",
+      "l": "short",
+      "k": "known"
+     },
+     {
+      "w": "version",
+      "l": "version",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "song",
+      "nsp": 1,
+      "l": "song",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "He",
+      "l": "he",
+      "k": "known"
+     },
+     {
+      "w": "believes",
+      "l": "believe",
+      "k": "known"
+     },
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "l": "well",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "intelligent",
+      "l": "intelligent",
+      "k": "core"
+     },
+     {
+      "w": "agents",
+      "nsp": 1,
+      "l": "agent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "help",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "make",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "shows",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "content",
+      "l": "content",
+      "k": "known"
+     },
+     {
+      "w": "earn",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "34",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "markets",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "eligible",
+      "l": "eligible",
+      "k": "core"
+     },
+     {
+      "w": "creators",
+      "l": "creator",
+      "k": "core"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "offer",
+      "l": "offer",
+      "k": "known"
+     },
+     {
+      "w": "special",
+      "l": "special",
+      "k": "known"
+     },
+     {
+      "w": "content",
+      "l": "content",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "fans",
+      "l": "fan",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "pay",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "membership",
+      "nsp": 1,
+      "l": "membership",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "program",
+      "l": "program",
+      "k": "known"
+     },
+     {
+      "w": "pays",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "podcast",
+      "l": "podcast",
+      "k": "core"
+     },
+     {
+      "w": "creators",
+      "l": "creator",
+      "k": "core"
+     },
+     {
+      "w": "based",
+      "l": "base",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "listen",
+      "nsp": 1,
+      "l": "listen",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "coming",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "35",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "markets",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "including",
+      "l": "include",
+      "k": "known"
+     },
+     {
+      "w": "Brazil",
+      "nsp": 1,
+      "n": "Brazil",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Mexico",
+      "nsp": 1,
+      "n": "Mexico",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Italy",
+      "n": "Italy",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Spain",
+      "nsp": 1,
+      "n": "Spain",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "programs",
+      "l": "program",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "becoming",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "widespread",
+      "nsp": 1,
+      "l": "widespread",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "launched",
+      "l": "launch",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "beta",
+      "l": "beta",
+      "k": "core"
+     },
+     {
+      "w": "version",
+      "l": "version",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "feature",
+      "l": "feature",
+      "k": "known"
+     },
+     {
+      "w": "called",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "Taste",
+      "n": "Taste Profile",
+      "k": "name"
+     },
+     {
+      "w": "Profile",
+      "nsp": 1,
+      "n": "Taste Profile",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "beta",
+      "l": "beta",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "early",
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": "test",
+      "l": "test",
+      "k": "known"
+     },
+     {
+      "w": "version",
+      "nsp": 1,
+      "l": "version",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "shows",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "users",
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "understands",
+      "l": "understand",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "taste",
+      "l": "taste",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "music",
+      "nsp": 1,
+      "l": "music",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "podcasts",
+      "l": "podcast",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "books",
+      "nsp": 1,
+      "l": "book",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Users",
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "nsp": 1,
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "Premium",
+      "n": "Premium",
+      "k": "name"
+     },
+     {
+      "w": "users",
+      "l": "user",
+      "k": "known"
+     },
+     {
+      "w": "aged",
+      "l": "age",
+      "k": "known"
+     },
+     {
+      "w": "18",
+      "k": "plain",
+      "fig": "f19"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "older",
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "eligible",
+      "nsp": 1,
+      "l": "eligible",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "gradually",
+      "l": "gradually",
+      "k": "core"
+     },
+     {
+      "w": "bringing",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "audio",
+      "l": "audio",
+      "k": "known"
+     },
+     {
+      "w": "books",
+      "l": "book",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "countries",
+      "nsp": 1,
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "22",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "markets",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "gradually",
+      "l": "gradually",
+      "k": "core"
+     },
+     {
+      "w": "reach",
+      "l": "reach",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "180",
+      "k": "plain",
+      "fig": "f20"
+     },
+     {
+      "w": "by",
+      "l": "by the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "by the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "by the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "by the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "program",
+      "l": "program",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "emerging",
+      "l": "emerge",
+      "k": "core"
+     },
+     {
+      "w": "artists",
+      "nsp": 1,
+      "l": "artist",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "An",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "emerging",
+      "l": "emerge",
+      "k": "core"
+     },
+     {
+      "w": "artist",
+      "l": "artist",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "artist",
+      "l": "artist",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "just",
+      "l": "just",
+      "k": "known"
+     },
+     {
+      "w": "starting",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "become",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "known",
+      "nsp": 1,
+      "l": "know",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "10,000",
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": "such",
+      "l": "such",
+      "k": "known"
+     },
+     {
+      "w": "artists",
+      "l": "artist",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "get",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "help",
+      "nsp": 1,
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Spotify",
+      "n": "Spotify",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "collaboration",
+      "l": "collaboration",
+      "k": "core"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "Coach",
+      "nsp": 1,
+      "n": "Coach",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "As",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "collaboration",
+      "nsp": 1,
+      "l": "collaboration",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "tour",
+      "l": "tour",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "visiting",
+      "l": "visit",
+      "k": "known"
+     },
+     {
+      "w": "colleges",
+      "l": "college",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": "Kingdom",
+      "nsp": 1,
+      "n": "United Kingdom",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Japan",
+      "n": "Japan",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "South",
+      "n": "South Korea",
+      "k": "name"
+     },
+     {
+      "w": "Korea",
+      "nsp": 1,
+      "n": "South Korea",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "service": {
+   "ipa": "ˈsɝvəs",
+   "pos": "n",
+   "en": "something a company does or gives to people for money",
+   "vi": "dịch vụ",
+   "band": 1
+  },
+  "music": {
+   "ipa": "ˈmjuzɪk",
+   "pos": "n",
+   "en": "sounds made by voices or instruments in a way people enjoy",
+   "vi": "âm nhạc",
+   "band": 1
+  },
+  "podcast": {
+   "ipa": "ˈpɔdˌkæst",
+   "pos": "n",
+   "en": "a show with people talking that you can listen to online",
+   "vi": "podcast, chương trình nói phát trực tuyến",
+   "band": 4
+  },
+  "audio": {
+   "ipa": "ˈɑdiˌoʊ",
+   "pos": "adj",
+   "en": "about sound that you hear",
+   "vi": "(thuộc về) âm thanh, dạng nghe",
+   "band": 3
+  },
+  "free": {
+   "ipa": "fri",
+   "pos": "adj",
+   "en": "costing no money",
+   "vi": "miễn phí",
+   "band": 1
+  },
+  "monthly": {
+   "ipa": "ˈmʌnθli",
+   "pos": "adj",
+   "en": "happening or counted every month",
+   "vi": "hằng tháng",
+   "band": 3
+  },
+  "widespread": {
+   "ipa": "ˈwaɪdˈsprɛd",
+   "pos": "adj",
+   "en": "happening in many places or among many people",
+   "vi": "lan rộng, phổ biến khắp nơi",
+   "band": 4
+  },
+  "gross": {
+   "ipa": "ɡroʊs",
+   "pos": "adj",
+   "en": "total, before some costs are taken away",
+   "vi": "gộp (chưa trừ hết chi phí)",
+   "band": 3
+  },
+  "direct": {
+   "ipa": "dɚˈɛkt",
+   "pos": "adj",
+   "en": "closely and clearly connected to something",
+   "vi": "trực tiếp",
+   "band": 2
+  },
+  "happy": {
+   "ipa": "ˈhæpi",
+   "pos": "adj",
+   "en": "feeling good and pleased",
+   "vi": "vui, hài lòng",
+   "band": 1
+  },
+  "stock": {
+   "ipa": "stɑk",
+   "pos": "n",
+   "en": "shares in a company that people can buy and sell",
+   "vi": "cổ phiếu",
+   "band": 1
+  },
+  "talk": {
+   "ipa": "tɔk",
+   "pos": "v",
+   "en": "to say things to someone",
+   "vi": "nói, nói chuyện",
+   "band": 1
+  },
+  "intelligent": {
+   "ipa": "ˌɪnˈtɛlədʒənt",
+   "pos": "adj",
+   "en": "able to learn, understand and think well",
+   "vi": "thông minh",
+   "band": 4
+  },
+  "computer": {
+   "ipa": "kəmˈpjutɚ",
+   "pos": "n",
+   "en": "a machine that stores information and runs programs",
+   "vi": "máy tính",
+   "band": 3
+  },
+  "view": {
+   "ipa": "vju",
+   "pos": "n",
+   "en": "what a person thinks about something",
+   "vi": "quan điểm, cách nhìn",
+   "band": 1
+  },
+  "thing": {
+   "ipa": "θɪŋ",
+   "pos": "n",
+   "en": "an object, action or idea",
+   "vi": "điều, việc, thứ",
+   "band": 1
+  },
+  "rather": {
+   "ipa": "ˈræðɚ",
+   "pos": "adv",
+   "en": "used to say what someone wants more",
+   "vi": "thà, muốn (làm gì) hơn",
+   "band": 1
+  },
+  "nobody": {
+   "ipa": "ˈnoʊˌbɑˌdi",
+   "pos": "pron",
+   "en": "no person",
+   "vi": "không ai",
+   "band": 1
+  },
+  "song": {
+   "ipa": "sɔŋ",
+   "pos": "n",
+   "en": "a short piece of music with words",
+   "vi": "bài hát",
+   "band": 1
+  },
+  "content": {
+   "ipa": "ˈkɑntɛnt",
+   "pos": "n",
+   "en": "things like shows, music and writing that people make",
+   "vi": "nội dung",
+   "band": 1
+  },
+  "eligible": {
+   "ipa": "ˈɛlədʒəbəl",
+   "pos": "adj",
+   "en": "allowed to do or get something because you meet the rules",
+   "vi": "đủ điều kiện",
+   "band": 4
+  },
+  "creator": {
+   "ipa": "kriˈeɪtɚ",
+   "pos": "n",
+   "en": "a person who makes shows, music or other content",
+   "vi": "nhà sáng tạo nội dung",
+   "band": 4
+  },
+  "membership": {
+   "ipa": "ˈmɛmbɚˌʃɪp",
+   "pos": "n",
+   "en": "the state of being a member of a group",
+   "vi": "tư cách thành viên, gói hội viên",
+   "band": 3
+  },
+  "listen": {
+   "ipa": "ˈlɪsən",
+   "pos": "v",
+   "en": "to pay attention to sounds",
+   "vi": "nghe",
+   "band": 1
+  },
+  "beta": {
+   "ipa": "ˈbeɪtə",
+   "pos": "n",
+   "en": "an early test version of a product",
+   "vi": "bản thử nghiệm (beta)",
+   "band": 4
+  },
+  "feature": {
+   "ipa": "ˈfitʃɚ",
+   "pos": "n",
+   "en": "a part of a product that does a special job",
+   "vi": "tính năng",
+   "band": 1
+  },
+  "understand": {
+   "ipa": "ˌʌndɚˈstænd",
+   "pos": "v",
+   "en": "to know what something means or is like",
+   "vi": "hiểu",
+   "band": 1
+  },
+  "taste": {
+   "ipa": "teɪst",
+   "pos": "n",
+   "en": "the kind of things a person likes",
+   "vi": "gu, sở thích",
+   "band": 2
+  },
+  "age": {
+   "ipa": "eɪdʒ",
+   "pos": "v",
+   "en": "to be a certain number of years old",
+   "vi": "(ở độ) tuổi",
+   "band": 1
+  },
+  "gradually": {
+   "ipa": "ˈɡrædʒuəli",
+   "pos": "adv",
+   "en": "slowly, a little at a time",
+   "vi": "dần dần, từ từ",
+   "band": 4
+  },
+  "by the end of": {
+   "ipa": "baɪ ðə ɛnd ʌv",
+   "pos": "phr",
+   "en": "no later than the last part of a time",
+   "vi": "trước cuối (năm, tháng…), muộn nhất là cuối",
+   "band": 1
+  },
+  "emerge": {
+   "ipa": "ɪˈmɝdʒ",
+   "pos": "v",
+   "en": "to start to be known or seen",
+   "vi": "nổi lên, mới xuất hiện",
+   "band": 4
+  },
+  "artist": {
+   "ipa": "ˈɑrtəst",
+   "pos": "n",
+   "en": "a person who makes music or art",
+   "vi": "nghệ sĩ",
+   "band": 2
+  },
+  "know": {
+   "ipa": "noʊ",
+   "pos": "v",
+   "en": "to have heard of someone or something",
+   "vi": "biết, biết đến",
+   "band": 1
+  },
+  "collaboration": {
+   "ipa": "kəˌlæbɚˈeɪʃən",
+   "pos": "n",
+   "en": "work that two or more groups do together",
+   "vi": "sự hợp tác",
+   "band": 4
+  },
+  "tour": {
+   "ipa": "tʊr",
+   "pos": "n",
+   "en": "a trip with stops at many places",
+   "vi": "chuyến lưu diễn, chuyến đi qua nhiều nơi",
+   "band": 1
+  },
+  "college": {
+   "ipa": "ˈkɑlɪdʒ",
+   "pos": "n",
+   "en": "a school for study after high school",
+   "vi": "trường đại học, cao đẳng",
+   "band": 1
+  }
+ },
+ "names": {
+  "Spotify": {
+   "vi": "ứng dụng nghe nhạc trực tuyến của Thuỵ Điển"
+  },
+  "Premium": {
+   "vi": "gói trả phí của Spotify (không quảng cáo)"
+  },
+  "Hypebot": {
+   "vi": "trang tin về ngành âm nhạc (Mỹ)"
+  },
+  "Alex Norström": {
+   "vi": "đồng tổng giám đốc (co-CEO) của Spotify"
+  },
+  "Gustav Söderström": {
+   "vi": "đồng tổng giám đốc (co-CEO) của Spotify"
+  },
+  "Taste Profile": {
+   "vi": "tính năng \"hồ sơ gu nghe\" của Spotify"
+  },
+  "Coach": {
+   "vi": "hãng túi xách và thời trang của Mỹ"
+  },
+  "Brazil": {
+   "vi": "Brazil"
+  },
+  "Mexico": {
+   "vi": "Mexico"
+  },
+  "Italy": {
+   "vi": "Ý"
+  },
+  "Spain": {
+   "vi": "Tây Ban Nha"
+  },
+  "Japan": {
+   "vi": "Nhật Bản"
+  },
+  "South Korea": {
+   "vi": "Hàn Quốc"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "United Kingdom": {
+   "vi": "Vương quốc Anh"
+  }
+ }
+}
