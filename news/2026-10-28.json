@@ -1,0 +1,3437 @@
+{
+ "id": "2026-10-28",
+ "domain": "travel",
+ "title": "Royal Caribbean Wants More of Your Vacation",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://skift.com/2026/10/27/royal-caribbean-loyalty-push-third-quarter-earnings/",
+  "outlet": "Skift",
+  "author": "Bailey Schulz",
+  "title": "Royal Caribbean Says Sandals Deal Can Help It Win Half of Guests' Travel Spend",
+  "date": "2026-10-27",
+  "accessed": "2026-10-28",
+  "second_source": "https://www.rclinvestor.com/press-releases/release/?id=1860",
+  "notes": "Skift body is paywalled after the first paragraphs; the 20-25% / roughly 50% share of vacation spend, the 'close to half' repeat guests and the CEO quote come from Skift's readable body (company statements on the earnings call, not in the release). Revenue, net income, guests, demand, guidance, Sandals stake, resorts, acres, 30% overlap, closing date and 2027 bookings come from Royal Caribbean Group's press release of 2026-10-27 and match Skift's Key Points/Summary where both mention them. Onboard revenue +14% is from Skift's summary (citing Truist) and matches the release table (1,706 vs 1,502 $m). The $3 billion price appears only in Skift's summary, not the release: not used. Load factor, yields, Q4 EPS and analyst upgrades left out.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "results reported Tuesday, October 27, 2026",
+    "quote": "MIAMI, Oct. 27, 2026 /PRNewswire/ -- Royal Caribbean Group (NYSE: RCL) today reported third quarter Earnings per Share"
+   },
+   {
+    "id": "f2",
+    "text": "Q3 revenue $5.6 billion, up 9% year over year",
+    "quote": "Total revenue was $5.6 billion, a 9% increase year over year."
+   },
+   {
+    "id": "f3",
+    "text": "Q3 net income $1.7 billion vs $1.6 billion a year earlier",
+    "quote": "Net Income for the third quarter of 2026 was $1.7 billion or $6.45 per share compared to Net Income of $1.6 billion"
+   },
+   {
+    "id": "f4",
+    "text": "2.7 million guests in Q3, up 9%",
+    "quote": "delivered memorable vacations to 2.7 million guests, a 9% increase year over year."
+   },
+   {
+    "id": "f5",
+    "text": "onboard revenue up 14%",
+    "quote": "while onboard revenue climbed 14%."
+   },
+   {
+    "id": "f6",
+    "text": "better than expected late (close-in) demand in Europe and the Caribbean",
+    "quote": "driven by better-than-expected close-in demand in Europe and the Caribbean."
+   },
+   {
+    "id": "f7",
+    "text": "full-year adjusted EPS now $17.85 to $17.95 (guidance raised)",
+    "quote": "The company now expects full year Adjusted EPS to be in the range of $17.85 to $17.95."
+   },
+   {
+    "id": "f8",
+    "text": "close to half of guests this year expected to be repeat customers",
+    "quote": "Close to half of guests this year are expected to be repeat customers"
+   },
+   {
+    "id": "f9",
+    "text": "company captures 20% to 25% of guests' annual vacation spend; expected to reach roughly 50%",
+    "quote": "said it captures 20% to 25% of its guests' annual vacation spend. By adding all-inclusive resorts to its ecosystem, that reach is expected to stretch to roughly 50%."
+   },
+   {
+    "id": "f10",
+    "text": "in September agreed to buy a 50% stake in Sandals and Beaches Resorts",
+    "quote": "In September, Royal Caribbean Group announced an agreement to acquire a 50% interest in Sandals and Beaches Resorts"
+   },
+   {
+    "id": "f11",
+    "text": "18 resorts in the Caribbean, three under development",
+    "quote": "The Sandals and Beaches Resorts' portfolio includes 18 resorts across the Caribbean and three resorts under development."
+   },
+   {
+    "id": "f12",
+    "text": "over 1,000 acres of undeveloped land, room for growth",
+    "quote": "It also includes over 1,000 acres of undeveloped land in the Caribbean"
+   },
+   {
+    "id": "f13",
+    "text": "about 30% of Royal Caribbean guests also take all-inclusive vacations; similar share of Sandals guests cruise",
+    "quote": "Approximately 30% of Royal Caribbean Group guests also take all-inclusive vacations, while a similar percentage of Sandals and Beaches guests also cruise"
+   },
+   {
+    "id": "f14",
+    "text": "CEO Jason Liberty: a customer on a rival cruise brand is a fail; connected loyalty should keep customers",
+    "quote": "If a Royal Caribbean customer goes on a competitive cruise brand, I think that's a fail,” CEO Jason Liberty said"
+   },
+   {
+    "id": "f15",
+    "text": "deal expected to close in early 2027, subject to approvals",
+    "quote": "The investment is expected to close in early 2027, subject to customary closing conditions and regulatory approvals."
+   },
+   {
+    "id": "f16",
+    "text": "2027 bookings pacing ahead of historical levels at higher rates",
+    "quote": "2027 bookings are pacing ahead of historical levels at higher rates"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.942,
+  "effective": 0.955,
+  "tokens": 495,
+  "new_core": 9
+ },
+ "vocab": [
+  "cruise",
+  "aboard",
+  "loyal",
+  "stake",
+  "tropical",
+  "portfolio",
+  "acre",
+  "wallet",
+  "rival",
+  "because of",
+  "close to",
+  "in other words",
+  "go on",
+  "according to",
+  "kind of"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "More",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Your",
+      "l": "your",
+      "k": "known"
+     },
+     {
+      "w": "Vacation",
+      "l": "vacation",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "biggest",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "cruise",
+      "l": "cruise",
+      "k": "core"
+     },
+     {
+      "w": "companies",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "cruise",
+      "l": "cruise",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "vacation",
+      "l": "vacation",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "large",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "ship",
+      "l": "ship",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "stops",
+      "l": "stop",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "different",
+      "l": "different",
+      "k": "known"
+     },
+     {
+      "w": "places",
+      "nsp": 1,
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Tuesday",
+      "nsp": 1,
+      "l": "tuesday",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "27",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "better",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "expected",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "July",
+      "l": "july",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "story",
+      "l": "story",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "trip",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "ship",
+      "nsp": 1,
+      "l": "ship",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "those",
+      "l": "those",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "earned",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "5.6",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "nsp": 1,
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "9",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "1.7",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "billion",
+      "nsp": 1,
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "1.6",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "billion",
+      "nsp": 1,
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "carried",
+      "l": "carry",
+      "k": "known"
+     },
+     {
+      "w": "2.7",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "nsp": 1,
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "9",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "spent",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "aboard",
+      "l": "aboard",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "ships",
+      "nsp": 1,
+      "l": "ship",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "aboard",
+      "l": "aboard",
+      "k": "core"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "14",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "stronger",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "expected",
+      "nsp": 1,
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "booked",
+      "l": "book",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "trips",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "late",
+      "nsp": 1,
+      "l": "late",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "helped",
+      "nsp": 1,
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Because",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "nsp": 1,
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "raised",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "goal",
+      "l": "goal",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "earnings",
+      "l": "earning",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "17.85",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "$",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "17.95",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "nsp": 1,
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "loyal",
+      "l": "loyal",
+      "k": "core"
+     },
+     {
+      "w": "customers",
+      "nsp": 1,
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Close",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "expected",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "traveled",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "These",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "loyal",
+      "l": "loyal",
+      "k": "core"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "crucial",
+      "l": "crucial",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "gets",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "20",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "25",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "spend",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "vacations",
+      "l": "vacation",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "vacation",
+      "l": "vacation",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "goes",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "somewhere",
+      "l": "somewhere",
+      "k": "known"
+     },
+     {
+      "w": "else",
+      "nsp": 1,
+      "l": "else",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": "comes",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "nsp": 1,
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "agreed",
+      "l": "agree",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "50",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "stake",
+      "l": "stake",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Sandals",
+      "n": "Sandals Resorts",
+      "k": "name"
+     },
+     {
+      "w": "Resorts",
+      "n": "Sandals Resorts",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Beaches",
+      "n": "Beaches Resorts",
+      "k": "name"
+     },
+     {
+      "w": "Resorts",
+      "nsp": 1,
+      "n": "Beaches Resorts",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "stake",
+      "l": "stake",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "you",
+      "l": "you",
+      "k": "known"
+     },
+     {
+      "w": "own",
+      "nsp": 1,
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sandals",
+      "n": "Sandals",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Beaches",
+      "n": "Beaches",
+      "k": "name"
+     },
+     {
+      "w": "run",
+      "l": "run",
+      "k": "known"
+     },
+     {
+      "w": "resorts",
+      "l": "resort",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "tropical",
+      "l": "tropical",
+      "k": "core"
+     },
+     {
+      "w": "islands",
+      "nsp": 1,
+      "l": "island",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "pay",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "room",
+      "nsp": 1,
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "drinks",
+      "nsp": 1,
+      "l": "drink",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "portfolio",
+      "l": "portfolio",
+      "k": "core"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "18",
+      "k": "plain",
+      "fig": "f11"
+     },
+     {
+      "w": "resorts",
+      "l": "resort",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Caribbean",
+      "nsp": 1,
+      "n": "Caribbean",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "being",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "built",
+      "nsp": 1,
+      "l": "build",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "portfolio",
+      "l": "portfolio",
+      "k": "core"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "includes",
+      "l": "include",
+      "k": "known"
+     },
+     {
+      "w": "over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "1,000",
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": "acres",
+      "l": "acre",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "land",
+      "l": "land",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "yet",
+      "nsp": 1,
+      "l": "yet",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Those",
+      "l": "those",
+      "k": "known"
+     },
+     {
+      "w": "acres",
+      "l": "acre",
+      "k": "core"
+     },
+     {
+      "w": "give",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "resorts",
+      "l": "resort",
+      "k": "known"
+     },
+     {
+      "w": "plenty",
+      "l": "plenty",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "nsp": 1,
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "groups",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "customers",
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "similar",
+      "nsp": 1,
+      "l": "similar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "About",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "30",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "take",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "vacations",
+      "l": "vacation",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "resorts",
+      "l": "resort",
+      "k": "known"
+     },
+     {
+      "w": "like",
+      "l": "like",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "nsp": 1,
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "similar",
+      "l": "similar",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Sandals",
+      "n": "Sandals",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Beaches",
+      "n": "Beaches",
+      "k": "name"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "go",
+      "l": "go on",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "go on",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "cruises",
+      "nsp": 1,
+      "l": "cruise",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "With",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "nsp": 1,
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "guest",
+      "nsp": 1,
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "vacation",
+      "l": "vacation",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "roughly",
+      "l": "roughly",
+      "k": "known"
+     },
+     {
+      "w": "50",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "nsp": 1,
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "call",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "customer",
+      "nsp": 1,
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "wallet",
+      "nsp": 1,
+      "l": "wallet",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "wallet",
+      "l": "wallet",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "cruise",
+      "l": "cruise",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "tropical",
+      "l": "tropical",
+      "k": "core"
+     },
+     {
+      "w": "beach",
+      "l": "beach",
+      "k": "known"
+     },
+     {
+      "w": "trip",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "too",
+      "nsp": 1,
+      "l": "too",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "chief",
+      "l": "chief",
+      "k": "known"
+     },
+     {
+      "w": "executive",
+      "nsp": 1,
+      "l": "executive",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Jason",
+      "n": "Jason Liberty",
+      "k": "name"
+     },
+     {
+      "w": "Liberty",
+      "nsp": 1,
+      "n": "Jason Liberty",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Royal",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "Caribbean",
+      "n": "Royal Caribbean",
+      "k": "name"
+     },
+     {
+      "w": "customer",
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "travels",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "rival",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "fail",
+      "nsp": 1,
+      "l": "fail",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Liberty",
+      "nsp": 1,
+      "n": "Liberty",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "connected",
+      "l": "connect",
+      "k": "known"
+     },
+     {
+      "w": "loyalty",
+      "l": "loyalty",
+      "k": "core"
+     },
+     {
+      "w": "program",
+      "l": "program",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "great",
+      "l": "great",
+      "k": "known"
+     },
+     {
+      "w": "experiences",
+      "l": "experience",
+      "k": "known"
+     },
+     {
+      "w": "should",
+      "l": "should",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "customers",
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": "away",
+      "l": "away",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "rival",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "brands",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "deal",
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "expected",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "close",
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "early",
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "usual",
+      "l": "usual",
+      "k": "known"
+     },
+     {
+      "w": "approvals",
+      "nsp": 1,
+      "l": "approval",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Liberty",
+      "n": "Liberty",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "bookings",
+      "l": "booking",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "ahead",
+      "l": "ahead",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "past",
+      "l": "past",
+      "k": "known"
+     },
+     {
+      "w": "years",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "These",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "numbers",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "demonstrate",
+      "l": "demonstrate",
+      "k": "core"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "nsp": 1,
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "simple",
+      "l": "simple",
+      "k": "known"
+     },
+     {
+      "w": "idea",
+      "l": "idea",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "companies",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "nsp": 1,
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "kinds",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "vacations",
+      "nsp": 1,
+      "l": "vacation",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "your": {
+   "ipa": "jɔr",
+   "pos": "pron",
+   "en": "belonging to the person you are talking to",
+   "vi": "của bạn",
+   "band": 1
+  },
+  "cruise": {
+   "ipa": "kruz",
+   "pos": "n",
+   "en": "a vacation on a large ship that stops at different places",
+   "vi": "chuyến du lịch bằng tàu biển",
+   "band": 4
+  },
+  "ship": {
+   "ipa": "ʃɪp",
+   "pos": "n",
+   "en": "a large boat that carries people or goods on the sea",
+   "vi": "tàu thủy",
+   "band": 1
+  },
+  "stop": {
+   "ipa": "stɑp",
+   "pos": "v",
+   "en": "to stay at a place for a short time on a trip",
+   "vi": "dừng lại, ghé",
+   "band": 1
+  },
+  "story": {
+   "ipa": "ˈstɔri",
+   "pos": "n",
+   "en": "a report about something that happened",
+   "vi": "câu chuyện, tin chính",
+   "band": 1
+  },
+  "guest": {
+   "ipa": "ɡɛst",
+   "pos": "n",
+   "en": "a person who pays to stay at a hotel or travel with a company",
+   "vi": "khách",
+   "band": 2
+  },
+  "aboard": {
+   "ipa": "əˈbɔrd",
+   "pos": "prep",
+   "en": "on or onto a ship, plane or train",
+   "vi": "trên tàu",
+   "band": 4
+  },
+  "late": {
+   "ipa": "leɪt",
+   "pos": "adv",
+   "en": "near the end of a time; not early",
+   "vi": "muộn, sát ngày",
+   "band": 1
+  },
+  "raise": {
+   "ipa": "reɪz",
+   "pos": "v",
+   "en": "to make something higher",
+   "vi": "nâng lên",
+   "band": 2
+  },
+  "loyal": {
+   "ipa": "ˈlɔɪəl",
+   "pos": "adj",
+   "en": "staying with the same person or company for a long time",
+   "vi": "trung thành",
+   "band": 4
+  },
+  "somewhere": {
+   "ipa": "ˈsʌmˌwɛr",
+   "pos": "adv",
+   "en": "in or to a place that is not named",
+   "vi": "ở đâu đó",
+   "band": 2
+  },
+  "else": {
+   "ipa": "ɛls",
+   "pos": "adv",
+   "en": "other; different",
+   "vi": "khác",
+   "band": 1
+  },
+  "stake": {
+   "ipa": "steɪk",
+   "pos": "n",
+   "en": "a part of a company that you own",
+   "vi": "cổ phần, phần sở hữu",
+   "band": 4
+  },
+  "you": {
+   "ipa": "ju",
+   "pos": "pron",
+   "en": "the person or people someone is talking to",
+   "vi": "bạn",
+   "band": 1
+  },
+  "resort": {
+   "ipa": "rɪˈzɔrt",
+   "pos": "n",
+   "en": "a place where people go for a vacation, with rooms, food and fun",
+   "vi": "khu nghỉ dưỡng",
+   "band": 3
+  },
+  "tropical": {
+   "ipa": "ˈtrɑpɪkəl",
+   "pos": "adj",
+   "en": "from the hot parts of the world near the middle of the earth",
+   "vi": "nhiệt đới",
+   "band": 4
+  },
+  "island": {
+   "ipa": "ˈaɪlənd",
+   "pos": "n",
+   "en": "a piece of land with water all around it",
+   "vi": "hòn đảo",
+   "band": 1
+  },
+  "room": {
+   "ipa": "rum",
+   "pos": "n",
+   "en": "space that can be used",
+   "vi": "chỗ, không gian",
+   "band": 1
+  },
+  "food": {
+   "ipa": "fud",
+   "pos": "n",
+   "en": "things that people eat",
+   "vi": "đồ ăn",
+   "band": 1
+  },
+  "drink": {
+   "ipa": "drɪŋk",
+   "pos": "n",
+   "en": "something that people drink, like water or juice",
+   "vi": "đồ uống",
+   "band": 2
+  },
+  "portfolio": {
+   "ipa": "pɔrtˈfoʊliˌoʊ",
+   "pos": "n",
+   "en": "a group of businesses or properties that one company owns",
+   "vi": "danh mục (tài sản, cơ sở kinh doanh)",
+   "band": 4
+  },
+  "build": {
+   "ipa": "bɪld",
+   "pos": "v",
+   "en": "to make a house or other building",
+   "vi": "xây dựng",
+   "band": 1
+  },
+  "acre": {
+   "ipa": "ˈeɪkɚ",
+   "pos": "n",
+   "en": "a unit for measuring land, about 4,000 square meters",
+   "vi": "mẫu Anh (khoảng 4.000 m²)",
+   "band": 4
+  },
+  "plenty": {
+   "ipa": "ˈplɛnti",
+   "pos": "adj",
+   "en": "a lot; more than enough",
+   "vi": "nhiều, dư dả",
+   "band": 2
+  },
+  "similar": {
+   "ipa": "ˈsɪməlɚ",
+   "pos": "adj",
+   "en": "almost the same",
+   "vi": "giống nhau, tương tự",
+   "band": 1
+  },
+  "go on": {
+   "ipa": "ɡoʊ ɑn",
+   "pos": "phr",
+   "en": "to take part in a trip or activity",
+   "vi": "đi (một chuyến)",
+   "band": 1
+  },
+  "wallet": {
+   "ipa": "ˈwɔlət",
+   "pos": "n",
+   "en": "a small case for money; also the money a person spends",
+   "vi": "ví tiền; (nghĩa bóng) túi tiền của khách",
+   "band": 4
+  },
+  "beach": {
+   "ipa": "bitʃ",
+   "pos": "n",
+   "en": "land with sand next to the sea",
+   "vi": "bãi biển",
+   "band": 1
+  },
+  "rival": {
+   "ipa": "ˈraɪvəl",
+   "pos": "adj",
+   "en": "trying to win against another person or company",
+   "vi": "đối thủ, cạnh tranh",
+   "band": 4
+  },
+  "fail": {
+   "ipa": "feɪl",
+   "pos": "n",
+   "en": "something that did not work well",
+   "vi": "thất bại",
+   "band": 2
+  },
+  "connect": {
+   "ipa": "kəˈnɛkt",
+   "pos": "v",
+   "en": "to join two or more things together",
+   "vi": "kết nối",
+   "band": 2
+  },
+  "great": {
+   "ipa": "ɡreɪt",
+   "pos": "adj",
+   "en": "very good",
+   "vi": "tuyệt vời",
+   "band": 1
+  },
+  "experience": {
+   "ipa": "ɪkˈspɪriəns",
+   "pos": "n",
+   "en": "something that happens to you and that you remember",
+   "vi": "trải nghiệm",
+   "band": 1
+  },
+  "should": {
+   "ipa": "ʃʊd",
+   "pos": "aux",
+   "en": "used to say what is expected to happen",
+   "vi": "sẽ, hẳn sẽ",
+   "band": 1
+  },
+  "approval": {
+   "ipa": "əˈpruvəl",
+   "pos": "n",
+   "en": "permission from a person or group in control",
+   "vi": "sự chấp thuận",
+   "band": 3
+  },
+  "simple": {
+   "ipa": "ˈsɪmpəl",
+   "pos": "adj",
+   "en": "easy to understand",
+   "vi": "đơn giản",
+   "band": 1
+  },
+  "idea": {
+   "ipa": "aɪˈdiə",
+   "pos": "n",
+   "en": "a plan or thought",
+   "vi": "ý tưởng",
+   "band": 1
+  }
+ },
+ "names": {
+  "Royal Caribbean": {
+   "vi": "Royal Caribbean, một trong những tập đoàn tàu du lịch lớn nhất thế giới (trụ sở ở Mỹ)"
+  },
+  "Caribbean": {
+   "vi": "vùng biển Caribe, nhiều đảo nhiệt đới, phía nam nước Mỹ"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Sandals Resorts": {
+   "vi": "Sandals Resorts, chuỗi khu nghỉ dưỡng trọn gói ở vùng Caribe"
+  },
+  "Beaches Resorts": {
+   "vi": "Beaches Resorts, chuỗi khu nghỉ dưỡng trọn gói cho gia đình, cùng chủ với Sandals"
+  },
+  "Sandals": {
+   "vi": "chuỗi khu nghỉ dưỡng Sandals Resorts"
+  },
+  "Beaches": {
+   "vi": "chuỗi khu nghỉ dưỡng Beaches Resorts"
+  },
+  "Jason Liberty": {
+   "vi": "Jason Liberty, tổng giám đốc (CEO) của Royal Caribbean"
+  },
+  "Liberty": {
+   "vi": "Jason Liberty, tổng giám đốc của Royal Caribbean"
+  }
+ }
+}

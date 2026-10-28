@@ -1,0 +1,137 @@
+{
+ "id": "2026-10-28",
+ "domain": "travel",
+ "title": "Royal Caribbean Wants More of Your Vacation",
+ "source": {
+  "url": "https://skift.com/2026/10/27/royal-caribbean-loyalty-push-third-quarter-earnings/",
+  "outlet": "Skift",
+  "author": "Bailey Schulz",
+  "title": "Royal Caribbean Says Sandals Deal Can Help It Win Half of Guests' Travel Spend",
+  "date": "2026-10-27",
+  "accessed": "2026-10-28",
+  "second_source": "https://www.rclinvestor.com/press-releases/release/?id=1860",
+  "notes": "Skift body is paywalled after the first paragraphs; the 20-25% / roughly 50% share of vacation spend, the 'close to half' repeat guests and the CEO quote come from Skift's readable body (company statements on the earnings call, not in the release). Revenue, net income, guests, demand, guidance, Sandals stake, resorts, acres, 30% overlap, closing date and 2027 bookings come from Royal Caribbean Group's press release of 2026-10-27 and match Skift's Key Points/Summary where both mention them. Onboard revenue +14% is from Skift's summary (citing Truist) and matches the release table (1,706 vs 1,502 $m). The $3 billion price appears only in Skift's summary, not the release: not used. Load factor, yields, Q4 EPS and analyst upgrades left out.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "results reported Tuesday, October 27, 2026",
+    "quote": "MIAMI, Oct. 27, 2026 /PRNewswire/ -- Royal Caribbean Group (NYSE: RCL) today reported third quarter Earnings per Share"
+   },
+   {
+    "id": "f2",
+    "text": "Q3 revenue $5.6 billion, up 9% year over year",
+    "quote": "Total revenue was $5.6 billion, a 9% increase year over year."
+   },
+   {
+    "id": "f3",
+    "text": "Q3 net income $1.7 billion vs $1.6 billion a year earlier",
+    "quote": "Net Income for the third quarter of 2026 was $1.7 billion or $6.45 per share compared to Net Income of $1.6 billion"
+   },
+   {
+    "id": "f4",
+    "text": "2.7 million guests in Q3, up 9%",
+    "quote": "delivered memorable vacations to 2.7 million guests, a 9% increase year over year."
+   },
+   {
+    "id": "f5",
+    "text": "onboard revenue up 14%",
+    "quote": "while onboard revenue climbed 14%."
+   },
+   {
+    "id": "f6",
+    "text": "better than expected late (close-in) demand in Europe and the Caribbean",
+    "quote": "driven by better-than-expected close-in demand in Europe and the Caribbean."
+   },
+   {
+    "id": "f7",
+    "text": "full-year adjusted EPS now $17.85 to $17.95 (guidance raised)",
+    "quote": "The company now expects full year Adjusted EPS to be in the range of $17.85 to $17.95."
+   },
+   {
+    "id": "f8",
+    "text": "close to half of guests this year expected to be repeat customers",
+    "quote": "Close to half of guests this year are expected to be repeat customers"
+   },
+   {
+    "id": "f9",
+    "text": "company captures 20% to 25% of guests' annual vacation spend; expected to reach roughly 50%",
+    "quote": "said it captures 20% to 25% of its guests' annual vacation spend. By adding all-inclusive resorts to its ecosystem, that reach is expected to stretch to roughly 50%."
+   },
+   {
+    "id": "f10",
+    "text": "in September agreed to buy a 50% stake in Sandals and Beaches Resorts",
+    "quote": "In September, Royal Caribbean Group announced an agreement to acquire a 50% interest in Sandals and Beaches Resorts"
+   },
+   {
+    "id": "f11",
+    "text": "18 resorts in the Caribbean, three under development",
+    "quote": "The Sandals and Beaches Resorts' portfolio includes 18 resorts across the Caribbean and three resorts under development."
+   },
+   {
+    "id": "f12",
+    "text": "over 1,000 acres of undeveloped land, room for growth",
+    "quote": "It also includes over 1,000 acres of undeveloped land in the Caribbean"
+   },
+   {
+    "id": "f13",
+    "text": "about 30% of Royal Caribbean guests also take all-inclusive vacations; similar share of Sandals guests cruise",
+    "quote": "Approximately 30% of Royal Caribbean Group guests also take all-inclusive vacations, while a similar percentage of Sandals and Beaches guests also cruise"
+   },
+   {
+    "id": "f14",
+    "text": "CEO Jason Liberty: a customer on a rival cruise brand is a fail; connected loyalty should keep customers",
+    "quote": "If a Royal Caribbean customer goes on a competitive cruise brand, I think that's a fail,” CEO Jason Liberty said"
+   },
+   {
+    "id": "f15",
+    "text": "deal expected to close in early 2027, subject to approvals",
+    "quote": "The investment is expected to close in early 2027, subject to customary closing conditions and regulatory approvals."
+   },
+   {
+    "id": "f16",
+    "text": "2027 bookings pacing ahead of historical levels at higher rates",
+    "quote": "2027 bookings are pacing ahead of historical levels at higher rates"
+   }
+  ]
+ },
+ "paragraphs": [
+  "Royal Caribbean is one of the biggest cruise companies in the world. A cruise is a vacation on a large ship that stops at different places. On Tuesday, October 27, the company said its business did better than expected from July to September. But the bigger story is a plan to sell its guests more than a trip on a ship.",
+  "In those three months, Royal Caribbean earned $5.6 billion in revenue. That was 9% more than a year earlier. Its profit was $1.7 billion, up from $1.6 billion. The company carried 2.7 million guests, also 9% more than a year before. Guests also spent more aboard the ships. Revenue from what people buy aboard rose 14%.",
+  "The company said demand in Europe and the Caribbean was stronger than expected. Many people booked their trips late, and that helped. Because of the strong results, Royal Caribbean raised its goal for the full year. It now expects earnings of between $17.85 and $17.95 for each share.",
+  "Royal Caribbean has many loyal customers. Close to half of its guests this year are expected to be people who have traveled with it before. These loyal guests are crucial to the company. But the company says it gets only 20% to 25% of the money its guests spend on vacations each year. In other words, most of their vacation money goes somewhere else.",
+  "That is where a new deal comes in. In September, Royal Caribbean agreed to buy a 50% stake in Sandals Resorts and Beaches Resorts. A stake is a part of a company that you own. Sandals and Beaches run resorts on tropical islands, where guests pay one price for the room, the food and the drinks.",
+  "Their portfolio has 18 resorts in the Caribbean, and three more are being built. The portfolio also includes over 1,000 acres of land that is not used yet. Those acres give the resorts plenty of room to grow.",
+  "The two groups of customers are similar. About 30% of Royal Caribbean guests also take vacations at resorts like these. A similar share of Sandals and Beaches guests also go on cruises. With the deal, the company wants its share of each guest's vacation money to grow to roughly 50%. In business, people call this a bigger share of the customer's wallet. Royal Caribbean wants to be in that wallet for the cruise and for the tropical beach trip too.",
+  "The chief executive, Jason Liberty, said that a Royal Caribbean customer who travels with a rival brand is \"a fail.\" According to Liberty, a connected loyalty program and great experiences should keep customers away from rival brands.",
+  "The deal is expected to close in early 2027, after the usual approvals. Liberty also said that bookings for 2027 are ahead of past years, at higher prices. These numbers demonstrate strong demand. The plan highlights a simple idea for travel companies: keep the same guests, and sell them more kinds of vacations."
+ ],
+ "names": {
+  "Royal Caribbean": {
+   "vi": "Royal Caribbean, một trong những tập đoàn tàu du lịch lớn nhất thế giới (trụ sở ở Mỹ)"
+  },
+  "Caribbean": {
+   "vi": "vùng biển Caribe, nhiều đảo nhiệt đới, phía nam nước Mỹ"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Sandals Resorts": {
+   "vi": "Sandals Resorts, chuỗi khu nghỉ dưỡng trọn gói ở vùng Caribe"
+  },
+  "Beaches Resorts": {
+   "vi": "Beaches Resorts, chuỗi khu nghỉ dưỡng trọn gói cho gia đình, cùng chủ với Sandals"
+  },
+  "Sandals": {
+   "vi": "chuỗi khu nghỉ dưỡng Sandals Resorts"
+  },
+  "Beaches": {
+   "vi": "chuỗi khu nghỉ dưỡng Beaches Resorts"
+  },
+  "Jason Liberty": {
+   "vi": "Jason Liberty, tổng giám đốc (CEO) của Royal Caribbean"
+  },
+  "Liberty": {
+   "vi": "Jason Liberty, tổng giám đốc của Royal Caribbean"
+  }
+ }
+}
