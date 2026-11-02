@@ -1,0 +1,180 @@
+{
+ "id": "2026-11-02",
+ "domain": "business",
+ "title": "Chipotle Sells to More Customers",
+ "source": {
+  "url": "https://ir.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+  "outlet": "Chipotle Mexican Grill (press release via PR Newswire)",
+  "author": "",
+  "title": "Chipotle Announces Third Quarter 2026 Results",
+  "date": "2026-10-28",
+  "accessed": "2026-11-02",
+  "checked_against": "https://247wallst.com/investing/2026/10/29/chipotle-jumps-9-as-same-store-sales-top-estimates-mcdonalds-climbs-2-starbucks-edges-higher/",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "results released October 28, 2026, for the third quarter of 2026 (release dateline Oct. 28, 2026; 24/7 Wall St. 'Q3' agrees)",
+    "quote": "Total revenue in the third quarter of 2026 was $3.3 billion, an increase of 9.6% compared to the third quarter of 2025."
+   },
+   {
+    "id": "f2",
+    "text": "total revenue up 9.6% year over year to $3.3 billion",
+    "quote": "Total revenue increased 9.6% to $3.3 billion"
+   },
+   {
+    "id": "f3",
+    "text": "comparable restaurant sales up 2.1%: average check up 1.3%, transactions up 0.8% (both sources give 2.1%)",
+    "quote": "Comparable restaurant sales increased 2.1%, including a 1.3% increase in average check and a 0.8% increase in transactions."
+   },
+   {
+    "id": "f4",
+    "text": "estimate was 1.5%; third straight quarter of positive transaction growth (24/7 Wall St.)",
+    "quote": "Q3 same-store sales grew 2.1%, beating the 1.5% estimate and marking three straight quarters of positive transaction growth."
+   },
+   {
+    "id": "f5",
+    "text": "CEO Scott Boatwright: three consecutive quarters show Recipe for Growth strategy is working",
+    "quote": "Three consecutive quarters of positive comparable transaction growth demonstrates that our Recipe for Growth strategy is working,"
+   },
+   {
+    "id": "f6",
+    "text": "Boatwright: stable or improving wallet share across income and age groups (24/7 Wall St.)",
+    "quote": "We saw stable or improving wallet share across the quarter, with broad strength across income and age cohorts."
+   },
+   {
+    "id": "f7",
+    "text": "operating margin 13.7%, down from 15.9% (both sources)",
+    "quote": "Operating margin was 13.7%, a decrease from 15.9%"
+   },
+   {
+    "id": "f8",
+    "text": "restaurant level operating margin 23.3%, down from 24.5%",
+    "quote": "Restaurant level operating margin1 was 23.3%, a decrease from 24.5%"
+   },
+   {
+    "id": "f9",
+    "text": "diluted EPS $0.27 vs $0.29 a year earlier (third quarter of 2025)",
+    "quote": "Net income for the third quarter of 2026 was $339.9 million, or $0.27 per diluted share, compared to $382.1 million, or $0.29 per diluted share, in the third quarter of 2025."
+   },
+   {
+    "id": "f10",
+    "text": "adjusted EPS $0.27 missed the $0.29 estimate (24/7 Wall St.)",
+    "quote": "Chipotle's adjusted earnings per share (EPS) of $0.27 missed the $0.29 estimate."
+   },
+   {
+    "id": "f11",
+    "text": "promotions: back-to-school buy-one-get-one, free double protein (24/7 Wall St.)",
+    "quote": "including a back-to-school buy-one-get-one deal, free double protein, and Pollo Asado and Chili Lime Chips limited-time offers."
+   },
+   {
+    "id": "f12",
+    "text": "labor 25.7% of revenue, up from 25.2% a year earlier",
+    "quote": "Labor costs in the third quarter of 2026 were 25.7% of total revenue, an increase from 25.2% in the third quarter of 2025."
+   },
+   {
+    "id": "f13",
+    "text": "food, beverage and packaging 29.5% of revenue, down from 30.0%",
+    "quote": "Food, beverage and packaging costs in the third quarter of 2026 were 29.5% of total revenue, a decrease from 30.0% in the third quarter of 2025."
+   },
+   {
+    "id": "f14",
+    "text": "decrease driven by menu price increases and tariff relief",
+    "quote": "The decrease was primarily driven by the benefit of menu price increases, tariff relief, and favorable limited-time offer mix."
+   },
+   {
+    "id": "f15",
+    "text": "partially offset by inflation, mainly beef and freight, and higher protein usage",
+    "quote": "These benefits were partially offset by inflation, primarily in beef and freight, and higher protein usage."
+   },
+   {
+    "id": "f16",
+    "text": "CFO Adam Rymer: menu prices raised 2.7% in the quarter to offset inflation (24/7 Wall St.)",
+    "quote": "the company raised menu prices 2.7% in Q3 to offset inflation"
+   },
+   {
+    "id": "f17",
+    "text": "84 company-owned restaurants opened, 53 with a Chipotlane",
+    "quote": "Opened 84 company-owned restaurants, with 53 locations including a Chipotlane."
+   },
+   {
+    "id": "f18",
+    "text": "Chipotlanes help guest access and convenience",
+    "quote": "Chipotlanes continue to perform well and are helping enhance guest access and convenience"
+   },
+   {
+    "id": "f19",
+    "text": "digital sales 38.8% of food and beverage revenue",
+    "quote": "Digital sales represented 38.8% of total food and beverage revenue"
+   },
+   {
+    "id": "f20",
+    "text": "Boatwright: progress on high-efficiency equipment rollout",
+    "quote": "making significant progress on our high-efficiency equipment rollout,"
+   },
+   {
+    "id": "f21",
+    "text": "full-year outlook: comparable sales growth in low single digits (both sources)",
+    "quote": "Full year comparable restaurant sales growth in the low single digit range"
+   },
+   {
+    "id": "f22",
+    "text": "350 to 370 new restaurants incl. 10 to 15 international partner-operated (both sources give 350 to 370)",
+    "quote": "350 to 370 new restaurant openings, which includes 10 to 15 international partner-operated restaurants."
+   },
+   {
+    "id": "f23",
+    "text": "around 80% of new company-owned restaurants will have a Chipotlane",
+    "quote": "Around 80% of new company-owned restaurants will have a Chipotlane"
+   },
+   {
+    "id": "f24",
+    "text": "Rymer: October trends softened, like the broader industry (24/7 Wall St.)",
+    "quote": "October trends have softened, consistent with the broader industry."
+   },
+   {
+    "id": "f25",
+    "text": "stock up 9% at $31.19 midday on October 29 (24/7 Wall St., published Oct 29, 2026)",
+    "quote": "Chipotle stock is at $31.19 in midday trading, up 9%."
+   },
+   {
+    "id": "f26",
+    "text": "stock still down 16% year to date (24/7 Wall St.)",
+    "quote": "though Chipotle stock remains down 16% year to date (YTD)."
+   }
+  ]
+ },
+ "paragraphs": [
+  "Chipotle is an American restaurant chain that sells Mexican-style food. On October 28, the company shared its results for the third quarter of 2026. Some numbers were weak, but investors liked the report.",
+  "Total revenue grew 9.6% from a year earlier, to $3.3 billion. Sales at older restaurants rose 2.1%. Experts had expected only 1.5%. Part of this growth came from transactions. A transaction is one sale, such as one customer paying for one meal. The number of transactions rose 0.8%. The average amount that each customer spent rose 1.3%.",
+  "The chief executive, Scott Boatwright, said that three consecutive quarters of growth in transactions demonstrate that the company's plan for growth is working. He also said that Chipotle's share of the customer's wallet was stable or growing. In other words, customers spent the same part or a bigger part of their dining money at Chipotle. This was true for people of different incomes and ages.",
+  "Profits were weaker. The operating margin fell to 13.7% from 15.9%. Earnings per share were $0.27, down from $0.29 a year earlier. Experts had expected $0.29.",
+  "Why were profits lower? Chipotle spent money on special offers. For example, it had a back-to-school deal: buy one meal and get one free. It also gave customers double protein for free.",
+  "The cost of food, drinks and packaging fell to 29.5% of revenue, from 30.0%. Higher menu prices helped. A lower tax on goods from other countries also helped. But inflation partially took away this benefit. Inflation means that prices rise over time. Beef was one of the ingredients that cost more. Beef is a common meat in Chipotle's food, so the price of this ingredient matters. According to the chief financial officer, Adam Rymer, Chipotle raised menu prices 2.7% because of inflation. So the higher prices partially made up for the higher costs.",
+  "Chipotle opened 84 new restaurants of its own. Of these, 53 have a Chipotlane. This is a lane where people can pick up food they ordered online without leaving their car. The company says these lanes make Chipotle more convenient for guests. Chipotle also has a plan to equip its restaurants with new kitchen machines that work more efficiently. It says it has made significant progress. The goal is to equip kitchens to work faster.",
+  "For the full year, Chipotle still expects sales at older restaurants to grow a few percent. It plans to open 350 to 370 new restaurants. Partners will run 10 to 15 of them outside the United States. About 80% of its new restaurants will have a Chipotlane, which is a convenient way to get food. But Rymer warned that October was weaker, like the rest of the dining industry.",
+  "The results highlight two sides of the story: more customers, but lower profits. Investors focused on the good news about transactions. On October 29, the stock was up 9%, at $31.19, in the middle of the day. But the stock is still down 16% this year."
+ ],
+ "names": {
+  "Chipotle": {
+   "vi": "chuỗi nhà hàng đồ ăn kiểu Mexico của Mỹ"
+  },
+  "Chipotlane": {
+   "vi": "làn xe lấy đồ ăn đã đặt online của Chipotle (không cần xuống xe)"
+  },
+  "Scott Boatwright": {
+   "vi": "tổng giám đốc (CEO) của Chipotle"
+  },
+  "Boatwright": {
+   "vi": "Scott Boatwright, tổng giám đốc (CEO) của Chipotle"
+  },
+  "Adam Rymer": {
+   "vi": "giám đốc tài chính (CFO) của Chipotle"
+  },
+  "Rymer": {
+   "vi": "Adam Rymer, giám đốc tài chính (CFO) của Chipotle"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  }
+ }
+}
