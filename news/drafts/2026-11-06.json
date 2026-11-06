@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-06",
+ "domain": "fashion",
+ "title": "Asia Helps Ralph Lauren Grow Faster",
+ "source": {
+  "url": "https://www.sec.gov/Archives/edgar/data/0001037038/000162828026070619/rl-20260926ex991xpressrele.htm",
+  "outlet": "Ralph Lauren Corporation (press release filed with the SEC, Business Wire)",
+  "author": "Ralph Lauren Corporation",
+  "title": "Ralph Lauren Reports Second Quarter Fiscal 2027 Results Ahead of Expectations and Raises Fiscal 2027 Outlook",
+  "date": "2026-11-05",
+  "accessed": "2026-11-06",
+  "checked_against": "Primary source (the company's own release as filed with the SEC). Web search on 2026-11-06 found no independent news coverage of the Q2 FY2027 results yet; search results only showed the same SEC filing (net income $297M, $4.87 EPS, $4.64 adjusted, inventory $1.2B down 9%), consistent with the release. No figure taken from any other source.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "results released November 5, 2026",
+    "quote": "NEW YORK -- (BUSINESS WIRE) -- November 5, 2026"
+   },
+   {
+    "id": "f3",
+    "text": "results ahead of expectations, outlook raised",
+    "quote": "RALPH LAUREN REPORTS SECOND QUARTER FISCAL 2027 RESULTS AHEAD OF EXPECTATIONS AND RAISES FISCAL 2027 OUTLOOK"
+   },
+   {
+    "id": "f4",
+    "text": "revenue +9% to $2.2 billion reported, +10% constant currency",
+    "quote": "revenue increased 9% to $2.2 billion on a reported basis and was up 10% in constant currency."
+   },
+   {
+    "id": "f5",
+    "text": "Asia revenue +28% to $571 million",
+    "quote": "Asia revenue in the second quarter increased 28% to $571 million on a reported basis."
+   },
+   {
+    "id": "f6",
+    "text": "China revenue +35% or more",
+    "quote": "China revenue increased more than 35% on both a reported and constant currency basis"
+   },
+   {
+    "id": "f7",
+    "text": "North America revenue +6% to $885 million",
+    "quote": "North America revenue in the second quarter increased 6% to $885 million on a reported basis."
+   },
+   {
+    "id": "f8",
+    "text": "Europe revenue +1% to $696 million reported, +3% constant currency",
+    "quote": "Europe revenue in the second quarter increased 1% to $696 million on a reported basis. ... In constant currency, revenue increased 3%."
+   },
+   {
+    "id": "f9",
+    "text": "average unit retail +9% across direct-to-consumer, strong full-price selling",
+    "quote": "Increased AUR by 9% across our direct-to-consumer network in the second quarter, above expectations, reflecting our continued elevation and strong full-price selling trends"
+   },
+   {
+    "id": "f10",
+    "text": "reported gross margin 74.2%, driven by tariff refunds",
+    "quote": "gross margin was 74.2%, 620 basis points above the prior year. ... primarily driven by tariff refunds received in the quarter."
+   },
+   {
+    "id": "f11",
+    "text": "adjusted gross margin 70.5%, +250 bp (2.5 percentage points)",
+    "quote": "On an adjusted basis, ... gross margin was 70.5%, 250 basis points above the prior year."
+   },
+   {
+    "id": "f12",
+    "text": "adjusted operating margin 15.7%, +160 bp (1.6 percentage points)",
+    "quote": "On an adjusted basis, operating income was $345 million and operating margin was 15.7%, 160 basis points above the prior year."
+   },
+   {
+    "id": "f13",
+    "text": "net income $297 million reported",
+    "quote": "Net income in the second quarter of Fiscal 2027 was $297 million, or $4.87 per diluted share on a reported basis."
+   },
+   {
+    "id": "f14",
+    "text": "inventory $1.2 billion, down 9% from a year earlier",
+    "quote": "Inventory at the end of the second quarter of Fiscal 2027 was $1.2 billion, down 9% compared to the prior year period."
+   },
+   {
+    "id": "f15",
+    "text": "full-year constant-currency revenue growth now about 6%-7%, up from 5%-6%",
+    "quote": "now centered around 6% to 7%, up from a range of 5% to 6% previously"
+   },
+   {
+    "id": "f16",
+    "text": "CEO Patrice Louvet: strong quarter lets company raise outlook once again",
+    "quote": "\"We delivered strong second quarter performance, enabling us to raise our Fiscal 2027 outlook once again,\" said Patrice Louvet, President and Chief Executive Officer."
+   },
+   {
+    "id": "f17",
+    "text": "third quarter revenue growth expected about 3%-4% constant currency",
+    "quote": "For the third quarter, the Company expects revenues to grow approximately low- to mid-single digits on a constant currency basis, centered around 3% to 4%."
+   },
+   {
+    "id": "f18",
+    "text": "higher marketing investments in the holiday period",
+    "quote": "gross margin expansion more than offsetting higher marketing investments in the holiday period."
+   }
+  ]
+ },
+ "paragraphs": [
+  "Ralph Lauren is an American company that sells clothes. Many people know it for its classic style, and some buy a whole outfit from the brand. On November 5, 2026, the company shared its results for the second quarter of its business year. The results were better than it had expected.",
+  "Revenue grew 9% to 2.2 billion dollars. When we leave out changes in the value of money between countries, revenue grew 10%.",
+  "The growth was not alike in every region. Asia was the remarkable one. Revenue there grew 28% to 571 million dollars. In China, it grew more than 35%. North America grew 6%, to 885 million dollars. Europe grew only 1%, to 696 million dollars, or 3% without changes in the value of money. So the regions did not look alike. Asia was not the sole region that grew, but it grew the fastest.",
+  "Prices also helped. In the company's own stores and on its websites, the average price of each item sold rose 9%. Strong sales at full price were one reason. In other words, the brand did not need big discounts to satisfy buyers. Many buyers still paid full price for a Ralph Lauren outfit.",
+  "Now look at profit. The gross margin was 74.2%. This is the part of each sale that is left after the company pays for the goods. However, this number needs care. Part of it came from a one-time refund. The company got back some of the tax it paid on goods brought into the United States. Without the refund, the gross margin was 70.5%. That was still 2.5 percentage points higher than a year earlier. The refund was not the sole reason for the higher margin.",
+  "The company also held less inventory. Inventory is the goods a company has but has not sold yet. At the end of the quarter, inventory was 1.2 billion dollars, 9% lower than a year before. Less inventory can mean fewer goods that later need big discounts.",
+  "The company raised its goals for the full year. Without changes in the value of money, it now expects revenue to grow about 6% to 7%. Before, it expected 5% to 6%. Patrice Louvet, the chief executive, said the strong quarter let the company raise its goals once again.",
+  "The prospect for the next three months is slower. This period includes the holiday season. The company expects revenue to grow about 3% to 4%, and it plans to spend more on marketing. That seems a realistic goal. The prospect of slower growth is also a realistic reason to plan with care.",
+  "These results highlight two points. First, Asia, and China in particular, now has real significance for the brand. Second, part of the high profit came from the one-time refund. That demonstrates the significance of looking at the numbers both with and without it. If the numbers without the refund keep growing, that should satisfy the company."
+ ],
+ "names": {
+  "Ralph Lauren": {
+   "vi": "hãng thời trang Mỹ (mang tên nhà thiết kế sáng lập)"
+  },
+  "Patrice Louvet": {
+   "vi": "tổng giám đốc (CEO) của Ralph Lauren"
+  },
+  "Asia": {
+   "vi": "châu Á"
+  },
+  "China": {
+   "vi": "Trung Quốc"
+  },
+  "North America": {
+   "vi": "Bắc Mỹ"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  }
+ }
+}
