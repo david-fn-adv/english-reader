@@ -1,0 +1,59 @@
+{
+ "id": "2026-11-11",
+ "domain": "travel",
+ "title": "A Record Year for Travel, but Closer to Home",
+ "source": {
+  "url": "https://openjaw.com/newsroom/tourism/2026/11/09/record-year-for-global-travel-defined-by-tough-shoppers-taking-shorter-trips",
+  "outlet": "Open Jaw",
+  "author": "Open Jaw",
+  "title": "Record Year for Global Travel Defined by Tough Shoppers, Shorter Trips",
+  "date": "2026-11-09",
+  "accessed": "2026-11-11",
+  "checked_against": "Travel Tomorrow, Ada Wein, 9 November 2026: https://traveltomorrow.com/global-travel-set-to-break-records-in-2026-despite-wars-and-rising-costs/ — agrees on 1.57 billion arrivals, +2% vs 2025, Middle East -40% this year, Europe +5% this year, 2027 +8% and Middle East +43% if conflict eases, 2.2 billion by 2032, the Goodger quote, and release at the opening of WTM London. The value-for-money, relax, AI and Gulf transit figures appear only in Open Jaw (single source). Spending totals left out: the two sources give them in different currencies and do not state the base year.",
+  "figures": [
+   {"id": "f1", "text": "report released 3 November at the start of WTM London", "quote": "The report, produced with Tourism Economics, was released on 03NOV at the start of WTM London."},
+   {"id": "f2", "text": "report covers more than 185 countries; made by Tourism Economics", "quote": "Tourism Economics, an Oxford Economics company, compiled the data for the report, which covers more than 185 countries"},
+   {"id": "f3", "text": "1.57 billion international overnight arrivals in 2026, +2% from 2025", "quote": "It forecasts 1.57 billion international overnight arrivals this year, a 2% increase from 2025."},
+   {"id": "f4", "text": "arrivals growth 2% in 2025, down from 6% the year before", "quote": "Arrivals growth dropped to 2% in 2025 from 6% the previous year."},
+   {"id": "f5", "text": "reasons: Iran conflict, higher jet fuel prices, cost of living", "quote": "Tourism Economics cites the Iran conflict, higher jet fuel prices, and the cost of living as reasons."},
+   {"id": "f6", "text": "Middle East overnight arrivals -40% in 2026", "quote": "Overnight arrivals to the Middle East dropped 40% in 2026."},
+   {"id": "f7", "text": "Gulf hubs handled 15% of global transit in 2025", "quote": "Gulf hubs managed 15% of global transit in 2025."},
+   {"id": "f8", "text": "war closed airspace, blocking routes between Europe and Asia", "quote": "much of the region's airspace was closed, blocking major routes between Europe and Asia"},
+   {"id": "f9", "text": "travelers choose destinations closer to home", "quote": "travellers are more selective, choosing destinations closer to home and using AI to compare prices"},
+   {"id": "f10", "text": "Europe arrivals +5% this year (2026)", "quote": "Europe, which is expected to see a 5% increase in international arrivals this year."},
+   {"id": "f11", "text": "one in six chose last destination for value in 2026, about one in 11 in 2025", "quote": "In 2026, one in six chose their last international destination for value for money, up from about one in 11 in 2025."},
+   {"id": "f12", "text": "56% interested in saving on some parts and spending more on others", "quote": "56% of survey respondents said they're interested in mixing the two, saving on some parts of a trip and splurging on others."},
+   {"id": "f13", "text": "37% say need to relax is main motivator, up from 31% in 2025", "quote": "37% said the need to disconnect and relax is their primary motivator, up from 31% in 2025."},
+   {"id": "f14", "text": "AI: 58% search/compare prices, 53% recommendations, 36% complete a booking", "quote": "58% would use AI to search and compare prices, 53% would consider it for recommendations, and 36% would trust it to complete a booking."},
+   {"id": "f15", "text": "2027: arrivals +8% if disruption eases", "quote": "If this year's disruption eases, international arrivals are forecast to grow 8% in 2027"},
+   {"id": "f16", "text": "Middle East +43% in 2027 if Iran conflict ends", "quote": "The report predicts a 43% rebound in 2027 if the conflict in Iran ends."},
+   {"id": "f17", "text": "2.2 billion arrivals by 2032", "quote": "Growth of around 6% a year after that would take arrivals to 2.2 billion by 2032."},
+   {"id": "f18", "text": "Dave Goodger, Tourism Economics: travelers more active than ever, adapting how and where", "quote": "\"Travellers are more active in 2026 than ever before. Leisure travel remains a key priority in consumer budgets, even as travellers are adapting how and where they visit\""},
+   {"id": "f19", "text": "industry on course for another record year despite disruption", "quote": "the industry is on course for another record year in 2026,\" he added."}
+  ]
+ },
+ "paragraphs": [
+  "In early November, people from the travel industry gather in London for a large travel event called WTM London. On November 3, 2026, at the start of the event, a new report came out. It is called the WTM Global Travel Report. A company named Tourism Economics made it, and it covers more than 185 countries.",
+  "The report says 2026 will be a record year. It expects 1.57 billion international overnight arrivals around the globe. An overnight arrival is a visitor from another country who stays at least one night. That is 2% more than in 2025.",
+  "But growth is slowing. In 2025, arrivals grew only 2%, down from 6% the year before. Tourism Economics gives three reasons. They are the conflict in Iran, higher prices for jet fuel, and the high cost of living.",
+  "The Middle East was hit the hardest. Overnight arrivals there fell 40% in 2026. During the conflict, many flights between Europe and Asia could not go through the region. Many long trips rely on transit airports in the Gulf, where passengers change planes. In 2025, these airports handled 15% of all transit around the globe.",
+  "So travelers are adapting. Many now choose places that are closer to home and less distant. Europe is one of the winners. Arrivals there are expected to grow 5% this year. For now, trips to distant places are less popular.",
+  "Travelers are also more careful with money. In 2026, one in six travelers chose their last international destination because it was good value for money. In 2025, it was about one in 11. But they do not simply spend less. More than half, 56%, said they like to save on some parts of a trip and spend more on others.",
+  "What is the main motivation for a trip? For 37% of travelers, it is the need to relax. In 2025, this number was 31%. So more people now travel with one simple motivation: to rest and relax.",
+  "Many travelers also rely on artificial intelligence, or AI, to gather information. According to the report, 58% would use AI to search for trips and compare prices. About half, 53%, would ask it for a recommendation. But only 36% would trust AI to finish a booking. In other words, people take a recommendation from AI, but most still book the trip on their own.",
+  "The prospect for 2027 is brighter if the problems of this year ease. Then international arrivals could grow 8%. If the conflict in Iran ends, arrivals to the Middle East could rise 43%. By 2032, the report expects 2.2 billion international arrivals.",
+  "Dave Goodger of Tourism Economics said travelers are more active in 2026 than ever before. They are adapting how and where they travel, but travel is still a key part of their spending. That seems a realistic picture. The report highlights a remarkable point. Even in a hard year, people do not give up travel. They look for trips that are closer, cheaper or calmer."
+ ],
+ "names": {
+  "WTM London": {"vi": "World Travel Market London — hội chợ du lịch lớn ở London, Anh"},
+  "WTM Global Travel Report": {"vi": "báo cáo du lịch toàn cầu công bố tại hội chợ WTM"},
+  "Tourism Economics": {"vi": "công ty phân tích số liệu du lịch (thuộc Oxford Economics)"},
+  "Dave Goodger": {"vi": "giám đốc điều hành khu vực châu Âu, Trung Đông và châu Phi của Tourism Economics"},
+  "London": {"vi": "Luân Đôn, thủ đô nước Anh"},
+  "Iran": {"vi": "I-ran, nước ở Trung Đông"},
+  "Middle East": {"vi": "Trung Đông"},
+  "Gulf": {"vi": "vùng Vịnh (các nước quanh vịnh Ba Tư như UAE, Qatar)"},
+  "Europe": {"vi": "châu Âu"},
+  "Asia": {"vi": "châu Á"}
+ }
+}

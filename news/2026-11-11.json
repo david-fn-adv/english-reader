@@ -1,0 +1,3537 @@
+{
+ "id": "2026-11-11",
+ "domain": "travel",
+ "title": "A Record Year for Travel, but Closer to Home",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://openjaw.com/newsroom/tourism/2026/11/09/record-year-for-global-travel-defined-by-tough-shoppers-taking-shorter-trips",
+  "outlet": "Open Jaw",
+  "author": "Open Jaw",
+  "title": "Record Year for Global Travel Defined by Tough Shoppers, Shorter Trips",
+  "date": "2026-11-09",
+  "accessed": "2026-11-11",
+  "checked_against": "Travel Tomorrow, Ada Wein, 9 November 2026: https://traveltomorrow.com/global-travel-set-to-break-records-in-2026-despite-wars-and-rising-costs/ — agrees on 1.57 billion arrivals, +2% vs 2025, Middle East -40% this year, Europe +5% this year, 2027 +8% and Middle East +43% if conflict eases, 2.2 billion by 2032, the Goodger quote, and release at the opening of WTM London. The value-for-money, relax, AI and Gulf transit figures appear only in Open Jaw (single source). Spending totals left out: the two sources give them in different currencies and do not state the base year.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "report released 3 November at the start of WTM London",
+    "quote": "The report, produced with Tourism Economics, was released on 03NOV at the start of WTM London."
+   },
+   {
+    "id": "f2",
+    "text": "report covers more than 185 countries; made by Tourism Economics",
+    "quote": "Tourism Economics, an Oxford Economics company, compiled the data for the report, which covers more than 185 countries"
+   },
+   {
+    "id": "f3",
+    "text": "1.57 billion international overnight arrivals in 2026, +2% from 2025",
+    "quote": "It forecasts 1.57 billion international overnight arrivals this year, a 2% increase from 2025."
+   },
+   {
+    "id": "f4",
+    "text": "arrivals growth 2% in 2025, down from 6% the year before",
+    "quote": "Arrivals growth dropped to 2% in 2025 from 6% the previous year."
+   },
+   {
+    "id": "f5",
+    "text": "reasons: Iran conflict, higher jet fuel prices, cost of living",
+    "quote": "Tourism Economics cites the Iran conflict, higher jet fuel prices, and the cost of living as reasons."
+   },
+   {
+    "id": "f6",
+    "text": "Middle East overnight arrivals -40% in 2026",
+    "quote": "Overnight arrivals to the Middle East dropped 40% in 2026."
+   },
+   {
+    "id": "f7",
+    "text": "Gulf hubs handled 15% of global transit in 2025",
+    "quote": "Gulf hubs managed 15% of global transit in 2025."
+   },
+   {
+    "id": "f8",
+    "text": "war closed airspace, blocking routes between Europe and Asia",
+    "quote": "much of the region's airspace was closed, blocking major routes between Europe and Asia"
+   },
+   {
+    "id": "f9",
+    "text": "travelers choose destinations closer to home",
+    "quote": "travellers are more selective, choosing destinations closer to home and using AI to compare prices"
+   },
+   {
+    "id": "f10",
+    "text": "Europe arrivals +5% this year (2026)",
+    "quote": "Europe, which is expected to see a 5% increase in international arrivals this year."
+   },
+   {
+    "id": "f11",
+    "text": "one in six chose last destination for value in 2026, about one in 11 in 2025",
+    "quote": "In 2026, one in six chose their last international destination for value for money, up from about one in 11 in 2025."
+   },
+   {
+    "id": "f12",
+    "text": "56% interested in saving on some parts and spending more on others",
+    "quote": "56% of survey respondents said they're interested in mixing the two, saving on some parts of a trip and splurging on others."
+   },
+   {
+    "id": "f13",
+    "text": "37% say need to relax is main motivator, up from 31% in 2025",
+    "quote": "37% said the need to disconnect and relax is their primary motivator, up from 31% in 2025."
+   },
+   {
+    "id": "f14",
+    "text": "AI: 58% search/compare prices, 53% recommendations, 36% complete a booking",
+    "quote": "58% would use AI to search and compare prices, 53% would consider it for recommendations, and 36% would trust it to complete a booking."
+   },
+   {
+    "id": "f15",
+    "text": "2027: arrivals +8% if disruption eases",
+    "quote": "If this year's disruption eases, international arrivals are forecast to grow 8% in 2027"
+   },
+   {
+    "id": "f16",
+    "text": "Middle East +43% in 2027 if Iran conflict ends",
+    "quote": "The report predicts a 43% rebound in 2027 if the conflict in Iran ends."
+   },
+   {
+    "id": "f17",
+    "text": "2.2 billion arrivals by 2032",
+    "quote": "Growth of around 6% a year after that would take arrivals to 2.2 billion by 2032."
+   },
+   {
+    "id": "f18",
+    "text": "Dave Goodger, Tourism Economics: travelers more active than ever, adapting how and where",
+    "quote": "\"Travellers are more active in 2026 than ever before. Leisure travel remains a key priority in consumer budgets, even as travellers are adapting how and where they visit\""
+   },
+   {
+    "id": "f19",
+    "text": "industry on course for another record year despite disruption",
+    "quote": "the industry is on course for another record year in 2026,\" he added."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.917,
+  "effective": 0.962,
+  "tokens": 498,
+  "new_core": 8
+ },
+ "vocab": [
+  "gather",
+  "overnight",
+  "globe",
+  "transit",
+  "distant",
+  "motivation",
+  "relax",
+  "recommendation",
+  "close to",
+  "come out",
+  "at least",
+  "rely on",
+  "according to",
+  "in other words",
+  "give up",
+  "look for"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Record",
+      "l": "record",
+      "k": "known"
+     },
+     {
+      "w": "Year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Travel",
+      "nsp": 1,
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "Closer",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Home",
+      "l": "home",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "early",
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "nsp": 1,
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "industry",
+      "l": "industry",
+      "k": "known"
+     },
+     {
+      "w": "gather",
+      "l": "gather",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "London",
+      "n": "London",
+      "k": "name"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "large",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "event",
+      "l": "event",
+      "k": "known"
+     },
+     {
+      "w": "called",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "WTM",
+      "n": "WTM London",
+      "k": "name"
+     },
+     {
+      "w": "London",
+      "nsp": 1,
+      "n": "WTM London",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": "3",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "start",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "event",
+      "nsp": 1,
+      "l": "event",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "came",
+      "l": "come out",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "out",
+      "nsp": 1,
+      "l": "come out",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "called",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "WTM",
+      "n": "WTM Global Travel Report",
+      "k": "name"
+     },
+     {
+      "w": "Global",
+      "n": "WTM Global Travel Report",
+      "k": "name"
+     },
+     {
+      "w": "Travel",
+      "n": "WTM Global Travel Report",
+      "k": "name"
+     },
+     {
+      "w": "Report",
+      "nsp": 1,
+      "n": "WTM Global Travel Report",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "named",
+      "l": "name",
+      "k": "known"
+     },
+     {
+      "w": "Tourism",
+      "n": "Tourism Economics",
+      "k": "name"
+     },
+     {
+      "w": "Economics",
+      "n": "Tourism Economics",
+      "k": "name"
+     },
+     {
+      "w": "made",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "covers",
+      "l": "cover",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "185",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "countries",
+      "nsp": 1,
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "record",
+      "l": "record",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "1.57",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "international",
+      "l": "international",
+      "k": "known"
+     },
+     {
+      "w": "overnight",
+      "l": "overnight",
+      "k": "core"
+     },
+     {
+      "w": "arrivals",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "globe",
+      "nsp": 1,
+      "l": "globe",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "An",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "overnight",
+      "l": "overnight",
+      "k": "core"
+     },
+     {
+      "w": "arrival",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "visitor",
+      "l": "visitor",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "country",
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "stays",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at least",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "least",
+      "l": "at least",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "night",
+      "nsp": 1,
+      "l": "night",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "slowing",
+      "nsp": 1,
+      "l": "slow",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "arrivals",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "down",
+      "l": "down",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "6",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Tourism",
+      "n": "Tourism Economics",
+      "k": "name"
+     },
+     {
+      "w": "Economics",
+      "n": "Tourism Economics",
+      "k": "name"
+     },
+     {
+      "w": "gives",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "reasons",
+      "nsp": 1,
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "conflict",
+      "l": "conflict",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Iran",
+      "nsp": 1,
+      "n": "Iran",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "jet",
+      "l": "jet",
+      "k": "core"
+     },
+     {
+      "w": "fuel",
+      "nsp": 1,
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "high",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "living",
+      "nsp": 1,
+      "l": "living",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "hit",
+      "l": "hit",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "hardest",
+      "nsp": 1,
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Overnight",
+      "l": "overnight",
+      "k": "core"
+     },
+     {
+      "w": "arrivals",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "40",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "During",
+      "l": "during",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "conflict",
+      "nsp": 1,
+      "l": "conflict",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "flights",
+      "l": "flight",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Asia",
+      "n": "Asia",
+      "k": "name"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "go",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "through",
+      "l": "through",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "nsp": 1,
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "long",
+      "l": "long",
+      "k": "known"
+     },
+     {
+      "w": "trips",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "rely",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "transit",
+      "l": "transit",
+      "k": "core"
+     },
+     {
+      "w": "airports",
+      "l": "airport",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Gulf",
+      "nsp": 1,
+      "n": "Gulf",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "passengers",
+      "l": "passenger",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "planes",
+      "nsp": 1,
+      "l": "plane",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "airports",
+      "l": "airport",
+      "k": "known"
+     },
+     {
+      "w": "handled",
+      "l": "handle",
+      "k": "known"
+     },
+     {
+      "w": "15",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "transit",
+      "l": "transit",
+      "k": "core"
+     },
+     {
+      "w": "around",
+      "l": "around",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "globe",
+      "nsp": 1,
+      "l": "globe",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "travelers",
+      "l": "traveler",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "adapting",
+      "nsp": 1,
+      "l": "adapt",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "choose",
+      "l": "choose",
+      "k": "known"
+     },
+     {
+      "w": "places",
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "closer",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "home",
+      "l": "home",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "distant",
+      "nsp": 1,
+      "l": "distant",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "winners",
+      "nsp": 1,
+      "l": "winner",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Arrivals",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "expected",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "nsp": 1,
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "trips",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "distant",
+      "l": "distant",
+      "k": "core"
+     },
+     {
+      "w": "places",
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "popular",
+      "nsp": 1,
+      "l": "popular",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Travelers",
+      "l": "traveler",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "careful",
+      "l": "careful",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "six",
+      "l": "six",
+      "k": "known"
+     },
+     {
+      "w": "travelers",
+      "l": "traveler",
+      "k": "known"
+     },
+     {
+      "w": "chose",
+      "l": "choose",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "international",
+      "l": "international",
+      "k": "known"
+     },
+     {
+      "w": "destination",
+      "l": "destination",
+      "k": "core"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "value",
+      "l": "value",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "11",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f11"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "simply",
+      "l": "simply",
+      "k": "known"
+     },
+     {
+      "w": "spend",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "nsp": 1,
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "More",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "nsp": 1,
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "56",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "like",
+      "l": "like",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "save",
+      "l": "save",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "parts",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "trip",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "spend",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "others",
+      "nsp": 1,
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "What",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "main",
+      "l": "main",
+      "k": "known"
+     },
+     {
+      "w": "motivation",
+      "l": "motivation",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "trip",
+      "nsp": 1,
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "37",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "travelers",
+      "nsp": 1,
+      "l": "traveler",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "need",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "relax",
+      "nsp": 1,
+      "l": "relax",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "31",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "simple",
+      "l": "simple",
+      "k": "known"
+     },
+     {
+      "w": "motivation",
+      "nsp": 1,
+      "l": "motivation",
+      "k": "core"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "rest",
+      "l": "rest",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "relax",
+      "nsp": 1,
+      "l": "relax",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "travelers",
+      "l": "traveler",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "rely",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "artificial",
+      "l": "artificial",
+      "k": "core"
+     },
+     {
+      "w": "intelligence",
+      "nsp": 1,
+      "l": "intelligence",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "AI",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "gather",
+      "l": "gather",
+      "k": "core"
+     },
+     {
+      "w": "information",
+      "nsp": 1,
+      "l": "information",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "nsp": 1,
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "58",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "use",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "AI",
+      "k": "name"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "search",
+      "l": "search",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "trips",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "compare",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "About",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "nsp": 1,
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "53",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "ask",
+      "l": "ask",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "recommendation",
+      "nsp": 1,
+      "l": "recommendation",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "36",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "trust",
+      "l": "trust",
+      "k": "known"
+     },
+     {
+      "w": "AI",
+      "k": "name"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "finish",
+      "l": "finish",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "booking",
+      "nsp": 1,
+      "l": "booking",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "take",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "recommendation",
+      "l": "recommendation",
+      "k": "core"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "AI",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "book",
+      "l": "book",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "trip",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "own",
+      "nsp": 1,
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "prospect",
+      "l": "prospect",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "brighter",
+      "l": "bright",
+      "k": "known"
+     },
+     {
+      "w": "if",
+      "l": "if",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "problems",
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "ease",
+      "nsp": 1,
+      "l": "ease",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "international",
+      "l": "international",
+      "k": "known"
+     },
+     {
+      "w": "arrivals",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "8",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "If",
+      "l": "if",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "conflict",
+      "l": "conflict",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Iran",
+      "n": "Iran",
+      "k": "name"
+     },
+     {
+      "w": "ends",
+      "nsp": 1,
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "arrivals",
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "rise",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "43",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "By",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "2032",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "2.2",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "international",
+      "l": "international",
+      "k": "known"
+     },
+     {
+      "w": "arrivals",
+      "nsp": 1,
+      "l": "arrival",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Dave",
+      "n": "Dave Goodger",
+      "k": "name"
+     },
+     {
+      "w": "Goodger",
+      "n": "Dave Goodger",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Tourism",
+      "n": "Tourism Economics",
+      "k": "name"
+     },
+     {
+      "w": "Economics",
+      "n": "Tourism Economics",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "travelers",
+      "l": "traveler",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "active",
+      "l": "active",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "ever",
+      "l": "ever",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "adapting",
+      "l": "adapt",
+      "k": "core"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "nsp": 1,
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "key",
+      "l": "key",
+      "k": "known"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "spending",
+      "nsp": 1,
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "seems",
+      "l": "seem",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "realistic",
+      "l": "realistic",
+      "k": "core"
+     },
+     {
+      "w": "picture",
+      "nsp": 1,
+      "l": "picture",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "point",
+      "nsp": 1,
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "give",
+      "l": "give up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "give up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "nsp": 1,
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "look",
+      "l": "look for",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "look for",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "trips",
+      "l": "trip",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "closer",
+      "nsp": 1,
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "cheaper",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "calmer",
+      "nsp": 1,
+      "l": "calm",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "gather": {
+   "ipa": "ˈɡæðɚ",
+   "pos": "v",
+   "en": "to come together in one place",
+   "vi": "tụ họp",
+   "band": 4
+  },
+  "event": {
+   "ipa": "ɪˈvɛnt",
+   "pos": "n",
+   "en": "something planned that many people go to",
+   "vi": "sự kiện",
+   "band": 1
+  },
+  "come out": {
+   "ipa": "kʌm aʊt",
+   "pos": "phr",
+   "en": "to be shown to the public for the first time",
+   "vi": "được công bố, ra mắt",
+   "band": 1
+  },
+  "overnight": {
+   "ipa": "ˈoʊvɚˈnaɪt",
+   "pos": "adj",
+   "en": "staying for one night or more",
+   "vi": "qua đêm",
+   "band": 4
+  },
+  "globe": {
+   "ipa": "ɡloʊb",
+   "pos": "n",
+   "en": "the world",
+   "vi": "toàn cầu, thế giới",
+   "band": 4
+  },
+  "visitor": {
+   "ipa": "ˈvɪzɪtɚ",
+   "pos": "n",
+   "en": "a person who comes to see a place",
+   "vi": "du khách",
+   "band": 3
+  },
+  "conflict": {
+   "ipa": "ˈkɑnflɪkt",
+   "pos": "n",
+   "en": "a fight or war between countries or groups",
+   "vi": "xung đột",
+   "band": 2
+  },
+  "living": {
+   "ipa": "ˈlɪvɪŋ",
+   "pos": "n",
+   "en": "the way you live and pay for life",
+   "vi": "cuộc sống, sinh hoạt",
+   "band": 1
+  },
+  "transit": {
+   "ipa": "ˈtrænzɪt",
+   "pos": "n",
+   "en": "passing through a place on the way to another place",
+   "vi": "quá cảnh",
+   "band": 4
+  },
+  "airport": {
+   "ipa": "ˈɛrˌpɔrt",
+   "pos": "n",
+   "en": "a place where planes land and take off",
+   "vi": "sân bay",
+   "band": 2
+  },
+  "passenger": {
+   "ipa": "ˈpæsəndʒɚ",
+   "pos": "n",
+   "en": "a person who travels in a car, plane or train",
+   "vi": "hành khách",
+   "band": 3
+  },
+  "handle": {
+   "ipa": "ˈhændəl",
+   "pos": "v",
+   "en": "to deal with or take care of",
+   "vi": "xử lý, đảm nhận",
+   "band": 2
+  },
+  "choose": {
+   "ipa": "tʃuz",
+   "pos": "v",
+   "en": "to pick one from many",
+   "vi": "chọn",
+   "band": 2
+  },
+  "distant": {
+   "ipa": "ˈdɪstənt",
+   "pos": "adj",
+   "en": "far away",
+   "vi": "xa xôi",
+   "band": 4
+  },
+  "winner": {
+   "ipa": "ˈwɪnɚ",
+   "pos": "n",
+   "en": "a person or place that does better than others",
+   "vi": "bên thắng, người hưởng lợi",
+   "band": 2
+  },
+  "careful": {
+   "ipa": "ˈkɛrfəl",
+   "pos": "adj",
+   "en": "thinking a lot before you do something",
+   "vi": "cẩn thận",
+   "band": 2
+  },
+  "save": {
+   "ipa": "seɪv",
+   "pos": "v",
+   "en": "to spend less money",
+   "vi": "tiết kiệm",
+   "band": 1
+  },
+  "motivation": {
+   "ipa": "ˌmoʊtəˈveɪʃən",
+   "pos": "n",
+   "en": "the reason you want to do something",
+   "vi": "động lực",
+   "band": 4
+  },
+  "relax": {
+   "ipa": "rɪˈlæks",
+   "pos": "v",
+   "en": "to rest and feel calm",
+   "vi": "thư giãn",
+   "band": 4
+  },
+  "information": {
+   "ipa": "ˌɪnfɚˈmeɪʃən",
+   "pos": "n",
+   "en": "facts about something",
+   "vi": "thông tin",
+   "band": 1
+  },
+  "recommendation": {
+   "ipa": "ˌrɛkəmənˈdeɪʃən",
+   "pos": "n",
+   "en": "an idea about what is good to do or buy",
+   "vi": "gợi ý, lời khuyên",
+   "band": 4
+  },
+  "trust": {
+   "ipa": "trʌst",
+   "pos": "v",
+   "en": "to believe that someone or something is good and right",
+   "vi": "tin tưởng",
+   "band": 1
+  },
+  "bright": {
+   "ipa": "braɪt",
+   "pos": "adj",
+   "en": "full of hope; good",
+   "vi": "tươi sáng",
+   "band": 2
+  },
+  "ease": {
+   "ipa": "iz",
+   "pos": "v",
+   "en": "to become less hard or less strong",
+   "vi": "dịu bớt",
+   "band": 3
+  },
+  "active": {
+   "ipa": "ˈæktɪv",
+   "pos": "adj",
+   "en": "doing many things",
+   "vi": "năng động, tích cực",
+   "band": 1
+  },
+  "spending": {
+   "ipa": "ˈspɛndɪŋ",
+   "pos": "n",
+   "en": "money that people spend",
+   "vi": "chi tiêu",
+   "band": 2
+  },
+  "give up": {
+   "ipa": "ɡɪv ʌp",
+   "pos": "phr",
+   "en": "to stop doing something",
+   "vi": "từ bỏ",
+   "band": 1
+  },
+  "calm": {
+   "ipa": "kɑm",
+   "pos": "adj",
+   "en": "quiet, with no worry or noise",
+   "vi": "yên tĩnh, bình yên",
+   "band": 3
+  }
+ },
+ "names": {
+  "WTM London": {
+   "vi": "World Travel Market London — hội chợ du lịch lớn ở London, Anh"
+  },
+  "WTM Global Travel Report": {
+   "vi": "báo cáo du lịch toàn cầu công bố tại hội chợ WTM"
+  },
+  "Tourism Economics": {
+   "vi": "công ty phân tích số liệu du lịch (thuộc Oxford Economics)"
+  },
+  "Dave Goodger": {
+   "vi": "giám đốc điều hành khu vực châu Âu, Trung Đông và châu Phi của Tourism Economics"
+  },
+  "London": {
+   "vi": "Luân Đôn, thủ đô nước Anh"
+  },
+  "Iran": {
+   "vi": "I-ran, nước ở Trung Đông"
+  },
+  "Middle East": {
+   "vi": "Trung Đông"
+  },
+  "Gulf": {
+   "vi": "vùng Vịnh (các nước quanh vịnh Ba Tư như UAE, Qatar)"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Asia": {
+   "vi": "châu Á"
+  }
+ }
+}
