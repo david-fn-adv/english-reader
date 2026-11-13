@@ -1,0 +1,3369 @@
+{
+ "id": "2026-11-13",
+ "domain": "fashion",
+ "title": "Luxury Brands Slow Down Their Price Increases",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fashionunited.uk/news/business/study-can-luxury-brands-still-raise-their-prices/2026111291354",
+  "outlet": "FashionUnited",
+  "author": "Julia Garel",
+  "title": "Study: Can luxury brands still raise their prices?",
+  "date": "2026-11-12",
+  "accessed": "2026-11-13",
+  "checked_against": "Single source. Web search on 2026-11-13 found no second outlet carrying the November 2026 Retviews by Lectra study; earlier Retviews reports (2023-2025) describe the same pattern (China the most expensive market, gap with Europe narrowing) but give no figures for 2026, so no figure was cross-checked or taken from them. Author and publication date come from the page metadata (the page shows no byline). The article notes it was partly written with an AI tool and then fact-checked and edited by a FashionUnited journalist.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "article published November 12, 2026 (a Thursday)",
+    "quote": "datePublished: 2026-11-12T10:36:32 (page metadata)"
+   },
+   {
+    "id": "f2",
+    "text": "study is price tracking by Retviews, Lectra's market analysis solution",
+    "quote": "These findings come from price tracking compiled by Retviews, Lectra's market analysis solution, unveiled this Thursday."
+   },
+   {
+    "id": "f3",
+    "text": "about 80% of luxury market growth between 2023 and 2025 came from price increases, not volume (BoF/McKinsey)",
+    "quote": "approximately 80 percent of luxury market growth between 2023 and 2025 came from price increases rather than volume."
+   },
+   {
+    "id": "f4",
+    "text": "Prada Cleo bag: 1,847 dollars in 2021 to 3,001 dollars in 2026, up 62%",
+    "quote": "Prada's Cleo bag rose from 1,847 dollars in 2021 to 3,001 dollars in 2026, a 62 percent increase."
+   },
+   {
+    "id": "f5",
+    "text": "several brands moved from two price increases a year to one for iconic handbags, since 2025",
+    "quote": "Several brands have shifted from two price increases per year to just one for their iconic handbags."
+   },
+   {
+    "id": "f6",
+    "text": "18% of luxury executives plan price increases above 5% in 2026, against 26% for fashion as a whole",
+    "quote": "18 percent of them plan price increases above 5 percent in 2026, compared to 26 percent for the fashion sector as a whole."
+   },
+   {
+    "id": "f7",
+    "text": "five brands compared across markets, Europe as benchmark",
+    "quote": "Retviews compared the prices charged across several markets by five brands against those in Europe, which serves as the benchmark."
+   },
+   {
+    "id": "f8",
+    "text": "China the most expensive market for each of the five brands in 2026",
+    "quote": "As a result, China remains the most expensive market for each of them in 2026."
+   },
+   {
+    "id": "f9",
+    "text": "China vs Europe, average: Miu Miu 50% more, Burberry 45%, Loewe and Prada 40%, Chloé 34%",
+    "quote": "A Miu Miu product costs an average of 50 percent more there than in Europe."
+   },
+   {
+    "id": "f10",
+    "text": "Prada in China: 54% more than Europe in 2025, 40% more in 2026",
+    "quote": "At Prada, a product sold in China cost an average of 54 percent more than in Europe in 2025, compared to 40 percent in 2026."
+   },
+   {
+    "id": "f11",
+    "text": "Japan the only market cheaper than Europe for several houses: Miu Miu 7% less, Burberry and Loewe 5% less",
+    "quote": "Japan is the only market where several houses sell for less than in Europe, notably Miu Miu (7 percent less), Burberry and Loewe (5 percent less)."
+   },
+   {
+    "id": "f12",
+    "text": "brands spacing out increases, narrowing gaps between markets, strengthening more accessible offerings",
+    "quote": "They are also narrowing price gaps between markets and strengthening their more accessible offerings."
+   },
+   {
+    "id": "f13",
+    "text": "report links the changes to buyer expectations: emotional connection and identity, not social status alone",
+    "quote": "desire for luxury brands is increasingly based on emotional connection and identity expression, rather than social status alone."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.943,
+  "effective": 0.963,
+  "tokens": 485,
+  "new_core": 8
+ },
+ "vocab": [
+  "habit",
+  "resist",
+  "justify",
+  "climb",
+  "signature",
+  "identical",
+  "symbol",
+  "accessible",
+  "slow down",
+  "according to",
+  "in other words",
+  "used to",
+  "around the world",
+  "on average",
+  "close to"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "Brands",
+      "k": "name"
+     },
+     {
+      "w": "Slow",
+      "l": "slow down",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Down",
+      "l": "slow down",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "Price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "Increases",
+      "l": "increase",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "years",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "simple",
+      "l": "simple",
+      "k": "known"
+     },
+     {
+      "w": "habit",
+      "nsp": 1,
+      "l": "habit",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "wanted",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "nsp": 1,
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "raised",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Few",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "resist",
+      "l": "resist",
+      "k": "core"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "habit",
+      "l": "habit",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "changing",
+      "nsp": 1,
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "comes",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "Retviews",
+      "nsp": 1,
+      "n": "Retviews",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "tool",
+      "l": "tool",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "Lectra",
+      "n": "Lectra",
+      "k": "name"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "follows",
+      "l": "follow",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "nsp": 1,
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "FashionUnited",
+      "n": "FashionUnited",
+      "k": "name"
+     },
+     {
+      "w": "wrote",
+      "l": "write",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "First",
+      "nsp": 1,
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "look",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "matter",
+      "l": "matter",
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "nsp": 1,
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "The",
+      "n": "The Business of Fashion",
+      "k": "name"
+     },
+     {
+      "w": "Business",
+      "n": "The Business of Fashion",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "n": "The Business of Fashion",
+      "k": "name"
+     },
+     {
+      "w": "Fashion",
+      "n": "The Business of Fashion",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "McKinsey",
+      "nsp": 1,
+      "n": "McKinsey",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "80",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "2023",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "came",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "selling",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "items",
+      "nsp": 1,
+      "l": "item",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "earned",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "mostly",
+      "l": "mostly",
+      "k": "known"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "buyer",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "paid",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "One",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "demonstrates",
+      "l": "demonstrate",
+      "k": "core"
+     },
+     {
+      "w": "this",
+      "nsp": 1,
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Prada",
+      "nsp": 1,
+      "n": "Prada",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Cleo",
+      "n": "Cleo",
+      "k": "name"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "1,847",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2021",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "3,001",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "increase",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "62",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "justify",
+      "l": "justify",
+      "k": "core"
+     },
+     {
+      "w": "such",
+      "l": "such",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "climb",
+      "nsp": 1,
+      "l": "climb",
+      "k": "core"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "increases",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "often",
+      "nsp": 1,
+      "l": "often",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Several",
+      "l": "several",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "used to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "used to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "raise",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "signature",
+      "l": "signature",
+      "k": "core"
+     },
+     {
+      "w": "bags",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "twice",
+      "l": "twice",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "done",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "once",
+      "l": "once",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "increases",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "common",
+      "l": "common",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "rest",
+      "l": "rest",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "nsp": 1,
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "18",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "leaders",
+      "l": "leader",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "raise",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "nsp": 1,
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "number",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "26",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "distinct",
+      "l": "distinct",
+      "k": "core"
+     },
+     {
+      "w": "markets",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "looked",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "five",
+      "l": "five",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "base",
+      "nsp": 1,
+      "l": "base",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "identical",
+      "l": "identical",
+      "k": "core"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "five",
+      "l": "five",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Miu",
+      "n": "Miu Miu",
+      "k": "name"
+     },
+     {
+      "w": "Miu",
+      "n": "Miu Miu",
+      "k": "name"
+     },
+     {
+      "w": "product",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "50",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "on",
+      "l": "on average",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "average",
+      "nsp": 1,
+      "l": "on average",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Burberry",
+      "nsp": 1,
+      "n": "Burberry",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "gap",
+      "l": "gap",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "45",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Loewe",
+      "n": "Loewe",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Prada",
+      "nsp": 1,
+      "n": "Prada",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "40",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Chloé",
+      "nsp": 1,
+      "n": "Chloé",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "34",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "gap",
+      "l": "gap",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "getting",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "nsp": 1,
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Prada",
+      "n": "Prada",
+      "k": "name"
+     },
+     {
+      "w": "product",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "54",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "on",
+      "l": "on average",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "average",
+      "nsp": 1,
+      "l": "on average",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "40",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "identical",
+      "nsp": 1,
+      "l": "identical",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "closer",
+      "nsp": 1,
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Japan",
+      "n": "Japan",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "distinct",
+      "l": "distinct",
+      "k": "core"
+     },
+     {
+      "w": "case",
+      "nsp": 1,
+      "l": "case",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "several",
+      "l": "several",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "cheaper",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Miu",
+      "n": "Miu Miu",
+      "k": "name"
+     },
+     {
+      "w": "Miu",
+      "n": "Miu Miu",
+      "k": "name"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "7",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f11"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "nsp": 1,
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Burberry",
+      "n": "Burberry",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Loewe",
+      "n": "Loewe",
+      "k": "name"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "less",
+      "nsp": 1,
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "changing",
+      "nsp": 1,
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "links",
+      "l": "link",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "expect",
+      "nsp": 1,
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "past",
+      "nsp": 1,
+      "l": "past",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "mostly",
+      "l": "mostly",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "symbol",
+      "l": "symbol",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "social",
+      "l": "social",
+      "k": "known"
+     },
+     {
+      "w": "status",
+      "nsp": 1,
+      "l": "status",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Today",
+      "nsp": 1,
+      "l": "today",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "enough",
+      "nsp": 1,
+      "l": "enough",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "People",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "want",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "feel",
+      "l": "feel",
+      "k": "known"
+     },
+     {
+      "w": "close",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "want",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "show",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "nsp": 1,
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "status",
+      "l": "status",
+      "k": "known"
+     },
+     {
+      "w": "symbol",
+      "l": "symbol",
+      "k": "core"
+     },
+     {
+      "w": "alone",
+      "l": "alone",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "justify",
+      "l": "justify",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "high",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "clear",
+      "l": "clear",
+      "k": "known"
+     },
+     {
+      "w": "point",
+      "nsp": 1,
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "raise",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "slowly",
+      "l": "slowly",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "care",
+      "nsp": 1,
+      "l": "care",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "adding",
+      "l": "add",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "accessible",
+      "l": "accessible",
+      "k": "core"
+     },
+     {
+      "w": "products",
+      "nsp": 1,
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Accessible",
+      "l": "accessible",
+      "k": "core"
+     },
+     {
+      "w": "here",
+      "l": "here",
+      "k": "known"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "easier",
+      "l": "easy",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "nsp": 1,
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "may",
+      "l": "may",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "resist",
+      "l": "resist",
+      "k": "core"
+     },
+     {
+      "w": "raising",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "again",
+      "nsp": 1,
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "signature",
+      "l": "signature",
+      "k": "core"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "already",
+      "l": "already",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "nsp": 1,
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "If",
+      "l": "if",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "rising",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "may",
+      "l": "may",
+      "k": "known"
+     },
+     {
+      "w": "stop",
+      "l": "stop",
+      "k": "known"
+     },
+     {
+      "w": "following",
+      "l": "follow",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "climb",
+      "nsp": 1,
+      "l": "climb",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "slow down": {
+   "ipa": "sloʊ daʊn",
+   "pos": "phr",
+   "en": "to go or do something less fast",
+   "vi": "chậm lại, làm chậm lại",
+   "band": 2
+  },
+  "habit": {
+   "ipa": "ˈhæbət",
+   "pos": "n",
+   "en": "something that you do often, almost without thinking",
+   "vi": "thói quen",
+   "band": 4
+  },
+  "resist": {
+   "ipa": "rɪˈzɪst",
+   "pos": "v",
+   "en": "to stop yourself from doing something you want to do",
+   "vi": "cưỡng lại, kìm lại",
+   "band": 4
+  },
+  "study": {
+   "ipa": "ˈstʌdi",
+   "pos": "n",
+   "en": "a piece of work that looks at facts to learn about something",
+   "vi": "nghiên cứu",
+   "band": 1
+  },
+  "tool": {
+   "ipa": "tul",
+   "pos": "n",
+   "en": "a thing that helps you do a job",
+   "vi": "công cụ",
+   "band": 2
+  },
+  "follow": {
+   "ipa": "ˈfɑloʊ",
+   "pos": "v",
+   "en": "to watch how something changes over time",
+   "vi": "theo dõi; đi theo",
+   "band": 1
+  },
+  "mostly": {
+   "ipa": "ˈmoʊstli",
+   "pos": "adv",
+   "en": "in most cases; for the biggest part",
+   "vi": "chủ yếu, phần lớn",
+   "band": 2
+  },
+  "justify": {
+   "ipa": "ˈdʒʌstəˌfaɪ",
+   "pos": "v",
+   "en": "to give a good reason for something",
+   "vi": "biện minh, lý giải cho",
+   "band": 4
+  },
+  "climb": {
+   "ipa": "klaɪm",
+   "pos": "n",
+   "en": "a rise to a higher level",
+   "vi": "sự tăng lên; leo lên",
+   "band": 4
+  },
+  "signature": {
+   "ipa": "ˈsɪɡnətʃɚ",
+   "pos": "n",
+   "en": "the best-known thing of a brand, the one people know it for",
+   "vi": "đặc trưng, làm nên tên tuổi; chữ ký",
+   "band": 4
+  },
+  "twice": {
+   "ipa": "twaɪs",
+   "pos": "adv",
+   "en": "two times",
+   "vi": "hai lần",
+   "band": 2
+  },
+  "since": {
+   "ipa": "sɪns",
+   "pos": "conj",
+   "en": "from a time in the past until now",
+   "vi": "từ, kể từ",
+   "band": 1
+  },
+  "five": {
+   "ipa": "faɪv",
+   "pos": "num",
+   "en": "the number after four",
+   "vi": "năm (số 5)",
+   "band": 1
+  },
+  "identical": {
+   "ipa": "aɪˈdɛntɪkəl",
+   "pos": "adj",
+   "en": "the same in every way",
+   "vi": "giống hệt nhau",
+   "band": 4
+  },
+  "case": {
+   "ipa": "keɪs",
+   "pos": "n",
+   "en": "one example of something",
+   "vi": "trường hợp",
+   "band": 1
+  },
+  "symbol": {
+   "ipa": "ˈsɪmbəl",
+   "pos": "n",
+   "en": "a thing that shows or means something else",
+   "vi": "biểu tượng",
+   "band": 4
+  },
+  "status": {
+   "ipa": "ˈstætəs",
+   "pos": "n",
+   "en": "how high or important other people think you are",
+   "vi": "địa vị",
+   "band": 2
+  },
+  "enough": {
+   "ipa": "ɪˈnʌf",
+   "pos": "adj",
+   "en": "as much as you need",
+   "vi": "đủ",
+   "band": 1
+  },
+  "accessible": {
+   "ipa": "ækˈsɛsəbəl",
+   "pos": "adj",
+   "en": "easy to get, buy or use",
+   "vi": "dễ tiếp cận, dễ mua",
+   "band": 4
+  },
+  "easy": {
+   "ipa": "ˈizi",
+   "pos": "adj",
+   "en": "not hard to do",
+   "vi": "dễ",
+   "band": 1
+  },
+  "may": {
+   "ipa": "meɪ",
+   "pos": "aux",
+   "en": "used to say that something is possible",
+   "vi": "có thể",
+   "band": 1
+  }
+ },
+ "names": {
+  "Retviews": {
+   "vi": "công cụ theo dõi giá thời trang của công ty Lectra"
+  },
+  "Lectra": {
+   "vi": "công ty công nghệ cho ngành thời trang"
+  },
+  "FashionUnited": {
+   "vi": "trang tin về ngành thời trang"
+  },
+  "The Business of Fashion": {
+   "vi": "trang tin lớn về ngành thời trang"
+  },
+  "McKinsey": {
+   "vi": "công ty tư vấn lớn của Mỹ"
+  },
+  "Prada": {
+   "vi": "hãng thời trang xa xỉ của Ý"
+  },
+  "Cleo": {
+   "vi": "tên một mẫu túi của Prada"
+  },
+  "Miu Miu": {
+   "vi": "hãng thời trang xa xỉ của Ý, cùng tập đoàn với Prada"
+  },
+  "Burberry": {
+   "vi": "hãng thời trang xa xỉ của Anh"
+  },
+  "Loewe": {
+   "vi": "hãng thời trang xa xỉ của Tây Ban Nha"
+  },
+  "Chloé": {
+   "vi": "hãng thời trang xa xỉ của Pháp"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "China": {
+   "vi": "Trung Quốc"
+  },
+  "Japan": {
+   "vi": "Nhật Bản"
+  }
+ }
+}
