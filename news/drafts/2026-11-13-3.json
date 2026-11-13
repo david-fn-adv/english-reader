@@ -1,0 +1,107 @@
+{
+ "id": "2026-11-13-3",
+ "domain": "fashion",
+ "title": "Weight-Loss Medication Changes What People Buy to Wear",
+ "source": {
+  "url": "https://fashionunited.uk/news/business/how-weight-loss-drugs-are-reshaping-wardrobe-spending/2026111291362",
+  "outlet": "FashionUnited",
+  "author": "Renan Botelho de Carvalho",
+  "title": "How weight-loss drugs are reshaping wardrobe spending",
+  "date": "2026-11-12",
+  "accessed": "2026-11-13",
+  "checked_against": "Circana's own summary of its 'GLP-1 Unlocked' research (circana.com, found by web search on 2026-11-13) gives the same clothing figure (index 6.4 points above the pre-treatment baseline in the second year) and the same warning that index points are not percentage increases. The other figures were found only in FashionUnited. The day the report came out is left out of the article: FashionUnited says 'Thursday', the search result for Circana's release says November 10. Author and publication date come from the page metadata (the page shows no byline). Extra article requested by Dương on 2026-11-13 to make up for the skipped fashion day 2026-10-30.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "FashionUnited article published November 12, 2026",
+    "quote": "datePublished: 2026-11-12T12:49:01 (page metadata)"
+   },
+   {
+    "id": "f2",
+    "text": "research by Circana on US households",
+    "quote": "Circana's latest US household research shows spending in both categories strengthening"
+   },
+   {
+    "id": "f3",
+    "text": "purchase data from August 2023 to July 2026",
+    "quote": "Circana's analysis draws on US household receipt-panel purchases from August 2023 to July 2026"
+   },
+   {
+    "id": "f4",
+    "text": "households with at least one current user who started treatment between 2024 and 2026, compared with households that never used the drugs",
+    "quote": "households with at least one current user who started treatment between 2024 and 2026"
+   },
+   {
+    "id": "f5",
+    "text": "year one = first 12 months after treatment began; year two = months 13 to 24",
+    "quote": "\"Year one\" refers to the first 12 months after treatment began, while \"year two\" covers months 13 to 24"
+   },
+   {
+    "id": "f6",
+    "text": "index tracked against the 12 months before treatment started; index points, not percentage sales increases",
+    "quote": "These are index-point changes, not percentage sales increases."
+   },
+   {
+    "id": "f7",
+    "text": "apparel as a whole: 2.9 points above baseline in year one, 6.4 points in year two",
+    "quote": "Across apparel as a whole, the spending index was 2.9 points above its pre-treatment baseline in year one"
+   },
+   {
+    "id": "f8",
+    "text": "swimwear: 15.5 points above baseline in year two, compared with 1.7 in year one",
+    "quote": "Swimwear's spending index was 15.5 points above its pre-treatment baseline in year two, compared with 1.7"
+   },
+   {
+    "id": "f9",
+    "text": "outerwear from 10.9 points above baseline to 15 points; sweaters from 6.8 to 14.9 points",
+    "quote": "Outerwear strengthened from 10.9 points above baseline to 15 points, while sweaters rose from 6.8 to 14.9 points."
+   },
+   {
+    "id": "f10",
+    "text": "total footwear: 0.1 points below baseline in year one, 0.2 points below in year two",
+    "quote": "Total footwear remained close to baseline, at 0.1 points below in year one and 0.2 points below in year two."
+   },
+   {
+    "id": "f11",
+    "text": "separate Circana survey, September 2026",
+    "quote": "Circana's separate September 2026 survey provides evidence of a connection between GLP-1 treatments with clothing purchases."
+   },
+   {
+    "id": "f12",
+    "text": "43% of households with a current user bought clothing or footwear in the previous three months because of the treatment",
+    "quote": "43 percent reported buying clothing or footwear in the previous three months because of GLP-1 use."
+   },
+   {
+    "id": "f13",
+    "text": "reasons: size changes 28%, updating personal style 18%, new activities 13%",
+    "quote": "Size changes were the most commonly reported driver, cited by 28 percent ... followed by updating personal style at 18 percent ... and participating in new activities at 13 percent."
+   },
+   {
+    "id": "f14",
+    "text": "research does not establish why outerwear and swimwear gain more",
+    "quote": "Nor does it establish precisely why outerwear and swimwear show stronger gains than"
+   },
+   {
+    "id": "f15",
+    "text": "advice: look beyond the earliest months of treatment; more responsive size planning",
+    "quote": "retailers should look beyond the earliest months of treatment when assessing demand."
+   }
+  ]
+ },
+ "paragraphs": [
+  "New medication helps many people lose excess weight. It also changes how they shop for clothes. This is the finding of new research from Circana, a company that studies what people buy. FashionUnited reported on it on November 12, 2026.",
+  "Circana looked at what families in the United States bought between August 2023 and July 2026. It chose families where at least one person takes weight-loss medication and started between 2024 and 2026. Then it compared them with families that never used it.",
+  "How does Circana measure the change? It gives each kind of clothing a score. The score shows how much a family spends, compared with the 12 months before the medication began. The numbers below are points on this score. They are not percent increases in sales. Year one means the first 12 months of treatment. Year two means months 13 to 24.",
+  "For clothing as a whole, the score was 2.9 points higher in year one. In year two, it was 6.4 points higher. So the duration of treatment matters. People did not stop after the first few months. They went on filling the closet.",
+  "Two kinds of clothing did very well. The first is clothes for swimming. In year one, the swim score was only 1.7 points higher. In year two, it was 15.5 points higher. That is a remarkable jump. The second is outdoor clothing, such as coats and jackets. Its score rose from 10.9 points to 15 points. Sweaters also did well. Their score went from 6.8 to 14.9 points.",
+  "Not everything changed. Spending on shoes stayed close to the old level. It was 0.1 points lower in year one and 0.2 points lower in year two.",
+  "What triggers the shopping? Circana asked people in September 2026. In families where someone takes the medication, 43% said they had bought clothing or shoes in the past three months because of it. The most common trigger was a change in size, at 28%. Then came a wish for a new style, at 18%. New activities came third, at 13%. In other words, people do not only need smaller clothes. Some also start a new lifestyle and dress differently.",
+  "Nevertheless, the research has limits. It does not explain exactly why outdoor and swim clothes grew more than other kinds. The result is still useful for fashion companies. Circana says stores should not look only at the first months of treatment. The whole duration matters. It also says stores could be more flexible when they plan sizes. A flexible plan helps when buyers change size during the year.",
+  "The research highlights one more thing. An old shopping habit can change when the body changes. When excess weight goes, many people shop differently. A new lifestyle often needs a new closet."
+ ],
+ "names": {
+  "Circana": {"vi": "công ty Mỹ nghiên cứu thị trường, theo dõi người tiêu dùng mua gì"},
+  "FashionUnited": {"vi": "trang tin về ngành thời trang"},
+  "United States": {"vi": "nước Mỹ"}
+ }
+}

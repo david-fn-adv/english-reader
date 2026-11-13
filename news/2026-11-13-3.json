@@ -1,0 +1,3220 @@
+{
+ "id": "2026-11-13-3",
+ "domain": "fashion",
+ "title": "Weight-Loss Medication Changes What People Buy to Wear",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fashionunited.uk/news/business/how-weight-loss-drugs-are-reshaping-wardrobe-spending/2026111291362",
+  "outlet": "FashionUnited",
+  "author": "Renan Botelho de Carvalho",
+  "title": "How weight-loss drugs are reshaping wardrobe spending",
+  "date": "2026-11-12",
+  "accessed": "2026-11-13",
+  "checked_against": "Circana's own summary of its 'GLP-1 Unlocked' research (circana.com, found by web search on 2026-11-13) gives the same clothing figure (index 6.4 points above the pre-treatment baseline in the second year) and the same warning that index points are not percentage increases. The other figures were found only in FashionUnited. The day the report came out is left out of the article: FashionUnited says 'Thursday', the search result for Circana's release says November 10. Author and publication date come from the page metadata (the page shows no byline). Extra article requested by Dương on 2026-11-13 to make up for the skipped fashion day 2026-10-30.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "FashionUnited article published November 12, 2026",
+    "quote": "datePublished: 2026-11-12T12:49:01 (page metadata)"
+   },
+   {
+    "id": "f2",
+    "text": "research by Circana on US households",
+    "quote": "Circana's latest US household research shows spending in both categories strengthening"
+   },
+   {
+    "id": "f3",
+    "text": "purchase data from August 2023 to July 2026",
+    "quote": "Circana's analysis draws on US household receipt-panel purchases from August 2023 to July 2026"
+   },
+   {
+    "id": "f4",
+    "text": "households with at least one current user who started treatment between 2024 and 2026, compared with households that never used the drugs",
+    "quote": "households with at least one current user who started treatment between 2024 and 2026"
+   },
+   {
+    "id": "f5",
+    "text": "year one = first 12 months after treatment began; year two = months 13 to 24",
+    "quote": "\"Year one\" refers to the first 12 months after treatment began, while \"year two\" covers months 13 to 24"
+   },
+   {
+    "id": "f6",
+    "text": "index tracked against the 12 months before treatment started; index points, not percentage sales increases",
+    "quote": "These are index-point changes, not percentage sales increases."
+   },
+   {
+    "id": "f7",
+    "text": "apparel as a whole: 2.9 points above baseline in year one, 6.4 points in year two",
+    "quote": "Across apparel as a whole, the spending index was 2.9 points above its pre-treatment baseline in year one"
+   },
+   {
+    "id": "f8",
+    "text": "swimwear: 15.5 points above baseline in year two, compared with 1.7 in year one",
+    "quote": "Swimwear's spending index was 15.5 points above its pre-treatment baseline in year two, compared with 1.7"
+   },
+   {
+    "id": "f9",
+    "text": "outerwear from 10.9 points above baseline to 15 points; sweaters from 6.8 to 14.9 points",
+    "quote": "Outerwear strengthened from 10.9 points above baseline to 15 points, while sweaters rose from 6.8 to 14.9 points."
+   },
+   {
+    "id": "f10",
+    "text": "total footwear: 0.1 points below baseline in year one, 0.2 points below in year two",
+    "quote": "Total footwear remained close to baseline, at 0.1 points below in year one and 0.2 points below in year two."
+   },
+   {
+    "id": "f11",
+    "text": "separate Circana survey, September 2026",
+    "quote": "Circana's separate September 2026 survey provides evidence of a connection between GLP-1 treatments with clothing purchases."
+   },
+   {
+    "id": "f12",
+    "text": "43% of households with a current user bought clothing or footwear in the previous three months because of the treatment",
+    "quote": "43 percent reported buying clothing or footwear in the previous three months because of GLP-1 use."
+   },
+   {
+    "id": "f13",
+    "text": "reasons: size changes 28%, updating personal style 18%, new activities 13%",
+    "quote": "Size changes were the most commonly reported driver, cited by 28 percent ... followed by updating personal style at 18 percent ... and participating in new activities at 13 percent."
+   },
+   {
+    "id": "f14",
+    "text": "research does not establish why outerwear and swimwear gain more",
+    "quote": "Nor does it establish precisely why outerwear and swimwear show stronger gains than"
+   },
+   {
+    "id": "f15",
+    "text": "advice: look beyond the earliest months of treatment; more responsive size planning",
+    "quote": "retailers should look beyond the earliest months of treatment when assessing demand."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.924,
+  "effective": 0.952,
+  "tokens": 462,
+  "new_core": 9
+ },
+ "vocab": [
+  "medication",
+  "excess",
+  "duration",
+  "closet",
+  "swim",
+  "outdoor",
+  "trigger",
+  "lifestyle",
+  "flexible",
+  "at least",
+  "kind of",
+  "compared with",
+  "go on",
+  "such as",
+  "close to",
+  "because of",
+  "in other words"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Weight-Loss",
+      "k": "name"
+     },
+     {
+      "w": "Medication",
+      "l": "medication",
+      "k": "core"
+     },
+     {
+      "w": "Changes",
+      "k": "name"
+     },
+     {
+      "w": "What",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "People",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "Buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "Wear",
+      "l": "wear",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "New",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "medication",
+      "l": "medication",
+      "k": "core"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "lose",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "excess",
+      "l": "excess",
+      "k": "core"
+     },
+     {
+      "w": "weight",
+      "nsp": 1,
+      "l": "weight",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "changes",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "shop",
+      "l": "shop",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "clothes",
+      "nsp": 1,
+      "l": "clothes",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "finding",
+      "l": "finding",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "research",
+      "l": "research",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "Circana",
+      "nsp": 1,
+      "n": "Circana",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "studies",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "nsp": 1,
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "FashionUnited",
+      "n": "FashionUnited",
+      "k": "name"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Circana",
+      "n": "Circana",
+      "k": "name"
+     },
+     {
+      "w": "looked",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "families",
+      "l": "family",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "bought",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "August",
+      "l": "august",
+      "k": "known"
+     },
+     {
+      "w": "2023",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "July",
+      "l": "july",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "chose",
+      "l": "choose",
+      "k": "known"
+     },
+     {
+      "w": "families",
+      "l": "family",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at least",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "least",
+      "l": "at least",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "person",
+      "l": "person",
+      "k": "known"
+     },
+     {
+      "w": "takes",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "weight-loss",
+      "l": "weight-loss",
+      "k": "known"
+     },
+     {
+      "w": "medication",
+      "l": "medication",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "started",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "2024",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "families",
+      "l": "family",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "never",
+      "l": "never",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "How",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "Circana",
+      "n": "Circana",
+      "k": "name"
+     },
+     {
+      "w": "measure",
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "nsp": 1,
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "gives",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "kind",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "clothing",
+      "l": "clothing",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "nsp": 1,
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": "shows",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "family",
+      "l": "family",
+      "k": "known"
+     },
+     {
+      "w": "spends",
+      "nsp": 1,
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "medication",
+      "l": "medication",
+      "k": "core"
+     },
+     {
+      "w": "began",
+      "nsp": 1,
+      "l": "begin",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "numbers",
+      "l": "number",
+      "k": "known"
+     },
+     {
+      "w": "below",
+      "l": "below",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "nsp": 1,
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "increases",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "treatment",
+      "nsp": 1,
+      "l": "treatment",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "13",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "24",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "clothing",
+      "l": "clothing",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "nsp": 1,
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "2.9",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "nsp": 1,
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "nsp": 1,
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "6.4",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "nsp": 1,
+      "l": "higher",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "duration",
+      "l": "duration",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "treatment",
+      "l": "treatment",
+      "k": "known"
+     },
+     {
+      "w": "matters",
+      "nsp": 1,
+      "l": "matter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "People",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "stop",
+      "l": "stop",
+      "k": "known"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "few",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go on",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "go on",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "filling",
+      "l": "fill",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "closet",
+      "nsp": 1,
+      "l": "closet",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "kinds",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "clothing",
+      "l": "clothing",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "nsp": 1,
+      "l": "well",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "clothes",
+      "l": "clothes",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "swimming",
+      "nsp": 1,
+      "l": "swimming",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "nsp": 1,
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "swim",
+      "l": "swim",
+      "k": "core"
+     },
+     {
+      "w": "score",
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "1.7",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "nsp": 1,
+      "l": "higher",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "nsp": 1,
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "15.5",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "nsp": 1,
+      "l": "higher",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "jump",
+      "nsp": 1,
+      "l": "jump",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "outdoor",
+      "l": "outdoor",
+      "k": "core"
+     },
+     {
+      "w": "clothing",
+      "nsp": 1,
+      "l": "clothing",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "such",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "coats",
+      "l": "coat",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "jackets",
+      "nsp": 1,
+      "l": "jacket",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "10.9",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "15",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "points",
+      "nsp": 1,
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sweaters",
+      "l": "sweater",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "nsp": 1,
+      "l": "well",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "score",
+      "l": "score",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "6.8",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "14.9",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "points",
+      "nsp": 1,
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "everything",
+      "l": "everything",
+      "k": "known"
+     },
+     {
+      "w": "changed",
+      "nsp": 1,
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Spending",
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "shoes",
+      "l": "shoe",
+      "k": "known"
+     },
+     {
+      "w": "stayed",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "close",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "close to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "old",
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": "level",
+      "nsp": 1,
+      "l": "level",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "0.1",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "0.2",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "nsp": 1,
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "What",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "triggers",
+      "l": "trigger",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "nsp": 1,
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Circana",
+      "n": "Circana",
+      "k": "name"
+     },
+     {
+      "w": "asked",
+      "l": "ask",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "families",
+      "l": "family",
+      "k": "known"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "someone",
+      "l": "someone",
+      "k": "known"
+     },
+     {
+      "w": "takes",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "medication",
+      "nsp": 1,
+      "l": "medication",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "43",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "bought",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "clothing",
+      "l": "clothing",
+      "k": "known"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "shoes",
+      "l": "shoe",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "past",
+      "l": "past",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "because",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "common",
+      "l": "common",
+      "k": "known"
+     },
+     {
+      "w": "trigger",
+      "l": "trigger",
+      "k": "core"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "size",
+      "nsp": 1,
+      "l": "size",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "28",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "came",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "wish",
+      "l": "wish",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "style",
+      "nsp": 1,
+      "l": "style",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "18",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "New",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "activities",
+      "l": "activity",
+      "k": "known"
+     },
+     {
+      "w": "came",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "nsp": 1,
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "13",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "need",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "clothes",
+      "nsp": 1,
+      "l": "clothes",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "start",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "lifestyle",
+      "l": "lifestyle",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "dress",
+      "l": "dress",
+      "k": "known"
+     },
+     {
+      "w": "differently",
+      "nsp": 1,
+      "l": "differently",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "research",
+      "l": "research",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "limits",
+      "nsp": 1,
+      "l": "limit",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "explain",
+      "l": "explain",
+      "k": "known"
+     },
+     {
+      "w": "exactly",
+      "l": "exactly",
+      "k": "known"
+     },
+     {
+      "w": "why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "outdoor",
+      "l": "outdoor",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "swim",
+      "l": "swim",
+      "k": "core"
+     },
+     {
+      "w": "clothes",
+      "l": "clothes",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "kinds",
+      "nsp": 1,
+      "l": "kind",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "result",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "useful",
+      "l": "useful",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "companies",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Circana",
+      "n": "Circana",
+      "k": "name"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "should",
+      "l": "should",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "look",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "treatment",
+      "nsp": 1,
+      "l": "treatment",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": "duration",
+      "l": "duration",
+      "k": "core"
+     },
+     {
+      "w": "matters",
+      "nsp": 1,
+      "l": "matter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "flexible",
+      "l": "flexible",
+      "k": "core"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "sizes",
+      "nsp": 1,
+      "l": "size",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "flexible",
+      "l": "flexible",
+      "k": "core"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "size",
+      "l": "size",
+      "k": "known"
+     },
+     {
+      "w": "during",
+      "l": "during",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "research",
+      "l": "research",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "thing",
+      "nsp": 1,
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "An",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "old",
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "habit",
+      "l": "habit",
+      "k": "core"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "body",
+      "l": "body",
+      "k": "known"
+     },
+     {
+      "w": "changes",
+      "nsp": 1,
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "excess",
+      "l": "excess",
+      "k": "core"
+     },
+     {
+      "w": "weight",
+      "l": "weight",
+      "k": "known"
+     },
+     {
+      "w": "goes",
+      "nsp": 1,
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "shop",
+      "l": "shop",
+      "k": "known"
+     },
+     {
+      "w": "differently",
+      "nsp": 1,
+      "l": "differently",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "lifestyle",
+      "l": "lifestyle",
+      "k": "core"
+     },
+     {
+      "w": "often",
+      "l": "often",
+      "k": "known"
+     },
+     {
+      "w": "needs",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "closet",
+      "nsp": 1,
+      "l": "closet",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "medication": {
+   "ipa": "ˌmɛdəˈkeɪʃən",
+   "pos": "n",
+   "en": "something you take to get well or to help your body",
+   "vi": "thuốc (điều trị)",
+   "band": 4
+  },
+  "excess": {
+   "ipa": "ˈɛkˌsɛs",
+   "pos": "adj",
+   "en": "more than you need or want",
+   "vi": "thừa, dư",
+   "band": 4
+  },
+  "weight": {
+   "ipa": "weɪt",
+   "pos": "n",
+   "en": "how heavy a person or thing is",
+   "vi": "cân nặng",
+   "band": 1
+  },
+  "finding": {
+   "ipa": "ˈfaɪndɪŋ",
+   "pos": "n",
+   "en": "something that people learn from a study",
+   "vi": "kết quả nghiên cứu, phát hiện",
+   "band": 2
+  },
+  "august": {
+   "ipa": "ˈɑɡəst",
+   "pos": "name",
+   "en": "the month after July",
+   "vi": "tháng Tám",
+   "band": 1
+  },
+  "weight-loss": {
+   "ipa": "ˈweɪt lɔːs",
+   "pos": "n",
+   "en": "helping a person to become less heavy",
+   "vi": "giảm cân"
+  },
+  "never": {
+   "ipa": "ˈnɛvɚ",
+   "pos": "adv",
+   "en": "not at any time",
+   "vi": "chưa bao giờ, không bao giờ",
+   "band": 1
+  },
+  "clothing": {
+   "ipa": "ˈkloʊðɪŋ",
+   "pos": "n",
+   "en": "the things that people wear",
+   "vi": "quần áo",
+   "band": 3
+  },
+  "treatment": {
+   "ipa": "ˈtritmənt",
+   "pos": "n",
+   "en": "the use of something to make a person well",
+   "vi": "việc điều trị",
+   "band": 1
+  },
+  "higher": {
+   "ipa": "ˈhaɪɚ",
+   "pos": "adv",
+   "en": "at a level above another",
+   "vi": "cao hơn"
+  },
+  "duration": {
+   "ipa": "ˈdʊˈreɪʃən",
+   "pos": "n",
+   "en": "the length of time that something goes on",
+   "vi": "khoảng thời gian kéo dài",
+   "band": 4
+  },
+  "fill": {
+   "ipa": "fɪl",
+   "pos": "v",
+   "en": "to put things into something until it is full",
+   "vi": "làm đầy, lấp đầy",
+   "band": 2
+  },
+  "closet": {
+   "ipa": "ˈklɑzət",
+   "pos": "n",
+   "en": "a small room or space where you keep your clothes",
+   "vi": "tủ quần áo",
+   "band": 4
+  },
+  "swimming": {
+   "ipa": "ˈswɪmɪŋ",
+   "pos": "n",
+   "en": "moving through water with your arms and legs",
+   "vi": "việc bơi lội",
+   "band": 3
+  },
+  "swim": {
+   "ipa": "swɪm",
+   "pos": "n",
+   "en": "moving through water with your arms and legs",
+   "vi": "bơi (swim clothes: đồ bơi)",
+   "band": 4
+  },
+  "outdoor": {
+   "ipa": "ˈaʊtˌdɔr",
+   "pos": "adj",
+   "en": "used or done outside, not in a building",
+   "vi": "ngoài trời (outdoor clothing: áo khoác ngoài)",
+   "band": 4
+  },
+  "coat": {
+   "ipa": "koʊt",
+   "pos": "n",
+   "en": "a long warm thing you wear over other clothes",
+   "vi": "áo khoác dài",
+   "band": 3
+  },
+  "jacket": {
+   "ipa": "ˈdʒækət",
+   "pos": "n",
+   "en": "a short coat",
+   "vi": "áo khoác ngắn",
+   "band": 3
+  },
+  "sweater": {
+   "ipa": "ˈswɛtɚ",
+   "pos": "n",
+   "en": "a warm top that you pull over your head",
+   "vi": "áo len"
+  },
+  "everything": {
+   "ipa": "ˈɛvriˌθɪŋ",
+   "pos": "pron",
+   "en": "all things",
+   "vi": "mọi thứ",
+   "band": 1
+  },
+  "shoe": {
+   "ipa": "ʃu",
+   "pos": "n",
+   "en": "a thing you wear on your foot",
+   "vi": "giày",
+   "band": 2
+  },
+  "trigger": {
+   "ipa": "ˈtrɪɡɚ",
+   "pos": "v",
+   "en": "to make something start to happen",
+   "vi": "kích hoạt, gây ra; (n) nguyên nhân khởi đầu",
+   "band": 4
+  },
+  "someone": {
+   "ipa": "ˈsʌmˌwʌn",
+   "pos": "pron",
+   "en": "a person",
+   "vi": "ai đó, một người nào đó",
+   "band": 1
+  },
+  "wish": {
+   "ipa": "wɪʃ",
+   "pos": "n",
+   "en": "a feeling that you want something",
+   "vi": "mong muốn",
+   "band": 1
+  },
+  "activity": {
+   "ipa": "ækˈtɪvəti",
+   "pos": "n",
+   "en": "something that you do, often for fun",
+   "vi": "hoạt động",
+   "band": 2
+  },
+  "lifestyle": {
+   "ipa": "ˈlaɪfˌstaɪl",
+   "pos": "n",
+   "en": "the way a person lives each day",
+   "vi": "lối sống",
+   "band": 4
+  },
+  "dress": {
+   "ipa": "drɛs",
+   "pos": "v",
+   "en": "to put on clothes; to wear clothes of some kind",
+   "vi": "ăn mặc",
+   "band": 2
+  },
+  "differently": {
+   "ipa": "ˈdɪfrəntli",
+   "pos": "adv",
+   "en": "in a way that is not the same",
+   "vi": "theo cách khác",
+   "band": 4
+  },
+  "exactly": {
+   "ipa": "ɪɡˈzæktli",
+   "pos": "adv",
+   "en": "in a way that is completely right",
+   "vi": "chính xác",
+   "band": 1
+  },
+  "kind": {
+   "ipa": "kaɪnd",
+   "pos": "n",
+   "en": "a group of things that are like each other",
+   "vi": "loại",
+   "band": 1
+  },
+  "flexible": {
+   "ipa": "ˈflɛksəbəl",
+   "pos": "adj",
+   "en": "able to change easily when things change",
+   "vi": "linh hoạt",
+   "band": 4
+  },
+  "body": {
+   "ipa": "ˈbɑdi",
+   "pos": "n",
+   "en": "all of a person: head, arms, legs and the rest",
+   "vi": "cơ thể",
+   "band": 1
+  }
+ },
+ "names": {
+  "Circana": {
+   "vi": "công ty Mỹ nghiên cứu thị trường, theo dõi người tiêu dùng mua gì"
+  },
+  "FashionUnited": {
+   "vi": "trang tin về ngành thời trang"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  }
+ }
+}
