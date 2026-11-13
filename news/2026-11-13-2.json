@@ -1,0 +1,3120 @@
+{
+ "id": "2026-11-13-2",
+ "domain": "business",
+ "title": "The Owner of Calvin Klein Cuts Office Jobs",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://www.retaildive.com/news/calvin-klein-tommy-hilfiger-owner-to-cut-4-of-workforce/874492/",
+  "outlet": "Retail Dive",
+  "author": "Dani James",
+  "title": "Calvin Klein, Tommy Hilfiger owner to cut 4% of workforce",
+  "date": "2026-11-12",
+  "accessed": "2026-11-13",
+  "checked_against": "Single source. Web search on 2026-11-13 found no second report of the November 2026 cuts yet (results only showed PVH's earlier 2020-2023 job-cut programs), so no figure was cross-checked and none was taken from another source. Extra article requested by Dương on 2026-11-13 to make up for the skipped business day 2026-11-09.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "Retail Dive article published November 12, 2026",
+    "quote": "Published Nov. 12, 2026"
+   },
+   {
+    "id": "f2",
+    "text": "PVH to reduce global workforce by about 4%, focus on non-consumer-facing positions",
+    "quote": "plans to reduce its global workforce by about 4% with a focus on non-consumer-facing positions"
+   },
+   {
+    "id": "f3",
+    "text": "plan disclosed in a Thursday filing with the U.S. Securities and Exchange Commission",
+    "quote": "according to a Thursday U.S. Securities and Exchange Commission filing"
+   },
+   {
+    "id": "f4",
+    "text": "cuts equal about 12% of office-based associates",
+    "quote": "It represents cuts to about 12% of its office-based associates."
+   },
+   {
+    "id": "f5",
+    "text": "actions began immediately, to finish within the first quarter of 2027",
+    "quote": "The actions began immediately and are expected to wrap up within the first quarter of 2027."
+   },
+   {
+    "id": "f6",
+    "text": "100 million dollars of pre-tax cost savings in fiscal year 2027, from people and non-people savings",
+    "quote": "expects to achieve $100 million of pre-tax cost savings in fiscal year 2027 via \"people and non-people savings,\""
+   },
+   {
+    "id": "f7",
+    "text": "aims: improve productivity, strengthen long-term growth",
+    "quote": "PVH is aiming to improve productivity, strengthen long-term growth and further the execution of its broader strategic priorities."
+   },
+   {
+    "id": "f8",
+    "text": "simplify ways of working: less duplicative work, fewer organizational layers",
+    "quote": "The company wants to simplify ways of working by minimizing duplicative work and reducing organizational layers"
+   },
+   {
+    "id": "f9",
+    "text": "PVH also wants to invest in product innovation, supply chain, e-commerce",
+    "quote": "PVH also wants to invest in product innovation, its supply chain, e-commerce and more."
+   },
+   {
+    "id": "f10",
+    "text": "second quarter revenue down 3% year over year to about 2 billion dollars",
+    "quote": "PVH's second quarter revenue dropped 3% year over year to about $2 billion, per a September release."
+   },
+   {
+    "id": "f11",
+    "text": "Tommy Hilfiger revenue about flat, Calvin Klein down 7%",
+    "quote": "Tommy Hilfiger revenue was about flat and Calvin Klein dropped 7%."
+   },
+   {
+    "id": "f12",
+    "text": "revenue down in Europe, the Middle East, Africa and the Americas; some gains in Asia Pacific",
+    "quote": "Revenue decreased in the Europe, the Middle East, Africa and Americas regions, whereas APAC saw some gains."
+   },
+   {
+    "id": "f13",
+    "text": "full-year guidance: flat revenue compared to the year prior",
+    "quote": "The company reiterated its full-year guidance of flat revenue compared to the year prior."
+   },
+   {
+    "id": "f14",
+    "text": "Jefferies analysts, October note: e-commerce the strongest evidence brand investments are working",
+    "quote": "\"E-com is the strongest evidence that brand investments are working,\" the analysts said in an emailed note in October."
+   },
+   {
+    "id": "f15",
+    "text": "Jefferies analysts: Europe under outsized pressure, outlook for next year uncertain",
+    "quote": "\"However, Europe has seen outsized pressure, and the outlook for next [year] remains uncertain.\""
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.945,
+  "effective": 0.962,
+  "tokens": 465,
+  "new_core": 8
+ },
+ "vocab": [
+  "colleague",
+  "productive",
+  "productivity",
+  "eliminate",
+  "proceed",
+  "tackle",
+  "underlying",
+  "overcome",
+  "around the world",
+  "kind of",
+  "focus on",
+  "in other words",
+  "compared with"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Owner",
+      "l": "owner",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Calvin",
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "Klein",
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "Cuts",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "Office",
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": "Jobs",
+      "l": "job",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "American",
+      "l": "american",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "owns",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "nsp": 1,
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Calvin",
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "Klein",
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Tommy",
+      "n": "Tommy Hilfiger",
+      "k": "name"
+     },
+     {
+      "w": "Hilfiger",
+      "nsp": 1,
+      "n": "Tommy Hilfiger",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Retail",
+      "n": "Retail Dive",
+      "k": "name"
+     },
+     {
+      "w": "Dive",
+      "n": "Retail Dive",
+      "k": "name"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "plans",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "cut",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "4",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "workers",
+      "l": "worker",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": "came",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "sent",
+      "l": "send",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "government",
+      "l": "government",
+      "k": "known"
+     },
+     {
+      "w": "office",
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "cuts",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "kind",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "job",
+      "nsp": 1,
+      "l": "job",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "focus",
+      "l": "focus on",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "focus on",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "work",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "nsp": 1,
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "work",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "offices",
+      "nsp": 1,
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "cuts",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "equal",
+      "l": "equal",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "office",
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": "workers",
+      "nsp": 1,
+      "l": "worker",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "those",
+      "l": "those",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "colleagues",
+      "nsp": 1,
+      "l": "colleague",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "nsp": 1,
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "doing",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "nsp": 1,
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "productive",
+      "nsp": 1,
+      "l": "productive",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Productivity",
+      "l": "productivity",
+      "k": "core"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "work",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "gets",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "done",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "nsp": 1,
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "eliminate",
+      "l": "eliminate",
+      "k": "core"
+     },
+     {
+      "w": "work",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "done",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "twice",
+      "nsp": 1,
+      "l": "twice",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "fewer",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "levels",
+      "l": "level",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "managers",
+      "nsp": 1,
+      "l": "manager",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "calls",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "simpler",
+      "l": "simple",
+      "k": "known"
+     },
+     {
+      "w": "way",
+      "l": "way",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "working",
+      "nsp": 1,
+      "l": "working",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "proceed",
+      "l": "proceed",
+      "k": "core"
+     },
+     {
+      "w": "fast",
+      "nsp": 1,
+      "l": "fast",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "cuts",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "began",
+      "l": "begin",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "once",
+      "nsp": 1,
+      "l": "once",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "finish",
+      "l": "finish",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "within",
+      "l": "within",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "save",
+      "l": "save",
+      "k": "known"
+     },
+     {
+      "w": "100",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "jobs",
+      "nsp": 1,
+      "l": "job",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "savings",
+      "l": "saving",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "too",
+      "nsp": 1,
+      "l": "too",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "want",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "cut",
+      "nsp": 1,
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "invest",
+      "l": "invest",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "products",
+      "nsp": 1,
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "way",
+      "l": "way",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "moves",
+      "l": "move",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "nsp": 1,
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "trying",
+      "l": "try",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "tackle",
+      "l": "tackle",
+      "k": "core"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "once",
+      "nsp": 1,
+      "l": "once",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "lower",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "future",
+      "l": "future",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "nsp": 1,
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "underlying",
+      "l": "underlying",
+      "k": "core"
+     },
+     {
+      "w": "problem",
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "weak",
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "PVH",
+      "nsp": 1,
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "3",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "%",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Tommy",
+      "n": "Tommy Hilfiger",
+      "k": "name"
+     },
+     {
+      "w": "Hilfiger",
+      "nsp": 1,
+      "n": "Tommy Hilfiger",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "flat",
+      "nsp": 1,
+      "l": "flat",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Calvin",
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "Klein",
+      "nsp": 1,
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "dropped",
+      "l": "drop",
+      "k": "known"
+     },
+     {
+      "w": "7",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f11"
+     },
+     {
+      "w": "%",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "nsp": 1,
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Africa",
+      "n": "Africa",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Americas",
+      "nsp": 1,
+      "n": "Americas",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "little",
+      "l": "little",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Asia",
+      "n": "Asia Pacific",
+      "k": "name"
+     },
+     {
+      "w": "Pacific",
+      "n": "Asia Pacific",
+      "k": "name"
+     },
+     {
+      "w": "region",
+      "nsp": 1,
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "flat",
+      "l": "flat",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bright",
+      "l": "bright",
+      "k": "known"
+     },
+     {
+      "w": "prospect",
+      "nsp": 1,
+      "l": "prospect",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "may",
+      "l": "may",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "realistic",
+      "l": "realistic",
+      "k": "core"
+     },
+     {
+      "w": "one",
+      "nsp": 1,
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Experts",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "Jefferies",
+      "n": "Jefferies",
+      "k": "name"
+     },
+     {
+      "w": "wrote",
+      "l": "write",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "nsp": 1,
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "called",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "strongest",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "sign",
+      "l": "sign",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "put",
+      "l": "put",
+      "k": "known"
+     },
+     {
+      "w": "into",
+      "l": "into",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "working",
+      "nsp": 1,
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "under",
+      "l": "under",
+      "k": "known"
+     },
+     {
+      "w": "heavy",
+      "l": "heavy",
+      "k": "known"
+     },
+     {
+      "w": "pressure",
+      "l": "pressure",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "next",
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "certain",
+      "nsp": 1,
+      "l": "certain",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "story",
+      "l": "story",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "choice",
+      "nsp": 1,
+      "l": "choice",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "eliminate",
+      "l": "eliminate",
+      "k": "core"
+     },
+     {
+      "w": "jobs",
+      "l": "job",
+      "k": "known"
+     },
+     {
+      "w": "quickly",
+      "nsp": 1,
+      "l": "quickly",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "make",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "productive",
+      "l": "productive",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "while",
+      "nsp": 1,
+      "l": "while",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "cutting",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "alone",
+      "l": "alone",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "nsp": 1,
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "overcome",
+      "l": "overcome",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "underlying",
+      "l": "underlying",
+      "k": "core"
+     },
+     {
+      "w": "problem",
+      "nsp": 1,
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "To",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "overcome",
+      "l": "overcome",
+      "k": "core"
+     },
+     {
+      "w": "weak",
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "nsp": 1,
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "PVH",
+      "n": "PVH",
+      "k": "name"
+     },
+     {
+      "w": "needs",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "products",
+      "l": "product",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "want",
+      "nsp": 1,
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "colleagues",
+      "l": "colleague",
+      "k": "core"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "stay",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "tackle",
+      "l": "tackle",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "job",
+      "nsp": 1,
+      "l": "job",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "distinct",
+      "nsp": 1,
+      "l": "distinct",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Calvin",
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "Klein",
+      "nsp": 1,
+      "n": "Calvin Klein",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "productivity",
+      "l": "productivity",
+      "k": "core"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "if",
+      "l": "if",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "proceed",
+      "l": "proceed",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "right",
+      "l": "right",
+      "k": "known"
+     },
+     {
+      "w": "direction",
+      "l": "direction",
+      "k": "known"
+     },
+     {
+      "w": "too",
+      "nsp": 1,
+      "l": "too",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "worker": {
+   "ipa": "ˈwɝkɚ",
+   "pos": "n",
+   "en": "a person who works for a company",
+   "vi": "nhân viên, người lao động",
+   "band": 1
+  },
+  "government": {
+   "ipa": "ˈɡʌvɚmənt",
+   "pos": "n",
+   "en": "the group of people who lead and control a country",
+   "vi": "chính phủ",
+   "band": 1
+  },
+  "colleague": {
+   "ipa": "ˈkɑliɡ",
+   "pos": "n",
+   "en": "a person who works with you",
+   "vi": "đồng nghiệp",
+   "band": 4
+  },
+  "productive": {
+   "ipa": "prəˈdʌktɪv",
+   "pos": "adj",
+   "en": "getting a lot of work done",
+   "vi": "làm việc hiệu quả, có năng suất",
+   "band": 4
+  },
+  "productivity": {
+   "ipa": "ˌproʊdəkˈtɪvəti",
+   "pos": "n",
+   "en": "how much work is done with the people and money you have",
+   "vi": "năng suất",
+   "band": 4
+  },
+  "eliminate": {
+   "ipa": "ɪˈlɪməˌneɪt",
+   "pos": "v",
+   "en": "to take something away so that it is no longer there",
+   "vi": "loại bỏ, cắt bỏ",
+   "band": 4
+  },
+  "manager": {
+   "ipa": "ˈmænədʒɚ",
+   "pos": "n",
+   "en": "a person who leads a team at work",
+   "vi": "người quản lý",
+   "band": 3
+  },
+  "working": {
+   "ipa": "ˈwɝkɪŋ",
+   "pos": "n",
+   "en": "the act of doing a job",
+   "vi": "việc làm việc, cách làm việc",
+   "band": 1
+  },
+  "proceed": {
+   "ipa": "prəˈsid",
+   "pos": "v",
+   "en": "to go on; to move forward",
+   "vi": "tiến hành, tiến triển",
+   "band": 4
+  },
+  "within": {
+   "ipa": "wɪˈðɪn",
+   "pos": "prep",
+   "en": "before the end of a period of time",
+   "vi": "trong vòng",
+   "band": 1
+  },
+  "saving": {
+   "ipa": "ˈseɪvɪŋ",
+   "pos": "n",
+   "en": "money that you do not have to spend",
+   "vi": "khoản tiết kiệm",
+   "band": 2
+  },
+  "invest": {
+   "ipa": "ˌɪnˈvɛst",
+   "pos": "v",
+   "en": "to put money into something to get more from it later",
+   "vi": "đầu tư",
+   "band": 3
+  },
+  "tackle": {
+   "ipa": "ˈtækəl",
+   "pos": "v",
+   "en": "to try hard to deal with a problem or job",
+   "vi": "giải quyết, xử lý",
+   "band": 4
+  },
+  "underlying": {
+   "ipa": "ˌʌndɚˈlaɪɪŋ",
+   "pos": "adj",
+   "en": "real and important, but not easy to see at first",
+   "vi": "nằm bên dưới, gốc rễ",
+   "band": 4
+  },
+  "little": {
+   "ipa": "ˈlɪtəl",
+   "pos": "adj",
+   "en": "small; not much",
+   "vi": "nhỏ; một chút (a little)",
+   "band": 1
+  },
+  "pressure": {
+   "ipa": "ˈprɛʃɚ",
+   "pos": "n",
+   "en": "a hard situation that pushes on you",
+   "vi": "áp lực",
+   "band": 1
+  },
+  "certain": {
+   "ipa": "ˈsɝtən",
+   "pos": "adj",
+   "en": "sure; without any doubt",
+   "vi": "chắc chắn",
+   "band": 1
+  },
+  "overcome": {
+   "ipa": "ˈoʊvɚˌkʌm",
+   "pos": "v",
+   "en": "to win against a problem",
+   "vi": "vượt qua, khắc phục",
+   "band": 4
+  },
+  "right": {
+   "ipa": "raɪt",
+   "pos": "adj",
+   "en": "good; correct",
+   "vi": "đúng",
+   "band": 1
+  }
+ },
+ "names": {
+  "PVH": {
+   "vi": "công ty thời trang Mỹ, chủ của Calvin Klein và Tommy Hilfiger"
+  },
+  "Calvin Klein": {
+   "vi": "hãng thời trang Mỹ thuộc PVH"
+  },
+  "Tommy Hilfiger": {
+   "vi": "hãng thời trang Mỹ thuộc PVH"
+  },
+  "Retail Dive": {
+   "vi": "trang tin về ngành bán lẻ ở Mỹ"
+  },
+  "Jefferies": {
+   "vi": "công ty tài chính Mỹ, có nhóm chuyên gia phân tích doanh nghiệp"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "Middle East": {
+   "vi": "Trung Đông"
+  },
+  "Africa": {
+   "vi": "châu Phi"
+  },
+  "Americas": {
+   "vi": "châu Mỹ (cả Bắc Mỹ và Nam Mỹ)"
+  },
+  "Asia Pacific": {
+   "vi": "châu Á – Thái Bình Dương"
+  }
+ }
+}
