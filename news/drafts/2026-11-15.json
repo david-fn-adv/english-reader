@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-15",
+ "domain": "business",
+ "title": "When Walmart Leaves, the Stores Next Door Lose Too",
+ "source": {
+  "url": "https://fortune.com/2026/11/14/walmart-closures-nearby-stores-traffic-sales/",
+  "outlet": "Fortune (republished from The Conversation)",
+  "author": "Vivek Astvansh, Preetinder Kaur, Pushpinder Gill",
+  "title": "When Walmart pulls out of town, the stores next door don't pick up its shoppers: their sales are down 20% a year later",
+  "date": "2026-11-14",
+  "accessed": "2026-11-15",
+  "checked_against": "Single source: a research summary written by the study's own authors. Figures come only from this article; no second report of the study was looked for. The source's 'roughly a quarter' overall figure is not used, because the article also gives a month-by-month path ending at 20% and the two were not reconciled.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "sample: 39 Walmart stores that closed in 20 states, 2019 to 2026",
+    "quote": "Our sample covered 39 Walmart stores that closed across 20 states from 2019 to 2026."
+   },
+   {
+    "id": "f2",
+    "text": "data: monthly store-level shopper traffic and spending",
+    "quote": "combined closure dates with monthly store-level shopper traffic and spending data"
+   },
+   {
+    "id": "f3",
+    "text": "comparison group: businesses near Walmarts that stayed open",
+    "quote": "compared their post-closure performance with that of businesses near Walmarts that stayed open."
+   },
+   {
+    "id": "f4",
+    "text": "about 5% drop in the first month, 6% in the second",
+    "quote": "nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter"
+   },
+   {
+    "id": "f5",
+    "text": "about 17% in the ninth month, 20% a year after the closing",
+    "quote": "reaching about 17% in the ninth month and 20% a year after the anchor store closes"
+   },
+   {
+    "id": "f6",
+    "text": "shoppers often react with dismay when a Walmart closes",
+    "quote": "Shoppers often greet the closure of a Walmart with dismay."
+   },
+   {
+    "id": "f7",
+    "text": "competitive relief: a strong rival is gone",
+    "quote": "Competitive relief helps nearby businesses because a formidable rival is gone."
+   },
+   {
+    "id": "f8",
+    "text": "agglomeration loss: fewer shoppers have a reason to visit the area",
+    "quote": "agglomeration loss hurts them because fewer shoppers have a reason to visit the area."
+   },
+   {
+    "id": "f9",
+    "text": "stores that competed directly with Walmart did better than noncompeting stores",
+    "quote": "Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores."
+   },
+   {
+    "id": "f10",
+    "text": "grocery stores and close substitutes can capture some of the shoppers",
+    "quote": "Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand."
+   },
+   {
+    "id": "f11",
+    "text": "well-known brand stores did better than unbranded ones",
+    "quote": "Well-known brand stores also fared relatively better than unbranded businesses."
+   },
+   {
+    "id": "f12",
+    "text": "stores with a higher share of online revenue saw a smaller drop",
+    "quote": "stores with a higher share of revenue from online orders saw a less severe drop in sales after a Walmart closed."
+   },
+   {
+    "id": "f13",
+    "text": "advice to retailers: another location or more online sales protects them",
+    "quote": "Opening another location or expanding online sales can protect a retailer from an anchor closure."
+   },
+   {
+    "id": "f14",
+    "text": "advice to property owners: replace quickly, with a business that brings trips to the area",
+    "quote": "Replacing the tenant quickly matters, but so does finding a replacement that can generate trips to the area."
+   },
+   {
+    "id": "f15",
+    "text": "advice to local governments: look beyond the empty building",
+    "quote": "So their responses should extend beyond the vacant property itself."
+   },
+   {
+    "id": "f16",
+    "text": "three authors; article from The Conversation, published by Fortune",
+    "quote": "Vivek Astvansh, Preetinder Kaur, and Pushpinder Gill"
+   }
+  ]
+ },
+ "paragraphs": [
+  "When a Walmart store closes, shoppers often perceive it as bad news. But what happens to the other stores near it? Many people expect them to win, because a big rival is gone. A new study says the opposite is true.",
+  "Three researchers wrote about the study for The Conversation, and Fortune shared it. They looked at 39 Walmart stores that closed in 20 states between 2019 and 2026. They used monthly data on how many shoppers visited the stores nearby and how much they spent. Then they compared these stores with similar stores near Walmarts that stayed open.",
+  "The results are remarkable. In the first month after a Walmart closed, sales at nearby stores were about 5 percent lower. In the second month, they were about 6 percent lower. After nine months, they were about 17 percent lower. After a year, they were 20 percent lower.",
+  "Why does this happen? The researchers describe two forces. The first is good for the neighbors. When a strong opponent disappears, its shoppers need to buy things somewhere else. The second force is bad. A big Walmart is a destination. People come to it, and then they also visit the smaller stores around it. When the Walmart disappears, fewer people have a reason to come to the area. The study shows that the second force can dominate the first. In other words, the bad effect is bigger than the good one.",
+  "Nevertheless, not every store lost the same amount. A food store is a close substitute for Walmart, so it can win some of Walmart's old shoppers. A store that sells very different things is not a good substitute, so it wins fewer of them. Stores with famous brands also did better than stores without a known name. And stores that got a bigger share of their money from online orders were less vulnerable. They did not rely on people walking in the door. Stores that sell only in person are more vulnerable.",
+  "The study highlights a simple idea. A big store is not only a rival to its neighbors. It also brings people to them. Many small stores are dependent on the big store next door, even if they do not perceive it.",
+  "The researchers give advice to three groups. For retailers, the best protection is to have more than one location or to sell more online. For property owners, it is important to find a new business quickly. But it should be a business that brings people to the area. For local governments, the problem is bigger than one empty building. In the worst scenario, a whole shopping area loses its shoppers.",
+  "The lesson is distinct from what many people expect. Losing an opponent can hurt. A big store can dominate a whole shopping area. In this scenario, the stores next door are more dependent on Walmart than they think."
+ ],
+ "names": {
+  "Walmart": {
+   "vi": "chuỗi siêu thị bán lẻ lớn của Mỹ"
+  },
+  "The Conversation": {
+   "vi": "trang tin nơi các nhà nghiên cứu đại học tự viết bài"
+  },
+  "Fortune": {
+   "vi": "tạp chí kinh doanh của Mỹ"
+  }
+ }
+}

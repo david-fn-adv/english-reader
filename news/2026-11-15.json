@@ -1,0 +1,3045 @@
+{
+ "id": "2026-11-15",
+ "domain": "business",
+ "title": "When Walmart Leaves, the Stores Next Door Lose Too",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fortune.com/2026/11/14/walmart-closures-nearby-stores-traffic-sales/",
+  "outlet": "Fortune (republished from The Conversation)",
+  "author": "Vivek Astvansh, Preetinder Kaur, Pushpinder Gill",
+  "title": "When Walmart pulls out of town, the stores next door don't pick up its shoppers: their sales are down 20% a year later",
+  "date": "2026-11-14",
+  "accessed": "2026-11-15",
+  "checked_against": "Single source: a research summary written by the study's own authors. Figures come only from this article; no second report of the study was looked for. The source's 'roughly a quarter' overall figure is not used, because the article also gives a month-by-month path ending at 20% and the two were not reconciled.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "sample: 39 Walmart stores that closed in 20 states, 2019 to 2026",
+    "quote": "Our sample covered 39 Walmart stores that closed across 20 states from 2019 to 2026."
+   },
+   {
+    "id": "f2",
+    "text": "data: monthly store-level shopper traffic and spending",
+    "quote": "combined closure dates with monthly store-level shopper traffic and spending data"
+   },
+   {
+    "id": "f3",
+    "text": "comparison group: businesses near Walmarts that stayed open",
+    "quote": "compared their post-closure performance with that of businesses near Walmarts that stayed open."
+   },
+   {
+    "id": "f4",
+    "text": "about 5% drop in the first month, 6% in the second",
+    "quote": "nearby stores experienced a roughly 5% drop in the following month and 6% in the month thereafter"
+   },
+   {
+    "id": "f5",
+    "text": "about 17% in the ninth month, 20% a year after the closing",
+    "quote": "reaching about 17% in the ninth month and 20% a year after the anchor store closes"
+   },
+   {
+    "id": "f6",
+    "text": "shoppers often react with dismay when a Walmart closes",
+    "quote": "Shoppers often greet the closure of a Walmart with dismay."
+   },
+   {
+    "id": "f7",
+    "text": "competitive relief: a strong rival is gone",
+    "quote": "Competitive relief helps nearby businesses because a formidable rival is gone."
+   },
+   {
+    "id": "f8",
+    "text": "agglomeration loss: fewer shoppers have a reason to visit the area",
+    "quote": "agglomeration loss hurts them because fewer shoppers have a reason to visit the area."
+   },
+   {
+    "id": "f9",
+    "text": "stores that competed directly with Walmart did better than noncompeting stores",
+    "quote": "Stores that competed more directly with Walmart had better post-closure sales than noncompeting stores."
+   },
+   {
+    "id": "f10",
+    "text": "grocery stores and close substitutes can capture some of the shoppers",
+    "quote": "Grocery stores and other close substitutes are better positioned to capture some of the displaced consumer demand."
+   },
+   {
+    "id": "f11",
+    "text": "well-known brand stores did better than unbranded ones",
+    "quote": "Well-known brand stores also fared relatively better than unbranded businesses."
+   },
+   {
+    "id": "f12",
+    "text": "stores with a higher share of online revenue saw a smaller drop",
+    "quote": "stores with a higher share of revenue from online orders saw a less severe drop in sales after a Walmart closed."
+   },
+   {
+    "id": "f13",
+    "text": "advice to retailers: another location or more online sales protects them",
+    "quote": "Opening another location or expanding online sales can protect a retailer from an anchor closure."
+   },
+   {
+    "id": "f14",
+    "text": "advice to property owners: replace quickly, with a business that brings trips to the area",
+    "quote": "Replacing the tenant quickly matters, but so does finding a replacement that can generate trips to the area."
+   },
+   {
+    "id": "f15",
+    "text": "advice to local governments: look beyond the empty building",
+    "quote": "So their responses should extend beyond the vacant property itself."
+   },
+   {
+    "id": "f16",
+    "text": "three authors; article from The Conversation, published by Fortune",
+    "quote": "Vivek Astvansh, Preetinder Kaur, and Pushpinder Gill"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.929,
+  "effective": 0.966,
+  "tokens": 480,
+  "new_core": 8
+ },
+ "vocab": [
+  "perceive",
+  "opponent",
+  "disappear",
+  "dominate",
+  "substitute",
+  "vulnerable",
+  "dependent",
+  "scenario",
+  "in other words",
+  "rely on",
+  "in person",
+  "even if"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "Leaves",
+      "nsp": 1,
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Stores",
+      "k": "name"
+     },
+     {
+      "w": "Next",
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": "Door",
+      "l": "door",
+      "k": "known"
+     },
+     {
+      "w": "Lose",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "Too",
+      "l": "too",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "closes",
+      "nsp": 1,
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "often",
+      "l": "often",
+      "k": "known"
+     },
+     {
+      "w": "perceive",
+      "l": "perceive",
+      "k": "core"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "bad",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "nsp": 1,
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "happens",
+      "l": "happen",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "near",
+      "l": "near",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "expect",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "win",
+      "nsp": 1,
+      "l": "win",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "rival",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "gone",
+      "nsp": 1,
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "opposite",
+      "l": "opposite",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "true",
+      "nsp": 1,
+      "l": "true",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "researchers",
+      "l": "researcher",
+      "k": "known"
+     },
+     {
+      "w": "wrote",
+      "l": "write",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "The",
+      "n": "The Conversation",
+      "k": "name"
+     },
+     {
+      "w": "Conversation",
+      "nsp": 1,
+      "n": "The Conversation",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Fortune",
+      "n": "Fortune",
+      "k": "name"
+     },
+     {
+      "w": "shared",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "looked",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "39",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "closed",
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "20",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "states",
+      "l": "state",
+      "k": "known"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "2019",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "used",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "monthly",
+      "l": "monthly",
+      "k": "known"
+     },
+     {
+      "w": "data",
+      "l": "data",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "visited",
+      "l": "visit",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "nearby",
+      "l": "nearby",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "spent",
+      "nsp": 1,
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "similar",
+      "l": "similar",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "near",
+      "l": "near",
+      "k": "known"
+     },
+     {
+      "w": "Walmarts",
+      "k": "name"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "stayed",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "open",
+      "nsp": 1,
+      "l": "open",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "nsp": 1,
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "closed",
+      "nsp": 1,
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "nearby",
+      "l": "nearby",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "5",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "nsp": 1,
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "6",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "nsp": 1,
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "After",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "17",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "nsp": 1,
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "After",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "20",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "lower",
+      "nsp": 1,
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "happen",
+      "nsp": 1,
+      "l": "happen",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "researchers",
+      "l": "researcher",
+      "k": "known"
+     },
+     {
+      "w": "describe",
+      "l": "describe",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "forces",
+      "nsp": 1,
+      "l": "force",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "neighbors",
+      "nsp": 1,
+      "l": "neighbor",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "opponent",
+      "l": "opponent",
+      "k": "core"
+     },
+     {
+      "w": "disappears",
+      "nsp": 1,
+      "l": "disappear",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "need",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": "somewhere",
+      "l": "somewhere",
+      "k": "known"
+     },
+     {
+      "w": "else",
+      "nsp": 1,
+      "l": "else",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "force",
+      "l": "force",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "bad",
+      "nsp": 1,
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "destination",
+      "nsp": 1,
+      "l": "destination",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "People",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "visit",
+      "l": "visit",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "disappears",
+      "nsp": 1,
+      "l": "disappear",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "fewer",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "area",
+      "nsp": 1,
+      "l": "area",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "shows",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "force",
+      "l": "force",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "dominate",
+      "l": "dominate",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "nsp": 1,
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "bad",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "effect",
+      "l": "effect",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "nsp": 1,
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "lost",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "amount",
+      "nsp": 1,
+      "l": "amount",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "close",
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": "substitute",
+      "l": "substitute",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "nsp": 1,
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "win",
+      "l": "win",
+      "k": "known"
+     },
+     {
+      "w": "some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "nsp": 1,
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "old",
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "nsp": 1,
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "sells",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "different",
+      "l": "different",
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "substitute",
+      "nsp": 1,
+      "l": "substitute",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "wins",
+      "l": "win",
+      "k": "known"
+     },
+     {
+      "w": "fewer",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "better",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "without",
+      "l": "without",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "known",
+      "l": "know",
+      "k": "known"
+     },
+     {
+      "w": "name",
+      "nsp": 1,
+      "l": "name",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "And",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "got",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "share",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "orders",
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "vulnerable",
+      "nsp": 1,
+      "l": "vulnerable",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "rely",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "walking",
+      "l": "walk",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "door",
+      "nsp": 1,
+      "l": "door",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in person",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "person",
+      "l": "in person",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "vulnerable",
+      "nsp": 1,
+      "l": "vulnerable",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "simple",
+      "l": "simple",
+      "k": "known"
+     },
+     {
+      "w": "idea",
+      "nsp": 1,
+      "l": "idea",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "rival",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "neighbors",
+      "nsp": 1,
+      "l": "neighbor",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "brings",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "small",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "dependent",
+      "l": "dependent",
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "next",
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": "door",
+      "nsp": 1,
+      "l": "door",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "even",
+      "l": "even if",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "if",
+      "l": "even if",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "perceive",
+      "l": "perceive",
+      "k": "core"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "researchers",
+      "l": "researcher",
+      "k": "known"
+     },
+     {
+      "w": "give",
+      "l": "give",
+      "k": "known"
+     },
+     {
+      "w": "advice",
+      "l": "advice",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "groups",
+      "nsp": 1,
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "retailers",
+      "nsp": 1,
+      "l": "retailer",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "best",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "protection",
+      "l": "protection",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "location",
+      "l": "location",
+      "k": "known"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "nsp": 1,
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "property",
+      "l": "property",
+      "k": "known"
+     },
+     {
+      "w": "owners",
+      "nsp": 1,
+      "l": "owner",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "important",
+      "l": "important",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "find",
+      "l": "find",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "quickly",
+      "nsp": 1,
+      "l": "quickly",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "should",
+      "l": "should",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "brings",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "area",
+      "nsp": 1,
+      "l": "area",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "local",
+      "l": "local",
+      "k": "known"
+     },
+     {
+      "w": "governments",
+      "nsp": 1,
+      "l": "government",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "problem",
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "bigger",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "empty",
+      "l": "empty",
+      "k": "known"
+     },
+     {
+      "w": "building",
+      "nsp": 1,
+      "l": "building",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "worst",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "scenario",
+      "nsp": 1,
+      "l": "scenario",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "area",
+      "l": "area",
+      "k": "known"
+     },
+     {
+      "w": "loses",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "nsp": 1,
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "lesson",
+      "l": "lesson",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "distinct",
+      "l": "distinct",
+      "k": "core"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "expect",
+      "nsp": 1,
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Losing",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "opponent",
+      "l": "opponent",
+      "k": "core"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "hurt",
+      "nsp": 1,
+      "l": "hurt",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "dominate",
+      "l": "dominate",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "area",
+      "nsp": 1,
+      "l": "area",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "scenario",
+      "nsp": 1,
+      "l": "scenario",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "next",
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": "door",
+      "l": "door",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "dependent",
+      "l": "dependent",
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Walmart",
+      "n": "Walmart",
+      "k": "name"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "think",
+      "nsp": 1,
+      "l": "think",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {},
+ "names": {
+  "Walmart": {
+   "vi": "chuỗi siêu thị bán lẻ lớn của Mỹ"
+  },
+  "The Conversation": {
+   "vi": "trang tin nơi các nhà nghiên cứu đại học tự viết bài"
+  },
+  "Fortune": {
+   "vi": "tạp chí kinh doanh của Mỹ"
+  }
+ }
+}
