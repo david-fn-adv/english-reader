@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-16",
+ "domain": "business",
+ "title": "Food Prices Rise Again as Fuel Costs More",
+ "source": {
+  "url": "https://www.retaildive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874599/",
+  "outlet": "Retail Dive (from Grocery Dive)",
+  "author": "Sam Silverstein",
+  "title": "Consumers face higher grocery prices",
+  "date": "2026-11-12",
+  "accessed": "2026-11-16",
+  "checked_against": "Single source: a news report of the October Consumer Price Index data. Figures come only from this article; the government tables were not opened. Bananas, potatoes, tomatoes, ham, poultry and the fuel price per gallon are left out. 'Lettuce' is written as 'salad leaves' and 'diesel' as 'one kind of fuel' to stay inside the reader's vocabulary.",
+  "figures": [
+   {"id": "f1", "text": "food-at-home prices up 0.4% in October from the previous month, largest monthly rise since April", "quote": "Food-at-home prices increased 0.4% in October compared with the previous month, the largest month-to-month increase in grocery inflation since April"},
+   {"id": "f2", "text": "data published by the U.S. Bureau of Labor Statistics", "quote": "according to Consumer Price Index data published Tuesday by the U.S. Bureau of Labor Statistics"},
+   {"id": "f3", "text": "no annual figure for October: no data collected in October 2025 because the government was shut", "quote": "it did not collect data during that month in 2025 due to last year’s federal government shutdown"},
+   {"id": "f4", "text": "fresh vegetables up more than 2%", "quote": "Prices for fresh vegetables surged more than 2% last month"},
+   {"id": "f5", "text": "lettuce up almost 8%", "quote": "lettuce prices leapt almost 8%"},
+   {"id": "f6", "text": "fresh fruit down; apples down 1.6%", "quote": "Fresh fruit prices, on the other hand, were down, as apple prices shed 1.6%"},
+   {"id": "f7", "text": "meat trending upward; ground beef up about 1%, beef steak up almost 2%", "quote": "uncooked ground beef rose by approximately 1%, and uncooked beef steak prices moved ahead by almost 2%"},
+   {"id": "f8", "text": "coffee down about 3.5%", "quote": "Coffee prices declined, cooling by about 3.5%."},
+   {"id": "f9", "text": "diesel up 60% from a year ago, as of Monday (early November)", "quote": "The average price for a gallon of the fuel was $6.13 as of Monday, up 60% from a year ago"},
+   {"id": "f10", "text": "grocery inflation has bounced around in 2026: up in January and February, nearly 1% in April with the Iran war", "quote": "moved up month to month in January and February before racing ahead nearly 1% in April as the Iran war disrupted crude oil supplies"},
+   {"id": "f11", "text": "slower in May and June, slight falls in July and September", "quote": "Grocery inflation slowed in May and June before declining slightly in July and again in September."},
+   {"id": "f12", "text": "FMI: grocers working to keep prices in check and supplies dependable", "quote": "grocers have been working to keep prices in check and maintain dependable supplies even as fuel costs have increased"},
+   {"id": "f13", "text": "FMI said in September that prices would rise faster later in 2026 as costs are passed on", "quote": "predicted in September that grocery prices would accelerate later in 2026 as retailers and suppliers began to pass on the rising costs"},
+   {"id": "f14", "text": "Andy Harig of FMI: fuel costs show in the cost to produce and deliver food; it can take months", "quote": "reflected in what it takes to produce and deliver food, and it can take months for them to show up in grocery prices, which we are now witnessing"}
+  ]
+ },
+ "paragraphs": [
+  "Food prices in American supermarkets rose again this autumn. Food that people buy to eat at home cost 0.4 percent more in October than in September. That may sound small, but it is not a mere detail. It was the largest monthly increase since April. The figures come from the Bureau of Labor Statistics, and Retail Dive reported them.",
+  "Usually, the office also compares prices with the same month one year earlier. This time it could not. In October 2025 the government was closed for a time, so nobody collected price data that month.",
+  "Vegetables illustrate the problem well. Prices for fresh vegetables rose more than 2 percent in one month. Salad leaves were a remarkable case: they cost almost 8 percent more. Fresh fruit showed a distinct trend. Contrary to vegetable prices, fruit prices went down in October. Apple prices, for example, slipped 1.6 percent.",
+  "Meat prices have risen repeatedly this year, and October was no different. Ground beef cost about 1 percent more. Beef steak rose almost 2 percent. Coffee did not follow the trend. On the contrary, coffee prices decreased about 3.5 percent.",
+  "Why is food more expensive? The report traces the increase to fuel. One kind of fuel is not a mere extra cost for food companies. They need it to produce food and to deliver it to stores. In early November, this fuel cost 60 percent more than a year earlier.",
+  "The year has been a mixture of rises and falls. Food prices went up in January and February. In April they jumped almost 1 percent, when the war in Iran hurt oil supplies. The increase was slower in May and June. Then prices slipped slightly in July and again in September. In other words, prices have changed direction repeatedly in 2026.",
+  "FMI is a trade group for the food industry. It says that food stores are working hard to keep prices under control. They also want to keep supplies steady, even when fuel costs more. In September, the group said that food prices would rise faster later in 2026. The reason was simple. Stores and suppliers had paid higher costs for months, and they would begin to pass them on to shoppers.",
+  "Andy Harig of FMI highlights the delay. When fuel prices rise, it costs more to grow food and to transport it. Nevertheless, shoppers do not see the change at once. It can take months before higher costs appear in store prices. The October figures illustrate this delay, and many experts trace it back to fuel. A mixture of cheaper fruit and more expensive vegetables and meat is what shoppers found this autumn. A bag of salad leaves now shows how far the price of fuel can travel."
+ ],
+ "names": {
+  "Bureau of Labor Statistics": {"vi": "Cục Thống kê Lao động Mỹ, cơ quan nhà nước đo giá cả và việc làm"},
+  "Retail Dive": {"vi": "trang tin Mỹ về ngành bán lẻ"},
+  "FMI": {"vi": "hiệp hội ngành thực phẩm Mỹ (các siêu thị và nhà cung cấp)"},
+  "Andy Harig": {"vi": "phó chủ tịch của FMI"},
+  "Iran": {"vi": "nước ở Trung Đông, xuất khẩu nhiều dầu mỏ"}
+ }
+}

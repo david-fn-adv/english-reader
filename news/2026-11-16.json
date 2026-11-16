@@ -1,0 +1,3134 @@
+{
+ "id": "2026-11-16",
+ "domain": "business",
+ "title": "Food Prices Rise Again as Fuel Costs More",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://www.retaildive.com/news/grocery-inflation-october-2026-meat-produce-coffee/874599/",
+  "outlet": "Retail Dive (from Grocery Dive)",
+  "author": "Sam Silverstein",
+  "title": "Consumers face higher grocery prices",
+  "date": "2026-11-12",
+  "accessed": "2026-11-16",
+  "checked_against": "Single source: a news report of the October Consumer Price Index data. Figures come only from this article; the government tables were not opened. Bananas, potatoes, tomatoes, ham, poultry and the fuel price per gallon are left out. 'Lettuce' is written as 'salad leaves' and 'diesel' as 'one kind of fuel' to stay inside the reader's vocabulary.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "food-at-home prices up 0.4% in October from the previous month, largest monthly rise since April",
+    "quote": "Food-at-home prices increased 0.4% in October compared with the previous month, the largest month-to-month increase in grocery inflation since April"
+   },
+   {
+    "id": "f2",
+    "text": "data published by the U.S. Bureau of Labor Statistics",
+    "quote": "according to Consumer Price Index data published Tuesday by the U.S. Bureau of Labor Statistics"
+   },
+   {
+    "id": "f3",
+    "text": "no annual figure for October: no data collected in October 2025 because the government was shut",
+    "quote": "it did not collect data during that month in 2025 due to last year’s federal government shutdown"
+   },
+   {
+    "id": "f4",
+    "text": "fresh vegetables up more than 2%",
+    "quote": "Prices for fresh vegetables surged more than 2% last month"
+   },
+   {
+    "id": "f5",
+    "text": "lettuce up almost 8%",
+    "quote": "lettuce prices leapt almost 8%"
+   },
+   {
+    "id": "f6",
+    "text": "fresh fruit down; apples down 1.6%",
+    "quote": "Fresh fruit prices, on the other hand, were down, as apple prices shed 1.6%"
+   },
+   {
+    "id": "f7",
+    "text": "meat trending upward; ground beef up about 1%, beef steak up almost 2%",
+    "quote": "uncooked ground beef rose by approximately 1%, and uncooked beef steak prices moved ahead by almost 2%"
+   },
+   {
+    "id": "f8",
+    "text": "coffee down about 3.5%",
+    "quote": "Coffee prices declined, cooling by about 3.5%."
+   },
+   {
+    "id": "f9",
+    "text": "diesel up 60% from a year ago, as of Monday (early November)",
+    "quote": "The average price for a gallon of the fuel was $6.13 as of Monday, up 60% from a year ago"
+   },
+   {
+    "id": "f10",
+    "text": "grocery inflation has bounced around in 2026: up in January and February, nearly 1% in April with the Iran war",
+    "quote": "moved up month to month in January and February before racing ahead nearly 1% in April as the Iran war disrupted crude oil supplies"
+   },
+   {
+    "id": "f11",
+    "text": "slower in May and June, slight falls in July and September",
+    "quote": "Grocery inflation slowed in May and June before declining slightly in July and again in September."
+   },
+   {
+    "id": "f12",
+    "text": "FMI: grocers working to keep prices in check and supplies dependable",
+    "quote": "grocers have been working to keep prices in check and maintain dependable supplies even as fuel costs have increased"
+   },
+   {
+    "id": "f13",
+    "text": "FMI said in September that prices would rise faster later in 2026 as costs are passed on",
+    "quote": "predicted in September that grocery prices would accelerate later in 2026 as retailers and suppliers began to pass on the rising costs"
+   },
+   {
+    "id": "f14",
+    "text": "Andy Harig of FMI: fuel costs show in the cost to produce and deliver food; it can take months",
+    "quote": "reflected in what it takes to produce and deliver food, and it can take months for them to show up in grocery prices, which we are now witnessing"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.92,
+  "effective": 0.95,
+  "tokens": 455,
+  "new_core": 10
+ },
+ "vocab": [
+  "autumn",
+  "mere",
+  "vegetable",
+  "illustrate",
+  "leaf",
+  "contrary",
+  "slip",
+  "repeatedly",
+  "trace",
+  "mixture",
+  "go down",
+  "for example",
+  "kind of",
+  "go up",
+  "in other words"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "Prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "Rise",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "Again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "Fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "Costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "More",
+      "l": "more",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "American",
+      "l": "american",
+      "k": "known"
+     },
+     {
+      "w": "supermarkets",
+      "l": "supermarket",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "autumn",
+      "nsp": 1,
+      "l": "autumn",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "eat",
+      "l": "eat",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "home",
+      "l": "home",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "0.4",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "may",
+      "l": "may",
+      "k": "known"
+     },
+     {
+      "w": "sound",
+      "l": "sound",
+      "k": "known"
+     },
+     {
+      "w": "small",
+      "nsp": 1,
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "mere",
+      "l": "mere",
+      "k": "core"
+     },
+     {
+      "w": "detail",
+      "nsp": 1,
+      "l": "detail",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "largest",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "monthly",
+      "l": "monthly",
+      "k": "known"
+     },
+     {
+      "w": "increase",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "April",
+      "nsp": 1,
+      "l": "april",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "figures",
+      "l": "figure",
+      "k": "known"
+     },
+     {
+      "w": "come",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Bureau",
+      "n": "Bureau of Labor Statistics",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "n": "Bureau of Labor Statistics",
+      "k": "name"
+     },
+     {
+      "w": "Labor",
+      "n": "Bureau of Labor Statistics",
+      "k": "name"
+     },
+     {
+      "w": "Statistics",
+      "nsp": 1,
+      "n": "Bureau of Labor Statistics",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Retail",
+      "n": "Retail Dive",
+      "k": "name"
+     },
+     {
+      "w": "Dive",
+      "n": "Retail Dive",
+      "k": "name"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Usually",
+      "nsp": 1,
+      "l": "usually",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "office",
+      "l": "office",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "compares",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "nsp": 1,
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "government",
+      "l": "government",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "closed",
+      "l": "close",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "nsp": 1,
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "nobody",
+      "l": "nobody",
+      "k": "known"
+     },
+     {
+      "w": "collected",
+      "l": "collect",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "data",
+      "l": "data",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Vegetables",
+      "l": "vegetable",
+      "k": "core"
+     },
+     {
+      "w": "illustrate",
+      "l": "illustrate",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "problem",
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "nsp": 1,
+      "l": "well",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "fresh",
+      "l": "fresh",
+      "k": "known"
+     },
+     {
+      "w": "vegetables",
+      "l": "vegetable",
+      "k": "core"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Salad",
+      "l": "salad",
+      "k": "known"
+     },
+     {
+      "w": "leaves",
+      "l": "leaf",
+      "k": "core"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "case",
+      "nsp": 1,
+      "l": "case",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "almost",
+      "l": "almost",
+      "k": "known"
+     },
+     {
+      "w": "8",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Fresh",
+      "l": "fresh",
+      "k": "known"
+     },
+     {
+      "w": "fruit",
+      "l": "fruit",
+      "k": "known"
+     },
+     {
+      "w": "showed",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "distinct",
+      "l": "distinct",
+      "k": "core"
+     },
+     {
+      "w": "trend",
+      "nsp": 1,
+      "l": "trend",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Contrary",
+      "l": "contrary",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "vegetable",
+      "l": "vegetable",
+      "k": "core"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "fruit",
+      "l": "fruit",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go down",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "down",
+      "l": "go down",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "nsp": 1,
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Apple",
+      "l": "apple",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "for",
+      "l": "for example",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "example",
+      "nsp": 1,
+      "l": "for example",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "slipped",
+      "l": "slip",
+      "k": "core"
+     },
+     {
+      "w": "1.6",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Meat",
+      "l": "meat",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "risen",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "repeatedly",
+      "l": "repeatedly",
+      "k": "core"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "no",
+      "l": "no",
+      "k": "known"
+     },
+     {
+      "w": "different",
+      "nsp": 1,
+      "l": "different",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Ground",
+      "l": "ground",
+      "k": "known"
+     },
+     {
+      "w": "beef",
+      "l": "beef",
+      "k": "core"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "1",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Beef",
+      "l": "beef",
+      "k": "core"
+     },
+     {
+      "w": "steak",
+      "l": "steak",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "almost",
+      "l": "almost",
+      "k": "known"
+     },
+     {
+      "w": "2",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Coffee",
+      "l": "coffee",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "follow",
+      "l": "follow",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "trend",
+      "nsp": 1,
+      "l": "trend",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "contrary",
+      "nsp": 1,
+      "l": "contrary",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "coffee",
+      "l": "coffee",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "decreased",
+      "l": "decrease",
+      "k": "core"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "3.5",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "nsp": 1,
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "traces",
+      "l": "trace",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "increase",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "nsp": 1,
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "One",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "kind",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "kind of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "mere",
+      "l": "mere",
+      "k": "core"
+     },
+     {
+      "w": "extra",
+      "l": "extra",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "companies",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "need",
+      "l": "need",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "produce",
+      "l": "produce",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "deliver",
+      "l": "deliver",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "nsp": 1,
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "early",
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "nsp": 1,
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "60",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "been",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "mixture",
+      "l": "mixture",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "rises",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "falls",
+      "nsp": 1,
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "go up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "January",
+      "l": "january",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "February",
+      "nsp": 1,
+      "l": "february",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "April",
+      "l": "april",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "jumped",
+      "l": "jump",
+      "k": "known"
+     },
+     {
+      "w": "almost",
+      "l": "almost",
+      "k": "known"
+     },
+     {
+      "w": "1",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "war",
+      "l": "war",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Iran",
+      "n": "Iran",
+      "k": "name"
+     },
+     {
+      "w": "hurt",
+      "l": "hurt",
+      "k": "known"
+     },
+     {
+      "w": "oil",
+      "l": "oil",
+      "k": "known"
+     },
+     {
+      "w": "supplies",
+      "nsp": 1,
+      "l": "supply",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "increase",
+      "l": "increase",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "slower",
+      "l": "slow",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "May",
+      "l": "may",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "June",
+      "nsp": 1,
+      "l": "june",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Then",
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "slipped",
+      "l": "slip",
+      "k": "core"
+     },
+     {
+      "w": "slightly",
+      "l": "slightly",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "July",
+      "l": "july",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "changed",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "direction",
+      "l": "direction",
+      "k": "known"
+     },
+     {
+      "w": "repeatedly",
+      "l": "repeatedly",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "FMI",
+      "n": "FMI",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "trade",
+      "l": "trade",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "industry",
+      "nsp": 1,
+      "l": "industry",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "working",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "under",
+      "l": "under",
+      "k": "known"
+     },
+     {
+      "w": "control",
+      "nsp": 1,
+      "l": "control",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "want",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "supplies",
+      "l": "supply",
+      "k": "known"
+     },
+     {
+      "w": "steady",
+      "nsp": 1,
+      "l": "steady",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "rise",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "faster",
+      "l": "fast",
+      "k": "known"
+     },
+     {
+      "w": "later",
+      "l": "later",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "simple",
+      "nsp": 1,
+      "l": "simple",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "suppliers",
+      "l": "supplier",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "paid",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "would",
+      "l": "would",
+      "k": "known"
+     },
+     {
+      "w": "begin",
+      "l": "begin",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "pass",
+      "l": "pass",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "nsp": 1,
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Andy",
+      "n": "Andy Harig",
+      "k": "name"
+     },
+     {
+      "w": "Harig",
+      "n": "Andy Harig",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "FMI",
+      "n": "FMI",
+      "k": "name"
+     },
+     {
+      "w": "highlights",
+      "l": "highlight",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "delay",
+      "nsp": 1,
+      "l": "delay",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "rise",
+      "nsp": 1,
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "food",
+      "l": "food",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "transport",
+      "l": "transport",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "see",
+      "l": "see",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "change",
+      "l": "change",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "once",
+      "nsp": 1,
+      "l": "once",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "take",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "appear",
+      "l": "appear",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": "figures",
+      "l": "figure",
+      "k": "known"
+     },
+     {
+      "w": "illustrate",
+      "l": "illustrate",
+      "k": "core"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "delay",
+      "nsp": 1,
+      "l": "delay",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "experts",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "trace",
+      "l": "trace",
+      "k": "core"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "back",
+      "l": "back",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "nsp": 1,
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "mixture",
+      "l": "mixture",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "cheaper",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "fruit",
+      "l": "fruit",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "vegetables",
+      "l": "vegetable",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "meat",
+      "l": "meat",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "what",
+      "l": "what",
+      "k": "known"
+     },
+     {
+      "w": "shoppers",
+      "l": "shopper",
+      "k": "known"
+     },
+     {
+      "w": "found",
+      "l": "find",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "autumn",
+      "nsp": 1,
+      "l": "autumn",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "bag",
+      "l": "bag",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "salad",
+      "l": "salad",
+      "k": "known"
+     },
+     {
+      "w": "leaves",
+      "l": "leaf",
+      "k": "core"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "shows",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "far",
+      "l": "far",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "nsp": 1,
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "supermarket": {
+   "ipa": "ˈsupɚˌmɑrkɪt",
+   "pos": "n",
+   "en": "a large store that sells food and things for the home",
+   "vi": "siêu thị",
+   "band": 7
+  },
+  "autumn": {
+   "ipa": "ˈɔtəm",
+   "pos": "n",
+   "en": "the season after summer, when the weather gets cooler",
+   "vi": "mùa thu",
+   "band": 4
+  },
+  "eat": {
+   "ipa": "it",
+   "pos": "v",
+   "en": "to put food in your mouth and take it into your body",
+   "vi": "ăn",
+   "band": 1
+  },
+  "mere": {
+   "ipa": "mɪr",
+   "pos": "adj",
+   "en": "nothing more than; small and not important",
+   "vi": "chỉ là, đơn thuần là",
+   "band": 4
+  },
+  "detail": {
+   "ipa": "dɪˈteɪl",
+   "pos": "n",
+   "en": "a small fact or a small part of something",
+   "vi": "chi tiết",
+   "band": 2
+  },
+  "april": {
+   "ipa": "ˈeɪprəl",
+   "pos": "name",
+   "en": "the fourth month of the year",
+   "vi": "tháng Tư",
+   "band": 1
+  },
+  "usually": {
+   "ipa": "ˈjuʒəwəli",
+   "pos": "adv",
+   "en": "in most cases; most of the time",
+   "vi": "thường thì, thường xuyên",
+   "band": 1
+  },
+  "vegetable": {
+   "ipa": "ˈvɛdʒtəbəl",
+   "pos": "n",
+   "en": "a plant, or part of a plant, that people eat",
+   "vi": "rau, củ",
+   "band": 4
+  },
+  "illustrate": {
+   "ipa": "ˈɪləˌstreɪt",
+   "pos": "v",
+   "en": "to show clearly what something is like, often with an example",
+   "vi": "minh hoạ, cho thấy rõ",
+   "band": 4
+  },
+  "fresh": {
+   "ipa": "frɛʃ",
+   "pos": "adj",
+   "en": "new and not old; for food, not kept for a long time",
+   "vi": "tươi",
+   "band": 2
+  },
+  "salad": {
+   "ipa": "ˈsæləd",
+   "pos": "n",
+   "en": "a cold food made of green plants and other fresh food",
+   "vi": "rau trộn, xà lách",
+   "band": 4
+  },
+  "leaf": {
+   "ipa": "lif",
+   "pos": "n",
+   "en": "one of the flat green parts of a plant",
+   "vi": "lá (số nhiều: leaves)",
+   "band": 4
+  },
+  "fruit": {
+   "ipa": "frut",
+   "pos": "n",
+   "en": "the sweet part of a plant that people eat, like an apple",
+   "vi": "trái cây",
+   "band": 2
+  },
+  "contrary": {
+   "ipa": "ˈkɑntrɛri",
+   "pos": "adj",
+   "en": "opposite; on the contrary means the opposite is true",
+   "vi": "trái ngược; on the contrary: ngược lại",
+   "band": 4
+  },
+  "go down": {
+   "ipa": "ɡoʊ daʊn",
+   "pos": "phr",
+   "en": "to become lower or less",
+   "vi": "giảm xuống",
+   "band": 1
+  },
+  "apple": {
+   "ipa": "ˈæpəl",
+   "pos": "n",
+   "en": "a round fruit that is red or green",
+   "vi": "quả táo",
+   "band": 2
+  },
+  "slip": {
+   "ipa": "slɪp",
+   "pos": "v",
+   "en": "to go down a little; also to fall because the ground is wet",
+   "vi": "giảm nhẹ; trượt",
+   "band": 4
+  },
+  "repeatedly": {
+   "ipa": "rɪˈpitɪdli",
+   "pos": "adv",
+   "en": "many times, again and again",
+   "vi": "nhiều lần, lặp đi lặp lại",
+   "band": 4
+  },
+  "steak": {
+   "ipa": "steɪk",
+   "pos": "n",
+   "en": "a thick flat piece of meat",
+   "vi": "miếng thịt bò (bít tết)",
+   "band": 6
+  },
+  "coffee": {
+   "ipa": "ˈkɑfi",
+   "pos": "n",
+   "en": "a hot dark drink that many people have in the morning",
+   "vi": "cà phê",
+   "band": 2
+  },
+  "trace": {
+   "ipa": "treɪs",
+   "pos": "v",
+   "en": "to find where something started or what caused it",
+   "vi": "truy nguyên, lần ra nguồn gốc",
+   "band": 4
+  },
+  "produce": {
+   "ipa": "prəˈdus",
+   "pos": "v",
+   "en": "to make or grow something",
+   "vi": "sản xuất, làm ra",
+   "band": 2
+  },
+  "deliver": {
+   "ipa": "dɪˈlɪvɚ",
+   "pos": "v",
+   "en": "to take goods to a place or a person",
+   "vi": "giao (hàng), chuyển đến",
+   "band": 2
+  },
+  "mixture": {
+   "ipa": "ˈmɪkstʃɚ",
+   "pos": "n",
+   "en": "different things put together",
+   "vi": "sự pha trộn, hỗn hợp",
+   "band": 4
+  },
+  "go up": {
+   "ipa": "ɡoʊ ʌp",
+   "pos": "phr",
+   "en": "to become higher or more",
+   "vi": "tăng lên",
+   "band": 1
+  },
+  "february": {
+   "ipa": "ˈfɛbjəˌwɛri",
+   "pos": "name",
+   "en": "the second month of the year",
+   "vi": "tháng Hai",
+   "band": 1
+  },
+  "war": {
+   "ipa": "wɔr",
+   "pos": "n",
+   "en": "fighting between countries or large groups",
+   "vi": "chiến tranh",
+   "band": 1
+  },
+  "oil": {
+   "ipa": "ɔɪl",
+   "pos": "n",
+   "en": "a thick dark liquid from the ground that is used to make fuel",
+   "vi": "dầu mỏ; dầu",
+   "band": 1
+  },
+  "june": {
+   "ipa": "dʒun",
+   "pos": "name",
+   "en": "the sixth month of the year",
+   "vi": "tháng Sáu",
+   "band": 1
+  },
+  "slightly": {
+   "ipa": "ˈslaɪtli",
+   "pos": "adv",
+   "en": "a little",
+   "vi": "hơi, một chút",
+   "band": 2
+  },
+  "supplier": {
+   "ipa": "səˈplaɪɚ",
+   "pos": "n",
+   "en": "a company that sells goods to stores or other companies",
+   "vi": "nhà cung cấp",
+   "band": 6
+  },
+  "pass": {
+   "ipa": "pæs",
+   "pos": "v",
+   "en": "to give something to another person; pass on a cost means make others pay it",
+   "vi": "chuyển cho; pass on: chuyển (chi phí) sang người khác; đi qua",
+   "band": 1
+  },
+  "transport": {
+   "ipa": "trænˈspɔrt",
+   "pos": "v",
+   "en": "to carry goods or people from one place to another",
+   "vi": "vận chuyển",
+   "band": 2
+  }
+ },
+ "names": {
+  "Bureau of Labor Statistics": {
+   "vi": "Cục Thống kê Lao động Mỹ, cơ quan nhà nước đo giá cả và việc làm"
+  },
+  "Retail Dive": {
+   "vi": "trang tin Mỹ về ngành bán lẻ"
+  },
+  "FMI": {
+   "vi": "hiệp hội ngành thực phẩm Mỹ (các siêu thị và nhà cung cấp)"
+  },
+  "Andy Harig": {
+   "vi": "phó chủ tịch của FMI"
+  },
+  "Iran": {
+   "vi": "nước ở Trung Đông, xuất khẩu nhiều dầu mỏ"
+  }
+ }
+}
