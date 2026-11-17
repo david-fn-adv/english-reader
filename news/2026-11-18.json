@@ -1,0 +1,3294 @@
+{
+ "id": "2026-11-18",
+ "domain": "travel",
+ "title": "Luxury Guests Keep One Hotel Group Strong",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://skift.com/2026/11/16/thai-luxury-leads-minors-quarter-despite-tourist-slump/",
+  "outlet": "Skift",
+  "author": "Montira Rungjirajittranon",
+  "title": "Thai Luxury Leads Minor’s Quarter Despite Tourist Slump",
+  "date": "2026-11-16",
+  "accessed": "2026-11-18",
+  "note": "Single source. Thailand arrivals 'down 4.1%' left out: the source does not state the comparison period. Currency given only as the source's US dollar conversion.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "Minor core profit +13% year over year in Q3, to THB 2.1 billion (about $62.9 million)",
+    "quote": "Minor’s core profit rose 13% year over year to THB 2.1 billion (about $62.9 million)"
+   },
+   {
+    "id": "f2",
+    "text": "Anantara hotels in Thailand: RevPAR +19% like-for-like in Q3, average daily rate +13%",
+    "quote": "Minor’s Anantara-branded high-end hotels in Thailand reported a 19% like-for-like increase in RevPAR in the third quarter, on a 13% rise in average daily rate"
+   },
+   {
+    "id": "f3",
+    "text": "all Thai hotels RevPAR +13%, strongest of any major market in the group",
+    "quote": "Across all of Minor’s Thai hotels, RevPAR rose 13%, the strongest growth of any major market in the group"
+   },
+   {
+    "id": "f4",
+    "text": "Thailand cut 2026 international arrivals forecast to 33 million from 36.7 million",
+    "quote": "Thailand cutting its 2026 international arrivals forecast to 33 million from 36.7 million"
+   },
+   {
+    "id": "f5",
+    "text": "Cushman & Wakefield: luxury holding up better because guests less price sensitive",
+    "quote": "Cushman & Wakefield told Skift luxury was holding up better than the rest of the market because guests in that segment are less price sensitive."
+   },
+   {
+    "id": "f6",
+    "text": "finished $50 million renovation of Anantara Siam Bangkok in September, all 335 rooms",
+    "quote": "It finished a $50 million renovation of Anantara Siam Bangkok in September, refurbishing all 335 rooms"
+   },
+   {
+    "id": "f7",
+    "text": "Maldives: Minor operates nine resorts, RevPAR +10%",
+    "quote": "The Maldives, where Minor operates nine resorts, also improved: RevPAR rose 10%"
+   },
+   {
+    "id": "f8",
+    "text": "Middle East & Africa RevPAR -11% in Q3; reason: regional conflict, weaker travel demand",
+    "quote": "RevPAR across Minor’s Middle East & Africa hotels fell 11% in the third quarter ... Minor cited the regional conflict and associated weaker travel demand."
+   },
+   {
+    "id": "f9",
+    "text": "Middle East & Africa RevPAR -15% over nine months",
+    "quote": "Over nine months, the region’s RevPAR is down 15%."
+   },
+   {
+    "id": "f10",
+    "text": "Marriott Middle East RevPAR -12% in Q3",
+    "quote": "Marriott’s Middle East RevPAR fell 12% in the third quarter"
+   },
+   {
+    "id": "f11",
+    "text": "Marriott mostly earns fees in Middle East; region about 3% of its global fees",
+    "quote": "Marriott mostly earns fees in the Middle East, and the region accounts for only about 3% of its global fees."
+   },
+   {
+    "id": "f12",
+    "text": "Minor owns about 40% of its Middle East & Africa hotels",
+    "quote": "Minor, for its part, owns about 40% of its Middle East & Africa hotels"
+   },
+   {
+    "id": "f13",
+    "text": "almost 70% of Minor's whole portfolio owned or leased",
+    "quote": "Minor’s portfolio as a whole, where almost 70% is owned or leased."
+   },
+   {
+    "id": "f14",
+    "text": "Gulf strategy: protect price rather than chase volume; rates broadly steady over nine months, occupancy fell",
+    "quote": "Minor said rates in the region held broadly steady over nine months, while occupancy fell around nine points. Its Gulf strategy is to protect price rather than chase volume."
+   },
+   {
+    "id": "f15",
+    "text": "Q3: rates in the region fell for the first time this year",
+    "quote": "The third quarter suggests that is getting harder to hold: rates fell for the first time this year"
+   },
+   {
+    "id": "f16",
+    "text": "CEO Dillip Rajakarier: value of geographically diversified portfolio, conditions vary between markets",
+    "quote": "demonstrates the value of having a geographically diversified portfolio, particularly when trading conditions vary so widely between markets"
+   },
+   {
+    "id": "f17",
+    "text": "focus on protecting margins and pricing discipline, shift to fee income",
+    "quote": "He said the company would focus on protecting margins and pricing discipline while accelerating the shift to fee income."
+   },
+   {
+    "id": "f18",
+    "text": "asset-light >90% of pipeline; 38 hotels signed in nine months; 2025 record 40",
+    "quote": "Asset-light arrangements make up more than 90% of Minor’s active development pipeline, and it signed 38 hotels in the first nine months ... its 2025 record of 40 signings."
+   },
+   {
+    "id": "f19",
+    "text": "forward bookings Thailand and Maldives ahead of last year for Q4 and early 2027",
+    "quote": "Forward bookings for Thailand and the Maldives are ahead of last year for both the fourth quarter and early 2027."
+   },
+   {
+    "id": "f20",
+    "text": "results moved by markets where Minor owns the buildings until new hotels open",
+    "quote": "Until those hotels open, Minor’s results will keep moving with the markets where it owns the buildings."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.941,
+  "effective": 0.96,
+  "tokens": 491,
+  "new_core": 8
+ },
+ "vocab": [
+  "tale",
+  "owe",
+  "simultaneously",
+  "harsh",
+  "lease",
+  "compromise",
+  "diverse",
+  "strict",
+  "compared with",
+  "on average",
+  "rely on",
+  "rather than"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "Guests",
+      "k": "name"
+     },
+     {
+      "w": "Keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "One",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "Hotel",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "Group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "Strong",
+      "l": "strong",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "tale",
+      "l": "tale",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "regions",
+      "nsp": 1,
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Thailand",
+      "n": "Thailand",
+      "k": "name"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "fewer",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "foreign",
+      "l": "foreign",
+      "k": "known"
+     },
+     {
+      "w": "tourists",
+      "l": "tourist",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "hotel",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "earning",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "nsp": 1,
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Minor",
+      "n": "Minor Hotels",
+      "k": "name"
+     },
+     {
+      "w": "Hotels",
+      "n": "Minor Hotels",
+      "k": "name"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "July",
+      "l": "july",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "core",
+      "l": "core",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "13",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "62.9",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Minor",
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "owes",
+      "l": "owe",
+      "k": "core"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "Thailand",
+      "nsp": 1,
+      "n": "Thailand",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Thailand",
+      "n": "Thailand",
+      "k": "name"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "33",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "international",
+      "l": "international",
+      "k": "known"
+     },
+     {
+      "w": "visitors",
+      "l": "visitor",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "down",
+      "l": "down",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "36.7",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "million",
+      "nsp": 1,
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Simultaneously",
+      "nsp": 1,
+      "l": "simultaneously",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Minor",
+      "nsp": 1,
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "nsp": 1,
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "called",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "Anantara",
+      "nsp": 1,
+      "n": "Anantara",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "business",
+      "nsp": 1,
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "made",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "available",
+      "l": "available",
+      "k": "known"
+     },
+     {
+      "w": "room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "19",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "13",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on average",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "average",
+      "nsp": 1,
+      "l": "on average",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Across",
+      "l": "across",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Minor",
+      "nsp": 1,
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Thailand",
+      "nsp": 1,
+      "n": "Thailand",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "measure",
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "13",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "best",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "any",
+      "l": "any",
+      "k": "known"
+     },
+     {
+      "w": "major",
+      "l": "major",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "nsp": 1,
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Cushman",
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": "&",
+      "n": "Cushman & Wakefield",
+      "k": "plain"
+     },
+     {
+      "w": "Wakefield",
+      "nsp": 1,
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "property",
+      "l": "property",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "told",
+      "l": "tell",
+      "k": "known"
+     },
+     {
+      "w": "Skift",
+      "n": "Skift",
+      "k": "name"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "guests",
+      "l": "guest",
+      "k": "known"
+     },
+     {
+      "w": "worry",
+      "l": "worry",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Minor",
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "owes",
+      "l": "owe",
+      "k": "core"
+     },
+     {
+      "w": "part",
+      "l": "part",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "success",
+      "l": "success",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "spending",
+      "nsp": 1,
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "finished",
+      "l": "finish",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "50",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollar",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "renovation",
+      "l": "renovation",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Anantara",
+      "n": "Anantara Siam Bangkok",
+      "k": "name"
+     },
+     {
+      "w": "Siam",
+      "n": "Anantara Siam Bangkok",
+      "k": "name"
+     },
+     {
+      "w": "Bangkok",
+      "nsp": 1,
+      "n": "Anantara Siam Bangkok",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "all",
+      "l": "all",
+      "k": "known"
+     },
+     {
+      "w": "335",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "rooms",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "refreshed",
+      "nsp": 1,
+      "l": "refresh",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Maldives",
+      "nsp": 1,
+      "n": "Maldives",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "where",
+      "l": "where",
+      "k": "known"
+     },
+     {
+      "w": "Minor",
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "runs",
+      "l": "run",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "resorts",
+      "nsp": 1,
+      "l": "resort",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "measure",
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "10",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "tale",
+      "l": "tale",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "harsh",
+      "nsp": 1,
+      "l": "harsh",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Africa",
+      "nsp": 1,
+      "n": "Africa",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "measure",
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "11",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "15",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Minor",
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "blamed",
+      "l": "blame",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "conflict",
+      "l": "conflict",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "weaker",
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": "travel",
+      "l": "travel",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "nsp": 1,
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Marriott",
+      "nsp": 1,
+      "n": "Marriott",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "measure",
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "12",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "However",
+      "nsp": 1,
+      "l": "however",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "problem",
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": "hurts",
+      "l": "hurt",
+      "k": "known"
+     },
+     {
+      "w": "Minor",
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "rivals",
+      "nsp": 1,
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Marriott",
+      "n": "Marriott",
+      "k": "name"
+     },
+     {
+      "w": "mostly",
+      "l": "mostly",
+      "k": "known"
+     },
+     {
+      "w": "relies",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "rely on",
+      "ph": 1,
+      "k": "core"
+     },
+     {
+      "w": "fees",
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "nsp": 1,
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "brings",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "3",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "global",
+      "l": "global",
+      "k": "known"
+     },
+     {
+      "w": "fees",
+      "nsp": 1,
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "contrast",
+      "nsp": 1,
+      "l": "contrast",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Minor",
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "owns",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "40",
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Middle",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "East",
+      "n": "Middle East",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Africa",
+      "nsp": 1,
+      "n": "Africa",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "When",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "those",
+      "l": "those",
+      "k": "known"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "earn",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "nsp": 1,
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "own",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "falls",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "directly",
+      "nsp": 1,
+      "l": "directly",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Across",
+      "l": "across",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "nsp": 1,
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "almost",
+      "l": "almost",
+      "k": "known"
+     },
+     {
+      "w": "70",
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Minor",
+      "nsp": 1,
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "owned",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "or",
+      "l": "or",
+      "k": "known"
+     },
+     {
+      "w": "leased",
+      "nsp": 1,
+      "l": "lease",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "With",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lease",
+      "nsp": 1,
+      "l": "lease",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "building",
+      "l": "building",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "runs",
+      "l": "run",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "hotel",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "itself",
+      "nsp": 1,
+      "l": "itself",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Gulf",
+      "nsp": 1,
+      "n": "Gulf",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Minor",
+      "nsp": 1,
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "high",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "rather",
+      "l": "rather than",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "rather than",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "fill",
+      "l": "fill",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "rooms",
+      "nsp": 1,
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "want",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "compromise",
+      "l": "compromise",
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "becoming",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "harder",
+      "nsp": 1,
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "room",
+      "l": "room",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "CEO",
+      "l": "ceo",
+      "k": "known"
+     },
+     {
+      "w": "Dillip",
+      "n": "Dillip Rajakarier",
+      "k": "name"
+     },
+     {
+      "w": "Rajakarier",
+      "n": "Dillip Rajakarier",
+      "k": "name"
+     },
+     {
+      "w": "spoke",
+      "l": "speak",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "value",
+      "l": "value",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "diverse",
+      "l": "diverse",
+      "k": "core"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "hotels",
+      "nsp": 1,
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "conditions",
+      "l": "condition",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "different",
+      "l": "different",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "market",
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "another",
+      "nsp": 1,
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "strict",
+      "l": "strict",
+      "k": "core"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "margins",
+      "l": "margin",
+      "k": "core"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Being",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "strict",
+      "l": "strict",
+      "k": "core"
+     },
+     {
+      "w": "means",
+      "l": "mean",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "compromise",
+      "nsp": 1,
+      "l": "compromise",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "even",
+      "l": "even",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "harsh",
+      "l": "harsh",
+      "k": "core"
+     },
+     {
+      "w": "market",
+      "nsp": 1,
+      "l": "market",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "wants",
+      "l": "want",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "earn",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "fees",
+      "nsp": 1,
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "More",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "90",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "future",
+      "l": "future",
+      "k": "known"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "owned",
+      "l": "own",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "Minor",
+      "nsp": 1,
+      "n": "Minor",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "nine",
+      "l": "nine",
+      "k": "known"
+     },
+     {
+      "w": "months",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "signed",
+      "l": "sign",
+      "k": "known"
+     },
+     {
+      "w": "deals",
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "38",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "hotels",
+      "nsp": 1,
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "record",
+      "l": "record",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "40",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "nsp": 1,
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "rise",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "fall",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "simultaneously",
+      "nsp": 1,
+      "l": "simultaneously",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Bookings",
+      "l": "booking",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Thailand",
+      "n": "Thailand",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Maldives",
+      "n": "Maldives",
+      "k": "name"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "ahead",
+      "l": "ahead",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "early",
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f19"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "diverse",
+      "l": "diverse",
+      "k": "core"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "hotels",
+      "l": "hotel",
+      "k": "known"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "region",
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "harsh",
+      "l": "harsh",
+      "k": "core"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "tale": {
+   "ipa": "teɪl",
+   "pos": "n",
+   "en": "a story, often about something interesting that happened",
+   "vi": "câu chuyện",
+   "band": 4
+  },
+  "foreign": {
+   "ipa": "ˈfɔrən",
+   "pos": "adj",
+   "en": "from another country",
+   "vi": "(thuộc) nước ngoài",
+   "band": 1
+  },
+  "owe": {
+   "ipa": "oʊ",
+   "pos": "v",
+   "en": "to have something because of a person or thing",
+   "vi": "có được nhờ; nợ",
+   "band": 4
+  },
+  "simultaneously": {
+   "ipa": "ˌsaɪməlˈteɪniəsli",
+   "pos": "adv",
+   "en": "at the same time",
+   "vi": "đồng thời, cùng lúc",
+   "band": 4
+  },
+  "success": {
+   "ipa": "səkˈsɛs",
+   "pos": "n",
+   "en": "a good result; getting what you wanted",
+   "vi": "sự thành công",
+   "band": 1
+  },
+  "renovation": {
+   "ipa": "ˌrɛnəˈveɪʃən",
+   "pos": "n",
+   "en": "work to make an old building new and good again",
+   "vi": "sự cải tạo, sửa sang",
+   "band": 7
+  },
+  "refresh": {
+   "ipa": "rɪˈfrɛʃ",
+   "pos": "v",
+   "en": "to make something look new and clean again",
+   "vi": "làm mới",
+   "band": 7
+  },
+  "harsh": {
+   "ipa": "hɑrʃ",
+   "pos": "adj",
+   "en": "very hard and not kind; difficult to live with",
+   "vi": "khắc nghiệt, khó khăn",
+   "band": 4
+  },
+  "fee": {
+   "ipa": "fi",
+   "pos": "n",
+   "en": "money you pay for a service",
+   "vi": "phí",
+   "band": 3
+  },
+  "contrast": {
+   "ipa": "ˈkɑntræst",
+   "pos": "n",
+   "en": "a clear difference between two things",
+   "vi": "sự tương phản",
+   "band": 3
+  },
+  "directly": {
+   "ipa": "dɚˈɛktli",
+   "pos": "adv",
+   "en": "with nothing or nobody in between",
+   "vi": "trực tiếp",
+   "band": 2
+  },
+  "lease": {
+   "ipa": "lis",
+   "pos": "v",
+   "en": "to pay to use a building or land for a long time",
+   "vi": "thuê dài hạn",
+   "band": 4
+  },
+  "rent": {
+   "ipa": "rɛnt",
+   "pos": "v",
+   "en": "to pay money to use something that another person owns",
+   "vi": "thuê",
+   "band": 2
+  },
+  "rather than": {
+   "ipa": "ˈræðɚ ðæn",
+   "pos": "phr",
+   "en": "instead of",
+   "vi": "thay vì",
+   "band": 1
+  },
+  "compromise": {
+   "ipa": "ˈkɑmprəˌmaɪz",
+   "pos": "v",
+   "en": "to accept less than you want",
+   "vi": "nhượng bộ, thoả hiệp",
+   "band": 4
+  },
+  "ceo": {
+   "ipa": "ˈsiˌiˈoʊ",
+   "pos": "name",
+   "en": "the person with the highest job in a company",
+   "vi": "tổng giám đốc",
+   "band": 3
+  },
+  "diverse": {
+   "ipa": "daɪˈvɝs",
+   "pos": "adj",
+   "en": "made of many different kinds",
+   "vi": "đa dạng",
+   "band": 4
+  },
+  "condition": {
+   "ipa": "kənˈdɪʃən",
+   "pos": "n",
+   "en": "the situation that something is in",
+   "vi": "điều kiện, tình hình",
+   "band": 1
+  },
+  "strict": {
+   "ipa": "strɪkt",
+   "pos": "adj",
+   "en": "following rules closely and not changing them",
+   "vi": "nghiêm ngặt, chặt chẽ",
+   "band": 4
+  }
+ },
+ "names": {
+  "Minor Hotels": {
+   "vi": "tập đoàn khách sạn Minor của Thái Lan"
+  },
+  "Minor": {
+   "vi": "Minor Hotels, tập đoàn khách sạn Thái Lan"
+  },
+  "Thailand": {
+   "vi": "Thái Lan"
+  },
+  "Skift": {
+   "vi": "trang tin Mỹ về ngành du lịch"
+  },
+  "Anantara": {
+   "vi": "thương hiệu khách sạn sang trọng của Minor"
+  },
+  "Cushman & Wakefield": {
+   "vi": "công ty tư vấn bất động sản quốc tế"
+  },
+  "Anantara Siam Bangkok": {
+   "vi": "khách sạn Anantara ở Bangkok, thủ đô Thái Lan"
+  },
+  "Maldives": {
+   "vi": "quần đảo Maldives ở Ấn Độ Dương, nổi tiếng về khu nghỉ dưỡng"
+  },
+  "Middle East": {
+   "vi": "Trung Đông"
+  },
+  "Africa": {
+   "vi": "châu Phi"
+  },
+  "Marriott": {
+   "vi": "tập đoàn khách sạn lớn của Mỹ"
+  },
+  "Gulf": {
+   "vi": "vùng Vịnh (các nước quanh vịnh Ba Tư như UAE, Qatar)"
+  },
+  "Dillip Rajakarier": {
+   "vi": "tổng giám đốc (CEO) của tập đoàn Minor"
+  }
+ }
+}
