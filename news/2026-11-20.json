@@ -1,0 +1,3327 @@
+{
+ "id": "2026-11-20",
+ "domain": "fashion",
+ "title": "Fifth Avenue Is Again the World's Most Expensive Shopping Street",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fashionunited.uk/news/retail/new-yorks-fifth-avenue-reclaims-title-as-worlds-most-expensive-retail-street/2026111891454",
+  "outlet": "FashionUnited",
+  "author": "Renan Botelho de Carvalho",
+  "title": "New York’s Fifth Avenue reclaims title as world’s most expensive retail street",
+  "date": "2026-11-18",
+  "accessed": "2026-11-20",
+  "note": "Single source; the JLL availability figure and the earlier investment total are quoted by FashionUnited in the same article. Rolex '30-storey' rendered as '30 floors'.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "Upper Fifth Avenue again world's most expensive retail street, per Cushman & Wakefield report released Wednesday",
+    "quote": "New York's Upper Fifth Avenue is once again the world's most expensive retail street, according to Cushman & Wakefield's Main Streets Across the World 2026 report released on Wednesday."
+   },
+   {
+    "id": "f2",
+    "text": "rents +35% over the past year to $2,700 per square foot a year",
+    "quote": "Rents on the corridor rose 35 percent over the past year to 2,700 dollars per square foot a year."
+   },
+   {
+    "id": "f3",
+    "text": "third place in 2025 to first; first time at top since 2023",
+    "quote": "Fifth Avenue moved from third place in 2025 to first, its first time at the top since 2023."
+   },
+   {
+    "id": "f4",
+    "text": "London's New Bond Street second at $2,230 per square foot",
+    "quote": "London's New Bond Street ranked second at 2,230 dollars per square foot"
+   },
+   {
+    "id": "f5",
+    "text": "Milan's Via Montenapoleone third at $2,160",
+    "quote": "followed by Milan's Via Montenapoleone at 2,160 dollars"
+   },
+   {
+    "id": "f6",
+    "text": "both streets flat over past year after large increases earlier",
+    "quote": "Rents on both streets were flat over the past year after large increases in previous years."
+   },
+   {
+    "id": "f7",
+    "text": "last year's report: New Bond Street most expensive",
+    "quote": "In last year's report, New Bond Street was named the world's most expensive retail destination for the first time"
+   },
+   {
+    "id": "f8",
+    "text": "luxury groups invested nearly $4 billion in Fifth Avenue properties over two years (reported in February)",
+    "quote": "FashionUnited reported in February that luxury groups had invested nearly 4 billion dollars in Fifth Avenue properties over the previous two years."
+   },
+   {
+    "id": "f9",
+    "text": "Kering paid almost $1 billion for a building",
+    "quote": "Kering paid almost 1 billion dollars for a building on the street"
+   },
+   {
+    "id": "f10",
+    "text": "Rolex building $250 million, 30-storey flagship",
+    "quote": "Rolex is building a 250 million dollar, 30-storey flagship"
+   },
+   {
+    "id": "f11",
+    "text": "Prada Group bought several buildings",
+    "quote": "Prada Group has bought several buildings"
+   },
+   {
+    "id": "f12",
+    "text": "New York City $400 million 'Future of Fifth' redesign",
+    "quote": "The street is also part of New York City's 400 million dollar \"Future of Fifth\" redesign."
+   },
+   {
+    "id": "f13",
+    "text": "JLL: Manhattan top corridors retail availability 13.7% in Q4 2025, lowest since 2017",
+    "quote": "According to JLL, retail availability across Manhattan's top corridors fell to 13.7 percent in the fourth quarter of 2025, the lowest level since 2017."
+   },
+   {
+    "id": "f14",
+    "text": "Dominic Brown: rents accelerate when strong demand meets limited availability; competition remains intense",
+    "quote": "demonstrates how quickly rents can accelerate when strong retailer demand meets limited availability"
+   },
+   {
+    "id": "f15",
+    "text": "report covers 147 retail locations",
+    "quote": "The report covers 147 retail locations worldwide."
+   },
+   {
+    "id": "f16",
+    "text": "average rent +3% year-on-year in local currency, down from 4.3% growth in 2025",
+    "quote": "Rents rose an average of 3 percent year-on-year in local currency, down from 4.3 percent growth in 2025."
+   },
+   {
+    "id": "f17",
+    "text": "49% of streets rents rose, 19% declined, 32% stable",
+    "quote": "Almost half (49 percent) of the streets surveyed saw rents rise, 19 percent saw declines and 32 percent were stable."
+   },
+   {
+    "id": "f18",
+    "text": "fashion: 50% of leasing deals, 57% of space across top 30 streets",
+    "quote": "It accounted for 50 percent of leasing deals and 57 percent of space taken across the top 30 streets"
+   },
+   {
+    "id": "f19",
+    "text": "international brands took about 90% of the space",
+    "quote": "International brands took about 90 percent of the space."
+   },
+   {
+    "id": "f20",
+    "text": "Alanna Loeffler: competition for premier locations never more intense; flagship is brand-building platform driving engagement and loyalty",
+    "quote": "competition for premier locations has never been more intense ... it is a brand-building platform that drives visibility, customer engagement and long-term loyalty"
+   },
+   {
+    "id": "f21",
+    "text": "Miami Brickell Boulevard Corridor +43%, Mumbai Linking Road +28%",
+    "quote": "Miami's Brickell Boulevard Corridor saw rents rise 43 percent, Bucharest's Calea Victoriei 29 percent, Mumbai's Linking Road 28 percent"
+   },
+   {
+    "id": "f22",
+    "text": "London: Covent Garden and Regent Street each +13%",
+    "quote": "In London, rents on Covent Garden and Regent Street each rose 13 percent."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.942,
+  "effective": 0.954,
+  "tokens": 488,
+  "new_core": 9
+ },
+ "vocab": [
+  "spare",
+  "construct",
+  "transformation",
+  "availability",
+  "scope",
+  "phenomenon",
+  "bulk",
+  "interaction",
+  "intensity",
+  "according to",
+  "come out",
+  "because of",
+  "at the end of",
+  "around the world",
+  "on average",
+  "compared with",
+  "go up"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "Fifth",
+      "n": "Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "Avenue",
+      "n": "Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "Is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "Again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "World",
+      "nsp": 1,
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "Expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "Shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "Street",
+      "l": "street",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "nsp": 1,
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Upper",
+      "n": "Upper Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "Fifth",
+      "n": "Upper Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "Avenue",
+      "n": "Upper Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "New",
+      "n": "New York",
+      "k": "name"
+     },
+     {
+      "w": "York",
+      "n": "New York",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "once",
+      "l": "once",
+      "k": "known"
+     },
+     {
+      "w": "again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "street",
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "comes",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "Cushman",
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": "&",
+      "n": "Cushman & Wakefield",
+      "k": "plain"
+     },
+     {
+      "w": "Wakefield",
+      "nsp": 1,
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "property",
+      "l": "property",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "came",
+      "l": "come out",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "out",
+      "l": "come out",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Wednesday",
+      "nsp": 1,
+      "l": "wednesday",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "street",
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "35",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "past",
+      "l": "past",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "2,700",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "per",
+      "l": "per",
+      "k": "known"
+     },
+     {
+      "w": "square",
+      "l": "square",
+      "k": "known"
+     },
+     {
+      "w": "foot",
+      "l": "foot",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "remarkable",
+      "l": "remarkable",
+      "k": "core"
+     },
+     {
+      "w": "return",
+      "nsp": 1,
+      "l": "return",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Fifth",
+      "n": "Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "Avenue",
+      "n": "Fifth Avenue",
+      "k": "name"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "place",
+      "nsp": 1,
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "nsp": 1,
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": "since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "2023",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "London",
+      "nsp": 1,
+      "n": "London",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "New",
+      "n": "New Bond Street",
+      "k": "name"
+     },
+     {
+      "w": "Bond",
+      "n": "New Bond Street",
+      "k": "name"
+     },
+     {
+      "w": "Street",
+      "n": "New Bond Street",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "nsp": 1,
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "2,230",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "per",
+      "l": "per",
+      "k": "known"
+     },
+     {
+      "w": "square",
+      "l": "square",
+      "k": "known"
+     },
+     {
+      "w": "foot",
+      "nsp": 1,
+      "l": "foot",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Milan",
+      "nsp": 1,
+      "n": "Milan",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Via",
+      "n": "Via Montenapoleone",
+      "k": "name"
+     },
+     {
+      "w": "Montenapoleone",
+      "n": "Via Montenapoleone",
+      "k": "name"
+     },
+     {
+      "w": "comes",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "next",
+      "nsp": 1,
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "2,160",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "rivals",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "stayed",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "flat",
+      "l": "flat",
+      "k": "known"
+     },
+     {
+      "w": "over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "past",
+      "l": "past",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "report",
+      "nsp": 1,
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "New",
+      "n": "New Bond Street",
+      "k": "name"
+     },
+     {
+      "w": "Bond",
+      "n": "New Bond Street",
+      "k": "name"
+     },
+     {
+      "w": "Street",
+      "n": "New Bond Street",
+      "k": "name"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "top",
+      "nsp": 1,
+      "l": "top",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": "jumped",
+      "l": "jump",
+      "k": "known"
+     },
+     {
+      "w": "because",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "little",
+      "l": "little",
+      "k": "known"
+     },
+     {
+      "w": "spare",
+      "l": "spare",
+      "k": "core"
+     },
+     {
+      "w": "space",
+      "nsp": 1,
+      "l": "space",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "February",
+      "nsp": 1,
+      "l": "february",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "FashionUnited",
+      "n": "FashionUnited",
+      "k": "name"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "luxury",
+      "l": "luxury",
+      "k": "known"
+     },
+     {
+      "w": "groups",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "spent",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "nearly",
+      "l": "nearly",
+      "k": "known"
+     },
+     {
+      "w": "4",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "property",
+      "l": "property",
+      "k": "known"
+     },
+     {
+      "w": "there",
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": "over",
+      "l": "over",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "years",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Kering",
+      "n": "Kering",
+      "k": "name"
+     },
+     {
+      "w": "paid",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "almost",
+      "l": "almost",
+      "k": "known"
+     },
+     {
+      "w": "1",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "building",
+      "nsp": 1,
+      "l": "building",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rolex",
+      "n": "Rolex",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "constructing",
+      "l": "construct",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "30",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "floors",
+      "nsp": 1,
+      "l": "floor",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Constructing",
+      "l": "construct",
+      "k": "core"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "250",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "city",
+      "l": "city",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "spending",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "400",
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "transformation",
+      "l": "transformation",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "street",
+      "nsp": 1,
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "transformation",
+      "l": "transformation",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "called",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "Future",
+      "n": "Future of Fifth",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "n": "Future of Fifth",
+      "k": "name"
+     },
+     {
+      "w": "Fifth",
+      "nsp": 1,
+      "n": "Future of Fifth",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Spare",
+      "l": "spare",
+      "k": "core"
+     },
+     {
+      "w": "space",
+      "l": "space",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "find",
+      "l": "find",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Manhattan",
+      "nsp": 1,
+      "n": "Manhattan",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "JLL",
+      "nsp": 1,
+      "n": "JLL",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "measures",
+      "l": "measure",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "availability",
+      "l": "availability",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "top",
+      "l": "top",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "streets",
+      "nsp": 1,
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "At",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "availability",
+      "l": "availability",
+      "k": "core"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "13.7",
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "lowest",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "level",
+      "l": "level",
+      "k": "known"
+     },
+     {
+      "w": "since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "2017",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Dominic",
+      "n": "Dominic Brown",
+      "k": "name"
+     },
+     {
+      "w": "Brown",
+      "n": "Dominic Brown",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Cushman",
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": "&",
+      "n": "Cushman & Wakefield",
+      "k": "plain"
+     },
+     {
+      "w": "Wakefield",
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "go",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "quickly",
+      "l": "quickly",
+      "k": "known"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "demand",
+      "l": "demand",
+      "k": "known"
+     },
+     {
+      "w": "meets",
+      "l": "meet",
+      "k": "known"
+     },
+     {
+      "w": "low",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "availability",
+      "nsp": 1,
+      "l": "availability",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "report",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "wide",
+      "l": "wide",
+      "k": "known"
+     },
+     {
+      "w": "scope",
+      "nsp": 1,
+      "l": "scope",
+      "k": "core"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "147",
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "streets",
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Across",
+      "l": "across",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "scope",
+      "nsp": 1,
+      "l": "scope",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "3",
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on average",
+      "ph": 2,
+      "k": "known"
+     },
+     {
+      "w": "average",
+      "l": "on average",
+      "ph": 2,
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "local",
+      "l": "local",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "slower",
+      "l": "slow",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "4.3",
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2025",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "steady",
+      "nsp": 1,
+      "l": "steady",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "go up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "49",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "streets",
+      "nsp": 1,
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "19",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "stayed",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "32",
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "main",
+      "l": "main",
+      "k": "known"
+     },
+     {
+      "w": "force",
+      "l": "force",
+      "k": "known"
+     },
+     {
+      "w": "behind",
+      "l": "behind",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "phenomenon",
+      "nsp": 1,
+      "l": "phenomenon",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "top",
+      "l": "top",
+      "k": "known"
+     },
+     {
+      "w": "30",
+      "k": "plain",
+      "fig": "f10"
+     },
+     {
+      "w": "streets",
+      "nsp": 1,
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "companies",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "made",
+      "l": "make",
+      "k": "known"
+     },
+     {
+      "w": "50",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "lease",
+      "l": "lease",
+      "k": "core"
+     },
+     {
+      "w": "deals",
+      "nsp": 1,
+      "l": "deal",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "They",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "took",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "bulk",
+      "l": "bulk",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "space",
+      "nsp": 1,
+      "l": "space",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "57",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "countries",
+      "l": "country",
+      "k": "known"
+     },
+     {
+      "w": "took",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "90",
+      "k": "plain",
+      "fig": "f19"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "space",
+      "nsp": 1,
+      "l": "space",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "foreign",
+      "l": "foreign",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "took",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "bulk",
+      "nsp": 1,
+      "l": "bulk",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "brands",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "pay",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "nsp": 1,
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Alanna",
+      "n": "Alanna Loeffler",
+      "k": "name"
+     },
+     {
+      "w": "Loeffler",
+      "n": "Alanna Loeffler",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "Cushman",
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": "&",
+      "n": "Cushman & Wakefield",
+      "k": "plain"
+     },
+     {
+      "w": "Wakefield",
+      "n": "Cushman & Wakefield",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "big",
+      "l": "big",
+      "k": "known"
+     },
+     {
+      "w": "store",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "today",
+      "l": "today",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "place",
+      "l": "place",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "buy",
+      "l": "buy",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "sell",
+      "nsp": 1,
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "build",
+      "l": "build",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "brand",
+      "l": "brand",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "brings",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "interaction",
+      "l": "interaction",
+      "k": "core"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "customers",
+      "nsp": 1,
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "interaction",
+      "l": "interaction",
+      "k": "core"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "keep",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "customers",
+      "l": "customer",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "long",
+      "l": "long",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "nsp": 1,
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "her",
+      "nsp": 1,
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "intensity",
+      "l": "intensity",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "competition",
+      "l": "competition",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "best",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "locations",
+      "l": "location",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "never",
+      "l": "never",
+      "k": "known"
+     },
+     {
+      "w": "been",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "nsp": 1,
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Dominic",
+      "n": "Dominic Brown",
+      "k": "name"
+     },
+     {
+      "w": "Brown",
+      "n": "Dominic Brown",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "spoke",
+      "l": "speak",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "intensity",
+      "l": "intensity",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "competition",
+      "l": "competition",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "space",
+      "l": "space",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "best",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "destinations",
+      "nsp": 1,
+      "l": "destination",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "phenomenon",
+      "l": "phenomenon",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "famous",
+      "l": "famous",
+      "k": "known"
+     },
+     {
+      "w": "streets",
+      "nsp": 1,
+      "l": "street",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "43",
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Brickell",
+      "n": "Brickell Boulevard",
+      "k": "name"
+     },
+     {
+      "w": "Boulevard",
+      "n": "Brickell Boulevard",
+      "k": "name"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Miami",
+      "n": "Miami",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "28",
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Linking",
+      "n": "Linking Road",
+      "k": "name"
+     },
+     {
+      "w": "Road",
+      "n": "Linking Road",
+      "k": "name"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Mumbai",
+      "nsp": 1,
+      "n": "Mumbai",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "London",
+      "nsp": 1,
+      "n": "London",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "rents",
+      "l": "rent",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Regent",
+      "n": "Regent Street",
+      "k": "name"
+     },
+     {
+      "w": "Street",
+      "n": "Regent Street",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Covent",
+      "n": "Covent Garden",
+      "k": "name"
+     },
+     {
+      "w": "Garden",
+      "n": "Covent Garden",
+      "k": "name"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up",
+      "k": "known"
+     },
+     {
+      "w": "13",
+      "k": "plain",
+      "fig": "f22"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "street": {
+   "ipa": "strit",
+   "pos": "n",
+   "en": "a public road in a city or town, with houses or shops",
+   "vi": "đường phố, con phố",
+   "band": 1
+  },
+  "square": {
+   "ipa": "skwɛr",
+   "pos": "adj",
+   "en": "used with a unit to measure an area, like a square foot",
+   "vi": "vuông (đơn vị diện tích)",
+   "band": 2
+  },
+  "foot": {
+   "ipa": "fʊt",
+   "pos": "n",
+   "en": "a unit for measuring length, a little less than one third of a meter",
+   "vi": "foot (đơn vị đo, khoảng 30 cm)",
+   "band": 1
+  },
+  "spare": {
+   "ipa": "spɛr",
+   "pos": "adj",
+   "en": "not being used, so it is free for someone to use",
+   "vi": "còn trống, dư ra",
+   "band": 4
+  },
+  "space": {
+   "ipa": "speɪs",
+   "pos": "n",
+   "en": "an area that is empty or can be used",
+   "vi": "không gian, mặt bằng",
+   "band": 1
+  },
+  "nearly": {
+   "ipa": "ˈnɪrli",
+   "pos": "adv",
+   "en": "almost; a little less than",
+   "vi": "gần, gần như",
+   "band": 1
+  },
+  "construct": {
+   "ipa": "kənˈstrʌkt",
+   "pos": "v",
+   "en": "to build something, like a building or a road",
+   "vi": "xây dựng",
+   "band": 4
+  },
+  "floor": {
+   "ipa": "flɔr",
+   "pos": "n",
+   "en": "one level of a building",
+   "vi": "tầng (của toà nhà)",
+   "band": 1
+  },
+  "transformation": {
+   "ipa": "ˌtrænsfɚˈmeɪʃən",
+   "pos": "n",
+   "en": "a big change in how something looks or works",
+   "vi": "sự cải tạo, sự thay đổi lớn",
+   "band": 4
+  },
+  "availability": {
+   "ipa": "əˌveɪləˈbɪləti",
+   "pos": "n",
+   "en": "how much of something is free to use or buy",
+   "vi": "mức sẵn có (mặt bằng còn trống)",
+   "band": 4
+  },
+  "wide": {
+   "ipa": "waɪd",
+   "pos": "adj",
+   "en": "covering many things or a large area",
+   "vi": "rộng",
+   "band": 1
+  },
+  "scope": {
+   "ipa": "skoʊp",
+   "pos": "n",
+   "en": "the range of things that something deals with",
+   "vi": "phạm vi",
+   "band": 4
+  },
+  "behind": {
+   "ipa": "bɪˈhaɪnd",
+   "pos": "prep",
+   "en": "being the reason for something",
+   "vi": "đứng sau, là nguyên nhân của",
+   "band": 1
+  },
+  "phenomenon": {
+   "ipa": "fəˈnɑməˌnɑn",
+   "pos": "n",
+   "en": "something that happens and that people notice",
+   "vi": "hiện tượng",
+   "band": 4
+  },
+  "bulk": {
+   "ipa": "bʌlk",
+   "pos": "n",
+   "en": "the largest part of something",
+   "vi": "phần lớn",
+   "band": 4
+  },
+  "interaction": {
+   "ipa": "ˌɪntɚˈækʃən",
+   "pos": "n",
+   "en": "when people talk or do things with each other",
+   "vi": "sự tương tác, giao tiếp",
+   "band": 4
+  },
+  "intensity": {
+   "ipa": "ɪnˈtɛnsəti",
+   "pos": "n",
+   "en": "how strong something is",
+   "vi": "mức độ gay gắt, cường độ",
+   "band": 4
+  },
+  "competition": {
+   "ipa": "ˌkɑmpəˈtɪʃən",
+   "pos": "n",
+   "en": "a situation in which people or companies try to win against others",
+   "vi": "sự cạnh tranh",
+   "band": 2
+  }
+ },
+ "names": {
+  "Fifth Avenue": {
+   "vi": "Đại lộ số 5, phố mua sắm nổi tiếng ở Manhattan, New York"
+  },
+  "Upper Fifth Avenue": {
+   "vi": "đoạn phía bắc của Đại lộ số 5, nơi có các cửa hàng xa xỉ"
+  },
+  "New York": {
+   "vi": "thành phố New York, Mỹ"
+  },
+  "Cushman & Wakefield": {
+   "vi": "công ty dịch vụ bất động sản của Mỹ"
+  },
+  "London": {
+   "vi": "Luân Đôn, thủ đô nước Anh"
+  },
+  "New Bond Street": {
+   "vi": "phố mua sắm xa xỉ ở Luân Đôn"
+  },
+  "Milan": {
+   "vi": "Milan, thành phố thời trang ở miền bắc nước Ý"
+  },
+  "Via Montenapoleone": {
+   "vi": "phố mua sắm xa xỉ nổi tiếng nhất ở Milan"
+  },
+  "FashionUnited": {
+   "vi": "trang tin ngành thời trang (nguồn của bài này)"
+  },
+  "Kering": {
+   "vi": "tập đoàn hàng xa xỉ của Pháp (chủ của Gucci)"
+  },
+  "Rolex": {
+   "vi": "hãng đồng hồ xa xỉ của Thụy Sĩ"
+  },
+  "Future of Fifth": {
+   "vi": "\"Tương lai của Đại lộ số 5\" — dự án cải tạo con phố của thành phố"
+  },
+  "Manhattan": {
+   "vi": "quận trung tâm của thành phố New York"
+  },
+  "JLL": {
+   "vi": "công ty dịch vụ bất động sản của Mỹ"
+  },
+  "Dominic Brown": {
+   "vi": "trưởng bộ phận nghiên cứu quốc tế của Cushman & Wakefield"
+  },
+  "Alanna Loeffler": {
+   "vi": "giám đốc mảng bán lẻ khu vực châu Mỹ của Cushman & Wakefield"
+  },
+  "Brickell Boulevard": {
+   "vi": "đại lộ ở khu Brickell, Miami"
+  },
+  "Miami": {
+   "vi": "thành phố ở bang Florida, Mỹ"
+  },
+  "Linking Road": {
+   "vi": "phố mua sắm ở Mumbai"
+  },
+  "Mumbai": {
+   "vi": "thành phố lớn nhất Ấn Độ"
+  },
+  "Regent Street": {
+   "vi": "phố mua sắm lớn ở trung tâm Luân Đôn"
+  },
+  "Covent Garden": {
+   "vi": "khu mua sắm và giải trí ở trung tâm Luân Đôn"
+  }
+ }
+}
