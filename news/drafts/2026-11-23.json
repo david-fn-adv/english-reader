@@ -1,0 +1,117 @@
+{
+ "id": "2026-11-23",
+ "domain": "business",
+ "title": "The Economy Grows, but Americans Feel Worse About It",
+ "source": {
+  "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
+  "outlet": "Retail Dive (from CFO Dive)",
+  "author": "Jim Tyson",
+  "title": "Economic optimism plunges to lowest level since Great Recession",
+  "date": "2026-11-18",
+  "accessed": "2026-11-23",
+  "checked_against": "Single source: a news report of surveys by Gallup, Harris, the University of Michigan, the Commerce Department and NABE. Figures come only from this article; the original surveys were not opened. The link to the November 3 elections, the motor vehicle figure, the quotes from Pantheon about tax refunds and energy prices, the 3% wage figure, last month's 2.1% growth forecast, and the Group of Seven remark are left out. 'Optimistic' is written as 'positive', 'recession' as 'a serious fall in the economy', and 'economists' as 'business experts' to stay inside the reader's vocabulary.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "share of U.S. adults optimistic about the economy fell from 47% last year to 29% this year; lowest since Gallup began the poll in 2007",
+    "quote": "slumped from 47% last year to 29% this year, hitting the lowest level since Gallup launched a poll of the public view toward the economy in 2007"
+   },
+   {
+    "id": "f2",
+    "text": "lowest level since the 2007 to 2009 Great Recession; wage gains failed to keep pace with inflation",
+    "quote": "the lowest level since the 2007 to 2009 Great Recession as wage gains failed to keep pace with persistent inflation, Gallup said"
+   },
+   {
+    "id": "f3",
+    "text": "last time the mood dropped this sharply was the financial crash of the Great Recession",
+    "quote": "The last time that economic sentiment dropped this sharply was during the financial crash"
+   },
+   {
+    "id": "f10",
+    "text": "no matching drop in GDP now",
+    "quote": "However, there has been no corresponding drop in GDP to match the worsening public mood."
+   },
+   {
+    "id": "f4",
+    "text": "Harris poll (reported by The Guardian): three out of four Americans concerned about a recession last month; 61% wrongly believe a downturn has already started",
+    "quote": "Three out of four Americans last month said they are concerned about a recession and 61% incorrectly believe the U.S. is already suffering a downturn"
+   },
+   {
+    "id": "f5",
+    "text": "University of Michigan: consumer sentiment up 6% this month from October, still 10% below February",
+    "quote": "Although consumer sentiment rose 6% this month compared with October, it is still 10% below the February level, the University of Michigan said."
+   },
+   {
+    "id": "f6",
+    "text": "about 57% say high prices have eroded their living standards (Joanne Hsu, director of consumer surveys)",
+    "quote": "roughly 57% of respondents saying spontaneously that high prices have eroded their living standards, Joanne Hsu, the university’s director of consumer surveys, said"
+   },
+   {
+    "id": "f7",
+    "text": "Commerce Department: retail sales up 0.2% in October month over month, slowing from 0.8% in September",
+    "quote": "Retail sales month over month increased 0.2% in October, slowing from 0.8% in September."
+   },
+   {
+    "id": "f8",
+    "text": "furniture and home furnishing store spending fell 2.3% after gaining 3.6% in September",
+    "quote": "Spending at furniture and home furnishing stores fell 2.3% after gaining 3.6% in September"
+   },
+   {
+    "id": "f9",
+    "text": "Olivia Cross, senior U.S. economist at Pantheon Macroeconomics: the negative trend will likely accelerate; consumption strength expected to wane this quarter",
+    "quote": "The negative trend will likely accelerate, Olivia Cross, senior U.S. economist at Pantheon Macroeconomics, said Tuesday."
+   },
+   {
+    "id": "f11",
+    "text": "Q3 economy expanded more than forecast, largely because of investment in artificial intelligence",
+    "quote": "the economy during Q3 expanded more than forecast, in large part because of robust investment in the building blocks for artificial intelligence"
+   },
+   {
+    "id": "f12",
+    "text": "NABE survey median forecast: economy to grow 2.4% this year",
+    "quote": "The economy this year will likely grow 2.4%, according to the median forecast in a survey by the National Association for Business Economics."
+   },
+   {
+    "id": "f13",
+    "text": "more than half of NABE panelists do not expect the next recession to begin before 2029",
+    "quote": "more than half of panelists do not expect the next recession to begin before 2029"
+   },
+   {
+    "id": "f14",
+    "text": "Gallup: perception of the economy increasingly detached from GDP since 2022, after the inflation spike and slower wage growth",
+    "quote": "become increasingly detached from GDP since 2022, following the spike in inflation and the slowdown in wage growth"
+   }
+  ]
+ },
+ "paragraphs": [
+  "The American economy is still growing. Nevertheless, Americans feel worse about it than they have for many years. That is the surprising result of a new survey by Gallup, and Retail Dive reported it last week.",
+  "Gallup asks adults every year how they see the economy. Last year, 47 percent of American adults felt positive about it. This year, only 29 percent do. That is the lowest level since Gallup started this poll in 2007. In other words, public confidence has collapsed in one year.",
+  "The last time the mood fell so sharply was during the Great Recession, from 2007 to 2009. Back then, the dark mood was accompanied by a real collapse in the financial system. This time, the mood does not correspond to the figures, because the economy is not getting smaller.",
+  "Why are people so unhappy? Gallup points to inflation. Prices have kept rising, and wages have not kept pace with them. Since 2022, Gallup says, the public perception of the economy has moved away from the real figures. That was when inflation jumped and wage growth slowed.",
+  "There is also some confusion. In a Harris poll last month, three out of four Americans said they feared a serious fall in the economy. In the same poll, 61 percent believed that such a fall had already started. That notion is wrong. Contrary to this perception, the economy has grown this year.",
+  "A survey by the University of Michigan shows a similar picture. Consumer confidence rose 6 percent this month, comparing November with October. However, it is still 10 percent below the level of February. About 57 percent of people in the survey said that high prices had hurt their standard of living.",
+  "The stores offer a reflection of this mood. Sales in American stores grew only 0.2 percent in October, after a rise of 0.8 percent in September. Spending at furniture stores fell 2.3 percent in October. In September, furniture sales had risen 3.6 percent. Olivia Cross, an expert at a research company, says that things will probably get worse. She expects consumer spending to become weaker before the end of the year.",
+  "Business experts see the economy differently. It grew faster than expected from July to September. That was partly because companies invested a lot in artificial intelligence. A group of business experts now expects the economy to grow 2.4 percent this year. More than half of them think a serious fall is unlikely before 2029.",
+  "So it helps to distinguish two things: the economy in the figures and the economy at home. The growth figures look steady, and the notion of a coming crash does not correspond to them. Nevertheless, strong growth has not been accompanied by a better mood. Most families do not distinguish between a growing economy and more money at home. Their mood is a reflection of prices and wages. As long as wages stay behind inflation, the confusion will probably continue."
+ ],
+ "names": {
+  "Gallup": {
+   "vi": "công ty Mỹ chuyên làm khảo sát ý kiến người dân"
+  },
+  "Retail Dive": {
+   "vi": "trang tin Mỹ về ngành bán lẻ"
+  },
+  "Great Recession": {
+   "vi": "cuộc Đại suy thoái 2007–2009, khi kinh tế Mỹ và thế giới sụt giảm mạnh"
+  },
+  "Harris": {
+   "vi": "công ty khảo sát ý kiến của Mỹ (Harris Poll)"
+  },
+  "University of Michigan": {
+   "vi": "đại học ở bang Michigan, Mỹ; mỗi tháng đo niềm tin của người tiêu dùng"
+  },
+  "Olivia Cross": {
+   "vi": "chuyên gia kinh tế Mỹ tại công ty nghiên cứu Pantheon Macroeconomics"
+  }
+ }
+}

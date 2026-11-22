@@ -1,0 +1,3288 @@
+{
+ "id": "2026-11-23",
+ "domain": "business",
+ "title": "The Economy Grows, but Americans Feel Worse About It",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
+  "outlet": "Retail Dive (from CFO Dive)",
+  "author": "Jim Tyson",
+  "title": "Economic optimism plunges to lowest level since Great Recession",
+  "date": "2026-11-18",
+  "accessed": "2026-11-23",
+  "checked_against": "Single source: a news report of surveys by Gallup, Harris, the University of Michigan, the Commerce Department and NABE. Figures come only from this article; the original surveys were not opened. The link to the November 3 elections, the motor vehicle figure, the quotes from Pantheon about tax refunds and energy prices, the 3% wage figure, last month's 2.1% growth forecast, and the Group of Seven remark are left out. 'Optimistic' is written as 'positive', 'recession' as 'a serious fall in the economy', and 'economists' as 'business experts' to stay inside the reader's vocabulary.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "share of U.S. adults optimistic about the economy fell from 47% last year to 29% this year; lowest since Gallup began the poll in 2007",
+    "quote": "slumped from 47% last year to 29% this year, hitting the lowest level since Gallup launched a poll of the public view toward the economy in 2007"
+   },
+   {
+    "id": "f2",
+    "text": "lowest level since the 2007 to 2009 Great Recession; wage gains failed to keep pace with inflation",
+    "quote": "the lowest level since the 2007 to 2009 Great Recession as wage gains failed to keep pace with persistent inflation, Gallup said"
+   },
+   {
+    "id": "f3",
+    "text": "last time the mood dropped this sharply was the financial crash of the Great Recession",
+    "quote": "The last time that economic sentiment dropped this sharply was during the financial crash"
+   },
+   {
+    "id": "f10",
+    "text": "no matching drop in GDP now",
+    "quote": "However, there has been no corresponding drop in GDP to match the worsening public mood."
+   },
+   {
+    "id": "f4",
+    "text": "Harris poll (reported by The Guardian): three out of four Americans concerned about a recession last month; 61% wrongly believe a downturn has already started",
+    "quote": "Three out of four Americans last month said they are concerned about a recession and 61% incorrectly believe the U.S. is already suffering a downturn"
+   },
+   {
+    "id": "f5",
+    "text": "University of Michigan: consumer sentiment up 6% this month from October, still 10% below February",
+    "quote": "Although consumer sentiment rose 6% this month compared with October, it is still 10% below the February level, the University of Michigan said."
+   },
+   {
+    "id": "f6",
+    "text": "about 57% say high prices have eroded their living standards (Joanne Hsu, director of consumer surveys)",
+    "quote": "roughly 57% of respondents saying spontaneously that high prices have eroded their living standards, Joanne Hsu, the university’s director of consumer surveys, said"
+   },
+   {
+    "id": "f7",
+    "text": "Commerce Department: retail sales up 0.2% in October month over month, slowing from 0.8% in September",
+    "quote": "Retail sales month over month increased 0.2% in October, slowing from 0.8% in September."
+   },
+   {
+    "id": "f8",
+    "text": "furniture and home furnishing store spending fell 2.3% after gaining 3.6% in September",
+    "quote": "Spending at furniture and home furnishing stores fell 2.3% after gaining 3.6% in September"
+   },
+   {
+    "id": "f9",
+    "text": "Olivia Cross, senior U.S. economist at Pantheon Macroeconomics: the negative trend will likely accelerate; consumption strength expected to wane this quarter",
+    "quote": "The negative trend will likely accelerate, Olivia Cross, senior U.S. economist at Pantheon Macroeconomics, said Tuesday."
+   },
+   {
+    "id": "f11",
+    "text": "Q3 economy expanded more than forecast, largely because of investment in artificial intelligence",
+    "quote": "the economy during Q3 expanded more than forecast, in large part because of robust investment in the building blocks for artificial intelligence"
+   },
+   {
+    "id": "f12",
+    "text": "NABE survey median forecast: economy to grow 2.4% this year",
+    "quote": "The economy this year will likely grow 2.4%, according to the median forecast in a survey by the National Association for Business Economics."
+   },
+   {
+    "id": "f13",
+    "text": "more than half of NABE panelists do not expect the next recession to begin before 2029",
+    "quote": "more than half of panelists do not expect the next recession to begin before 2029"
+   },
+   {
+    "id": "f14",
+    "text": "Gallup: perception of the economy increasingly detached from GDP since 2022, after the inflation spike and slower wage growth",
+    "quote": "become increasingly detached from GDP since 2022, following the spike in inflation and the slowdown in wage growth"
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.931,
+  "effective": 0.961,
+  "tokens": 490,
+  "new_core": 9
+ },
+ "vocab": [
+  "collapse",
+  "accompany",
+  "correspond",
+  "perception",
+  "confusion",
+  "notion",
+  "reflection",
+  "furniture",
+  "distinguish",
+  "in other words",
+  "as long as"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "Grows",
+      "nsp": 1,
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "Americans",
+      "k": "name"
+     },
+     {
+      "w": "Feel",
+      "l": "feel",
+      "k": "known"
+     },
+     {
+      "w": "Worse",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "About",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "American",
+      "l": "american",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "nsp": 1,
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Americans",
+      "k": "name"
+     },
+     {
+      "w": "feel",
+      "l": "feel",
+      "k": "known"
+     },
+     {
+      "w": "worse",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "years",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "surprising",
+      "l": "surprising",
+      "k": "known"
+     },
+     {
+      "w": "result",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "survey",
+      "l": "survey",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "Gallup",
+      "nsp": 1,
+      "n": "Gallup",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Retail",
+      "n": "Retail Dive",
+      "k": "name"
+     },
+     {
+      "w": "Dive",
+      "n": "Retail Dive",
+      "k": "name"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "week",
+      "nsp": 1,
+      "l": "week",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Gallup",
+      "n": "Gallup",
+      "k": "name"
+     },
+     {
+      "w": "asks",
+      "l": "ask",
+      "k": "known"
+     },
+     {
+      "w": "adults",
+      "l": "adult",
+      "k": "known"
+     },
+     {
+      "w": "every",
+      "l": "every",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "how",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "see",
+      "l": "see",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "nsp": 1,
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "47",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "American",
+      "l": "american",
+      "k": "known"
+     },
+     {
+      "w": "adults",
+      "l": "adult",
+      "k": "known"
+     },
+     {
+      "w": "felt",
+      "l": "feel",
+      "k": "known"
+     },
+     {
+      "w": "positive",
+      "l": "positive",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "29",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "nsp": 1,
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "lowest",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "level",
+      "l": "level",
+      "k": "known"
+     },
+     {
+      "w": "since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "Gallup",
+      "n": "Gallup",
+      "k": "name"
+     },
+     {
+      "w": "started",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "poll",
+      "l": "poll",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2007",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "public",
+      "l": "public",
+      "k": "known"
+     },
+     {
+      "w": "confidence",
+      "l": "confidence",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "collapsed",
+      "l": "collapse",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "mood",
+      "l": "mood",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "sharply",
+      "l": "sharply",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "during",
+      "l": "during",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "Great",
+      "n": "Great Recession",
+      "k": "name"
+     },
+     {
+      "w": "Recession",
+      "nsp": 1,
+      "n": "Great Recession",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "2007",
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "2009",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Back",
+      "l": "back",
+      "k": "known"
+     },
+     {
+      "w": "then",
+      "nsp": 1,
+      "l": "then",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "dark",
+      "l": "dark",
+      "k": "known"
+     },
+     {
+      "w": "mood",
+      "l": "mood",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "accompanied",
+      "l": "accompany",
+      "k": "core"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "real",
+      "l": "real",
+      "k": "known"
+     },
+     {
+      "w": "collapse",
+      "l": "collapse",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "financial",
+      "l": "financial",
+      "k": "known"
+     },
+     {
+      "w": "system",
+      "nsp": 1,
+      "l": "system",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "nsp": 1,
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "mood",
+      "l": "mood",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "correspond",
+      "l": "correspond",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "figures",
+      "nsp": 1,
+      "l": "figure",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "getting",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "nsp": 1,
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Why",
+      "l": "why",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "unhappy",
+      "nsp": 1,
+      "l": "unhappy",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Gallup",
+      "n": "Gallup",
+      "k": "name"
+     },
+     {
+      "w": "points",
+      "l": "point",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "inflation",
+      "nsp": 1,
+      "l": "inflation",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "kept",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "rising",
+      "nsp": 1,
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "wages",
+      "l": "wage",
+      "k": "known"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "kept",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "pace",
+      "l": "pace",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "2022",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Gallup",
+      "n": "Gallup",
+      "k": "name"
+     },
+     {
+      "w": "says",
+      "nsp": 1,
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "public",
+      "l": "public",
+      "k": "known"
+     },
+     {
+      "w": "perception",
+      "l": "perception",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "moved",
+      "l": "move",
+      "k": "known"
+     },
+     {
+      "w": "away",
+      "l": "away",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "real",
+      "l": "real",
+      "k": "known"
+     },
+     {
+      "w": "figures",
+      "nsp": 1,
+      "l": "figure",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "inflation",
+      "l": "inflation",
+      "k": "core"
+     },
+     {
+      "w": "jumped",
+      "l": "jump",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "wage",
+      "l": "wage",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "slowed",
+      "nsp": 1,
+      "l": "slow",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "There",
+      "l": "there",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "some",
+      "l": "some",
+      "k": "known"
+     },
+     {
+      "w": "confusion",
+      "nsp": 1,
+      "l": "confusion",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "Harris",
+      "n": "Harris",
+      "k": "name"
+     },
+     {
+      "w": "poll",
+      "l": "poll",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "out",
+      "l": "out",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "four",
+      "l": "four",
+      "k": "known"
+     },
+     {
+      "w": "Americans",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "they",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "feared",
+      "l": "fear",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "serious",
+      "l": "serious",
+      "k": "known"
+     },
+     {
+      "w": "fall",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "nsp": 1,
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "same",
+      "l": "same",
+      "k": "known"
+     },
+     {
+      "w": "poll",
+      "nsp": 1,
+      "l": "poll",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "61",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "believed",
+      "l": "believe",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "such",
+      "l": "such",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "fall",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "already",
+      "l": "already",
+      "k": "known"
+     },
+     {
+      "w": "started",
+      "nsp": 1,
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "notion",
+      "l": "notion",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "wrong",
+      "nsp": 1,
+      "l": "wrong",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Contrary",
+      "l": "contrary",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "perception",
+      "nsp": 1,
+      "l": "perception",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "grown",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "survey",
+      "l": "survey",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "University",
+      "n": "University of Michigan",
+      "k": "name"
+     },
+     {
+      "w": "of",
+      "n": "University of Michigan",
+      "k": "name"
+     },
+     {
+      "w": "Michigan",
+      "n": "University of Michigan",
+      "k": "name"
+     },
+     {
+      "w": "shows",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "similar",
+      "l": "similar",
+      "k": "known"
+     },
+     {
+      "w": "picture",
+      "nsp": 1,
+      "l": "picture",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Consumer",
+      "l": "consumer",
+      "k": "known"
+     },
+     {
+      "w": "confidence",
+      "l": "confidence",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "6",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "comparing",
+      "l": "compare",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "nsp": 1,
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "However",
+      "nsp": 1,
+      "l": "however",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "10",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "below",
+      "l": "below",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "level",
+      "l": "level",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "February",
+      "nsp": 1,
+      "l": "february",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "About",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "57",
+      "k": "plain",
+      "fig": "f6"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "survey",
+      "l": "survey",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "high",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "hurt",
+      "l": "hurt",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "standard",
+      "l": "standard",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "living",
+      "nsp": 1,
+      "l": "living",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "offer",
+      "l": "offer",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "reflection",
+      "l": "reflection",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "mood",
+      "nsp": 1,
+      "l": "mood",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "American",
+      "l": "american",
+      "k": "known"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "only",
+      "l": "only",
+      "k": "known"
+     },
+     {
+      "w": "0.2",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "nsp": 1,
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "after",
+      "l": "after",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "rise",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "0.8",
+      "k": "plain",
+      "fig": "f7"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Spending",
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "furniture",
+      "l": "furniture",
+      "k": "core"
+     },
+     {
+      "w": "stores",
+      "l": "store",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "2.3",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "October",
+      "nsp": 1,
+      "l": "october",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "furniture",
+      "l": "furniture",
+      "k": "core"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "risen",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "3.6",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "percent",
+      "nsp": 1,
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Olivia",
+      "n": "Olivia Cross",
+      "k": "name"
+     },
+     {
+      "w": "Cross",
+      "nsp": 1,
+      "n": "Olivia Cross",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "expert",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "research",
+      "l": "research",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "probably",
+      "l": "probably",
+      "k": "known"
+     },
+     {
+      "w": "get",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "worse",
+      "nsp": 1,
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "She",
+      "l": "she",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "consumer",
+      "l": "consumer",
+      "k": "known"
+     },
+     {
+      "w": "spending",
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "become",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "weaker",
+      "l": "weak",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "experts",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "see",
+      "l": "see",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "differently",
+      "nsp": 1,
+      "l": "differently",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "grew",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "faster",
+      "l": "fast",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "expected",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "July",
+      "l": "july",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "partly",
+      "l": "partly",
+      "k": "known"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "companies",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "invested",
+      "l": "invest",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "lot",
+      "l": "lot",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "artificial",
+      "l": "artificial",
+      "k": "core"
+     },
+     {
+      "w": "intelligence",
+      "nsp": 1,
+      "l": "intelligence",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "experts",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "expects",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "grow",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "2.4",
+      "k": "plain",
+      "fig": "f12"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "More",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": "think",
+      "l": "think",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "serious",
+      "l": "serious",
+      "k": "known"
+     },
+     {
+      "w": "fall",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "unlikely",
+      "l": "unlikely",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": "2029",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f13"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "helps",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "distinguish",
+      "l": "distinguish",
+      "k": "core"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "nsp": 1,
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "figures",
+      "l": "figure",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "home",
+      "nsp": 1,
+      "l": "home",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "figures",
+      "l": "figure",
+      "k": "known"
+     },
+     {
+      "w": "look",
+      "l": "look",
+      "k": "known"
+     },
+     {
+      "w": "steady",
+      "nsp": 1,
+      "l": "steady",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "notion",
+      "l": "notion",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "coming",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "crash",
+      "l": "crash",
+      "k": "known"
+     },
+     {
+      "w": "does",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "correspond",
+      "l": "correspond",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "them",
+      "nsp": 1,
+      "l": "they",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "strong",
+      "l": "strong",
+      "k": "known"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "been",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "accompanied",
+      "l": "accompany",
+      "k": "core"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "better",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "mood",
+      "nsp": 1,
+      "l": "mood",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "families",
+      "l": "family",
+      "k": "known"
+     },
+     {
+      "w": "do",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "distinguish",
+      "l": "distinguish",
+      "k": "core"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "economy",
+      "l": "economy",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "home",
+      "nsp": 1,
+      "l": "home",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "mood",
+      "l": "mood",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "reflection",
+      "l": "reflection",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "wages",
+      "nsp": 1,
+      "l": "wage",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "As",
+      "l": "as long as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "long",
+      "l": "as long as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as long as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "wages",
+      "l": "wage",
+      "k": "known"
+     },
+     {
+      "w": "stay",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "behind",
+      "l": "behind",
+      "k": "known"
+     },
+     {
+      "w": "inflation",
+      "nsp": 1,
+      "l": "inflation",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "confusion",
+      "l": "confusion",
+      "k": "core"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "probably",
+      "l": "probably",
+      "k": "known"
+     },
+     {
+      "w": "continue",
+      "nsp": 1,
+      "l": "continue",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "surprising": {
+   "ipa": "sɚˈpraɪzɪŋ",
+   "pos": "adj",
+   "en": "not expected; making you feel surprise",
+   "vi": "đáng ngạc nhiên"
+  },
+  "poll": {
+   "ipa": "poʊl",
+   "pos": "n",
+   "en": "a survey that asks many people the same question",
+   "vi": "cuộc thăm dò ý kiến",
+   "band": 3
+  },
+  "confidence": {
+   "ipa": "ˈkɑnfədəns",
+   "pos": "n",
+   "en": "the feeling that things are good and will go well",
+   "vi": "niềm tin, sự tin tưởng",
+   "band": 2
+  },
+  "collapse": {
+   "ipa": "kəˈlæps",
+   "pos": "v",
+   "en": "to fall down or fail suddenly; also a noun: a sudden fall",
+   "vi": "sụp đổ; sự sụp đổ",
+   "band": 4
+  },
+  "mood": {
+   "ipa": "mud",
+   "pos": "n",
+   "en": "the way a person or a group of people feels at one time",
+   "vi": "tâm trạng",
+   "band": 3
+  },
+  "sharply": {
+   "ipa": "ˈʃɑrpli",
+   "pos": "adv",
+   "en": "suddenly and by a large amount",
+   "vi": "mạnh, đột ngột",
+   "band": 6
+  },
+  "dark": {
+   "ipa": "dɑrk",
+   "pos": "adj",
+   "en": "sad and without hope; also: with little or no light",
+   "vi": "u ám, bi quan; tối",
+   "band": 1
+  },
+  "accompany": {
+   "ipa": "əˈkʌmpəni",
+   "pos": "v",
+   "en": "to happen or appear together with something else",
+   "vi": "đi kèm, kèm theo",
+   "band": 4
+  },
+  "system": {
+   "ipa": "ˈsɪstəm",
+   "pos": "n",
+   "en": "a group of parts that work together as one whole",
+   "vi": "hệ thống",
+   "band": 1
+  },
+  "correspond": {
+   "ipa": "ˌkɔrəˈspɑnd",
+   "pos": "v",
+   "en": "to match something or be the same as it",
+   "vi": "tương ứng, khớp với",
+   "band": 4
+  },
+  "unhappy": {
+   "ipa": "ənˈhæpi",
+   "pos": "adj",
+   "en": "not happy; sad or not pleased",
+   "vi": "không vui, không hài lòng",
+   "band": 5
+  },
+  "wage": {
+   "ipa": "weɪdʒ",
+   "pos": "n",
+   "en": "the money a worker gets paid for a job",
+   "vi": "tiền lương",
+   "band": 3
+  },
+  "perception": {
+   "ipa": "pɚˈsɛpʃən",
+   "pos": "n",
+   "en": "the way people see or understand something",
+   "vi": "cách nhìn nhận, cảm nhận",
+   "band": 4
+  },
+  "confusion": {
+   "ipa": "kənˈfjuʒən",
+   "pos": "n",
+   "en": "a state when people do not understand clearly what is true",
+   "vi": "sự nhầm lẫn, bối rối",
+   "band": 4
+  },
+  "out": {
+   "ipa": "aʊt",
+   "pos": "prep",
+   "en": "used in 'three out of four': three from a group of four",
+   "vi": "trong số (ba trong bốn); ra ngoài",
+   "band": 1
+  },
+  "serious": {
+   "ipa": "ˈsɪriəs",
+   "pos": "adj",
+   "en": "bad or dangerous; important and not small",
+   "vi": "nghiêm trọng",
+   "band": 1
+  },
+  "notion": {
+   "ipa": "ˈnoʊʃən",
+   "pos": "n",
+   "en": "an idea or a belief about something",
+   "vi": "ý niệm, quan niệm",
+   "band": 4
+  },
+  "wrong": {
+   "ipa": "rɔŋ",
+   "pos": "adj",
+   "en": "not true or not right",
+   "vi": "sai",
+   "band": 1
+  },
+  "consumer": {
+   "ipa": "kənˈsumɚ",
+   "pos": "n",
+   "en": "a person who buys things or services for their own use",
+   "vi": "người tiêu dùng",
+   "band": 3
+  },
+  "standard": {
+   "ipa": "ˈstændɚd",
+   "pos": "n",
+   "en": "a level of quality, as in 'standard of living'",
+   "vi": "mức, tiêu chuẩn (mức sống)",
+   "band": 1
+  },
+  "reflection": {
+   "ipa": "rɪˈflɛkʃən",
+   "pos": "n",
+   "en": "something that shows what another thing is really like; an image",
+   "vi": "sự phản ánh; hình phản chiếu",
+   "band": 4
+  },
+  "furniture": {
+   "ipa": "ˈfɝnɪtʃɚ",
+   "pos": "n",
+   "en": "things in a home such as tables, chairs and beds",
+   "vi": "đồ nội thất",
+   "band": 4
+  },
+  "probably": {
+   "ipa": "ˈprɑbəˌbli",
+   "pos": "adv",
+   "en": "likely to be true or likely to happen",
+   "vi": "có lẽ, nhiều khả năng",
+   "band": 1
+  },
+  "distinguish": {
+   "ipa": "dɪˈstɪŋɡwɪʃ",
+   "pos": "v",
+   "en": "to see or show how two things are different",
+   "vi": "phân biệt",
+   "band": 4
+  },
+  "crash": {
+   "ipa": "kræʃ",
+   "pos": "n",
+   "en": "a sudden large fall in prices or in the economy; an accident",
+   "vi": "sự sụp đổ (tài chính); vụ va chạm",
+   "band": 3
+  },
+  "as long as": {
+   "ipa": "æz lɔŋ æz",
+   "pos": "phr",
+   "en": "if; during all the time that something continues",
+   "vi": "chừng nào mà, miễn là",
+   "band": 1
+  }
+ },
+ "names": {
+  "Gallup": {
+   "vi": "công ty Mỹ chuyên làm khảo sát ý kiến người dân"
+  },
+  "Retail Dive": {
+   "vi": "trang tin Mỹ về ngành bán lẻ"
+  },
+  "Great Recession": {
+   "vi": "cuộc Đại suy thoái 2007–2009, khi kinh tế Mỹ và thế giới sụt giảm mạnh"
+  },
+  "Harris": {
+   "vi": "công ty khảo sát ý kiến của Mỹ (Harris Poll)"
+  },
+  "University of Michigan": {
+   "vi": "đại học ở bang Michigan, Mỹ; mỗi tháng đo niềm tin của người tiêu dùng"
+  },
+  "Olivia Cross": {
+   "vi": "chuyên gia kinh tế Mỹ tại công ty nghiên cứu Pantheon Macroeconomics"
+  }
+ }
+}
