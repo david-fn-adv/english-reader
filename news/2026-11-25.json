@@ -1,0 +1,3494 @@
+{
+ "id": "2026-11-25",
+ "domain": "travel",
+ "title": "AirAsia Loses Less Money, but Its Recovery Must Wait",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://skift.com/2026/11/24/airasias-q3-shows-why-fernandes-pushed-the-comeback-to-2028/",
+  "outlet": "Skift",
+  "author": "Montira Rungjirajittranon",
+  "title": "AirAsia’s Q3 Shows Why Fernandes Pushed the Comeback to 2028",
+  "date": "2026-11-24",
+  "accessed": "2026-11-25",
+  "note": "Single source. Loss given only as the source's US dollar conversion of the loss attributable to shareholders. The record order for 150 Airbus jets, the RM figures and the Cebu Pacific remark were left out.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "AirAsia Group third-quarter results posted Monday; smaller loss; higher fares made up for most of the jump in fuel costs",
+    "quote": "AirAsia Group posted a smaller third-quarter loss on Monday as higher fares made up for most of the jump in fuel costs"
+   },
+   {
+    "id": "f2",
+    "text": "loss attributable to shareholders RM175 million ($43 million), about a third of the second-quarter loss",
+    "quote": "posted a loss attributable to shareholders of RM175 million ($43 million) ... That’s about a third of its second-quarter loss."
+   },
+   {
+    "id": "f3",
+    "text": "improvement mostly from charging more; jet fuel easing from second-quarter peak; planes stayed nearly as full",
+    "quote": "Most of the improvement came from charging more ... Planes stayed nearly as full as fares rose sharply"
+   },
+   {
+    "id": "f4",
+    "text": "revenue fell 11% from a year earlier",
+    "quote": "Revenue fell 11% from a year earlier to RM4.66 billion"
+   },
+   {
+    "id": "f5",
+    "text": "CEO Bo Lingam: the worst is behind us",
+    "quote": "“Our third quarter performance suggests that the worst is behind us,” CEO Bo Lingam said in a statement."
+   },
+   {
+    "id": "f6",
+    "text": "smaller airline is expensive to run; spends more to fly each seat than it earns",
+    "quote": "a smaller low-cost airline is an expensive one to run. It still spends more to fly each seat than it earns from it"
+   },
+   {
+    "id": "f7",
+    "text": "average fares rose by almost a quarter from a year earlier; share of filled seats barely moved",
+    "quote": "Average fares rose by almost a quarter from a year earlier, while the share of filled seats barely moved."
+   },
+   {
+    "id": "f8",
+    "text": "suspended 76 routes in the third quarter, mostly fuel-heavy international flights to India, China and Australia",
+    "quote": "The group suspended 76 routes in the third quarter, mostly fuel-heavy international flights to India, China and Australia"
+   },
+   {
+    "id": "f9",
+    "text": "Malaysia Airlines this month became largest operator between Malaysia and India, first time since 2021; Fernandes dismissed suggestions about internal Malaysia flights",
+    "quote": "Malaysia Airlines this month overtook the AirAsia group as the largest operator between Malaysia and India for the first time since 2021"
+   },
+   {
+    "id": "f10",
+    "text": "cut spending on staff, airport charges and leases; fixed costs spread over far fewer seats, so cost per seat rose",
+    "quote": "its remaining fixed costs were spread over far fewer seats, so the cost of flying each one rose"
+   },
+   {
+    "id": "f11",
+    "text": "fuel is squeezing regional rival airlines too",
+    "quote": "Fuel is squeezing AirAsia’s regional rivals too."
+   },
+   {
+    "id": "f12",
+    "text": "Fernandes dismissed suggestions that rivals could take the lead for internal Malaysia flights",
+    "quote": "Fernandes has dismissed suggestions that rivals could take the lead for internal Malaysia flights"
+   },
+   {
+    "id": "f13",
+    "text": "cut spending on staff, airport charges and leases",
+    "quote": "AirAsia cut what it spends on staff, airport charges and leases"
+   },
+   {
+    "id": "f14",
+    "text": "funding is the pressure point; ended June with far less cash than it owed within the year",
+    "quote": "The pressure point is funding. AirAsia ended June with far less cash than it owed within the year."
+   },
+   {
+    "id": "f15",
+    "text": "handing back 25 older, more expensive aircraft this year, most of them early; cuts lease bills, less room to grow",
+    "quote": "AirAsia is handing back older, more expensive aircraft: 25 of them this year and most of them early. ... That move cuts lease bills"
+   },
+   {
+    "id": "f16",
+    "text": "about 31% of the 234 aircraft in the main fleet out of service at end of September, mostly scheduled maintenance",
+    "quote": "About 31% of the 234 aircraft in the group’s main fleet were out of service at the end of September, mostly for scheduled maintenance"
+   },
+   {
+    "id": "f17",
+    "text": "analysts told Skift: new narrowbody delivery slots scarce until around 2033, could slow the comeback",
+    "quote": "Handing back jets now could slow AirAsia’s eventual comeback, analysts told Skift this month, because new narrowbody delivery slots are scarce until around 2033."
+   },
+   {
+    "id": "f18",
+    "text": "funding is the pressure point; ended June with far less cash than it owed within the year; up to $1 billion debt financing; talks with creditors progressing",
+    "quote": "It is working on up to $1 billion in debt financing and says talks with creditors are progressing."
+   },
+   {
+    "id": "f19",
+    "text": "Fernandes denied reports of a government-backed contingency plan; Malaysia's transport and finance ministries in talks with the airline",
+    "quote": "he has denied reports of a government-backed contingency plan. Malaysia’s transport and finance ministries remain in talks with the airline."
+   },
+   {
+    "id": "f20",
+    "text": "betting on year-end peak; add capacity in fourth quarter, restore some routes; forward bookings in line with last year at elevated yields",
+    "quote": "management is betting on the year-end peak ... says forward bookings are running in line with last year, at elevated yields"
+   },
+   {
+    "id": "f21",
+    "text": "presentation called 2026 and 2027 a reset and 2028 the rebuild, when new fuel-efficient jets begin arriving",
+    "quote": "The Q3 presentation called 2026 and 2027 a “reset” and 2028 the “rebuild,” when new fuel-efficient jets begin arriving."
+   },
+   {
+    "id": "f22",
+    "text": "Fernandes warned of more painful decisions on costs",
+    "quote": "warned of “more painful decisions” on costs"
+   },
+   {
+    "id": "f23",
+    "text": "if jet fuel eases in 2027 as AirAsia expects, higher fares could start turning into profit",
+    "quote": "If jet fuel eases as AirAsia expects in 2027, higher fares could start turning into profit across the region."
+   },
+   {
+    "id": "f24",
+    "text": "AirAsia has shown it can charge more; not yet shown it can make money at its smaller size; until the $1 billion financing lands, balance sheet decides when comeback starts",
+    "quote": "AirAsia has shown it can charge more. It hasn't shown it can make money at its new, smaller size."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.912,
+  "effective": 0.959,
+  "tokens": 499,
+  "new_core": 9
+ },
+ "vocab": [
+  "accomplish",
+  "suspension",
+  "dismiss",
+  "barrier",
+  "arrangement",
+  "urgent",
+  "negotiation",
+  "yield",
+  "convert",
+  "compared with",
+  "a lot of",
+  "give back",
+  "at the end of",
+  "up to",
+  "in case"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "Loses",
+      "l": "lose",
+      "k": "known"
+     },
+     {
+      "w": "Less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "Money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "but",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "Recovery",
+      "l": "recovery",
+      "k": "known"
+     },
+     {
+      "w": "Must",
+      "l": "must",
+      "k": "known"
+     },
+     {
+      "w": "Wait",
+      "l": "wait",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "low-cost",
+      "l": "low-cost",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "flights",
+      "l": "flight",
+      "k": "known"
+     },
+     {
+      "w": "across",
+      "l": "across",
+      "k": "known"
+     },
+     {
+      "w": "Asia",
+      "nsp": 1,
+      "n": "Asia",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "been",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "harsh",
+      "l": "harsh",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "nsp": 1,
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "became",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "much",
+      "l": "much",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "nsp": 1,
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "On",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Monday",
+      "nsp": 1,
+      "l": "monday",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "reported",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "loss",
+      "l": "loss",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "43",
+      "k": "plain",
+      "fig": "f2"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "That",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "loss",
+      "l": "loss",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "How",
+      "l": "how",
+      "k": "known"
+     },
+     {
+      "w": "did",
+      "l": "do",
+      "k": "known"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "accomplish",
+      "l": "accomplish",
+      "k": "core"
+     },
+     {
+      "w": "this",
+      "nsp": 1,
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "?",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Mostly",
+      "l": "mostly",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "charging",
+      "l": "charge",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Average",
+      "l": "average",
+      "k": "known"
+     },
+     {
+      "w": "ticket",
+      "l": "ticket",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "almost",
+      "l": "almost",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "planes",
+      "l": "plane",
+      "k": "known"
+     },
+     {
+      "w": "stayed",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "nearly",
+      "l": "nearly",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "full",
+      "l": "full",
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "before",
+      "nsp": 1,
+      "l": "before",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "CEO",
+      "l": "ceo",
+      "k": "known"
+     },
+     {
+      "w": "Bo",
+      "n": "Bo Lingam",
+      "k": "name"
+     },
+     {
+      "w": "Lingam",
+      "n": "Bo Lingam",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "results",
+      "l": "result",
+      "k": "known"
+     },
+     {
+      "w": "suggest",
+      "l": "suggest",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "worst",
+      "l": "bad",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "behind",
+      "l": "behind",
+      "k": "known"
+     },
+     {
+      "w": "us",
+      "nsp": 1,
+      "l": "we",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "nsp": 1,
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Revenue",
+      "l": "revenue",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "11",
+      "k": "plain",
+      "fig": "f4"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": "brought",
+      "l": "bring",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "suspension",
+      "l": "suspension",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "76",
+      "k": "plain",
+      "fig": "f8"
+     },
+     {
+      "w": "routes",
+      "nsp": 1,
+      "l": "route",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "international",
+      "l": "international",
+      "k": "known"
+     },
+     {
+      "w": "flights",
+      "l": "flight",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "India",
+      "nsp": 1,
+      "n": "India",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "China",
+      "n": "China",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Australia",
+      "nsp": 1,
+      "n": "Australia",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "which",
+      "l": "which",
+      "k": "known"
+     },
+     {
+      "w": "use",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a lot of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "lot",
+      "l": "a lot of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "a lot of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "nsp": 1,
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "suspension",
+      "l": "suspension",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "many",
+      "l": "many",
+      "k": "known"
+     },
+     {
+      "w": "routes",
+      "l": "route",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "helped",
+      "l": "help",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "rivals",
+      "nsp": 1,
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Malaysia",
+      "n": "Malaysia Airlines",
+      "k": "name"
+     },
+     {
+      "w": "Airlines",
+      "n": "Malaysia Airlines",
+      "k": "name"
+     },
+     {
+      "w": "became",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "largest",
+      "l": "large",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "between",
+      "l": "between",
+      "k": "known"
+     },
+     {
+      "w": "Malaysia",
+      "n": "Malaysia",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "India",
+      "n": "India",
+      "k": "name"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "time",
+      "l": "time",
+      "k": "known"
+     },
+     {
+      "w": "since",
+      "l": "since",
+      "k": "known"
+     },
+     {
+      "w": "2021",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "AirAsia",
+      "nsp": 1,
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Tony",
+      "n": "Tony Fernandes",
+      "k": "name"
+     },
+     {
+      "w": "Fernandes",
+      "n": "Tony Fernandes",
+      "k": "name"
+     },
+     {
+      "w": "dismissed",
+      "l": "dismiss",
+      "k": "core"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "idea",
+      "l": "idea",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "rivals",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "take",
+      "l": "take",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "lead",
+      "l": "lead",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "flights",
+      "l": "flight",
+      "k": "known"
+     },
+     {
+      "w": "inside",
+      "l": "inside",
+      "k": "known"
+     },
+     {
+      "w": "Malaysia",
+      "nsp": 1,
+      "n": "Malaysia",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "smaller",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "run",
+      "nsp": 1,
+      "l": "run",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "cut",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "spending",
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "staff",
+      "nsp": 1,
+      "l": "staff",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "airport",
+      "l": "airport",
+      "k": "known"
+     },
+     {
+      "w": "charges",
+      "l": "charge",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "leases",
+      "nsp": 1,
+      "l": "lease",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "fixed",
+      "l": "fix",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "shared",
+      "l": "share",
+      "k": "known"
+     },
+     {
+      "w": "by",
+      "l": "by",
+      "k": "known"
+     },
+     {
+      "w": "far",
+      "l": "far",
+      "k": "known"
+     },
+     {
+      "w": "fewer",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "seats",
+      "nsp": 1,
+      "l": "seat",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "seat",
+      "l": "seat",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "fly",
+      "nsp": 1,
+      "l": "fly",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "spends",
+      "l": "spend",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "fly",
+      "l": "fly",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "seat",
+      "l": "seat",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "earns",
+      "nsp": 1,
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "barrier",
+      "l": "barrier",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "airlines",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "too",
+      "nsp": 1,
+      "l": "too",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "giving",
+      "l": "give back",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "back",
+      "l": "give back",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "25",
+      "k": "plain",
+      "fig": "f15"
+     },
+     {
+      "w": "older",
+      "nsp": 1,
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "expensive",
+      "l": "expensive",
+      "k": "known"
+     },
+     {
+      "w": "planes",
+      "l": "plane",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "lease",
+      "l": "lease",
+      "k": "core"
+     },
+     {
+      "w": "arrangements",
+      "l": "arrangement",
+      "k": "core"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "ending",
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": "early",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "which",
+      "l": "which",
+      "k": "known"
+     },
+     {
+      "w": "cuts",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "bills",
+      "nsp": 1,
+      "l": "bill",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "At",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "September",
+      "nsp": 1,
+      "l": "september",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "31",
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "234",
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "planes",
+      "l": "plane",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "main",
+      "l": "main",
+      "k": "known"
+     },
+     {
+      "w": "fleet",
+      "l": "fleet",
+      "k": "known"
+     },
+     {
+      "w": "were",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "out",
+      "l": "out",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "service",
+      "nsp": 1,
+      "l": "service",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "mostly",
+      "l": "mostly",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "regular",
+      "l": "regular",
+      "k": "known"
+     },
+     {
+      "w": "maintenance",
+      "nsp": 1,
+      "l": "maintenance",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Experts",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "told",
+      "l": "tell",
+      "k": "known"
+     },
+     {
+      "w": "Skift",
+      "n": "Skift",
+      "k": "name"
+     },
+     {
+      "w": "about",
+      "l": "about",
+      "k": "known"
+     },
+     {
+      "w": "another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "barrier",
+      "nsp": 1,
+      "l": "barrier",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "New",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "planes",
+      "l": "plane",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "kind",
+      "l": "kind",
+      "k": "known"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "hard",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "get",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "until",
+      "l": "until",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around",
+      "k": "known"
+     },
+     {
+      "w": "2033",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f17"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "again",
+      "l": "again",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "be",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "slow",
+      "nsp": 1,
+      "l": "slow",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "urgent",
+      "l": "urgent",
+      "k": "core"
+     },
+     {
+      "w": "problem",
+      "l": "problem",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "At",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "June",
+      "nsp": 1,
+      "l": "june",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "far",
+      "l": "far",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "cash",
+      "l": "cash",
+      "k": "known"
+     },
+     {
+      "w": "than",
+      "l": "than",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "had",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "pay",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "within",
+      "l": "within",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "It",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "working",
+      "l": "work",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "financing",
+      "l": "financing",
+      "k": "known"
+     },
+     {
+      "w": "arrangement",
+      "l": "arrangement",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "up to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "up to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "1",
+      "k": "plain",
+      "fig": "f18"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "debt",
+      "nsp": 1,
+      "l": "debt",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "says",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "negotiations",
+      "l": "negotiation",
+      "k": "core"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "companies",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "owes",
+      "l": "owe",
+      "k": "core"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "going",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "well",
+      "nsp": 1,
+      "l": "well",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Fernandes",
+      "n": "Fernandes",
+      "k": "name"
+     },
+     {
+      "w": "dismissed",
+      "l": "dismiss",
+      "k": "core"
+     },
+     {
+      "w": "reports",
+      "l": "report",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "government",
+      "l": "government",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "plan",
+      "l": "plan",
+      "k": "known"
+     },
+     {
+      "w": "ready",
+      "l": "ready",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in case",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "case",
+      "l": "in case",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "things",
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": "go",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "wrong",
+      "nsp": 1,
+      "l": "wrong",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "now",
+      "nsp": 1,
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "counting",
+      "l": "count",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "busy",
+      "l": "busy",
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "end",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Bookings",
+      "l": "booking",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "line",
+      "l": "line",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "last",
+      "l": "last",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "nsp": 1,
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "yield",
+      "l": "yield",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "high",
+      "nsp": 1,
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Yield",
+      "l": "yield",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "nsp": 1,
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "roughly",
+      "nsp": 1,
+      "l": "roughly",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "earns",
+      "l": "earn",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "passenger",
+      "nsp": 1,
+      "l": "passenger",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "calls",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "2026",
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "reset",
+      "nsp": 1,
+      "l": "reset",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "2028",
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "rebuild",
+      "nsp": 1,
+      "l": "rebuild",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     },
+     {
+      "w": "when",
+      "l": "when",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "jets",
+      "l": "jet",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "use",
+      "l": "use",
+      "k": "known"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "begin",
+      "l": "begin",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "arrive",
+      "nsp": 1,
+      "l": "arrive",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Fernandes",
+      "n": "Fernandes",
+      "k": "name"
+     },
+     {
+      "w": "warned",
+      "l": "warn",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "painful",
+      "l": "painful",
+      "k": "known"
+     },
+     {
+      "w": "decisions",
+      "nsp": 1,
+      "l": "decision",
+      "k": "known"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "nsp": 1,
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "accomplished",
+      "l": "accomplish",
+      "k": "core"
+     },
+     {
+      "w": "one",
+      "l": "one",
+      "k": "known"
+     },
+     {
+      "w": "thing",
+      "nsp": 1,
+      "l": "thing",
+      "k": "known"
+     },
+     {
+      "w": ":",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "shown",
+      "l": "show",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "can",
+      "l": "can",
+      "k": "known"
+     },
+     {
+      "w": "charge",
+      "l": "charge",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "nsp": 1,
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "yield",
+      "l": "yield",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "yet",
+      "l": "yet",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "nsp": 1,
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "If",
+      "l": "if",
+      "k": "known"
+     },
+     {
+      "w": "fuel",
+      "l": "fuel",
+      "k": "known"
+     },
+     {
+      "w": "gets",
+      "l": "get",
+      "k": "known"
+     },
+     {
+      "w": "cheaper",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f21"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "as",
+      "l": "as",
+      "k": "known"
+     },
+     {
+      "w": "AirAsia",
+      "n": "AirAsia",
+      "k": "name"
+     },
+     {
+      "w": "expects",
+      "nsp": 1,
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "higher",
+      "l": "high",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "finally",
+      "l": "finally",
+      "k": "known"
+     },
+     {
+      "w": "convert",
+      "l": "convert",
+      "k": "core"
+     },
+     {
+      "w": "into",
+      "l": "into",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "nsp": 1,
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "But",
+      "l": "but",
+      "k": "known"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "airline",
+      "l": "airline",
+      "k": "core"
+     },
+     {
+      "w": "must",
+      "l": "must",
+      "k": "known"
+     },
+     {
+      "w": "convert",
+      "l": "convert",
+      "k": "core"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "negotiations",
+      "l": "negotiation",
+      "k": "core"
+     },
+     {
+      "w": "into",
+      "l": "into",
+      "k": "known"
+     },
+     {
+      "w": "real",
+      "l": "real",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "urgent",
+      "nsp": 1,
+      "l": "urgent",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "low-cost": {
+   "ipa": "ˌloʊˈkɔst",
+   "pos": "adj",
+   "en": "not expensive; with low prices",
+   "vi": "giá rẻ"
+  },
+  "monday": {
+   "ipa": "ˈmʌndi",
+   "pos": "name",
+   "en": "the day of the week after Sunday",
+   "vi": "thứ Hai",
+   "band": 2
+  },
+  "accomplish": {
+   "ipa": "əˈkɑmplɪʃ",
+   "pos": "v",
+   "en": "to finish something well; to reach a goal",
+   "vi": "đạt được, hoàn thành",
+   "band": 4
+  },
+  "suggest": {
+   "ipa": "səˈdʒɛst",
+   "pos": "v",
+   "en": "to show that something is probably true; to give an idea",
+   "vi": "cho thấy; gợi ý",
+   "band": 2
+  },
+  "suspension": {
+   "ipa": "səˈspɛnʃən",
+   "pos": "n",
+   "en": "the act of stopping something for a time",
+   "vi": "sự tạm ngừng, sự đình chỉ",
+   "band": 4
+  },
+  "route": {
+   "ipa": "rut",
+   "pos": "n",
+   "en": "the way a plane, bus or ship goes from one place to another",
+   "vi": "đường bay, tuyến đường",
+   "band": 2
+  },
+  "a lot of": {
+   "ipa": "ə lɑt ʌv",
+   "pos": "phr",
+   "en": "much or many",
+   "vi": "nhiều",
+   "band": 1
+  },
+  "dismiss": {
+   "ipa": "dɪˈsmɪs",
+   "pos": "v",
+   "en": "to say that an idea is not true or not important",
+   "vi": "bác bỏ, gạt đi",
+   "band": 4
+  },
+  "lead": {
+   "ipa": "lɛd",
+   "pos": "n",
+   "en": "the first position, ahead of others",
+   "vi": "vị trí dẫn đầu",
+   "band": 1
+  },
+  "staff": {
+   "ipa": "stæf",
+   "pos": "n",
+   "en": "the people who work for a company",
+   "vi": "nhân viên",
+   "band": 1
+  },
+  "fix": {
+   "ipa": "fɪks",
+   "pos": "v",
+   "en": "to keep something the same so it does not change; to repair",
+   "vi": "cố định (fixed costs: chi phí cố định); sửa chữa",
+   "band": 2
+  },
+  "barrier": {
+   "ipa": "ˈbæriɚ",
+   "pos": "n",
+   "en": "something that stops you or makes a thing hard to do",
+   "vi": "rào cản",
+   "band": 4
+  },
+  "give back": {
+   "ipa": "ɡɪv bæk",
+   "pos": "phr",
+   "en": "to return something to the person who owns it",
+   "vi": "trả lại",
+   "band": 1
+  },
+  "arrangement": {
+   "ipa": "ɚˈeɪndʒmənt",
+   "pos": "n",
+   "en": "a plan or deal that people agree on",
+   "vi": "thỏa thuận, sự sắp xếp",
+   "band": 4
+  },
+  "bill": {
+   "ipa": "bɪl",
+   "pos": "n",
+   "en": "a paper that shows how much money you must pay",
+   "vi": "hóa đơn, khoản phải trả",
+   "band": 1
+  },
+  "fleet": {
+   "ipa": "flit",
+   "pos": "n",
+   "en": "all the planes, ships or cars that one company has",
+   "vi": "đội máy bay (tàu, xe)",
+   "band": 3
+  },
+  "regular": {
+   "ipa": "ˈrɛɡjəlɚ",
+   "pos": "adj",
+   "en": "happening again and again at the same time; normal",
+   "vi": "định kỳ, thường xuyên",
+   "band": 1
+  },
+  "maintenance": {
+   "ipa": "ˈmeɪntənəns",
+   "pos": "n",
+   "en": "the work of keeping a machine in good condition",
+   "vi": "việc bảo dưỡng, bảo trì",
+   "band": 3
+  },
+  "until": {
+   "ipa": "ənˈtɪl",
+   "pos": "prep",
+   "en": "up to a time, and not after it",
+   "vi": "cho đến khi",
+   "band": 1
+  },
+  "urgent": {
+   "ipa": "ˈɝdʒənt",
+   "pos": "adj",
+   "en": "very important and needing action now",
+   "vi": "khẩn cấp, cấp bách",
+   "band": 4
+  },
+  "cash": {
+   "ipa": "kæʃ",
+   "pos": "n",
+   "en": "money that you have and can use now",
+   "vi": "tiền mặt",
+   "band": 1
+  },
+  "financing": {
+   "ipa": "fəˈnænsɪŋ",
+   "pos": "n",
+   "en": "money that a bank or other group gives a company to use",
+   "vi": "nguồn vốn, khoản tài trợ vốn",
+   "band": 4
+  },
+  "debt": {
+   "ipa": "dɛt",
+   "pos": "n",
+   "en": "money that you must pay back to someone",
+   "vi": "khoản nợ",
+   "band": 2
+  },
+  "negotiation": {
+   "ipa": "nɪˌɡoʊʃiˈeɪʃən",
+   "pos": "n",
+   "en": "a talk between two sides who try to agree on something",
+   "vi": "cuộc đàm phán",
+   "band": 4
+  },
+  "ready": {
+   "ipa": "ˈrɛdi",
+   "pos": "adj",
+   "en": "able to be used or to act now",
+   "vi": "sẵn sàng",
+   "band": 1
+  },
+  "in case": {
+   "ipa": "ɪn keɪs",
+   "pos": "phr",
+   "en": "because something may happen",
+   "vi": "phòng khi, trong trường hợp",
+   "band": 1
+  },
+  "busy": {
+   "ipa": "ˈbɪzi",
+   "pos": "adj",
+   "en": "full of activity; having a lot to do",
+   "vi": "bận rộn, đông khách",
+   "band": 2
+  },
+  "line": {
+   "ipa": "laɪn",
+   "pos": "n",
+   "en": "a long thin mark (in line with: the same as, close to)",
+   "vi": "đường, hàng (in line with: ngang với, phù hợp với)",
+   "band": 1
+  },
+  "yield": {
+   "ipa": "jild",
+   "pos": "n",
+   "en": "the money that a business earns from something",
+   "vi": "mức doanh thu thu được (trên mỗi hành khách)",
+   "band": 4
+  },
+  "reset": {
+   "ipa": "riˈsɛt",
+   "pos": "n",
+   "en": "a new start, when you set something again",
+   "vi": "sự thiết lập lại, khởi động lại",
+   "band": 7
+  },
+  "rebuild": {
+   "ipa": "riˈbɪld",
+   "pos": "n",
+   "en": "the act of building something again",
+   "vi": "sự xây dựng lại",
+   "band": 6
+  },
+  "painful": {
+   "ipa": "ˈpeɪnfəl",
+   "pos": "adj",
+   "en": "making you feel pain or very sad; very hard to do",
+   "vi": "đau đớn, khó khăn",
+   "band": 3
+  },
+  "finally": {
+   "ipa": "ˈfaɪnəli",
+   "pos": "adv",
+   "en": "after a long time; at last",
+   "vi": "cuối cùng",
+   "band": 1
+  },
+  "convert": {
+   "ipa": "ˈkɑnvɚt",
+   "pos": "v",
+   "en": "to change something into a different form",
+   "vi": "chuyển đổi, biến thành",
+   "band": 4
+  }
+ },
+ "names": {
+  "AirAsia": {
+   "vi": "hãng hàng không giá rẻ của Malaysia, bay khắp Đông Nam Á"
+  },
+  "Asia": {
+   "vi": "châu Á"
+  },
+  "Bo Lingam": {
+   "vi": "tổng giám đốc (CEO) của tập đoàn AirAsia"
+  },
+  "India": {
+   "vi": "Ấn Độ"
+  },
+  "China": {
+   "vi": "Trung Quốc"
+  },
+  "Australia": {
+   "vi": "nước Úc"
+  },
+  "Malaysia Airlines": {
+   "vi": "hãng hàng không quốc gia của Malaysia, đối thủ của AirAsia"
+  },
+  "Malaysia": {
+   "vi": "nước Malaysia"
+  },
+  "Tony Fernandes": {
+   "vi": "người đứng đầu AirAsia"
+  },
+  "Fernandes": {
+   "vi": "Tony Fernandes, người đứng đầu AirAsia"
+  },
+  "Skift": {
+   "vi": "trang tin Mỹ về ngành du lịch"
+  }
+ }
+}
