@@ -1,0 +1,3210 @@
+{
+ "id": "2026-11-27",
+ "domain": "fashion",
+ "title": "New European Fees Hit Shein's Cheap Fashion",
+ "level": {
+  "known_version": "2026-10-15",
+  "frontier_band": 4
+ },
+ "source": {
+  "url": "https://fashionunited.uk/news/business/shein-warns-of-slow-european-recovery-as-eu-import-fees-cut-sales/2026112691577",
+  "outlet": "FashionUnited",
+  "author": "FashionUnited",
+  "title": "Shein warns of slow European recovery as EU import fees cut sales",
+  "date": "2026-11-26",
+  "accessed": "2026-11-27",
+  "note": "Single source; FashionUnited attributes the figures to Reuters and marks the article as written with the assistance of AI. Percentage changes whose comparison period the source does not state (Europe -27.6%, US -9.4%, group -6%, marketing -41.5%, rest of world +18%) are left out; only the direction and the dollar amounts are used. The 17% rise in operating income is stated as year-on-year. 'Operating income' rendered as 'operating profit'; 'critical' as 'crucial'; 'cautious' as 'careful'.",
+  "figures": [
+   {
+    "id": "f1",
+    "text": "Shein expects Europe under pressure until second half of 2027",
+    "quote": "Shein expects its European business to stay under pressure until the second half of 2027"
+   },
+   {
+    "id": "f2",
+    "text": "new EU fees on e-commerce imports cut sales in the region in the third quarter; source: Reuters",
+    "quote": "after new EU fees on e-commerce imports cut sales in the region by more than a quarter in the third quarter, according to press agency Reuters"
+   },
+   {
+    "id": "f3",
+    "text": "Europe revenue fell to $2.98 billion; newly listed company raised prices to offset extra costs",
+    "quote": "Revenue in Europe fell 27.6 percent to 2.98 billion dollars, after the newly listed company raised prices to offset the extra costs."
+   },
+   {
+    "id": "f4",
+    "text": "first results to show effect of EU three-euro fee",
+    "quote": "The results are the first to show the effect of the European Union's three-euro fee on e-commerce imports."
+   },
+   {
+    "id": "f5",
+    "text": "US decline; group revenue down to $10.27 billion",
+    "quote": "Weaker European sales and a 9.4 percent decline in the US pulled group revenue down 6 percent to 10.27 billion dollars."
+   },
+   {
+    "id": "f6",
+    "text": "CEO Sky Xu quote on call with analysts",
+    "quote": "\"We expect the EU to remain under pressure for the next few quarters,\" chief executive Sky Xu said on a call with analysts."
+   },
+   {
+    "id": "f7",
+    "text": "European sales might not recover until most deliveries come from European warehouses; Shein is investing in them",
+    "quote": "Xu said European sales might not recover until most deliveries are made from European warehouses, which the company is investing in."
+   },
+   {
+    "id": "f8",
+    "text": "further two-euro fee at start of November; uncertain year-end season",
+    "quote": "The EU added a further two-euro fee on e-commerce parcels at the start of November, which leaves Shein facing an uncertain year-end shopping season."
+   },
+   {
+    "id": "f9",
+    "text": "fees per type of item; five different items could cost 25 euros",
+    "quote": "The fees apply to each type of item in a shipment, so an order with five different items could cost 25 euros in customs fees."
+   },
+   {
+    "id": "f10",
+    "text": "business built on five-euro dresses and ten-euro shoes",
+    "quote": "Shein built its business on five-euro dresses and ten-euro shoes."
+   },
+   {
+    "id": "f11",
+    "text": "fast growth pushed up price competition for rivals H&M and Zara",
+    "quote": "Shein's fast growth helped push up price competition for rivals such as H&M and Zara."
+   },
+   {
+    "id": "f12",
+    "text": "growth stalled since US and Europe ended duty-free access for e-commerce imports",
+    "quote": "That growth has stalled since the US and Europe ended duty-free access for e-commerce imports."
+   },
+   {
+    "id": "f13",
+    "text": "cut marketing spending in the quarter, mostly online advertising, to protect profitability",
+    "quote": "Shein cut marketing spending by 41.5 percent in the quarter, mostly online advertising, to protect profitability."
+   },
+   {
+    "id": "f14",
+    "text": "operating income +17% year-on-year to $743 million while revenue fell",
+    "quote": "Operating income rose 17 percent year-on-year to 743 million dollars while revenue fell"
+   },
+   {
+    "id": "f15",
+    "text": "growing quickly in other regions, especially Latin America; less dependent on Europe and US",
+    "quote": "Xu said Shein was growing quickly in other regions, especially Latin America, which makes it less dependent on Europe and the US."
+   },
+   {
+    "id": "f16",
+    "text": "rest-of-world revenue rose to $4.2 billion",
+    "quote": "Revenue from the rest of the world rose 18 percent to 4.2 billion dollars."
+   },
+   {
+    "id": "f17",
+    "text": "consumers more cautious; value for money still critical",
+    "quote": "\"Consumers around the world are becoming more cautious,\" Xu said, adding that offering value for money was still critical."
+   }
+  ]
+ },
+ "coverage": {
+  "strict": 0.92,
+  "effective": 0.963,
+  "tokens": 482,
+  "new_core": 8
+ },
+ "vocab": [
+  "impose",
+  "export",
+  "tactic",
+  "swift",
+  "permit",
+  "cancel",
+  "sacrifice",
+  "rely",
+  "around the world",
+  "as a result",
+  "at the end of",
+  "no longer",
+  "according to",
+  "such as",
+  "go up",
+  "compared with",
+  "in other words",
+  "because of"
+ ],
+ "blocks": [
+  {
+   "type": "h",
+   "sents": [
+    [
+     {
+      "w": "New",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "European",
+      "l": "european",
+      "k": "known"
+     },
+     {
+      "w": "Fees",
+      "k": "name"
+     },
+     {
+      "w": "Hit",
+      "l": "hit",
+      "k": "known"
+     },
+     {
+      "w": "Shein",
+      "nsp": 1,
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "Cheap",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "Fashion",
+      "l": "fashion",
+      "k": "known"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Shein",
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "fashion",
+      "l": "fashion",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "sells",
+      "l": "sell",
+      "k": "known"
+     },
+     {
+      "w": "very",
+      "l": "very",
+      "k": "known"
+     },
+     {
+      "w": "cheap",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "clothes",
+      "l": "clothes",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "buyers",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "nsp": 1,
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "warned",
+      "l": "warn",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "will",
+      "l": "will",
+      "k": "known"
+     },
+     {
+      "w": "stay",
+      "l": "stay",
+      "k": "known"
+     },
+     {
+      "w": "under",
+      "l": "under",
+      "k": "known"
+     },
+     {
+      "w": "pressure",
+      "l": "pressure",
+      "k": "known"
+     },
+     {
+      "w": "until",
+      "l": "until",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "half",
+      "l": "half",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "2027",
+      "nsp": 1,
+      "k": "plain",
+      "fig": "f1"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "set",
+      "l": "set",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "fees",
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "European",
+      "n": "European Union",
+      "k": "name"
+     },
+     {
+      "w": "Union",
+      "n": "European Union",
+      "k": "name"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "imposed",
+      "l": "impose",
+      "k": "core"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "orders",
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "overseas",
+      "l": "overseas",
+      "k": "core"
+     },
+     {
+      "w": "sellers",
+      "l": "seller",
+      "k": "known"
+     },
+     {
+      "w": "export",
+      "l": "export",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": "comes",
+      "l": "come",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "Reuters",
+      "nsp": 1,
+      "n": "Reuters",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "news",
+      "l": "news",
+      "k": "known"
+     },
+     {
+      "w": "agency",
+      "nsp": 1,
+      "l": "agency",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "European",
+      "n": "European Union",
+      "k": "name"
+     },
+     {
+      "w": "Union",
+      "n": "European Union",
+      "k": "name"
+     },
+     {
+      "w": "now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "imposes",
+      "l": "impose",
+      "k": "core"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "fee",
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "three",
+      "l": "three",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "exports",
+      "nsp": 1,
+      "l": "export",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Shein",
+      "nsp": 1,
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "first",
+      "l": "first",
+      "k": "known"
+     },
+     {
+      "w": "tactic",
+      "l": "tactic",
+      "k": "core"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "raise",
+      "l": "raise",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "cover",
+      "l": "cover",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "extra",
+      "l": "extra",
+      "k": "known"
+     },
+     {
+      "w": "cost",
+      "nsp": 1,
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "third",
+      "l": "third",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "decreased",
+      "l": "decrease",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "2.98",
+      "k": "plain",
+      "fig": "f3"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "decreased",
+      "l": "decrease",
+      "k": "core"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "As",
+      "l": "as a result",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "as a result",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "result",
+      "nsp": 1,
+      "l": "as a result",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "whole",
+      "l": "whole",
+      "k": "known"
+     },
+     {
+      "w": "group",
+      "l": "group",
+      "k": "known"
+     },
+     {
+      "w": "fell",
+      "l": "fall",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "10.27",
+      "k": "plain",
+      "fig": "f5"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "burden",
+      "l": "burden",
+      "k": "core"
+     },
+     {
+      "w": "became",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "heavier",
+      "l": "heavy",
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "month",
+      "nsp": 1,
+      "l": "month",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "At",
+      "l": "at",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "start",
+      "l": "start",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "November",
+      "nsp": 1,
+      "l": "november",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "European",
+      "n": "European Union",
+      "k": "name"
+     },
+     {
+      "w": "Union",
+      "n": "European Union",
+      "k": "name"
+     },
+     {
+      "w": "added",
+      "l": "add",
+      "k": "known"
+     },
+     {
+      "w": "another",
+      "l": "another",
+      "k": "known"
+     },
+     {
+      "w": "fee",
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "two",
+      "l": "two",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "nsp": 1,
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "shopping",
+      "l": "shopping",
+      "k": "known"
+     },
+     {
+      "w": "season",
+      "l": "season",
+      "k": "known"
+     },
+     {
+      "w": "at",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "end",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "at the end of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "uncertain",
+      "l": "uncertain",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Shein",
+      "nsp": 1,
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "fees",
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "charged",
+      "l": "charge",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "each",
+      "l": "each",
+      "k": "known"
+     },
+     {
+      "w": "type",
+      "l": "type",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "item",
+      "l": "item",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "order",
+      "nsp": 1,
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "buyer",
+      "l": "buyer",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "orders",
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": "an",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "outfit",
+      "l": "outfit",
+      "k": "core"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "five",
+      "l": "five",
+      "k": "known"
+     },
+     {
+      "w": "different",
+      "l": "different",
+      "k": "known"
+     },
+     {
+      "w": "items",
+      "l": "item",
+      "k": "known"
+     },
+     {
+      "w": "could",
+      "l": "could",
+      "k": "known"
+     },
+     {
+      "w": "pay",
+      "l": "pay",
+      "k": "known"
+     },
+     {
+      "w": "25",
+      "k": "plain",
+      "fig": "f9"
+     },
+     {
+      "w": "euros",
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "fees",
+      "nsp": 1,
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "built",
+      "l": "build",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "dresses",
+      "l": "dress",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "five",
+      "l": "five",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "shoes",
+      "l": "shoe",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "ten",
+      "l": "ten",
+      "k": "known"
+     },
+     {
+      "w": "euros",
+      "nsp": 1,
+      "l": "euro",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "With",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "fees",
+      "nsp": 1,
+      "l": "fee",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "cheap",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "outfit",
+      "l": "outfit",
+      "k": "core"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "no",
+      "l": "no longer",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "longer",
+      "l": "no longer",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "so",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "cheap",
+      "nsp": 1,
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "\"",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "We",
+      "l": "we",
+      "k": "known"
+     },
+     {
+      "w": "expect",
+      "l": "expect",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "EU",
+      "n": "EU",
+      "k": "name"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "remain",
+      "l": "remain",
+      "k": "known"
+     },
+     {
+      "w": "under",
+      "l": "under",
+      "k": "known"
+     },
+     {
+      "w": "pressure",
+      "l": "pressure",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "next",
+      "l": "next",
+      "k": "known"
+     },
+     {
+      "w": "few",
+      "l": "few",
+      "k": "known"
+     },
+     {
+      "w": "quarters",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "nsp": 1,
+      "k": "plain"
+     },
+     {
+      "w": "\"",
+      "k": "plain"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "Sky",
+      "n": "Sky Xu",
+      "k": "name"
+     },
+     {
+      "w": "Xu",
+      "nsp": 1,
+      "n": "Sky Xu",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "head",
+      "l": "head",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Xu",
+      "n": "Xu",
+      "k": "name"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "speaking",
+      "l": "speak",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "call",
+      "l": "call",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "experts",
+      "l": "expert",
+      "k": "known"
+     },
+     {
+      "w": "who",
+      "l": "who",
+      "k": "known"
+     },
+     {
+      "w": "study",
+      "l": "study",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "nsp": 1,
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "According",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "according to",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "Xu",
+      "nsp": 1,
+      "n": "Xu",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "might",
+      "l": "might",
+      "k": "known"
+     },
+     {
+      "w": "not",
+      "l": "not",
+      "k": "known"
+     },
+     {
+      "w": "recover",
+      "l": "recover",
+      "k": "known"
+     },
+     {
+      "w": "until",
+      "l": "until",
+      "k": "known"
+     },
+     {
+      "w": "most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "orders",
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "delivered",
+      "l": "deliver",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "storage",
+      "l": "storage",
+      "k": "known"
+     },
+     {
+      "w": "buildings",
+      "l": "building",
+      "k": "known"
+     },
+     {
+      "w": "inside",
+      "l": "inside",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "nsp": 1,
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Shein",
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "investing",
+      "l": "invest",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "buildings",
+      "nsp": 1,
+      "l": "building",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Shein",
+      "nsp": 1,
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "swift",
+      "l": "swift",
+      "k": "core"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "pushed",
+      "l": "push",
+      "k": "known"
+     },
+     {
+      "w": "rivals",
+      "l": "rival",
+      "k": "core"
+     },
+     {
+      "w": "such",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "as",
+      "l": "such as",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "H&M",
+      "n": "H&M",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Zara",
+      "n": "Zara",
+      "k": "name"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "compete",
+      "l": "compete",
+      "k": "known"
+     },
+     {
+      "w": "harder",
+      "l": "hard",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "price",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Nevertheless",
+      "nsp": 1,
+      "l": "nevertheless",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "swift",
+      "l": "swift",
+      "k": "core"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "has",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "stopped",
+      "nsp": 1,
+      "l": "stop",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "An",
+      "l": "an",
+      "k": "known"
+     },
+     {
+      "w": "old",
+      "l": "old",
+      "k": "known"
+     },
+     {
+      "w": "rule",
+      "l": "rule",
+      "k": "known"
+     },
+     {
+      "w": "permitted",
+      "l": "permit",
+      "k": "core"
+     },
+     {
+      "w": "small",
+      "l": "small",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "orders",
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "overseas",
+      "l": "overseas",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "enter",
+      "l": "enter",
+      "k": "known"
+     },
+     {
+      "w": "without",
+      "l": "without",
+      "k": "known"
+     },
+     {
+      "w": "tax",
+      "nsp": 1,
+      "l": "tax",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "have",
+      "l": "have",
+      "k": "known"
+     },
+     {
+      "w": "both",
+      "l": "both",
+      "k": "known"
+     },
+     {
+      "w": "canceled",
+      "l": "cancel",
+      "k": "core"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "rule",
+      "nsp": 1,
+      "l": "rule",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Now",
+      "l": "now",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "canceled",
+      "nsp": 1,
+      "l": "cancel",
+      "k": "core"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "nothing",
+      "l": "nothing",
+      "k": "known"
+     },
+     {
+      "w": "permits",
+      "l": "permit",
+      "k": "core"
+     },
+     {
+      "w": "these",
+      "l": "these",
+      "k": "known"
+     },
+     {
+      "w": "orders",
+      "l": "order",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "enter",
+      "l": "enter",
+      "k": "known"
+     },
+     {
+      "w": "free",
+      "nsp": 1,
+      "l": "free",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Cheap",
+      "l": "cheap",
+      "k": "known"
+     },
+     {
+      "w": "goods",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "from",
+      "l": "from",
+      "k": "known"
+     },
+     {
+      "w": "overseas",
+      "l": "overseas",
+      "k": "core"
+     },
+     {
+      "w": "meet",
+      "l": "meet",
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "new",
+      "l": "new",
+      "k": "known"
+     },
+     {
+      "w": "barrier",
+      "nsp": 1,
+      "l": "barrier",
+      "k": "core"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Shein",
+      "nsp": 1,
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "'s",
+      "k": "plain"
+     },
+     {
+      "w": "second",
+      "l": "second",
+      "k": "known"
+     },
+     {
+      "w": "tactic",
+      "l": "tactic",
+      "k": "core"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "cut",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "spending",
+      "l": "spending",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "marketing",
+      "l": "marketing",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "quarter",
+      "nsp": 1,
+      "l": "quarter",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Most",
+      "l": "most",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "cut",
+      "l": "cut",
+      "k": "known"
+     },
+     {
+      "w": "was",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "online",
+      "l": "online",
+      "k": "known"
+     },
+     {
+      "w": "advertising",
+      "nsp": 1,
+      "l": "advertising",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "sacrificed",
+      "l": "sacrifice",
+      "k": "core"
+     },
+     {
+      "w": "marketing",
+      "l": "marketing",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "protect",
+      "l": "protect",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "nsp": 1,
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "So",
+      "l": "so",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "up",
+      "l": "go up",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "while",
+      "l": "while",
+      "k": "known"
+     },
+     {
+      "w": "sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "went",
+      "l": "go",
+      "k": "known"
+     },
+     {
+      "w": "down",
+      "nsp": 1,
+      "l": "down",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Operating",
+      "l": "operate",
+      "k": "known"
+     },
+     {
+      "w": "profit",
+      "l": "profit",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "17",
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": "percent",
+      "l": "percent",
+      "k": "known"
+     },
+     {
+      "w": "compared",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "compared with",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "a",
+      "l": "a",
+      "k": "known"
+     },
+     {
+      "w": "year",
+      "l": "year",
+      "k": "known"
+     },
+     {
+      "w": "earlier",
+      "nsp": 1,
+      "l": "early",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "743",
+      "k": "plain",
+      "fig": "f14"
+     },
+     {
+      "w": "million",
+      "l": "million",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "In",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "words",
+      "nsp": 1,
+      "l": "in other words",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Shein",
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "sacrificed",
+      "l": "sacrifice",
+      "k": "core"
+     },
+     {
+      "w": "growth",
+      "l": "growth",
+      "k": "known"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "kept",
+      "l": "keep",
+      "k": "known"
+     },
+     {
+      "w": "costs",
+      "l": "cost",
+      "k": "known"
+     },
+     {
+      "w": "low",
+      "nsp": 1,
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "sents": [
+    [
+     {
+      "w": "Xu",
+      "n": "Xu",
+      "k": "name"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "Shein",
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "growing",
+      "l": "grow",
+      "k": "known"
+     },
+     {
+      "w": "quickly",
+      "l": "quickly",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "other",
+      "l": "other",
+      "k": "known"
+     },
+     {
+      "w": "regions",
+      "nsp": 1,
+      "l": "region",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "especially",
+      "l": "especially",
+      "k": "known"
+     },
+     {
+      "w": "Latin",
+      "n": "Latin America",
+      "k": "name"
+     },
+     {
+      "w": "America",
+      "nsp": 1,
+      "n": "Latin America",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Because",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "because of",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "this",
+      "nsp": 1,
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "company",
+      "l": "company",
+      "k": "known"
+     },
+     {
+      "w": "relies",
+      "l": "rely",
+      "k": "core"
+     },
+     {
+      "w": "less",
+      "l": "less",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "Europe",
+      "n": "Europe",
+      "k": "name"
+     },
+     {
+      "w": "and",
+      "l": "and",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "United",
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": "States",
+      "nsp": 1,
+      "n": "United States",
+      "k": "name"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Sales",
+      "l": "sale",
+      "k": "known"
+     },
+     {
+      "w": "in",
+      "l": "in",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "rest",
+      "l": "rest",
+      "k": "known"
+     },
+     {
+      "w": "of",
+      "l": "of",
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "the",
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "l": "world",
+      "k": "known"
+     },
+     {
+      "w": "rose",
+      "l": "rise",
+      "k": "known"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "4.2",
+      "k": "plain",
+      "fig": "f16"
+     },
+     {
+      "w": "billion",
+      "l": "billion",
+      "k": "known"
+     },
+     {
+      "w": "dollars",
+      "nsp": 1,
+      "l": "dollar",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "Xu",
+      "n": "Xu",
+      "k": "name"
+     },
+     {
+      "w": "also",
+      "l": "also",
+      "k": "known"
+     },
+     {
+      "w": "said",
+      "l": "say",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "people",
+      "l": "people",
+      "k": "known"
+     },
+     {
+      "w": "around",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "the",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "world",
+      "l": "around the world",
+      "ph": 1,
+      "k": "known"
+     },
+     {
+      "w": "are",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "becoming",
+      "l": "become",
+      "k": "known"
+     },
+     {
+      "w": "more",
+      "l": "more",
+      "k": "known"
+     },
+     {
+      "w": "careful",
+      "l": "careful",
+      "k": "known"
+     },
+     {
+      "w": "with",
+      "l": "with",
+      "k": "known"
+     },
+     {
+      "w": "their",
+      "l": "their",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "For",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "that",
+      "l": "that",
+      "k": "known"
+     },
+     {
+      "w": "reason",
+      "nsp": 1,
+      "l": "reason",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "Xu",
+      "n": "Xu",
+      "k": "name"
+     },
+     {
+      "w": "added",
+      "nsp": 1,
+      "l": "add",
+      "k": "known"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "it",
+      "l": "it",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "still",
+      "l": "still",
+      "k": "known"
+     },
+     {
+      "w": "crucial",
+      "l": "crucial",
+      "k": "core"
+     },
+     {
+      "w": "to",
+      "l": "to",
+      "k": "known"
+     },
+     {
+      "w": "offer",
+      "l": "offer",
+      "k": "known"
+     },
+     {
+      "w": "good",
+      "l": "good",
+      "k": "known"
+     },
+     {
+      "w": "value",
+      "l": "value",
+      "k": "known"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "money",
+      "nsp": 1,
+      "l": "money",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ],
+    [
+     {
+      "w": "This",
+      "l": "this",
+      "k": "known"
+     },
+     {
+      "w": "is",
+      "l": "be",
+      "k": "known"
+     },
+     {
+      "w": "crucial",
+      "l": "crucial",
+      "k": "core"
+     },
+     {
+      "w": "for",
+      "l": "for",
+      "k": "known"
+     },
+     {
+      "w": "Shein",
+      "nsp": 1,
+      "n": "Shein",
+      "k": "name"
+     },
+     {
+      "w": ",",
+      "k": "plain"
+     },
+     {
+      "w": "because",
+      "l": "because",
+      "k": "known"
+     },
+     {
+      "w": "its",
+      "l": "its",
+      "k": "known"
+     },
+     {
+      "w": "business",
+      "l": "business",
+      "k": "known"
+     },
+     {
+      "w": "relies",
+      "l": "rely",
+      "k": "core"
+     },
+     {
+      "w": "heavily",
+      "l": "heavily",
+      "k": "known"
+     },
+     {
+      "w": "on",
+      "l": "on",
+      "k": "known"
+     },
+     {
+      "w": "low",
+      "l": "low",
+      "k": "known"
+     },
+     {
+      "w": "prices",
+      "nsp": 1,
+      "l": "price",
+      "k": "known"
+     },
+     {
+      "w": ".",
+      "k": "plain"
+     }
+    ]
+   ]
+  }
+ ],
+ "dict": {
+  "european": {
+   "ipa": "ˌjʊrəˈpiən",
+   "pos": "name",
+   "en": "of Europe or from Europe",
+   "vi": "thuộc châu Âu; người châu Âu",
+   "band": 1
+  },
+  "impose": {
+   "ipa": "ˌɪmˈpoʊz",
+   "pos": "v",
+   "en": "to make people pay or follow something by law",
+   "vi": "áp đặt, đánh (thuế, phí)",
+   "band": 4
+  },
+  "seller": {
+   "ipa": "ˈsɛlɚ",
+   "pos": "n",
+   "en": "a person or company that sells something",
+   "vi": "người bán, bên bán",
+   "band": 6
+  },
+  "export": {
+   "ipa": "ˈɛkspɔrt",
+   "pos": "v",
+   "en": "to sell and send goods to another country; goods sent this way",
+   "vi": "xuất khẩu; hàng xuất khẩu",
+   "band": 4
+  },
+  "tactic": {
+   "ipa": "ˈtæktɪk",
+   "pos": "n",
+   "en": "a way of doing something that you plan to reach a goal",
+   "vi": "chiến thuật, cách làm",
+   "band": 4
+  },
+  "as a result": {
+   "ipa": "æz ə rɪˈzʌlt",
+   "pos": "phr",
+   "en": "because of the thing that just happened",
+   "vi": "kết quả là, do đó",
+   "band": 1
+  },
+  "uncertain": {
+   "ipa": "ənˈsɝtən",
+   "pos": "adj",
+   "en": "not known or not sure",
+   "vi": "không chắc chắn, bấp bênh",
+   "band": 5
+  },
+  "no longer": {
+   "ipa": "noʊ ˈlɔŋɡɚ",
+   "pos": "phr",
+   "en": "not now, although it was true before",
+   "vi": "không còn nữa"
+  },
+  "head": {
+   "ipa": "hɛd",
+   "pos": "n",
+   "en": "the person who leads a company or group",
+   "vi": "người đứng đầu; cái đầu",
+   "band": 1
+  },
+  "might": {
+   "ipa": "maɪt",
+   "pos": "aux",
+   "en": "used to say that something is possible",
+   "vi": "có thể, có lẽ",
+   "band": 1
+  },
+  "storage": {
+   "ipa": "ˈstɔrədʒ",
+   "pos": "n",
+   "en": "keeping things in a place until they are needed",
+   "vi": "sự lưu kho, kho chứa",
+   "band": 2
+  },
+  "swift": {
+   "ipa": "swɪft",
+   "pos": "adj",
+   "en": "very fast",
+   "vi": "nhanh chóng",
+   "band": 4
+  },
+  "push": {
+   "ipa": "pʊʃ",
+   "pos": "v",
+   "en": "to make someone do something; to move something away with your hands",
+   "vi": "thúc ép, buộc; đẩy",
+   "band": 2
+  },
+  "compete": {
+   "ipa": "kəmˈpit",
+   "pos": "v",
+   "en": "to try to win or do better than others",
+   "vi": "cạnh tranh",
+   "band": 3
+  },
+  "permit": {
+   "ipa": "pɚˈmɪt",
+   "pos": "v",
+   "en": "to let something happen or let someone do something",
+   "vi": "cho phép",
+   "band": 4
+  },
+  "cancel": {
+   "ipa": "ˈkænsəl",
+   "pos": "v",
+   "en": "to decide that something will not happen or continue",
+   "vi": "hủy bỏ",
+   "band": 4
+  },
+  "nothing": {
+   "ipa": "ˈnʌθɪŋ",
+   "pos": "pron",
+   "en": "not any thing",
+   "vi": "không có gì",
+   "band": 1
+  },
+  "advertising": {
+   "ipa": "ˈædvɚˌtaɪzɪŋ",
+   "pos": "n",
+   "en": "the work of telling people about things so they will buy them",
+   "vi": "quảng cáo (ngành, hoạt động)",
+   "band": 3
+  },
+  "sacrifice": {
+   "ipa": "ˈsækrəˌfaɪs",
+   "pos": "v",
+   "en": "to give up something important to get something else",
+   "vi": "hy sinh, chấp nhận bỏ",
+   "band": 4
+  },
+  "protect": {
+   "ipa": "prəˈtɛkt",
+   "pos": "v",
+   "en": "to keep someone or something safe",
+   "vi": "bảo vệ",
+   "band": 2
+  },
+  "especially": {
+   "ipa": "əˈspɛʃli",
+   "pos": "adv",
+   "en": "more than others; very much",
+   "vi": "đặc biệt là, nhất là",
+   "band": 1
+  },
+  "rely": {
+   "ipa": "rɪˈlaɪ",
+   "pos": "v",
+   "en": "to need someone or something to do well",
+   "vi": "dựa vào, phụ thuộc vào",
+   "band": 4
+  },
+  "heavily": {
+   "ipa": "ˈhɛvəli",
+   "pos": "adv",
+   "en": "a lot; very much",
+   "vi": "rất nhiều, nặng nề",
+   "band": 3
+  }
+ },
+ "names": {
+  "Shein": {
+   "vi": "hãng thời trang giá rẻ bán qua mạng, gốc Trung Quốc"
+  },
+  "Europe": {
+   "vi": "châu Âu"
+  },
+  "European Union": {
+   "vi": "Liên minh châu Âu (EU)"
+  },
+  "EU": {
+   "vi": "Liên minh châu Âu (viết tắt của European Union)"
+  },
+  "Reuters": {
+   "vi": "hãng thông tấn quốc tế"
+  },
+  "United States": {
+   "vi": "nước Mỹ"
+  },
+  "Sky Xu": {
+   "vi": "tổng giám đốc (CEO) của Shein"
+  },
+  "Xu": {
+   "vi": "Sky Xu, tổng giám đốc của Shein"
+  },
+  "H&M": {
+   "vi": "hãng thời trang bình dân của Thụy Điển"
+  },
+  "Zara": {
+   "vi": "hãng thời trang của Tây Ban Nha"
+  },
+  "Latin America": {
+   "vi": "Mỹ Latinh (Trung và Nam Mỹ)"
+  }
+ }
+}
